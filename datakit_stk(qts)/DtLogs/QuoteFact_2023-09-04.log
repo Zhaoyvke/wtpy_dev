@@ -1,0 +1,105 @@
+[2023.09.04 10:21:55 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:17
+[2023.09.04 10:21:55 - info ] 0 parsers started
+[2023.09.04 10:33:33 - info ] Trading sessions loaded
+[2023.09.04 10:33:33 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/sopt_comms.json loaded
+[2023.09.04 10:33:33 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/etf_comms.json loaded
+[2023.09.04 10:33:33 - warning] No session configured for INE.ec
+[2023.09.04 10:33:33 - warning] No session configured for SHFE.ao
+[2023.09.04 10:33:33 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/commodities.json loaded
+[2023.09.04 10:33:33 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/fopt_comms.json loaded
+[2023.09.04 10:33:33 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/stk_options.json loaded, 2 exchanges
+[2023.09.04 10:33:33 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/etfs.json loaded, 2 exchanges
+[2023.09.04 10:33:33 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.09.04 10:33:33 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.09.04 10:33:33 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.09.04 10:33:33 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.09.04 10:33:33 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.09.04 10:33:33 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.09.04 10:33:33 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/contracts.json loaded, 8 exchanges
+[2023.09.04 10:33:33 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/fut_options.json loaded, 8 exchanges
+[2023.09.04 10:33:33 - info ] Holidays loaded
+[2023.09.04 10:33:34 - info ] Data storage module D:/Miniconda/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.04 10:33:34 - info ] WtDataWriter initialized, root dir: ./STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false
+[2023.09.04 10:33:34 - info ] Reading parser config from tdparsers.yaml...
+[2023.09.04 10:33:34 - info ] [parser2] Parser module ParserUDP.dll loaded
+[2023.09.04 10:33:34 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:17
+[2023.09.04 10:33:34 - info ] 0 parsers started
+[2023.09.04 10:33:34 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data
+[2023.09.04 11:14:47 - info ] Trading sessions loaded
+[2023.09.04 11:14:47 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/sopt_comms.json loaded
+[2023.09.04 11:14:47 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/etf_comms.json loaded
+[2023.09.04 11:14:47 - warning] No session configured for INE.ec
+[2023.09.04 11:14:47 - warning] No session configured for SHFE.ao
+[2023.09.04 11:14:47 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/commodities.json loaded
+[2023.09.04 11:14:47 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/fopt_comms.json loaded
+[2023.09.04 11:14:47 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/stk_options.json loaded, 2 exchanges
+[2023.09.04 11:14:47 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/etfs.json loaded, 2 exchanges
+[2023.09.04 11:14:47 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.09.04 11:14:47 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.09.04 11:14:47 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.09.04 11:14:47 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.09.04 11:14:47 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.09.04 11:14:47 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.09.04 11:14:47 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/contracts.json loaded, 8 exchanges
+[2023.09.04 11:14:47 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/fut_options.json loaded, 8 exchanges
+[2023.09.04 11:14:47 - info ] Holidays loaded
+[2023.09.04 11:14:47 - info ] Data storage module D:/Miniconda/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.04 11:14:47 - info ] WtDataWriter initialized, root dir: ./STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false
+[2023.09.04 11:14:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.09.04 11:14:47 - info ] [parser2] Parser module ParserUDP.dll loaded
+[2023.09.04 11:14:47 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:17
+[2023.09.04 11:14:47 - info ] 0 parsers started
+[2023.09.04 11:14:47 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data
+[2023.09.04 11:22:11 - info ] Trading sessions loaded
+[2023.09.04 11:22:11 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/sopt_comms.json loaded
+[2023.09.04 11:22:11 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/etf_comms.json loaded
+[2023.09.04 11:22:11 - warning] No session configured for INE.ec
+[2023.09.04 11:22:11 - warning] No session configured for SHFE.ao
+[2023.09.04 11:22:11 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/commodities.json loaded
+[2023.09.04 11:22:11 - info ] Commodities configuration file E:/wondertrader/src/TestParser/common/fopt_comms.json loaded
+[2023.09.04 11:22:11 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/stk_options.json loaded, 2 exchanges
+[2023.09.04 11:22:11 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/etfs.json loaded, 2 exchanges
+[2023.09.04 11:22:11 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.09.04 11:22:11 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.09.04 11:22:11 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.09.04 11:22:11 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.09.04 11:22:11 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.09.04 11:22:11 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.09.04 11:22:11 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/contracts.json loaded, 8 exchanges
+[2023.09.04 11:22:11 - info ] Contracts configuration file E:/wondertrader/src/TestParser/common/fut_options.json loaded, 8 exchanges
+[2023.09.04 11:22:11 - info ] Holidays loaded
+[2023.09.04 11:22:11 - info ] Data storage module D:/Miniconda/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.04 11:22:11 - info ] WtDataWriter initialized, root dir: ./STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false
+[2023.09.04 11:22:11 - info ] Reading parser config from tdparsers.yaml...
+[2023.09.04 11:22:11 - info ] [parser2] Parser module ParserUDP.dll loaded
+[2023.09.04 11:22:11 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:17
+[2023.09.04 11:22:11 - info ] 0 parsers started
+[2023.09.04 11:22:11 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data
+[2023.09.04 11:31:00 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] paused receiving data

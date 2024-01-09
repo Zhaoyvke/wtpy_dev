@@ -1,0 +1,20 @@
+[2023.07.25 17:49:22 - info ] WonderTrader CTA backtest framework initialzied, version: X64 v0.9.7 Build@Apr  4 2023 10:13:23
+[2023.07.25 17:49:22 - debug] Back data storage module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.07.25 17:49:22 - info ] WtBtDtReader initialized, root data dir is ./storage/
+[2023.07.25 17:49:22 - info ] Backtest time range is set to be [201010090930,201010211500] via config
+[2023.07.25 17:49:22 - info ] Tick data replaying is disabled
+[2023.07.25 17:49:22 - info ] adjust_flag is 0
+[2023.07.25 17:49:22 - info ] Commodities configuration file ./commodities_stk.json loaded
+[2023.07.25 17:49:23 - info ] Contracts configuration file ./contracts_stk.json loaded, 2 exchanges
+[2023.07.25 17:49:23 - info ] 38 items of fees template loaded
+[2023.07.25 17:49:23 - info ] Backtesting will run in sync mode
+[2023.07.25 17:49:23 - debug] Calculating hook disabled
+[2023.07.25 17:49:23 - info ] CTA Strategy initialized, with slippage: 0
+[2023.07.25 17:49:23 - warning] Back min1 data file ./storage/his/min1/SSE/115001.dsb not exists
+[2023.07.25 17:49:23 - warning] Loading min1 bars of SSE.BOND.115001 via HisDtMgr failed
+[2023.07.25 17:49:23 - info ] DualThrust inited
+[2023.07.25 17:49:23 - info ] Start to replay back data from 201010090930...
+[2023.07.25 17:49:23 - error] No back data initialized, replaying canceled
+[2023.07.25 17:49:23 - debug] Tradingday 20101011 ends
+[2023.07.25 17:49:23 - info ] Strategy has been scheduled for 0 times
+[2023.07.25 17:49:23 - debug] Notify strategy the end of backtest

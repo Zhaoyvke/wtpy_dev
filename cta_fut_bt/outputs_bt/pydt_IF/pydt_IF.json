@@ -1,0 +1,31 @@
+{
+    "positions": [
+        {
+            "code": "CFFEX.IF.HOT",
+            "volume": 0.0,
+            "closeprofit": 4979.999999999978,
+            "dynprofit": 0.0,
+            "lastentertime": 201910311455,
+            "lastexittime": 201910311500,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": 4979.999999999978,
+        "total_dynprofit": 0.0,
+        "total_fees": 151960.03999999996,
+        "tdate": 20191031
+    },
+    "signals": {
+        "CFFEX.IF.HOT": {
+            "usertag": "enterlong",
+            "volume": 1.0,
+            "sigprice": 3879.0,
+            "gentime": 20191031150000000
+        }
+    },
+    "conditions": {
+        "settime": 201910311500,
+        "items": {}
+    }
+}

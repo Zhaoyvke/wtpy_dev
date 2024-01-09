@@ -1,0 +1,19 @@
+executers:
+-   active: false
+    clear:
+        active: false
+    id: exec_wz50_nhqh
+    name: diff
+    policy:
+        default:
+            byrate: true
+            expire: 5
+            lots: 1
+            name: WtExeFact.WtDiffMinImpactExeUnit
+            offset: 0
+            pricemode: 1
+            rate: 0.2
+            span: 500
+    poolsize: 1
+    scale: 1
+    trader: wz50_nhqh

@@ -1,0 +1,215 @@
+[2023.12.14 11:01:27 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 11:01:27 - info ] Trading sessions loaded
+[2023.12.14 11:01:27 - warning] No session configured for CFFEX.TL
+[2023.12.14 11:01:27 - warning] No session configured for CZCE.PX
+[2023.12.14 11:01:27 - warning] No session configured for CZCE.SH
+[2023.12.14 11:01:27 - warning] No session configured for GFEX.lc
+[2023.12.14 11:01:27 - warning] No session configured for GFEX.si
+[2023.12.14 11:01:27 - warning] No session configured for INE.ec
+[2023.12.14 11:01:27 - warning] No session configured for SHFE.ao
+[2023.12.14 11:01:27 - warning] No session configured for SHFE.br
+[2023.12.14 11:01:27 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 11:01:27 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 11:01:27 - info ] Holidays loaded
+[2023.12.14 11:01:27 - info ] Hot rules loaded
+[2023.12.14 11:01:27 - info ] Trading environment initialized, engine name: HFT
+[2023.12.14 11:01:27 - info ] Running mode: Production
+[2023.12.14 11:01:27 - debug] Filters configuration file filters.yaml not exists
+[2023.12.14 11:01:27 - info ] 0 fee templates loaded
+[2023.12.14 11:01:27 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.14 11:01:27 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 11:01:27 - info ] Force to cache bars: yes
+[2023.12.14 11:01:27 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 11:01:27 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 11:01:27 - info ] Data manager initialized
+[2023.12.14 11:01:27 - info ] Action policies initialized
+[2023.12.14 11:01:27 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 11:01:27 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 11:01:27 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 11:01:27 - info ] 1 parsers loaded
+[2023.12.14 11:01:27 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 11:01:27 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 11:01:27 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 11:01:27 - info ] 1 traders loaded
+[2023.12.14 11:01:27 - error] Trader simnow not exists, Binding trader to HFT strategy failed
+[2023.12.14 11:01:27 - info ] 1 parsers started
+[2023.12.14 11:01:27 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 11:01:27 - info ] 1 trading channels started
+[2023.12.14 11:01:27 - info ] Market Data subscribed: CFFEX.IF.HOT
+[2023.12.14 11:01:27 - info ] Trading day 20231214 begun
+[2023.12.14 11:03:47 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 11:03:47 - info ] Trading sessions loaded
+[2023.12.14 11:03:47 - warning] No session configured for CFFEX.TL
+[2023.12.14 11:03:47 - warning] No session configured for CZCE.PX
+[2023.12.14 11:03:47 - warning] No session configured for CZCE.SH
+[2023.12.14 11:03:47 - warning] No session configured for GFEX.lc
+[2023.12.14 11:03:47 - warning] No session configured for GFEX.si
+[2023.12.14 11:03:47 - warning] No session configured for INE.ec
+[2023.12.14 11:03:47 - warning] No session configured for SHFE.ao
+[2023.12.14 11:03:47 - warning] No session configured for SHFE.br
+[2023.12.14 11:03:47 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 11:03:47 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 11:03:47 - info ] Holidays loaded
+[2023.12.14 11:03:47 - info ] Hot rules loaded
+[2023.12.14 11:03:47 - info ] Trading environment initialized, engine name: HFT
+[2023.12.14 11:03:47 - info ] Running mode: Production
+[2023.12.14 11:03:47 - debug] Filters configuration file filters.yaml not exists
+[2023.12.14 11:03:47 - info ] 0 fee templates loaded
+[2023.12.14 11:03:47 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.14 11:03:47 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 11:03:47 - info ] Force to cache bars: yes
+[2023.12.14 11:03:47 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 11:03:47 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 11:03:47 - info ] Data manager initialized
+[2023.12.14 11:03:47 - info ] Action policies initialized
+[2023.12.14 11:03:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 11:03:47 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 11:03:47 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 11:03:47 - info ] 1 parsers loaded
+[2023.12.14 11:03:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 11:03:47 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 11:03:47 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 11:03:47 - info ] 1 traders loaded
+[2023.12.14 11:03:47 - info ] 1 parsers started
+[2023.12.14 11:03:47 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 11:03:47 - info ] 1 trading channels started
+[2023.12.14 11:03:47 - info ] Market Data subscribed: DCE.y.2403
+[2023.12.14 11:03:47 - info ] Trading day 20231214 begun
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1886258686, login time: 11:03:25...
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 11:03:47 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 11:03:48 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 11:03:51 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 11:05:07 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 11:05:07 - info ] Trading sessions loaded
+[2023.12.14 11:05:07 - warning] No session configured for CFFEX.TL
+[2023.12.14 11:05:07 - warning] No session configured for CZCE.PX
+[2023.12.14 11:05:07 - warning] No session configured for CZCE.SH
+[2023.12.14 11:05:07 - warning] No session configured for GFEX.lc
+[2023.12.14 11:05:07 - warning] No session configured for GFEX.si
+[2023.12.14 11:05:07 - warning] No session configured for INE.ec
+[2023.12.14 11:05:07 - warning] No session configured for SHFE.ao
+[2023.12.14 11:05:07 - warning] No session configured for SHFE.br
+[2023.12.14 11:05:07 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 11:05:07 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 11:05:07 - info ] Holidays loaded
+[2023.12.14 11:05:07 - info ] Hot rules loaded
+[2023.12.14 11:05:07 - info ] Trading environment initialized, engine name: HFT
+[2023.12.14 11:05:07 - info ] Running mode: Production
+[2023.12.14 11:05:07 - debug] Filters configuration file filters.yaml not exists
+[2023.12.14 11:05:07 - info ] 0 fee templates loaded
+[2023.12.14 11:05:07 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.14 11:05:07 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 11:05:07 - info ] Force to cache bars: yes
+[2023.12.14 11:05:07 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 11:05:07 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 11:05:07 - info ] Data manager initialized
+[2023.12.14 11:05:07 - info ] Action policies initialized
+[2023.12.14 11:05:07 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 11:05:07 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 11:05:07 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 11:05:07 - info ] 1 parsers loaded
+[2023.12.14 11:05:07 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 11:05:07 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 11:05:07 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 11:05:07 - info ] 1 traders loaded
+[2023.12.14 11:05:07 - info ] 1 parsers started
+[2023.12.14 11:05:07 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 11:05:07 - info ] 1 trading channels started
+[2023.12.14 11:05:07 - info ] Market Data subscribed: DCE.y.2403
+[2023.12.14 11:05:07 - info ] Trading day 20231214 begun
+[2023.12.14 11:05:08 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1891501577, login time: 11:04:45...
+[2023.12.14 11:05:08 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 11:05:08 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 11:05:09 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 11:05:09 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 11:05:09 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 11:05:12 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 11:06:27 - info ] Minute bar 20231214.1106 closed automatically
+[2023.12.14 11:07:27 - info ] Minute bar 20231214.1107 closed automatically
+[2023.12.14 11:08:27 - info ] Minute bar 20231214.1108 closed automatically
+[2023.12.14 11:09:27 - info ] Minute bar 20231214.1109 closed automatically
+[2023.12.14 11:10:27 - info ] Minute bar 20231214.1110 closed automatically
+[2023.12.14 11:11:27 - info ] Minute bar 20231214.1111 closed automatically
+[2023.12.14 11:12:27 - info ] Minute bar 20231214.1112 closed automatically
+[2023.12.14 11:13:27 - info ] Minute bar 20231214.1113 closed automatically
+[2023.12.14 11:14:27 - info ] Minute bar 20231214.1114 closed automatically
+[2023.12.14 11:15:27 - info ] Minute bar 20231214.1115 closed automatically
+[2023.12.14 11:16:27 - info ] Minute bar 20231214.1116 closed automatically
+[2023.12.14 11:17:27 - info ] Minute bar 20231214.1117 closed automatically
+[2023.12.14 11:18:26 - info ] Minute bar 20231214.1118 closed automatically
+[2023.12.14 11:19:26 - info ] Minute bar 20231214.1119 closed automatically
+[2023.12.14 11:20:26 - info ] Minute bar 20231214.1120 closed automatically
+[2023.12.14 11:21:26 - info ] Minute bar 20231214.1121 closed automatically
+[2023.12.14 11:22:26 - info ] Minute bar 20231214.1122 closed automatically
+[2023.12.14 11:23:27 - info ] Minute bar 20231214.1123 closed automatically
+[2023.12.14 11:24:27 - info ] Minute bar 20231214.1124 closed automatically
+[2023.12.14 11:25:27 - info ] Minute bar 20231214.1125 closed automatically
+[2023.12.14 11:26:27 - info ] Minute bar 20231214.1126 closed automatically
+[2023.12.14 11:26:53 - info ] 理论价格0.000000，最新价：7358.000000
+[2023.12.14 11:26:53 - info ] 出现反向信号
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] Selling DCE.y.2403 of quantity 1
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] DCE.y.2403 qty of undone order updated, 0 -> -1
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] Signal of selling DCE.y.2403 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.14 11:26:53 - debug] [zhongxinFUT] Order notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, state: Smtting
+[2023.12.14 11:26:53 - debug] [zhongxinFUT] Order notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, state: UnTrd
+[2023.12.14 11:26:53 - debug] [zhongxinFUT] Order notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, state: AllTrd
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] Trade notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, trdqty: 1, trdprice: 7358
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] DCE.y.2403 position updated, long:0[0]|0[0], short:0[0]|1[1]
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] DCE.y.2403 qty of undone order updated, -1 -> 0
+[2023.12.14 11:26:53 - info ] Target position updated: 0 -> -1
+[2023.12.14 11:27:27 - info ] Minute bar 20231214.1127 closed automatically
+[2023.12.14 11:28:26 - info ] Minute bar 20231214.1128 closed automatically
+[2023.12.14 11:29:27 - info ] Minute bar 20231214.1129 closed automatically
+[2023.12.14 11:30:27 - info ] Minute Bar 20231214.1130 Closed by data
+[2023.12.14 11:31:26 - info ] Minute bar 20231214.1301 closed automatically
+[2023.12.14 13:31:27 - info ] Minute bar 20231214.1331 closed automatically
+[2023.12.14 13:32:27 - info ] Minute bar 20231214.1332 closed automatically
+[2023.12.14 13:33:27 - info ] Minute bar 20231214.1333 closed automatically
+[2023.12.14 13:34:27 - info ] Minute bar 20231214.1334 closed automatically
+[2023.12.14 13:35:26 - info ] Minute bar 20231214.1335 closed automatically
+[2023.12.14 13:36:26 - info ] Minute bar 20231214.1336 closed automatically
+[2023.12.14 13:37:27 - info ] Minute bar 20231214.1337 closed automatically
+[2023.12.14 13:38:27 - info ] Minute bar 20231214.1338 closed automatically
+[2023.12.14 13:39:27 - info ] Minute bar 20231214.1339 closed automatically
+[2023.12.14 13:40:26 - info ] Minute bar 20231214.1340 closed automatically
+[2023.12.14 13:41:27 - info ] Minute bar 20231214.1341 closed automatically
+[2023.12.14 13:42:27 - info ] Minute bar 20231214.1342 closed automatically
+[2023.12.14 13:43:21 - info ] 理论价格0.000000，最新价：7358.000000
+[2023.12.14 13:43:21 - info ] 出现反向信号
+[2023.12.14 13:43:27 - info ] Minute bar 20231214.1343 closed automatically
+[2023.12.14 13:44:26 - info ] Minute bar 20231214.1344 closed automatically
+[2023.12.14 13:45:26 - info ] Minute bar 20231214.1345 closed automatically
+[2023.12.14 13:46:26 - info ] Minute bar 20231214.1346 closed automatically
+[2023.12.14 13:47:26 - info ] Minute bar 20231214.1347 closed automatically
+[2023.12.14 13:48:27 - info ] Minute bar 20231214.1348 closed automatically
+[2023.12.14 13:49:26 - info ] Minute bar 20231214.1349 closed automatically
+[2023.12.14 13:50:26 - info ] Minute bar 20231214.1350 closed automatically
+[2023.12.14 13:51:27 - info ] Minute bar 20231214.1351 closed automatically
+[2023.12.14 13:52:26 - info ] Minute bar 20231214.1352 closed automatically
+[2023.12.14 13:53:27 - info ] Minute bar 20231214.1353 closed automatically
+[2023.12.14 13:54:27 - info ] Minute bar 20231214.1354 closed automatically
+[2023.12.14 13:55:27 - info ] Minute bar 20231214.1355 closed automatically
+[2023.12.14 13:56:27 - info ] Minute bar 20231214.1356 closed automatically
+[2023.12.14 13:58:27 - info ] Minute bar 20231214.1358 closed automatically
+[2023.12.14 13:59:26 - info ] Minute bar 20231214.1359 closed automatically
+[2023.12.14 14:00:26 - info ] Minute bar 20231214.1400 closed automatically
+[2023.12.14 14:01:27 - info ] Minute bar 20231214.1401 closed automatically
+[2023.12.14 14:02:26 - info ] Minute bar 20231214.1402 closed automatically
+[2023.12.14 14:03:27 - info ] Minute bar 20231214.1403 closed automatically
+[2023.12.14 14:04:27 - info ] Minute bar 20231214.1404 closed automatically
+[2023.12.14 14:06:26 - info ] Minute bar 20231214.1406 closed automatically
+[2023.12.14 14:09:27 - info ] Minute bar 20231214.1409 closed automatically
+[2023.12.14 14:10:27 - info ] Minute bar 20231214.1410 closed automatically
+[2023.12.14 14:11:27 - info ] Minute bar 20231214.1411 closed automatically
+[2023.12.14 14:12:27 - info ] Minute bar 20231214.1412 closed automatically
+[2023.12.14 14:14:27 - info ] Minute bar 20231214.1414 closed automatically
+[2023.12.14 14:15:27 - info ] Minute bar 20231214.1415 closed automatically
+[2023.12.14 14:16:27 - info ] Minute bar 20231214.1416 closed automatically
+[2023.12.14 14:17:27 - info ] Minute bar 20231214.1417 closed automatically
+[2023.12.14 14:18:26 - info ] Minute bar 20231214.1418 closed automatically
+[2023.12.14 14:19:26 - info ] Minute bar 20231214.1419 closed automatically
+[2023.12.14 14:20:27 - info ] Minute bar 20231214.1420 closed automatically
+[2023.12.14 14:21:27 - info ] Minute bar 20231214.1421 closed automatically

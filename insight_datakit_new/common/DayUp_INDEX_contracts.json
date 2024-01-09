@@ -1,0 +1,5982 @@
+{
+ "SSE": {
+  "000001": {
+   "name": "上证指数",
+   "code": "000001",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000002": {
+   "name": "A股指数",
+   "code": "000002",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000003": {
+   "name": "B股指数",
+   "code": "000003",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000004": {
+   "name": "工业指数",
+   "code": "000004",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000005": {
+   "name": "商业指数",
+   "code": "000005",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000006": {
+   "name": "地产指数",
+   "code": "000006",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000007": {
+   "name": "公用指数",
+   "code": "000007",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000008": {
+   "name": "综合指数",
+   "code": "000008",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000009": {
+   "name": "上证380",
+   "code": "000009",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000010": {
+   "name": "上证180",
+   "code": "000010",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000011": {
+   "name": "基金指数",
+   "code": "000011",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000012": {
+   "name": "国债指数",
+   "code": "000012",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000013": {
+   "name": "企债指数",
+   "code": "000013",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000015": {
+   "name": "红利指数",
+   "code": "000015",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000016": {
+   "name": "上证50",
+   "code": "000016",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000017": {
+   "name": "新综指",
+   "code": "000017",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000018": {
+   "name": "180金融",
+   "code": "000018",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000019": {
+   "name": "治理指数",
+   "code": "000019",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000020": {
+   "name": "中型综指",
+   "code": "000020",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000021": {
+   "name": "180治理",
+   "code": "000021",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000022": {
+   "name": "沪公司债",
+   "code": "000022",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000023": {
+   "name": "沪分离债",
+   "code": "000023",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000025": {
+   "name": "180基建",
+   "code": "000025",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000026": {
+   "name": "180资源",
+   "code": "000026",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000027": {
+   "name": "180运输",
+   "code": "000027",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000028": {
+   "name": "180成长",
+   "code": "000028",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000029": {
+   "name": "180价值",
+   "code": "000029",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000030": {
+   "name": "180R成长",
+   "code": "000030",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000031": {
+   "name": "180R价值",
+   "code": "000031",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000032": {
+   "name": "上证能源",
+   "code": "000032",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000033": {
+   "name": "上证材料",
+   "code": "000033",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000034": {
+   "name": "上证工业",
+   "code": "000034",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000035": {
+   "name": "上证可选",
+   "code": "000035",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000036": {
+   "name": "上证消费",
+   "code": "000036",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000037": {
+   "name": "上证医药",
+   "code": "000037",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000038": {
+   "name": "上证金融",
+   "code": "000038",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000039": {
+   "name": "上证信息",
+   "code": "000039",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000040": {
+   "name": "上证通信",
+   "code": "000040",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000041": {
+   "name": "上证公用",
+   "code": "000041",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000042": {
+   "name": "上证央企",
+   "code": "000042",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000043": {
+   "name": "超大盘",
+   "code": "000043",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000044": {
+   "name": "上证中盘",
+   "code": "000044",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000045": {
+   "name": "上证小盘",
+   "code": "000045",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000046": {
+   "name": "上证中小",
+   "code": "000046",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000047": {
+   "name": "上证全指",
+   "code": "000047",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000048": {
+   "name": "责任指数",
+   "code": "000048",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000049": {
+   "name": "上证民企",
+   "code": "000049",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000050": {
+   "name": "50等权",
+   "code": "000050",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000051": {
+   "name": "180等权",
+   "code": "000051",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000052": {
+   "name": "50基本",
+   "code": "000052",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000053": {
+   "name": "180基本",
+   "code": "000053",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000054": {
+   "name": "上证海外",
+   "code": "000054",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000055": {
+   "name": "上证地企",
+   "code": "000055",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000056": {
+   "name": "上证国企",
+   "code": "000056",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000057": {
+   "name": "全指成长",
+   "code": "000057",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000058": {
+   "name": "全指价值",
+   "code": "000058",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000059": {
+   "name": "全R成长",
+   "code": "000059",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000060": {
+   "name": "全R价值",
+   "code": "000060",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000061": {
+   "name": "沪企债30",
+   "code": "000061",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000062": {
+   "name": "上证沪企",
+   "code": "000062",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000063": {
+   "name": "上证周期",
+   "code": "000063",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000064": {
+   "name": "非周期",
+   "code": "000064",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000065": {
+   "name": "上证龙头",
+   "code": "000065",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000066": {
+   "name": "上证商品",
+   "code": "000066",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000067": {
+   "name": "上证新兴",
+   "code": "000067",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000068": {
+   "name": "上证资源",
+   "code": "000068",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000069": {
+   "name": "消费80",
+   "code": "000069",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000070": {
+   "name": "能源等权",
+   "code": "000070",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000071": {
+   "name": "材料等权",
+   "code": "000071",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000072": {
+   "name": "工业等权",
+   "code": "000072",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000073": {
+   "name": "可选等权",
+   "code": "000073",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000074": {
+   "name": "消费等权",
+   "code": "000074",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000075": {
+   "name": "医药等权",
+   "code": "000075",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000076": {
+   "name": "金融等权",
+   "code": "000076",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000077": {
+   "name": "信息等权",
+   "code": "000077",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000078": {
+   "name": "通信等权",
+   "code": "000078",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000079": {
+   "name": "公用等权",
+   "code": "000079",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000090": {
+   "name": "上证流通",
+   "code": "000090",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000091": {
+   "name": "沪财中小",
+   "code": "000091",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000092": {
+   "name": "资源50",
+   "code": "000092",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000093": {
+   "name": "180分层",
+   "code": "000093",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000094": {
+   "name": "上证上游",
+   "code": "000094",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000095": {
+   "name": "上证中游",
+   "code": "000095",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000096": {
+   "name": "上证下游",
+   "code": "000096",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000097": {
+   "name": "高端装备",
+   "code": "000097",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000098": {
+   "name": "上证F200",
+   "code": "000098",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000099": {
+   "name": "上证F300",
+   "code": "000099",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000100": {
+   "name": "上证F500",
+   "code": "000100",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000101": {
+   "name": "5年信用",
+   "code": "000101",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000102": {
+   "name": "沪投资品",
+   "code": "000102",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000103": {
+   "name": "沪消费品",
+   "code": "000103",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000104": {
+   "name": "380能源",
+   "code": "000104",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000105": {
+   "name": "380材料",
+   "code": "000105",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000106": {
+   "name": "380工业",
+   "code": "000106",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000107": {
+   "name": "380可选",
+   "code": "000107",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000108": {
+   "name": "380消费",
+   "code": "000108",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000109": {
+   "name": "380医药",
+   "code": "000109",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000110": {
+   "name": "380金融",
+   "code": "000110",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000111": {
+   "name": "380信息",
+   "code": "000111",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000112": {
+   "name": "380通信",
+   "code": "000112",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000113": {
+   "name": "380公用",
+   "code": "000113",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000114": {
+   "name": "持续产业",
+   "code": "000114",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000115": {
+   "name": "380等权",
+   "code": "000115",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000116": {
+   "name": "信用100",
+   "code": "000116",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000117": {
+   "name": "380成长",
+   "code": "000117",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000118": {
+   "name": "380价值",
+   "code": "000118",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000119": {
+   "name": "380R成长",
+   "code": "000119",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000120": {
+   "name": "380R价值",
+   "code": "000120",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000121": {
+   "name": "医药主题",
+   "code": "000121",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000122": {
+   "name": "上证农业",
+   "code": "000122",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000123": {
+   "name": "180动态",
+   "code": "000123",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000124": {
+   "name": "100等权",
+   "code": "000124",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000125": {
+   "name": "180稳定",
+   "code": "000125",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000126": {
+   "name": "消费50",
+   "code": "000126",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000128": {
+   "name": "380基本",
+   "code": "000128",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000129": {
+   "name": "180波动",
+   "code": "000129",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000130": {
+   "name": "380波动",
+   "code": "000130",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000131": {
+   "name": "上证高新",
+   "code": "000131",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000132": {
+   "name": "上证100",
+   "code": "000132",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000133": {
+   "name": "上证150",
+   "code": "000133",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000134": {
+   "name": "上证银行",
+   "code": "000134",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000135": {
+   "name": "180高贝",
+   "code": "000135",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000136": {
+   "name": "180低贝",
+   "code": "000136",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000137": {
+   "name": "380高贝",
+   "code": "000137",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000138": {
+   "name": "380低贝",
+   "code": "000138",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000139": {
+   "name": "上证转债",
+   "code": "000139",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000140": {
+   "name": "5年国债",
+   "code": "000140",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000141": {
+   "name": "380动态",
+   "code": "000141",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000142": {
+   "name": "380稳定",
+   "code": "000142",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000145": {
+   "name": "优势资源",
+   "code": "000145",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000146": {
+   "name": "优势制造",
+   "code": "000146",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000147": {
+   "name": "优势消费",
+   "code": "000147",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000148": {
+   "name": "消费领先",
+   "code": "000148",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000149": {
+   "name": "180红利",
+   "code": "000149",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000150": {
+   "name": "380红利",
+   "code": "000150",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000151": {
+   "name": "上国红利",
+   "code": "000151",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000152": {
+   "name": "上央红利",
+   "code": "000152",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000153": {
+   "name": "上民红利",
+   "code": "000153",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000155": {
+   "name": "市值百强",
+   "code": "000155",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000158": {
+   "name": "上证环保",
+   "code": "000158",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000159": {
+   "name": "沪股通",
+   "code": "000159",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000160": {
+   "name": "沪新丝路",
+   "code": "000160",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000161": {
+   "name": "沪中国造",
+   "code": "000161",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000162": {
+   "name": "沪互联+",
+   "code": "000162",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000170": {
+   "name": "50AH优选",
+   "code": "000170",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000171": {
+   "name": "新兴成指",
+   "code": "000171",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000188": {
+   "name": "中国波指",
+   "code": "000188",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000300": {
+   "name": "沪深300",
+   "code": "000300",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000500": {
+   "name": "内地企业",
+   "code": "000500",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000501": {
+   "name": "中国1000",
+   "code": "000501",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000682": {
+   "name": "科创信息",
+   "code": "000682",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000683": {
+   "name": "科创生物",
+   "code": "000683",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000685": {
+   "name": "科创芯片",
+   "code": "000685",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000687": {
+   "name": "科创高装",
+   "code": "000687",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000688": {
+   "name": "科创50",
+   "code": "000688",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000689": {
+   "name": "科创材料",
+   "code": "000689",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000690": {
+   "name": "科创成长",
+   "code": "000690",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000692": {
+   "name": "科创新能",
+   "code": "000692",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000693": {
+   "name": "科创机械",
+   "code": "000693",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000695": {
+   "name": "科长三角",
+   "code": "000695",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000697": {
+   "name": "科大湾区",
+   "code": "000697",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000698": {
+   "name": "科创100",
+   "code": "000698",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000801": {
+   "name": "资源80",
+   "code": "000801",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000802": {
+   "name": "500沪市",
+   "code": "000802",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000803": {
+   "name": "300波动",
+   "code": "000803",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000804": {
+   "name": "500波动",
+   "code": "000804",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000805": {
+   "name": "A股资源",
+   "code": "000805",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000806": {
+   "name": "消费服务",
+   "code": "000806",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000807": {
+   "name": "食品饮料",
+   "code": "000807",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000808": {
+   "name": "医药生物",
+   "code": "000808",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000809": {
+   "name": "细分农业",
+   "code": "000809",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000810": {
+   "name": "细分能源",
+   "code": "000810",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000811": {
+   "name": "细分有色",
+   "code": "000811",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000812": {
+   "name": "细分机械",
+   "code": "000812",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000813": {
+   "name": "细分化工",
+   "code": "000813",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000814": {
+   "name": "细分医药",
+   "code": "000814",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000815": {
+   "name": "细分食品",
+   "code": "000815",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000816": {
+   "name": "细分地产",
+   "code": "000816",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000817": {
+   "name": "兴证海西",
+   "code": "000817",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000818": {
+   "name": "细分金融",
+   "code": "000818",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000819": {
+   "name": "有色金属",
+   "code": "000819",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000820": {
+   "name": "煤炭指数",
+   "code": "000820",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000821": {
+   "name": "300红利",
+   "code": "000821",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000822": {
+   "name": "500红利",
+   "code": "000822",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000823": {
+   "name": "800有色",
+   "code": "000823",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000824": {
+   "name": "国企红利",
+   "code": "000824",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000825": {
+   "name": "央企红利",
+   "code": "000825",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000826": {
+   "name": "民企红利",
+   "code": "000826",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000827": {
+   "name": "中证环保",
+   "code": "000827",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000828": {
+   "name": "300高贝",
+   "code": "000828",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000829": {
+   "name": "300低贝",
+   "code": "000829",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000830": {
+   "name": "500高贝",
+   "code": "000830",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000831": {
+   "name": "500低贝",
+   "code": "000831",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000832": {
+   "name": "中证转债",
+   "code": "000832",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000833": {
+   "name": "中高企债",
+   "code": "000833",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000834": {
+   "name": "价值7030",
+   "code": "000834",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000835": {
+   "name": "价值3070",
+   "code": "000835",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000836": {
+   "name": "成长7030",
+   "code": "000836",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000837": {
+   "name": "成长3070",
+   "code": "000837",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000838": {
+   "name": "创业价值",
+   "code": "000838",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000839": {
+   "name": "浙企综指",
+   "code": "000839",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000840": {
+   "name": "浙江民企",
+   "code": "000840",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000841": {
+   "name": "800医药",
+   "code": "000841",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000842": {
+   "name": "800等权",
+   "code": "000842",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000843": {
+   "name": "300动态",
+   "code": "000843",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000844": {
+   "name": "300稳定",
+   "code": "000844",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000845": {
+   "name": "中期信用",
+   "code": "000845",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000846": {
+   "name": "ESG100",
+   "code": "000846",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000847": {
+   "name": "腾讯济安",
+   "code": "000847",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000849": {
+   "name": "300非银",
+   "code": "000849",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000850": {
+   "name": "300有色",
+   "code": "000850",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000851": {
+   "name": "百发100",
+   "code": "000851",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000852": {
+   "name": "中证1000",
+   "code": "000852",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000853": {
+   "name": "CSSW丝路",
+   "code": "000853",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000854": {
+   "name": "500原料",
+   "code": "000854",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000855": {
+   "name": "央视500",
+   "code": "000855",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000856": {
+   "name": "500工业",
+   "code": "000856",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000857": {
+   "name": "500医药",
+   "code": "000857",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000858": {
+   "name": "500信息",
+   "code": "000858",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000859": {
+   "name": "国企一带一路",
+   "code": "000859",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000860": {
+   "name": "结构调整",
+   "code": "000860",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000861": {
+   "name": "央企创新",
+   "code": "000861",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000863": {
+   "name": "CS精准医",
+   "code": "000863",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000865": {
+   "name": "上海国企",
+   "code": "000865",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000867": {
+   "name": "港中小企",
+   "code": "000867",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000869": {
+   "name": "HK银行",
+   "code": "000869",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000891": {
+   "name": "新兴综指",
+   "code": "000891",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000901": {
+   "name": "小康指数",
+   "code": "000901",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000902": {
+   "name": "中证流通",
+   "code": "000902",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000903": {
+   "name": "中证100",
+   "code": "000903",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000904": {
+   "name": "中证200",
+   "code": "000904",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000905": {
+   "name": "中证500",
+   "code": "000905",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000906": {
+   "name": "中证800",
+   "code": "000906",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000907": {
+   "name": "中证700",
+   "code": "000907",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000908": {
+   "name": "300能源",
+   "code": "000908",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000909": {
+   "name": "300材料",
+   "code": "000909",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000910": {
+   "name": "300工业",
+   "code": "000910",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000911": {
+   "name": "300可选",
+   "code": "000911",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000912": {
+   "name": "300消费",
+   "code": "000912",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000913": {
+   "name": "300医药",
+   "code": "000913",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000914": {
+   "name": "300金融",
+   "code": "000914",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000915": {
+   "name": "300信息",
+   "code": "000915",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000916": {
+   "name": "300通信",
+   "code": "000916",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000917": {
+   "name": "300公用",
+   "code": "000917",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000918": {
+   "name": "300成长",
+   "code": "000918",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000919": {
+   "name": "300价值",
+   "code": "000919",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000920": {
+   "name": "300R成长",
+   "code": "000920",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000921": {
+   "name": "300R价值",
+   "code": "000921",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000922": {
+   "name": "中证红利",
+   "code": "000922",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000923": {
+   "name": "公司债指",
+   "code": "000923",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000924": {
+   "name": "分离债",
+   "code": "000924",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000925": {
+   "name": "基本面50",
+   "code": "000925",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000926": {
+   "name": "中证央企",
+   "code": "000926",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000927": {
+   "name": "央企100",
+   "code": "000927",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000928": {
+   "name": "800能源",
+   "code": "000928",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000929": {
+   "name": "800材料",
+   "code": "000929",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000930": {
+   "name": "800工业",
+   "code": "000930",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000931": {
+   "name": "800可选",
+   "code": "000931",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000932": {
+   "name": "800消费",
+   "code": "000932",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000933": {
+   "name": "800医卫",
+   "code": "000933",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000934": {
+   "name": "800金地",
+   "code": "000934",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000935": {
+   "name": "800信息",
+   "code": "000935",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000936": {
+   "name": "800通信",
+   "code": "000936",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000937": {
+   "name": "800公用",
+   "code": "000937",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000938": {
+   "name": "中证民企",
+   "code": "000938",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000939": {
+   "name": "民企成长",
+   "code": "000939",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000940": {
+   "name": "财富大盘",
+   "code": "000940",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000941": {
+   "name": "新能源",
+   "code": "000941",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000942": {
+   "name": "内地消费",
+   "code": "000942",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000943": {
+   "name": "新基建50",
+   "code": "000943",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000944": {
+   "name": "内地资源",
+   "code": "000944",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000945": {
+   "name": "内地运输",
+   "code": "000945",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000946": {
+   "name": "内地金融",
+   "code": "000946",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000947": {
+   "name": "内地银行",
+   "code": "000947",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000948": {
+   "name": "内地地产",
+   "code": "000948",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000949": {
+   "name": "中证农业",
+   "code": "000949",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000950": {
+   "name": "300基建",
+   "code": "000950",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000951": {
+   "name": "300银行",
+   "code": "000951",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000952": {
+   "name": "300地产",
+   "code": "000952",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000953": {
+   "name": "中证地企",
+   "code": "000953",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000954": {
+   "name": "地企100",
+   "code": "000954",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000955": {
+   "name": "中证国企",
+   "code": "000955",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000956": {
+   "name": "国企200",
+   "code": "000956",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000957": {
+   "name": "300运输",
+   "code": "000957",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000958": {
+   "name": "创业成长",
+   "code": "000958",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000959": {
+   "name": "银河99",
+   "code": "000959",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000960": {
+   "name": "中证龙头",
+   "code": "000960",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000961": {
+   "name": "中证上游",
+   "code": "000961",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000962": {
+   "name": "中证中游",
+   "code": "000962",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000963": {
+   "name": "中证下游",
+   "code": "000963",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000964": {
+   "name": "中证新兴",
+   "code": "000964",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000965": {
+   "name": "基本200",
+   "code": "000965",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000966": {
+   "name": "基本400",
+   "code": "000966",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000967": {
+   "name": "基本600",
+   "code": "000967",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000968": {
+   "name": "300周期",
+   "code": "000968",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000969": {
+   "name": "300非周",
+   "code": "000969",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000970": {
+   "name": "ESG40",
+   "code": "000970",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000971": {
+   "name": "等权90",
+   "code": "000971",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000972": {
+   "name": "300沪市",
+   "code": "000972",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000973": {
+   "name": "技术领先",
+   "code": "000973",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000974": {
+   "name": "800金融",
+   "code": "000974",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000975": {
+   "name": "钱江30",
+   "code": "000975",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000976": {
+   "name": "新华金牛",
+   "code": "000976",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000977": {
+   "name": "内地低碳",
+   "code": "000977",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000978": {
+   "name": "医药100",
+   "code": "000978",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000979": {
+   "name": "大宗商品",
+   "code": "000979",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000980": {
+   "name": "中证超大",
+   "code": "000980",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000981": {
+   "name": "300分层",
+   "code": "000981",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000982": {
+   "name": "500等权",
+   "code": "000982",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000983": {
+   "name": "智能资产",
+   "code": "000983",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000984": {
+   "name": "300等权",
+   "code": "000984",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000985": {
+   "name": "中证全指",
+   "code": "000985",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000986": {
+   "name": "全指能源",
+   "code": "000986",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000987": {
+   "name": "全指材料",
+   "code": "000987",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000988": {
+   "name": "全指工业",
+   "code": "000988",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000989": {
+   "name": "全指可选",
+   "code": "000989",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000990": {
+   "name": "全指消费",
+   "code": "000990",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000991": {
+   "name": "全指医药",
+   "code": "000991",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000992": {
+   "name": "金融地产",
+   "code": "000992",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000993": {
+   "name": "全指信息",
+   "code": "000993",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000994": {
+   "name": "全指通信",
+   "code": "000994",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000995": {
+   "name": "全指公用",
+   "code": "000995",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000996": {
+   "name": "领先行业",
+   "code": "000996",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000997": {
+   "name": "大消费",
+   "code": "000997",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000998": {
+   "name": "中证TMT",
+   "code": "000998",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "000999": {
+   "name": "两岸三地",
+   "code": "000999",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "818": {
+   "name": "中标红利",
+   "code": "818",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "300": {
+   "name": "沪深300",
+   "code": "300",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "500": {
+   "name": "中证500",
+   "code": "500",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11018": {
+   "name": "沪质城投",
+   "code": "11018",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11030": {
+   "name": "AMAC农林",
+   "code": "11030",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11031": {
+   "name": "AMAC采矿",
+   "code": "11031",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11032": {
+   "name": "SAC食品",
+   "code": "11032",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11033": {
+   "name": "SAC纺织",
+   "code": "11033",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11034": {
+   "name": "SAC木材",
+   "code": "11034",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11035": {
+   "name": "SAC造纸",
+   "code": "11035",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11036": {
+   "name": "SAC石化",
+   "code": "11036",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11037": {
+   "name": "SAC电子",
+   "code": "11037",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11038": {
+   "name": "SAC金属",
+   "code": "11038",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11039": {
+   "name": "SAC机械",
+   "code": "11039",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11040": {
+   "name": "SAC医药",
+   "code": "11040",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11041": {
+   "name": "AMAC公用",
+   "code": "11041",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11042": {
+   "name": "AMAC建筑",
+   "code": "11042",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11043": {
+   "name": "AMAC交运",
+   "code": "11043",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11044": {
+   "name": "AMAC信息",
+   "code": "11044",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11045": {
+   "name": "AMAC批零",
+   "code": "11045",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11046": {
+   "name": "AMAC金融",
+   "code": "11046",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11047": {
+   "name": "AMAC地产",
+   "code": "11047",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11048": {
+   "name": "SAC服务",
+   "code": "11048",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11049": {
+   "name": "AMAC文体",
+   "code": "11049",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11050": {
+   "name": "AMAC综企",
+   "code": "11050",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11056": {
+   "name": "电子50",
+   "code": "11056",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11077": {
+   "name": "10年国债",
+   "code": "11077",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11080": {
+   "name": "HGSZAAA",
+   "code": "11080",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11081": {
+   "name": "HGSZAA+",
+   "code": "11081",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11082": {
+   "name": "HGSZAA",
+   "code": "11082",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11083": {
+   "name": "HGSZ1-3",
+   "code": "11083",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11084": {
+   "name": "HGSZ3-5",
+   "code": "11084",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11085": {
+   "name": "HGSZ5-7",
+   "code": "11085",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11086": {
+   "name": "HGSZ7-10",
+   "code": "11086",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11095": {
+   "name": "沪跨市中期中高债",
+   "code": "11095",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11098": {
+   "name": "沪城投债",
+   "code": "11098",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11113": {
+   "name": "中国低碳",
+   "code": "11113",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11121": {
+   "name": "富国多空",
+   "code": "11121",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11132": {
+   "name": "中证东盟80",
+   "code": "11132",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "11133": {
+   "name": "中证东盟80美元",
+   "code": "11133",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30003": {
+   "name": "泛珠三角",
+   "code": "30003",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30021": {
+   "name": "800食品",
+   "code": "30021",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30026": {
+   "name": "800计算机",
+   "code": "30026",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30027": {
+   "name": "800硬件",
+   "code": "30027",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30028": {
+   "name": "800半导",
+   "code": "30028",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30030": {
+   "name": "800公用(二级)",
+   "code": "30030",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30032": {
+   "name": "800机械",
+   "code": "30032",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30034": {
+   "name": "300有色",
+   "code": "30034",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30035": {
+   "name": "300非银",
+   "code": "30035",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30036": {
+   "name": "AMAC餐饮",
+   "code": "30036",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30037": {
+   "name": "AMAC商务",
+   "code": "30037",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30038": {
+   "name": "AMAC科技",
+   "code": "30038",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30039": {
+   "name": "AMAC公共",
+   "code": "30039",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30040": {
+   "name": "AMAC社会",
+   "code": "30040",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30041": {
+   "name": "AMAC农副",
+   "code": "30041",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30042": {
+   "name": "AMAC食品",
+   "code": "30042",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30043": {
+   "name": "AMAC饮料",
+   "code": "30043",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30044": {
+   "name": "AMAC纺织",
+   "code": "30044",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30045": {
+   "name": "AMAC服装",
+   "code": "30045",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30046": {
+   "name": "AMAC皮革",
+   "code": "30046",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30047": {
+   "name": "AMAC木材",
+   "code": "30047",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30048": {
+   "name": "AMAC家具",
+   "code": "30048",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30049": {
+   "name": "AMAC造纸",
+   "code": "30049",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30050": {
+   "name": "AMAC印刷",
+   "code": "30050",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30051": {
+   "name": "AMAC文教",
+   "code": "30051",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30052": {
+   "name": "AMAC石化",
+   "code": "30052",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30053": {
+   "name": "AMAC化学",
+   "code": "30053",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30054": {
+   "name": "AMAC医药",
+   "code": "30054",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30055": {
+   "name": "AMAC化纤",
+   "code": "30055",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30056": {
+   "name": "AMAC橡胶",
+   "code": "30056",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30057": {
+   "name": "AMAC矿物",
+   "code": "30057",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30058": {
+   "name": "AMAC钢铁",
+   "code": "30058",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30059": {
+   "name": "AMAC有色",
+   "code": "30059",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30060": {
+   "name": "AMAC金属",
+   "code": "30060",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30061": {
+   "name": "AMAC通用",
+   "code": "30061",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30062": {
+   "name": "AMAC专用",
+   "code": "30062",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30063": {
+   "name": "AMAC汽车",
+   "code": "30063",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30064": {
+   "name": "AMAC运输",
+   "code": "30064",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30065": {
+   "name": "AMAC电气",
+   "code": "30065",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30066": {
+   "name": "AMAC电子",
+   "code": "30066",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30067": {
+   "name": "AMAC仪表",
+   "code": "30067",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30075": {
+   "name": "300期指",
+   "code": "30075",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30076": {
+   "name": "期指两倍",
+   "code": "30076",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30077": {
+   "name": "期指反向",
+   "code": "30077",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30078": {
+   "name": "期指反两",
+   "code": "30078",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30079": {
+   "name": "300信服",
+   "code": "30079",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30080": {
+   "name": "300消服",
+   "code": "30080",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30081": {
+   "name": "300公运",
+   "code": "30081",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30082": {
+   "name": "300两倍",
+   "code": "30082",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30083": {
+   "name": "300反向",
+   "code": "30083",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30084": {
+   "name": "300反两",
+   "code": "30084",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30108": {
+   "name": "H300TMT(港币)",
+   "code": "30108",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30118": {
+   "name": "H300TMT(人民币)",
+   "code": "30118",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30124": {
+   "name": "安中动态",
+   "code": "30124",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30165": {
+   "name": "房地产",
+   "code": "30165",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30168": {
+   "name": "证券公司",
+   "code": "30168",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30180": {
+   "name": "中证银行",
+   "code": "30180",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30185": {
+   "name": "通信设备",
+   "code": "30185",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30189": {
+   "name": "电气设备",
+   "code": "30189",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30191": {
+   "name": "有色金属",
+   "code": "30191",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30212": {
+   "name": "生物药品",
+   "code": "30212",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30260": {
+   "name": "300动量",
+   "code": "30260",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30261": {
+   "name": "300ERC",
+   "code": "30261",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30262": {
+   "name": "地产等权",
+   "code": "30262",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30323": {
+   "name": "H300信息产业H",
+   "code": "30323",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30333": {
+   "name": "H300信息产业",
+   "code": "30333",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30343": {
+   "name": "养老产业",
+   "code": "30343",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30345": {
+   "name": "300波控1",
+   "code": "30345",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30346": {
+   "name": "300波控2",
+   "code": "30346",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30364": {
+   "name": "300MV",
+   "code": "30364",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30367": {
+   "name": "大农业",
+   "code": "30367",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30369": {
+   "name": "中美TMT(美元)",
+   "code": "30369",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30370": {
+   "name": "中美TMT(人民币)",
+   "code": "30370",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30371": {
+   "name": "环境治理",
+   "code": "30371",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30399": {
+   "name": "智能家居",
+   "code": "30399",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30400": {
+   "name": "800动量",
+   "code": "30400",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30401": {
+   "name": "300股息点",
+   "code": "30401",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30403": {
+   "name": "300日报酬两倍",
+   "code": "30403",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30404": {
+   "name": "300日报酬反向",
+   "code": "30404",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30405": {
+   "name": "300美元对冲",
+   "code": "30405",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30407": {
+   "name": "中国400(人民币)",
+   "code": "30407",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30408": {
+   "name": "中国400能源(人民币)",
+   "code": "30408",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30409": {
+   "name": "中国400材料(人民币)",
+   "code": "30409",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30410": {
+   "name": "中国400工业(人民币)",
+   "code": "30410",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30411": {
+   "name": "中国400可选(人民币)",
+   "code": "30411",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30412": {
+   "name": "中国400消费(人民币)",
+   "code": "30412",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30413": {
+   "name": "中国400医药(人民币)",
+   "code": "30413",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30414": {
+   "name": "中国400金融(人民币)",
+   "code": "30414",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30415": {
+   "name": "中国400信息(人民币)",
+   "code": "30415",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30416": {
+   "name": "中国400电信(人民币)",
+   "code": "30416",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30417": {
+   "name": "中国400公用(人民币)",
+   "code": "30417",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30423": {
+   "name": "中国400(美元)",
+   "code": "30423",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30424": {
+   "name": "中国400能源(美元)",
+   "code": "30424",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30425": {
+   "name": "中国400材料(美元)",
+   "code": "30425",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30426": {
+   "name": "中国400工业(美元)",
+   "code": "30426",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30427": {
+   "name": "中国400可选(美元)",
+   "code": "30427",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30428": {
+   "name": "中国400消费(美元)",
+   "code": "30428",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30429": {
+   "name": "中国400医药(美元)",
+   "code": "30429",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30430": {
+   "name": "中国400金融(美元)",
+   "code": "30430",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30431": {
+   "name": "中国400信息(美元)",
+   "code": "30431",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30432": {
+   "name": "中国400电信(美元)",
+   "code": "30432",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30433": {
+   "name": "中国400公用(美元)",
+   "code": "30433",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30451": {
+   "name": "中证医疗",
+   "code": "30451",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30522": {
+   "name": "CS新能车",
+   "code": "30522",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30523": {
+   "name": "中证酒",
+   "code": "30523",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30525": {
+   "name": "300SER",
+   "code": "30525",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30536": {
+   "name": "高铁产业",
+   "code": "30536",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30538": {
+   "name": "煤炭等权",
+   "code": "30538",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30539": {
+   "name": "中证白酒",
+   "code": "30539",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30542": {
+   "name": "中证体育",
+   "code": "30542",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30543": {
+   "name": "中证国安",
+   "code": "30543",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30549": {
+   "name": "沪港深通地产",
+   "code": "30549",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30553": {
+   "name": "沪港深通消费",
+   "code": "30553",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30571": {
+   "name": "沪港深通地产HKD",
+   "code": "30571",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30575": {
+   "name": "沪港深通消费HKD",
+   "code": "30575",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30591": {
+   "name": "互联金融",
+   "code": "30591",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30592": {
+   "name": "中证新能",
+   "code": "30592",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30593": {
+   "name": "一带一路",
+   "code": "30593",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30595": {
+   "name": "保险主题",
+   "code": "30595",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "30596": {
+   "name": "中证煤炭",
+   "code": "30596",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50001": {
+   "name": "180能源",
+   "code": "50001",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50002": {
+   "name": "180材料",
+   "code": "50002",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50003": {
+   "name": "180工业",
+   "code": "50003",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50004": {
+   "name": "180可选",
+   "code": "50004",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50005": {
+   "name": "180消费",
+   "code": "50005",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50006": {
+   "name": "180医药",
+   "code": "50006",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50007": {
+   "name": "180金融地产",
+   "code": "50007",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50008": {
+   "name": "180信息",
+   "code": "50008",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50009": {
+   "name": "180通信",
+   "code": "50009",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50010": {
+   "name": "180公用",
+   "code": "50010",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50011": {
+   "name": "沪环渤海",
+   "code": "50011",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50012": {
+   "name": "沪长三角",
+   "code": "50012",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50013": {
+   "name": "沪珠三角",
+   "code": "50013",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50014": {
+   "name": "沪中部",
+   "code": "50014",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50015": {
+   "name": "沪西部",
+   "code": "50015",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50016": {
+   "name": "沪东北",
+   "code": "50016",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50017": {
+   "name": "沪信息业",
+   "code": "50017",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50018": {
+   "name": "上证文化",
+   "code": "50018",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50019": {
+   "name": "上红回报",
+   "code": "50019",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50020": {
+   "name": "上红潜力",
+   "code": "50020",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50021": {
+   "name": "沪能源红",
+   "code": "50021",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50022": {
+   "name": "沪材料红",
+   "code": "50022",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50023": {
+   "name": "沪工业红",
+   "code": "50023",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50024": {
+   "name": "沪可选红",
+   "code": "50024",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50025": {
+   "name": "沪消费红",
+   "code": "50025",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50026": {
+   "name": "沪医药红",
+   "code": "50026",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50027": {
+   "name": "沪金融红",
+   "code": "50027",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50028": {
+   "name": "沪信息红",
+   "code": "50028",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50029": {
+   "name": "沪通信红",
+   "code": "50029",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50030": {
+   "name": "沪公用红",
+   "code": "50030",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50031": {
+   "name": "沪绿色城",
+   "code": "50031",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50032": {
+   "name": "沪城交通",
+   "code": "50032",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50033": {
+   "name": "沪城消费",
+   "code": "50033",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50034": {
+   "name": "沪城基建",
+   "code": "50034",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50035": {
+   "name": "沪智交通",
+   "code": "50035",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50036": {
+   "name": "上证军工",
+   "code": "50036",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50037": {
+   "name": "上证城镇",
+   "code": "50037",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50038": {
+   "name": "沪智慧城",
+   "code": "50038",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50039": {
+   "name": "上证TMT",
+   "code": "50039",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50040": {
+   "name": "上红低波",
+   "code": "50040",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50041": {
+   "name": "上证RP",
+   "code": "50041",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50042": {
+   "name": "上红价值",
+   "code": "50042",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50043": {
+   "name": "上证养老",
+   "code": "50043",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50044": {
+   "name": "上证健康",
+   "code": "50044",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50045": {
+   "name": "180两倍",
+   "code": "50045",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50046": {
+   "name": "180反向",
+   "code": "50046",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50047": {
+   "name": "180反两",
+   "code": "50047",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50048": {
+   "name": "50波控1",
+   "code": "50048",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50049": {
+   "name": "50波控2",
+   "code": "50049",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50050": {
+   "name": "180波控1",
+   "code": "50050",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50051": {
+   "name": "180波控2",
+   "code": "50051",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50052": {
+   "name": "上国改革",
+   "code": "50052",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50053": {
+   "name": "上证移动",
+   "code": "50053",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50054": {
+   "name": "上证休闲",
+   "code": "50054",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50055": {
+   "name": "沪大农业",
+   "code": "50055",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50056": {
+   "name": "沪智家居",
+   "code": "50056",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50057": {
+   "name": "180动量",
+   "code": "50057",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50058": {
+   "name": "380动量",
+   "code": "50058",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50059": {
+   "name": "180股息点",
+   "code": "50059",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50060": {
+   "name": "50股息点",
+   "code": "50060",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50061": {
+   "name": "50美元对冲",
+   "code": "50061",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50062": {
+   "name": "180美元对冲",
+   "code": "50062",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50063": {
+   "name": "380美元对冲",
+   "code": "50063",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50064": {
+   "name": "上红波控1",
+   "code": "50064",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50065": {
+   "name": "上红波控2",
+   "code": "50065",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50066": {
+   "name": "沪港AH溢价",
+   "code": "50066",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50067": {
+   "name": "180ERC",
+   "code": "50067",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50068": {
+   "name": "380ERC",
+   "code": "50068",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50069": {
+   "name": "港股通",
+   "code": "50069",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "180": {
+   "name": "上证180",
+   "code": "180",
+   "exchg": "SSE",
+   "product": "IDX"
+  },
+  "50": {
+   "name": "上证50",
+   "code": "50",
+   "exchg": "SSE",
+   "product": "IDX"
+  }
+ },
+ "SZSE": {
+  "399001": {
+   "name": "深证成指",
+   "code": "399001",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399002": {
+   "name": "深成指R",
+   "code": "399002",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399003": {
+   "name": "成份B指",
+   "code": "399003",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399004": {
+   "name": "深证100R",
+   "code": "399004",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399005": {
+   "name": "中小100",
+   "code": "399005",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399006": {
+   "name": "创业板指",
+   "code": "399006",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399007": {
+   "name": "深证300",
+   "code": "399007",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399008": {
+   "name": "中小300",
+   "code": "399008",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399009": {
+   "name": "深证200",
+   "code": "399009",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399010": {
+   "name": "深证700",
+   "code": "399010",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399011": {
+   "name": "深证1000",
+   "code": "399011",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399012": {
+   "name": "创业300",
+   "code": "399012",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399013": {
+   "name": "深市精选",
+   "code": "399013",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399015": {
+   "name": "中小创新",
+   "code": "399015",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399016": {
+   "name": "深证创新",
+   "code": "399016",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399017": {
+   "name": "SME创新",
+   "code": "399017",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399018": {
+   "name": "创业创新",
+   "code": "399018",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399030": {
+   "name": "碳科技30",
+   "code": "399030",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399050": {
+   "name": "创新引擎",
+   "code": "399050",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399060": {
+   "name": "碳科技60",
+   "code": "399060",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399088": {
+   "name": "深创100",
+   "code": "399088",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399100": {
+   "name": "新指数",
+   "code": "399100",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399101": {
+   "name": "中小综指",
+   "code": "399101",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399102": {
+   "name": "创业板综",
+   "code": "399102",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399103": {
+   "name": "乐富指数",
+   "code": "399103",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399106": {
+   "name": "深证综指",
+   "code": "399106",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399107": {
+   "name": "深证A指",
+   "code": "399107",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399108": {
+   "name": "深证B指",
+   "code": "399108",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399110": {
+   "name": "农林指数",
+   "code": "399110",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399120": {
+   "name": "采掘指数",
+   "code": "399120",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399130": {
+   "name": "制造指数",
+   "code": "399130",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399131": {
+   "name": "食品指数",
+   "code": "399131",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399132": {
+   "name": "纺织指数",
+   "code": "399132",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399133": {
+   "name": "木材指数",
+   "code": "399133",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399134": {
+   "name": "造纸指数",
+   "code": "399134",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399135": {
+   "name": "石化指数",
+   "code": "399135",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399136": {
+   "name": "电子指数",
+   "code": "399136",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399137": {
+   "name": "金属指数",
+   "code": "399137",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399138": {
+   "name": "机械指数",
+   "code": "399138",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399139": {
+   "name": "医药指数",
+   "code": "399139",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399140": {
+   "name": "水电指数",
+   "code": "399140",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399150": {
+   "name": "建筑指数",
+   "code": "399150",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399160": {
+   "name": "运输指数",
+   "code": "399160",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399170": {
+   "name": "信息指数",
+   "code": "399170",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399180": {
+   "name": "批零指数",
+   "code": "399180",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399190": {
+   "name": "金融指数",
+   "code": "399190",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399200": {
+   "name": "地产指数",
+   "code": "399200",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399210": {
+   "name": "服务指数",
+   "code": "399210",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399220": {
+   "name": "传播指数",
+   "code": "399220",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399230": {
+   "name": "综企指数",
+   "code": "399230",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399231": {
+   "name": "农林指数",
+   "code": "399231",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399232": {
+   "name": "采矿指数",
+   "code": "399232",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399233": {
+   "name": "制造指数",
+   "code": "399233",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399234": {
+   "name": "水电指数",
+   "code": "399234",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399235": {
+   "name": "建筑指数",
+   "code": "399235",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399236": {
+   "name": "批零指数",
+   "code": "399236",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399237": {
+   "name": "运输指数",
+   "code": "399237",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399238": {
+   "name": "餐饮指数",
+   "code": "399238",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399239": {
+   "name": "IT指数",
+   "code": "399239",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399240": {
+   "name": "金融指数",
+   "code": "399240",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399241": {
+   "name": "地产指数",
+   "code": "399241",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399242": {
+   "name": "商务指数",
+   "code": "399242",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399243": {
+   "name": "科研指数",
+   "code": "399243",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399244": {
+   "name": "公共指数",
+   "code": "399244",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399248": {
+   "name": "文化指数",
+   "code": "399248",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399249": {
+   "name": "综企指数",
+   "code": "399249",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399262": {
+   "name": "数字经济",
+   "code": "399262",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399263": {
+   "name": "创业数字",
+   "code": "399263",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399264": {
+   "name": "创新技术",
+   "code": "399264",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399265": {
+   "name": "创新药械",
+   "code": "399265",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399266": {
+   "name": "创新能源",
+   "code": "399266",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399269": {
+   "name": "创质量",
+   "code": "399269",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399274": {
+   "name": "深新基建",
+   "code": "399274",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399275": {
+   "name": "创医药",
+   "code": "399275",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399276": {
+   "name": "创科技",
+   "code": "399276",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399277": {
+   "name": "公共健康",
+   "code": "399277",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399278": {
+   "name": "长江100",
+   "code": "399278",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399279": {
+   "name": "云科技50",
+   "code": "399279",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399280": {
+   "name": "生物50",
+   "code": "399280",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399281": {
+   "name": "电子50",
+   "code": "399281",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399282": {
+   "name": "大数据50",
+   "code": "399282",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399283": {
+   "name": "机器人50",
+   "code": "399283",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399284": {
+   "name": "AI50",
+   "code": "399284",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399285": {
+   "name": "物联网50",
+   "code": "399285",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399286": {
+   "name": "区块链50",
+   "code": "399286",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399289": {
+   "name": "碳中和债",
+   "code": "399289",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399290": {
+   "name": "深转交债",
+   "code": "399290",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399291": {
+   "name": "创精选88",
+   "code": "399291",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399292": {
+   "name": "民企发展",
+   "code": "399292",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399293": {
+   "name": "创业大盘",
+   "code": "399293",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399294": {
+   "name": "中小创Q",
+   "code": "399294",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399295": {
+   "name": "创价值",
+   "code": "399295",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399296": {
+   "name": "创成长",
+   "code": "399296",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399297": {
+   "name": "新浪100",
+   "code": "399297",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399298": {
+   "name": "深信中高",
+   "code": "399298",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399299": {
+   "name": "深信中低",
+   "code": "399299",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399300": {
+   "name": "沪深300",
+   "code": "399300",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399301": {
+   "name": "深信用债",
+   "code": "399301",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399302": {
+   "name": "深公司债",
+   "code": "399302",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399303": {
+   "name": "国证2000",
+   "code": "399303",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399305": {
+   "name": "基金指数",
+   "code": "399305",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399306": {
+   "name": "深证ETF",
+   "code": "399306",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399307": {
+   "name": "深证转债",
+   "code": "399307",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399310": {
+   "name": "国证A50",
+   "code": "399310",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399311": {
+   "name": "国证1000",
+   "code": "399311",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399312": {
+   "name": "国证300",
+   "code": "399312",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399313": {
+   "name": "巨潮100",
+   "code": "399313",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399314": {
+   "name": "巨潮大盘",
+   "code": "399314",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399315": {
+   "name": "巨潮中盘",
+   "code": "399315",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399316": {
+   "name": "巨潮小盘",
+   "code": "399316",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399317": {
+   "name": "国证A指",
+   "code": "399317",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399318": {
+   "name": "国证B指",
+   "code": "399318",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399319": {
+   "name": "资源优势",
+   "code": "399319",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399320": {
+   "name": "国证服务",
+   "code": "399320",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399321": {
+   "name": "国证红利",
+   "code": "399321",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399322": {
+   "name": "国证治理",
+   "code": "399322",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399324": {
+   "name": "深证红利",
+   "code": "399324",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399326": {
+   "name": "成长40",
+   "code": "399326",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399328": {
+   "name": "深证治理",
+   "code": "399328",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399329": {
+   "name": "中小板指",
+   "code": "399329",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399330": {
+   "name": "深证100",
+   "code": "399330",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399332": {
+   "name": "深证创新",
+   "code": "399332",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399333": {
+   "name": "中小100R",
+   "code": "399333",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399335": {
+   "name": "深证央企",
+   "code": "399335",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399337": {
+   "name": "深证民营",
+   "code": "399337",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399339": {
+   "name": "深证科技",
+   "code": "399339",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399341": {
+   "name": "深证责任",
+   "code": "399341",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399344": {
+   "name": "深证300R",
+   "code": "399344",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399346": {
+   "name": "深证成长",
+   "code": "399346",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399348": {
+   "name": "深证价值",
+   "code": "399348",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399350": {
+   "name": "皖江30",
+   "code": "399350",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399351": {
+   "name": "创新示范",
+   "code": "399351",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399352": {
+   "name": "深企综指",
+   "code": "399352",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399353": {
+   "name": "国证物流",
+   "code": "399353",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399354": {
+   "name": "分析师指数",
+   "code": "399354",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399355": {
+   "name": "长三角",
+   "code": "399355",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399356": {
+   "name": "珠三角",
+   "code": "399356",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399357": {
+   "name": "环渤海",
+   "code": "399357",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399358": {
+   "name": "国证环保",
+   "code": "399358",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399359": {
+   "name": "国证基建",
+   "code": "399359",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399360": {
+   "name": "新硬件",
+   "code": "399360",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399361": {
+   "name": "在线消费",
+   "code": "399361",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399362": {
+   "name": "民企100",
+   "code": "399362",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399363": {
+   "name": "国证算力",
+   "code": "399363",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399364": {
+   "name": "消费100",
+   "code": "399364",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399365": {
+   "name": "国证粮食",
+   "code": "399365",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399366": {
+   "name": "能源金属",
+   "code": "399366",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399367": {
+   "name": "1000地产",
+   "code": "399367",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399368": {
+   "name": "国证军工",
+   "code": "399368",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399369": {
+   "name": "国证责任",
+   "code": "399369",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399370": {
+   "name": "国证成长",
+   "code": "399370",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399371": {
+   "name": "国证价值",
+   "code": "399371",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399372": {
+   "name": "大盘成长",
+   "code": "399372",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399373": {
+   "name": "大盘价值",
+   "code": "399373",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399374": {
+   "name": "中盘成长",
+   "code": "399374",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399375": {
+   "name": "中盘价值",
+   "code": "399375",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399376": {
+   "name": "小盘成长",
+   "code": "399376",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399377": {
+   "name": "小盘价值",
+   "code": "399377",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399378": {
+   "name": "ESG300",
+   "code": "399378",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399379": {
+   "name": "国证基金",
+   "code": "399379",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399380": {
+   "name": "国证ETF",
+   "code": "399380",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399381": {
+   "name": "1000能源",
+   "code": "399381",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399382": {
+   "name": "1000材料",
+   "code": "399382",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399383": {
+   "name": "1000工业",
+   "code": "399383",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399384": {
+   "name": "1000可选",
+   "code": "399384",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399385": {
+   "name": "1000消费",
+   "code": "399385",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399386": {
+   "name": "1000医药",
+   "code": "399386",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399387": {
+   "name": "1000金融",
+   "code": "399387",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399388": {
+   "name": "1000信息",
+   "code": "399388",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399389": {
+   "name": "国证通信",
+   "code": "399389",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399390": {
+   "name": "1000公用",
+   "code": "399390",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399391": {
+   "name": "投资时钟",
+   "code": "399391",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399392": {
+   "name": "国证新兴",
+   "code": "399392",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399393": {
+   "name": "国证地产",
+   "code": "399393",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399394": {
+   "name": "国证医药",
+   "code": "399394",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399395": {
+   "name": "国证有色",
+   "code": "399395",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399396": {
+   "name": "国证食品",
+   "code": "399396",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399397": {
+   "name": "国证文化",
+   "code": "399397",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399398": {
+   "name": "绩效指数",
+   "code": "399398",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399399": {
+   "name": "中经GDP",
+   "code": "399399",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399400": {
+   "name": "大中盘",
+   "code": "399400",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399401": {
+   "name": "中小盘",
+   "code": "399401",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399402": {
+   "name": "周期100",
+   "code": "399402",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399403": {
+   "name": "防御100",
+   "code": "399403",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399404": {
+   "name": "大盘低波",
+   "code": "399404",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399405": {
+   "name": "大盘高贝",
+   "code": "399405",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399406": {
+   "name": "中盘低波",
+   "code": "399406",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399407": {
+   "name": "中盘高贝",
+   "code": "399407",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399408": {
+   "name": "小盘低波",
+   "code": "399408",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399409": {
+   "name": "小盘高贝",
+   "code": "399409",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399410": {
+   "name": "苏州率先",
+   "code": "399410",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399411": {
+   "name": "红利100",
+   "code": "399411",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399412": {
+   "name": "国证新能",
+   "code": "399412",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399413": {
+   "name": "国证转债",
+   "code": "399413",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399415": {
+   "name": "I100",
+   "code": "399415",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399416": {
+   "name": "I300",
+   "code": "399416",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399417": {
+   "name": "新能源车",
+   "code": "399417",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399418": {
+   "name": "国证国安",
+   "code": "399418",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399419": {
+   "name": "国证高铁",
+   "code": "399419",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399420": {
+   "name": "国证保证",
+   "code": "399420",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399422": {
+   "name": "中关村A指",
+   "code": "399422",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399423": {
+   "name": "中关村50",
+   "code": "399423",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399427": {
+   "name": "专利领先",
+   "code": "399427",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399428": {
+   "name": "国证定增",
+   "code": "399428",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399429": {
+   "name": "新丝路",
+   "code": "399429",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399431": {
+   "name": "国证银行",
+   "code": "399431",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399432": {
+   "name": "智能汽车",
+   "code": "399432",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399433": {
+   "name": "国证交运",
+   "code": "399433",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399434": {
+   "name": "国证传媒",
+   "code": "399434",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399435": {
+   "name": "国证农牧",
+   "code": "399435",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399436": {
+   "name": "绿色煤炭",
+   "code": "399436",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399437": {
+   "name": "证券龙头",
+   "code": "399437",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399438": {
+   "name": "绿色电力",
+   "code": "399438",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399439": {
+   "name": "国证油气",
+   "code": "399439",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399440": {
+   "name": "国证钢铁",
+   "code": "399440",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399441": {
+   "name": "生物医药",
+   "code": "399441",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399481": {
+   "name": "企债指数",
+   "code": "399481",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399550": {
+   "name": "央视50",
+   "code": "399550",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399551": {
+   "name": "央视创新",
+   "code": "399551",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399552": {
+   "name": "央视成长",
+   "code": "399552",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399553": {
+   "name": "央视回报",
+   "code": "399553",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399554": {
+   "name": "央视治理",
+   "code": "399554",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399555": {
+   "name": "央视责任",
+   "code": "399555",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399556": {
+   "name": "央视生态",
+   "code": "399556",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399557": {
+   "name": "央视文化",
+   "code": "399557",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399602": {
+   "name": "中小成长",
+   "code": "399602",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399604": {
+   "name": "中小价值",
+   "code": "399604",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399606": {
+   "name": "创业板R",
+   "code": "399606",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399608": {
+   "name": "科技100",
+   "code": "399608",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399610": {
+   "name": "TMT50",
+   "code": "399610",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399611": {
+   "name": "中创100R",
+   "code": "399611",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399612": {
+   "name": "中创100",
+   "code": "399612",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399613": {
+   "name": "深证能源",
+   "code": "399613",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399614": {
+   "name": "深证材料",
+   "code": "399614",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399615": {
+   "name": "深证工业",
+   "code": "399615",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399616": {
+   "name": "深证可选",
+   "code": "399616",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399617": {
+   "name": "深证消费",
+   "code": "399617",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399618": {
+   "name": "深证医药",
+   "code": "399618",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399619": {
+   "name": "深证金融",
+   "code": "399619",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399620": {
+   "name": "深证信息",
+   "code": "399620",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399621": {
+   "name": "深证电信",
+   "code": "399621",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399622": {
+   "name": "深证公用",
+   "code": "399622",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399623": {
+   "name": "中小基础",
+   "code": "399623",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399624": {
+   "name": "中创400",
+   "code": "399624",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399625": {
+   "name": "中创500",
+   "code": "399625",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399626": {
+   "name": "中创成长",
+   "code": "399626",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399627": {
+   "name": "中创价值",
+   "code": "399627",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399628": {
+   "name": "700成长",
+   "code": "399628",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399629": {
+   "name": "700价值",
+   "code": "399629",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399630": {
+   "name": "1000成长",
+   "code": "399630",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399631": {
+   "name": "1000价值",
+   "code": "399631",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399632": {
+   "name": "深100EW",
+   "code": "399632",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399633": {
+   "name": "深300EW",
+   "code": "399633",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399634": {
+   "name": "中小等权",
+   "code": "399634",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399635": {
+   "name": "创业板EW",
+   "code": "399635",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399636": {
+   "name": "深证装备",
+   "code": "399636",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399637": {
+   "name": "深证地产",
+   "code": "399637",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399638": {
+   "name": "深证环保",
+   "code": "399638",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399639": {
+   "name": "深证大宗",
+   "code": "399639",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399640": {
+   "name": "创业基础",
+   "code": "399640",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399641": {
+   "name": "深证新兴",
+   "code": "399641",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399642": {
+   "name": "中小新兴",
+   "code": "399642",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399643": {
+   "name": "创业新兴",
+   "code": "399643",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399644": {
+   "name": "深证时钟",
+   "code": "399644",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399645": {
+   "name": "100低波",
+   "code": "399645",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399646": {
+   "name": "深消费50",
+   "code": "399646",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399647": {
+   "name": "深医药50",
+   "code": "399647",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399648": {
+   "name": "深证GDP",
+   "code": "399648",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399649": {
+   "name": "中小红利",
+   "code": "399649",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399650": {
+   "name": "中小治理",
+   "code": "399650",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399651": {
+   "name": "中小责任",
+   "code": "399651",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399652": {
+   "name": "中创高新",
+   "code": "399652",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399653": {
+   "name": "深证龙头",
+   "code": "399653",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399654": {
+   "name": "深证文化",
+   "code": "399654",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399655": {
+   "name": "深证绩效",
+   "code": "399655",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399656": {
+   "name": "100绩效",
+   "code": "399656",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399657": {
+   "name": "300绩效",
+   "code": "399657",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399658": {
+   "name": "中小绩效",
+   "code": "399658",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399659": {
+   "name": "深成指EW",
+   "code": "399659",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399660": {
+   "name": "中创EW",
+   "code": "399660",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399661": {
+   "name": "深证低波",
+   "code": "399661",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399662": {
+   "name": "深证高贝",
+   "code": "399662",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399663": {
+   "name": "中小低波",
+   "code": "399663",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399664": {
+   "name": "中小高贝",
+   "code": "399664",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399665": {
+   "name": "中创低波",
+   "code": "399665",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399666": {
+   "name": "中创高贝",
+   "code": "399666",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399667": {
+   "name": "创业板G",
+   "code": "399667",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399668": {
+   "name": "创业板V",
+   "code": "399668",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399669": {
+   "name": "深证农业",
+   "code": "399669",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399670": {
+   "name": "深周期50",
+   "code": "399670",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399671": {
+   "name": "深防御50",
+   "code": "399671",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399672": {
+   "name": "深红利50",
+   "code": "399672",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399673": {
+   "name": "创业板50",
+   "code": "399673",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399674": {
+   "name": "深A医药",
+   "code": "399674",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399675": {
+   "name": "深互联网",
+   "code": "399675",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399676": {
+   "name": "深医药EW",
+   "code": "399676",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399677": {
+   "name": "深互联EW",
+   "code": "399677",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399678": {
+   "name": "深次新股",
+   "code": "399678",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399679": {
+   "name": "深证200R",
+   "code": "399679",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399680": {
+   "name": "深成能源",
+   "code": "399680",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399681": {
+   "name": "深成材料",
+   "code": "399681",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399682": {
+   "name": "深成工业",
+   "code": "399682",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399683": {
+   "name": "深成可选",
+   "code": "399683",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399684": {
+   "name": "深成消费",
+   "code": "399684",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399685": {
+   "name": "深成医药",
+   "code": "399685",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399686": {
+   "name": "深成金融",
+   "code": "399686",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399687": {
+   "name": "深成信息",
+   "code": "399687",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399688": {
+   "name": "深成电信",
+   "code": "399688",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399689": {
+   "name": "深成公用",
+   "code": "399689",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399690": {
+   "name": "中小专利",
+   "code": "399690",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399691": {
+   "name": "创业专利",
+   "code": "399691",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399692": {
+   "name": "创业低波",
+   "code": "399692",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399693": {
+   "name": "安防产业",
+   "code": "399693",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399694": {
+   "name": "创业高贝",
+   "code": "399694",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399695": {
+   "name": "深证节能",
+   "code": "399695",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399696": {
+   "name": "深证创投",
+   "code": "399696",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399697": {
+   "name": "中关村60",
+   "code": "399697",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399698": {
+   "name": "优势成长",
+   "code": "399698",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399699": {
+   "name": "金融科技",
+   "code": "399699",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399701": {
+   "name": "深证F60",
+   "code": "399701",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399702": {
+   "name": "深证F120",
+   "code": "399702",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399703": {
+   "name": "深证F200",
+   "code": "399703",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399704": {
+   "name": "深证上游",
+   "code": "399704",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399705": {
+   "name": "深证中游",
+   "code": "399705",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399706": {
+   "name": "深证下游",
+   "code": "399706",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399707": {
+   "name": "CSSW证券",
+   "code": "399707",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399802": {
+   "name": "500深市",
+   "code": "399802",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399803": {
+   "name": "工业4.0",
+   "code": "399803",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399804": {
+   "name": "中证体育",
+   "code": "399804",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399805": {
+   "name": "互联金融",
+   "code": "399805",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399806": {
+   "name": "环境治理",
+   "code": "399806",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399807": {
+   "name": "高铁产业",
+   "code": "399807",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399808": {
+   "name": "中证新能",
+   "code": "399808",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399809": {
+   "name": "保险主题",
+   "code": "399809",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399810": {
+   "name": "CSSW传媒",
+   "code": "399810",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399811": {
+   "name": "CSSW电子",
+   "code": "399811",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399812": {
+   "name": "养老产业",
+   "code": "399812",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399813": {
+   "name": "中证国安",
+   "code": "399813",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399814": {
+   "name": "大农业",
+   "code": "399814",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399817": {
+   "name": "生态100",
+   "code": "399817",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399901": {
+   "name": "小康指数",
+   "code": "399901",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399902": {
+   "name": "中证流通",
+   "code": "399902",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399903": {
+   "name": "中证100",
+   "code": "399903",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399904": {
+   "name": "中证200",
+   "code": "399904",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399905": {
+   "name": "中证500",
+   "code": "399905",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399906": {
+   "name": "中证800",
+   "code": "399906",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399907": {
+   "name": "中证700",
+   "code": "399907",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399908": {
+   "name": "300能源",
+   "code": "399908",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399909": {
+   "name": "300材料",
+   "code": "399909",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399910": {
+   "name": "300工业",
+   "code": "399910",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399911": {
+   "name": "300可选",
+   "code": "399911",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399912": {
+   "name": "300消费",
+   "code": "399912",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399913": {
+   "name": "300医药",
+   "code": "399913",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399914": {
+   "name": "300金融地产",
+   "code": "399914",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399915": {
+   "name": "300信息",
+   "code": "399915",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399916": {
+   "name": "300电信",
+   "code": "399916",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399917": {
+   "name": "300公用",
+   "code": "399917",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399918": {
+   "name": "300成长",
+   "code": "399918",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399919": {
+   "name": "300价值",
+   "code": "399919",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399920": {
+   "name": "300R成长",
+   "code": "399920",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399921": {
+   "name": "300R价值",
+   "code": "399921",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399922": {
+   "name": "中证红利",
+   "code": "399922",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399923": {
+   "name": "公司债",
+   "code": "399923",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399924": {
+   "name": "分离债",
+   "code": "399924",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399925": {
+   "name": "基本面50",
+   "code": "399925",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399926": {
+   "name": "中证央企",
+   "code": "399926",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399927": {
+   "name": "央企100",
+   "code": "399927",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399928": {
+   "name": "800能源",
+   "code": "399928",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399929": {
+   "name": "中证材料",
+   "code": "399929",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399930": {
+   "name": "中证工业",
+   "code": "399930",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399931": {
+   "name": "中证可选",
+   "code": "399931",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399932": {
+   "name": "800消费",
+   "code": "399932",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399933": {
+   "name": "800医卫",
+   "code": "399933",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399934": {
+   "name": "800金地",
+   "code": "399934",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399935": {
+   "name": "中证信息",
+   "code": "399935",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399936": {
+   "name": "中证电信",
+   "code": "399936",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399937": {
+   "name": "中证公用",
+   "code": "399937",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399938": {
+   "name": "中证民企",
+   "code": "399938",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399939": {
+   "name": "民企成长",
+   "code": "399939",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399940": {
+   "name": "财富大盘300",
+   "code": "399940",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399941": {
+   "name": "新能源",
+   "code": "399941",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399942": {
+   "name": "内地消费",
+   "code": "399942",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399943": {
+   "name": "内地基建",
+   "code": "399943",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399944": {
+   "name": "内地资源",
+   "code": "399944",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399945": {
+   "name": "内地运输",
+   "code": "399945",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399946": {
+   "name": "内地金融",
+   "code": "399946",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399947": {
+   "name": "内地银行",
+   "code": "399947",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399948": {
+   "name": "内地地产",
+   "code": "399948",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399949": {
+   "name": "内地农业",
+   "code": "399949",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399950": {
+   "name": "300基建",
+   "code": "399950",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399951": {
+   "name": "300银行",
+   "code": "399951",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399952": {
+   "name": "300地产",
+   "code": "399952",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399953": {
+   "name": "中证地企",
+   "code": "399953",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399954": {
+   "name": "地企100",
+   "code": "399954",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399955": {
+   "name": "中证国企",
+   "code": "399955",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399956": {
+   "name": "国企200",
+   "code": "399956",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399957": {
+   "name": "300运输",
+   "code": "399957",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399958": {
+   "name": "创业成长",
+   "code": "399958",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399959": {
+   "name": "军工指数",
+   "code": "399959",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399960": {
+   "name": "中证龙头",
+   "code": "399960",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399961": {
+   "name": "中证上游",
+   "code": "399961",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399962": {
+   "name": "中证中游",
+   "code": "399962",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399963": {
+   "name": "中证下游",
+   "code": "399963",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399964": {
+   "name": "中证新兴",
+   "code": "399964",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399965": {
+   "name": "800地产",
+   "code": "399965",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399966": {
+   "name": "800证保",
+   "code": "399966",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399967": {
+   "name": "中证军工",
+   "code": "399967",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399968": {
+   "name": "300周期",
+   "code": "399968",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399969": {
+   "name": "300非周",
+   "code": "399969",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399970": {
+   "name": "移动互联",
+   "code": "399970",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399971": {
+   "name": "中证传媒",
+   "code": "399971",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399972": {
+   "name": "300深市",
+   "code": "399972",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399973": {
+   "name": "中证国防",
+   "code": "399973",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399974": {
+   "name": "国企改革",
+   "code": "399974",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399975": {
+   "name": "证券公司",
+   "code": "399975",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399976": {
+   "name": "CS新能车",
+   "code": "399976",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399977": {
+   "name": "内地低碳",
+   "code": "399977",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399978": {
+   "name": "医药100",
+   "code": "399978",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399979": {
+   "name": "大宗商品",
+   "code": "399979",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399980": {
+   "name": "中证超大",
+   "code": "399980",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399981": {
+   "name": "300分层",
+   "code": "399981",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399982": {
+   "name": "500等权",
+   "code": "399982",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399983": {
+   "name": "地产等权",
+   "code": "399983",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399984": {
+   "name": "300等权",
+   "code": "399984",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399985": {
+   "name": "中证全指",
+   "code": "399985",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399986": {
+   "name": "中证银行",
+   "code": "399986",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399987": {
+   "name": "中证酒",
+   "code": "399987",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399989": {
+   "name": "中证医疗",
+   "code": "399989",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399990": {
+   "name": "煤炭等权",
+   "code": "399990",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399991": {
+   "name": "一带一路",
+   "code": "399991",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399992": {
+   "name": "CSWD并购",
+   "code": "399992",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399993": {
+   "name": "CSWD生科",
+   "code": "399993",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399994": {
+   "name": "信息安全",
+   "code": "399994",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399995": {
+   "name": "基建工程",
+   "code": "399995",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399996": {
+   "name": "智能家居",
+   "code": "399996",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399997": {
+   "name": "中证白酒",
+   "code": "399997",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "399998": {
+   "name": "中证煤炭",
+   "code": "399998",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "980001": {
+   "name": "湾创100",
+   "code": "980001",
+   "exchg": "SZSE",
+   "product": "IDX"
+  },
+  "980017": {
+   "name": "国证芯片",
+   "code": "980017",
+   "exchg": "SZSE",
+   "product": "IDX"
+  }
+ }
+}

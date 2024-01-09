@@ -1,0 +1,925 @@
+[2023.12.08 10:27:43 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 10:27:43 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 10:27:43 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 10:27:43 - info ] Trading sessions loaded
+[2023.12.08 10:27:43 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 10:27:43 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 10:27:43 - info ] Holidays loaded
+[2023.12.08 10:27:43 - info ] Hot rules loaded
+[2023.12.08 10:27:43 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 10:27:43 - info ] Running mode: Production
+[2023.12.08 10:27:43 - info ] 38 fee templates loaded
+[2023.12.08 10:27:44 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 10:27:44 - info ] Engine task poolsize is 0
+[2023.12.08 10:27:44 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 10:46:15 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 10:46:15 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 10:46:15 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 10:46:15 - info ] Trading sessions loaded
+[2023.12.08 10:46:15 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 10:46:15 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 10:46:15 - info ] Holidays loaded
+[2023.12.08 10:46:15 - info ] Hot rules loaded
+[2023.12.08 10:46:15 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 10:46:15 - info ] Running mode: Production
+[2023.12.08 10:46:15 - info ] 38 fee templates loaded
+[2023.12.08 10:46:15 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 10:46:15 - info ] Engine task poolsize is 0
+[2023.12.08 10:46:15 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 13:32:59 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 13:32:59 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 13:32:59 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 13:32:59 - info ] Trading sessions loaded
+[2023.12.08 13:32:59 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 13:32:59 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 13:32:59 - info ] Holidays loaded
+[2023.12.08 13:32:59 - info ] Hot rules loaded
+[2023.12.08 13:32:59 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 13:32:59 - info ] Running mode: Production
+[2023.12.08 13:32:59 - info ] 38 fee templates loaded
+[2023.12.08 13:32:59 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 13:32:59 - info ] Engine task poolsize is 0
+[2023.12.08 13:32:59 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 13:44:39 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 13:44:39 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 13:44:39 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 13:44:39 - info ] Trading sessions loaded
+[2023.12.08 13:44:39 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 13:44:39 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 13:44:39 - info ] Holidays loaded
+[2023.12.08 13:44:39 - info ] Hot rules loaded
+[2023.12.08 13:44:39 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 13:44:39 - info ] Running mode: Production
+[2023.12.08 13:44:39 - info ] 38 fee templates loaded
+[2023.12.08 13:44:39 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 13:44:39 - info ] Engine task poolsize is 0
+[2023.12.08 13:44:39 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 13:52:27 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 13:52:27 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 13:52:27 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 13:52:27 - info ] Trading sessions loaded
+[2023.12.08 13:52:27 - warning] No session configured for INE.ec
+[2023.12.08 13:52:27 - warning] No session configured for GFEX.lc
+[2023.12.08 13:52:27 - warning] No session configured for GFEX.si
+[2023.12.08 13:52:27 - warning] No session configured for SHFE.br
+[2023.12.08 13:52:27 - warning] No session configured for SHFE.ao
+[2023.12.08 13:52:27 - warning] No session configured for CFFEX.TL
+[2023.12.08 13:52:27 - warning] No session configured for CZCE.PX
+[2023.12.08 13:52:27 - warning] No session configured for CZCE.SH
+[2023.12.08 13:52:27 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 13:52:27 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 13:52:27 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 13:52:27 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 13:52:27 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 13:52:27 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 13:52:27 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 13:52:28 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 13:52:28 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 13:52:28 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 13:52:28 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 13:52:28 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 13:52:28 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 13:52:28 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 13:52:28 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 13:52:28 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 13:52:28 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 13:52:28 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 13:52:28 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 13:52:28 - info ] Holidays loaded
+[2023.12.08 13:52:28 - info ] Hot rules loaded
+[2023.12.08 13:52:28 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 13:52:28 - info ] Running mode: Production
+[2023.12.08 13:52:28 - info ] 38 fee templates loaded
+[2023.12.08 13:52:28 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 13:52:28 - info ] Engine task poolsize is 0
+[2023.12.08 13:52:28 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 13:52:48 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 13:52:48 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 13:52:48 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 13:52:48 - info ] Trading sessions loaded
+[2023.12.08 13:52:48 - warning] No session configured for INE.ec
+[2023.12.08 13:52:48 - warning] No session configured for GFEX.lc
+[2023.12.08 13:52:48 - warning] No session configured for GFEX.si
+[2023.12.08 13:52:48 - warning] No session configured for SHFE.br
+[2023.12.08 13:52:48 - warning] No session configured for SHFE.ao
+[2023.12.08 13:52:48 - warning] No session configured for CFFEX.TL
+[2023.12.08 13:52:48 - warning] No session configured for CZCE.PX
+[2023.12.08 13:52:48 - warning] No session configured for CZCE.SH
+[2023.12.08 13:52:48 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 13:52:48 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 13:52:48 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 13:52:48 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 13:52:48 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 13:52:48 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 13:52:48 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 13:52:48 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 13:52:48 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 13:52:48 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 13:52:48 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 13:52:48 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 13:52:48 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 13:52:48 - info ] Holidays loaded
+[2023.12.08 13:52:48 - info ] Hot rules loaded
+[2023.12.08 13:52:48 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 13:52:48 - info ] Running mode: Production
+[2023.12.08 13:52:48 - info ] 38 fee templates loaded
+[2023.12.08 13:52:48 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 13:52:48 - info ] Engine task poolsize is 0
+[2023.12.08 13:52:48 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 13:58:50 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 13:58:50 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 13:58:50 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 13:58:50 - info ] Trading sessions loaded
+[2023.12.08 13:58:50 - warning] No session configured for INE.ec
+[2023.12.08 13:58:50 - warning] No session configured for GFEX.lc
+[2023.12.08 13:58:50 - warning] No session configured for GFEX.si
+[2023.12.08 13:58:50 - warning] No session configured for SHFE.br
+[2023.12.08 13:58:50 - warning] No session configured for SHFE.ao
+[2023.12.08 13:58:50 - warning] No session configured for CFFEX.TL
+[2023.12.08 13:58:50 - warning] No session configured for CZCE.PX
+[2023.12.08 13:58:50 - warning] No session configured for CZCE.SH
+[2023.12.08 13:58:50 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 13:58:50 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 13:58:50 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 13:58:50 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 13:58:50 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 13:58:50 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 13:58:50 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 13:58:50 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 13:58:50 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 13:58:50 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 13:58:50 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 13:58:50 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 13:58:50 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 13:58:50 - info ] Holidays loaded
+[2023.12.08 13:58:50 - info ] Hot rules loaded
+[2023.12.08 13:58:50 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 13:58:50 - info ] Running mode: Production
+[2023.12.08 13:58:50 - info ] 38 fee templates loaded
+[2023.12.08 13:58:50 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 13:58:50 - info ] Engine task poolsize is 0
+[2023.12.08 13:58:50 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 14:03:26 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 14:03:26 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 14:03:26 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.12.08 14:03:26 - info ] Trading sessions loaded
+[2023.12.08 14:03:26 - warning] No session configured for INE.ec
+[2023.12.08 14:03:26 - warning] No session configured for GFEX.lc
+[2023.12.08 14:03:26 - warning] No session configured for GFEX.si
+[2023.12.08 14:03:26 - warning] No session configured for SHFE.br
+[2023.12.08 14:03:26 - warning] No session configured for SHFE.ao
+[2023.12.08 14:03:26 - warning] No session configured for CFFEX.TL
+[2023.12.08 14:03:26 - warning] No session configured for CZCE.PX
+[2023.12.08 14:03:26 - warning] No session configured for CZCE.SH
+[2023.12.08 14:03:26 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 14:03:26 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 14:03:26 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 14:03:26 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 14:03:26 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 14:03:26 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 14:03:26 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 14:03:26 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 14:03:26 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 14:03:26 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 14:03:26 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 14:03:26 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 14:03:26 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 14:03:26 - info ] Holidays loaded
+[2023.12.08 14:03:26 - info ] Hot rules loaded
+[2023.12.08 14:03:26 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 14:03:26 - info ] Running mode: Production
+[2023.12.08 14:03:26 - info ] 38 fee templates loaded
+[2023.12.08 14:03:26 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 14:03:26 - info ] Engine task poolsize is 0
+[2023.12.08 14:03:26 - info ] Resampled bars will be aligned by section:  not
+[2023.12.08 14:05:48 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 14:05:48 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 14:05:48 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.08 14:05:48 - info ] Trading sessions loaded
+[2023.12.08 14:05:48 - warning] No session configured for CFFEX.TL
+[2023.12.08 14:05:48 - warning] No session configured for CZCE.PX
+[2023.12.08 14:05:48 - warning] No session configured for CZCE.SH
+[2023.12.08 14:05:48 - warning] No session configured for GFEX.lc
+[2023.12.08 14:05:48 - warning] No session configured for GFEX.si
+[2023.12.08 14:05:48 - warning] No session configured for INE.ec
+[2023.12.08 14:05:48 - warning] No session configured for SHFE.ao
+[2023.12.08 14:05:48 - warning] No session configured for SHFE.br
+[2023.12.08 14:05:48 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 14:05:48 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 14:05:48 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 14:05:48 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 14:05:48 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 14:05:48 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 14:05:48 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 14:05:48 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 14:05:48 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 14:05:48 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 14:05:48 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 14:05:48 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 14:05:48 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 14:05:48 - info ] Holidays loaded
+[2023.12.08 14:05:48 - info ] Hot rules loaded
+[2023.12.08 14:05:48 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 14:05:48 - info ] Running mode: Production
+[2023.12.08 14:05:48 - info ] 0 fee templates loaded
+[2023.12.08 14:05:48 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 14:05:48 - info ] Engine task poolsize is 0
+[2023.12.08 14:05:48 - info ] Resampled bars will be aligned by section:  no
+[2023.12.08 14:05:48 - info ] Force to cache bars: yes
+[2023.12.08 14:05:48 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.08 14:05:48 - info ] No adjusting factor file configured, loading skipped
+[2023.12.08 14:05:48 - info ] Data manager initialized
+[2023.12.08 14:05:48 - info ] Action policies initialized
+[2023.12.08 14:05:48 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.08 14:05:48 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.08 14:05:48 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.08 14:05:48 - info ] 1 parsers loaded
+[2023.12.08 14:05:48 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.08 14:05:48 - info ] [openctp] Risk control rule default of trading channel loaded
+[2023.12.08 14:05:48 - info ] [openctp] Trader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.08 14:05:48 - info ] 1 traders loaded
+[2023.12.08 14:05:48 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.08 14:05:48 - info ] Reading executer config from executers.yaml...
+[2023.12.08 14:05:48 - info ] Executer factory WtExeFact loaded
+[2023.12.08 14:05:48 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.08 14:05:48 - info ] 1 executers loaded
+[2023.12.08 14:05:48 - info ] 1 parsers started
+[2023.12.08 14:07:46 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 14:07:46 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 14:07:46 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.08 14:07:46 - info ] Trading sessions loaded
+[2023.12.08 14:07:46 - warning] No session configured for CFFEX.TL
+[2023.12.08 14:07:46 - warning] No session configured for CZCE.PX
+[2023.12.08 14:07:46 - warning] No session configured for CZCE.SH
+[2023.12.08 14:07:46 - warning] No session configured for GFEX.lc
+[2023.12.08 14:07:46 - warning] No session configured for GFEX.si
+[2023.12.08 14:07:46 - warning] No session configured for INE.ec
+[2023.12.08 14:07:46 - warning] No session configured for SHFE.ao
+[2023.12.08 14:07:46 - warning] No session configured for SHFE.br
+[2023.12.08 14:07:46 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 14:07:46 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 14:07:46 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 14:07:46 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 14:07:46 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 14:07:46 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 14:07:46 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 14:07:46 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 14:07:46 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 14:07:46 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 14:07:46 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 14:07:46 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 14:07:46 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 14:07:46 - info ] Holidays loaded
+[2023.12.08 14:07:46 - info ] Hot rules loaded
+[2023.12.08 14:07:46 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 14:07:46 - info ] Running mode: Production
+[2023.12.08 14:07:46 - info ] 0 fee templates loaded
+[2023.12.08 14:07:46 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 14:07:46 - info ] Engine task poolsize is 0
+[2023.12.08 14:07:46 - info ] Resampled bars will be aligned by section:  no
+[2023.12.08 14:07:46 - info ] Force to cache bars: yes
+[2023.12.08 14:07:46 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.08 14:07:46 - info ] No adjusting factor file configured, loading skipped
+[2023.12.08 14:07:46 - info ] Data manager initialized
+[2023.12.08 14:07:46 - info ] Action policies initialized
+[2023.12.08 14:07:46 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.08 14:07:46 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.08 14:07:46 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.08 14:07:46 - info ] 1 parsers loaded
+[2023.12.08 14:07:46 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.08 14:07:46 - info ] [openctp] Risk control rule default of trading channel loaded
+[2023.12.08 14:07:46 - info ] [openctp] Trader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.08 14:07:46 - info ] 1 traders loaded
+[2023.12.08 14:07:46 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.08 14:07:46 - info ] Reading executer config from executers.yaml...
+[2023.12.08 14:07:46 - info ] Executer factory WtExeFact loaded
+[2023.12.08 14:07:46 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.08 14:07:46 - info ] 1 executers loaded
+[2023.12.08 14:07:46 - info ] 1 parsers started
+[2023.12.08 14:10:20 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 14:10:20 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 14:10:20 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.08 14:10:20 - info ] Trading sessions loaded
+[2023.12.08 14:10:20 - warning] No session configured for CFFEX.TL
+[2023.12.08 14:10:20 - warning] No session configured for CZCE.PX
+[2023.12.08 14:10:20 - warning] No session configured for CZCE.SH
+[2023.12.08 14:10:20 - warning] No session configured for GFEX.lc
+[2023.12.08 14:10:20 - warning] No session configured for GFEX.si
+[2023.12.08 14:10:20 - warning] No session configured for INE.ec
+[2023.12.08 14:10:20 - warning] No session configured for SHFE.ao
+[2023.12.08 14:10:20 - warning] No session configured for SHFE.br
+[2023.12.08 14:10:20 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 14:10:20 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 14:10:20 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 14:10:20 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 14:10:20 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 14:10:20 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 14:10:20 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 14:10:20 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 14:10:20 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 14:10:20 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 14:10:20 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 14:10:20 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 14:10:20 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 14:10:20 - info ] Holidays loaded
+[2023.12.08 14:10:20 - info ] Hot rules loaded
+[2023.12.08 14:10:20 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 14:10:20 - info ] Running mode: Production
+[2023.12.08 14:10:20 - info ] 0 fee templates loaded
+[2023.12.08 14:10:20 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 14:10:20 - info ] Engine task poolsize is 0
+[2023.12.08 14:10:20 - info ] Resampled bars will be aligned by section:  no
+[2023.12.08 14:10:20 - info ] Force to cache bars: yes
+[2023.12.08 14:10:20 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.08 14:10:20 - info ] No adjusting factor file configured, loading skipped
+[2023.12.08 14:10:20 - info ] Data manager initialized
+[2023.12.08 14:10:20 - info ] Action policies initialized
+[2023.12.08 14:10:20 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.08 14:10:20 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.08 14:10:20 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.08 14:10:20 - info ] 1 parsers loaded
+[2023.12.08 14:10:20 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.08 14:10:20 - info ] [openctp] Risk control rule default of trading channel loaded
+[2023.12.08 14:10:20 - info ] [openctp] Trader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.08 14:10:20 - info ] 1 traders loaded
+[2023.12.08 14:10:20 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.08 14:10:20 - info ] Reading executer config from executers.yaml...
+[2023.12.08 14:10:20 - info ] Executer factory WtExeFact loaded
+[2023.12.08 14:10:20 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.08 14:10:20 - info ] 1 executers loaded
+[2023.12.08 14:10:20 - info ] 1 parsers started
+[2023.12.08 14:10:31 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 14:10:31 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 14:10:31 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.08 14:10:31 - info ] Trading sessions loaded
+[2023.12.08 14:10:31 - warning] No session configured for CFFEX.TL
+[2023.12.08 14:10:31 - warning] No session configured for CZCE.PX
+[2023.12.08 14:10:31 - warning] No session configured for CZCE.SH
+[2023.12.08 14:10:31 - warning] No session configured for GFEX.lc
+[2023.12.08 14:10:31 - warning] No session configured for GFEX.si
+[2023.12.08 14:10:31 - warning] No session configured for INE.ec
+[2023.12.08 14:10:31 - warning] No session configured for SHFE.ao
+[2023.12.08 14:10:31 - warning] No session configured for SHFE.br
+[2023.12.08 14:10:31 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 14:10:31 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 14:10:31 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 14:10:31 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 14:10:31 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 14:10:31 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 14:10:31 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 14:10:31 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 14:10:31 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 14:10:31 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 14:10:31 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 14:10:31 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 14:10:31 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 14:10:31 - info ] Holidays loaded
+[2023.12.08 14:10:31 - info ] Hot rules loaded
+[2023.12.08 14:10:31 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 14:10:31 - info ] Running mode: Production
+[2023.12.08 14:10:31 - info ] 0 fee templates loaded
+[2023.12.08 14:10:31 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 14:10:31 - info ] Engine task poolsize is 0
+[2023.12.08 14:10:31 - info ] Resampled bars will be aligned by section:  no
+[2023.12.08 14:10:31 - info ] Force to cache bars: yes
+[2023.12.08 14:10:31 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.08 14:10:31 - info ] No adjusting factor file configured, loading skipped
+[2023.12.08 14:10:31 - info ] Data manager initialized
+[2023.12.08 14:10:31 - info ] Action policies initialized
+[2023.12.08 14:10:31 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.08 14:10:31 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.08 14:10:31 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.08 14:10:31 - info ] 1 parsers loaded
+[2023.12.08 14:10:31 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.08 14:10:31 - info ] [openctp] Risk control rule default of trading channel loaded
+[2023.12.08 14:10:31 - info ] [openctp] Trader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.08 14:10:31 - info ] 1 traders loaded
+[2023.12.08 14:10:31 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.08 14:10:31 - info ] Reading executer config from executers.yaml...
+[2023.12.08 14:10:31 - info ] Executer factory WtExeFact loaded
+[2023.12.08 14:10:31 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.08 14:10:31 - info ] 1 executers loaded
+[2023.12.08 14:10:31 - info ] 1 parsers started
+[2023.12.08 14:55:39 - info ] Callbacks of Extented Parser registration done
+[2023.12.08 14:55:39 - info ] Callbacks of Extented Executer registration done
+[2023.12.08 14:55:39 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.08 14:55:39 - info ] Trading sessions loaded
+[2023.12.08 14:55:39 - warning] No session configured for CFFEX.TL
+[2023.12.08 14:55:39 - warning] No session configured for CZCE.PX
+[2023.12.08 14:55:39 - warning] No session configured for CZCE.SH
+[2023.12.08 14:55:39 - warning] No session configured for GFEX.lc
+[2023.12.08 14:55:39 - warning] No session configured for GFEX.si
+[2023.12.08 14:55:39 - warning] No session configured for INE.ec
+[2023.12.08 14:55:39 - warning] No session configured for SHFE.ao
+[2023.12.08 14:55:39 - warning] No session configured for SHFE.br
+[2023.12.08 14:55:39 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.08 14:55:39 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.08 14:55:39 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.08 14:55:39 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.08 14:55:39 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.08 14:55:39 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.08 14:55:39 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.08 14:55:39 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.08 14:55:39 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.08 14:55:39 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.08 14:55:39 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.08 14:55:39 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.08 14:55:39 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.08 14:55:39 - info ] Holidays loaded
+[2023.12.08 14:55:39 - info ] Hot rules loaded
+[2023.12.08 14:55:39 - info ] Trading environment initialized, engine name: CTA
+[2023.12.08 14:55:39 - info ] Running mode: Production
+[2023.12.08 14:55:39 - info ] 0 fee templates loaded
+[2023.12.08 14:55:39 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.08 14:55:39 - info ] Engine task poolsize is 0
+[2023.12.08 14:55:39 - info ] Resampled bars will be aligned by section:  no
+[2023.12.08 14:55:39 - info ] Force to cache bars: yes
+[2023.12.08 14:55:39 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.08 14:55:39 - info ] No adjusting factor file configured, loading skipped
+[2023.12.08 14:55:39 - info ] Data manager initialized
+[2023.12.08 14:55:39 - info ] Action policies initialized
+[2023.12.08 14:55:39 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.08 14:55:39 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.08 14:55:39 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.08 14:55:39 - info ] 1 parsers loaded
+[2023.12.08 14:55:39 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.08 14:55:39 - info ] [openctp] Risk control rule default of trading channel loaded
+[2023.12.08 14:55:39 - info ] [openctp] Trader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.08 14:55:39 - info ] 1 traders loaded
+[2023.12.08 14:55:39 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.08 14:55:39 - info ] Reading executer config from executers.yaml...
+[2023.12.08 14:55:39 - info ] Executer factory WtExeFact loaded
+[2023.12.08 14:55:39 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.08 14:55:39 - info ] 1 executers loaded
+[2023.12.08 14:55:39 - info ] 1 parsers started

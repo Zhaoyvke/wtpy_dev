@@ -1,0 +1,19 @@
+basefiles:
+    commodity: ../common/commodities.json       #品种列表
+    contract: ../common/contracts_SPP.json       #合约列表
+    holiday: ../common/holidays.json            #节假日列表
+    hot: ../common/hots.json                    #主力合约映射表
+    session: ../common/sessions.json            #交易时间模板
+data:
+    store:
+        path: ../storage
+env:
+    fees: ../common/fees.json
+    filters: filters.yaml
+    mode: product
+    name: hft
+    product:
+        session: TRADING
+parsers: tdparsers.yaml
+traders: tdtraders.yaml
+bspolicy: actpolicy.yaml

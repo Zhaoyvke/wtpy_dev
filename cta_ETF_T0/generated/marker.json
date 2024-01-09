@@ -1,0 +1,12 @@
+{
+    "marks": [
+        "T0_LXY_510050"
+    ],
+    "channels": [
+        "dw_etf"
+    ],
+    "executers": [
+        "exec_dw_etf"
+    ],
+    "engine": "CTA"
+}

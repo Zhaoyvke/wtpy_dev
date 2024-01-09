@@ -1,0 +1,7 @@
+[2023.12.18 10:49:07 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.18 10:49:07 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.18 15:06:13 - debug] [ParserUDP] 1000 ticks received in total
+[2023.12.18 16:37:51 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.18 16:37:51 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.18 16:58:50 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.18 16:58:50 - info ] [parserUDP] Parser initialzied, check_time: false

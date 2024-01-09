@@ -1,0 +1,566 @@
+[2023.08.29 09:25:08 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 09:25:08 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 09:31:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:31:00 - debug] Strategy T0_LXY_159901 scheduled @ 931
+[2023.08.29 09:32:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:32:00 - info ] 933 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:32:00 - debug] Strategy T0_LXY_159901 scheduled @ 932
+[2023.08.29 09:33:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:33:00 - info ] 934 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:33:00 - debug] Strategy T0_LXY_159901 scheduled @ 933
+[2023.08.29 09:34:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:34:00 - info ] 934 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:34:00 - debug] Strategy T0_LXY_159901 scheduled @ 934
+[2023.08.29 09:35:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:35:00 - info ] 936 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:35:00 - debug] Strategy T0_LXY_159901 scheduled @ 935
+[2023.08.29 09:36:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:36:00 - info ] 937 set SZSE.ETF.159901 position 0.0
+[2023.08.29 09:36:00 - debug] Strategy T0_LXY_159901 scheduled @ 936
+[2023.08.29 09:37:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:37:00 - info ] 938 set SZSE.ETF.159901 position 0.0
+[2023.08.29 09:37:00 - debug] Strategy T0_LXY_159901 scheduled @ 937
+[2023.08.29 09:38:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:38:00 - info ] 939 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:38:00 - debug] Strategy T0_LXY_159901 scheduled @ 938
+[2023.08.29 09:39:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:39:00 - info ] 939 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:39:00 - debug] Strategy T0_LXY_159901 scheduled @ 939
+[2023.08.29 09:40:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:40:00 - info ] 940 set SZSE.ETF.159901 position 0.0
+[2023.08.29 09:40:00 - debug] Strategy T0_LXY_159901 scheduled @ 940
+[2023.08.29 09:41:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:41:00 - info ] 941 set SZSE.ETF.159901 position 0.0
+[2023.08.29 09:41:00 - debug] Strategy T0_LXY_159901 scheduled @ 941
+[2023.08.29 09:42:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:42:00 - info ] 942 set SZSE.ETF.159901 position 0.0
+[2023.08.29 09:42:00 - debug] Strategy T0_LXY_159901 scheduled @ 942
+[2023.08.29 09:43:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:43:00 - info ] 943 set SZSE.ETF.159901 position -0.0
+[2023.08.29 09:43:00 - debug] Strategy T0_LXY_159901 scheduled @ 943
+[2023.08.29 09:44:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 09:44:00 - info ] 945 set SZSE.ETF.159901 position 100.0
+[2023.08.29 09:44:00 - debug] Strategy T0_LXY_159901 scheduled @ 944
+[2023.08.29 10:02:14 - info ] Position confirmed,SZSE.ETF.159901 -> 100
+[2023.08.29 10:02:14 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:02:14 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 10:02:14 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 100
+[2023.08.29 10:02:14 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:02:14 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 10:02:14 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:03:13 - info ] Position confirmed,SZSE.ETF.159901 -> 100
+[2023.08.29 10:03:13 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:03:13 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 10:03:13 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 100
+[2023.08.29 10:03:13 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:03:13 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 10:03:13 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:04:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:04:00 - info ] 1004 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:04:00 - debug] Strategy T0_LXY_159901 scheduled @ 1004
+[2023.08.29 10:05:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:05:00 - info ] 1005 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:05:00 - debug] Strategy T0_LXY_159901 scheduled @ 1005
+[2023.08.29 10:06:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:06:00 - info ] 1006 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:06:00 - debug] Strategy T0_LXY_159901 scheduled @ 1006
+[2023.08.29 10:07:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:07:00 - info ] 1007 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:07:00 - debug] Strategy T0_LXY_159901 scheduled @ 1007
+[2023.08.29 10:08:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:08:00 - info ] 1008 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:08:00 - debug] Strategy T0_LXY_159901 scheduled @ 1008
+[2023.08.29 10:09:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:09:00 - info ] 1010 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:09:00 - debug] Strategy T0_LXY_159901 scheduled @ 1009
+[2023.08.29 10:10:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:10:00 - info ] 1010 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:10:00 - debug] Strategy T0_LXY_159901 scheduled @ 1010
+[2023.08.29 10:11:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:11:00 - info ] 1011 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:11:00 - debug] Strategy T0_LXY_159901 scheduled @ 1011
+[2023.08.29 10:12:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:12:00 - info ] 1012 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:12:00 - debug] Strategy T0_LXY_159901 scheduled @ 1012
+[2023.08.29 10:13:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:13:00 - info ] 1013 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:13:00 - debug] Strategy T0_LXY_159901 scheduled @ 1013
+[2023.08.29 10:14:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:14:00 - info ] 1015 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:14:00 - debug] Strategy T0_LXY_159901 scheduled @ 1014
+[2023.08.29 10:15:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:15:00 - info ] 1016 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:15:00 - debug] Strategy T0_LXY_159901 scheduled @ 1015
+[2023.08.29 10:16:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:16:00 - info ] 1017 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:16:00 - debug] Strategy T0_LXY_159901 scheduled @ 1016
+[2023.08.29 10:17:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:17:00 - info ] 1018 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:17:00 - debug] Strategy T0_LXY_159901 scheduled @ 1017
+[2023.08.29 10:18:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:18:00 - info ] 1019 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:18:00 - debug] Strategy T0_LXY_159901 scheduled @ 1018
+[2023.08.29 10:19:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:19:00 - info ] 1020 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:19:00 - debug] Strategy T0_LXY_159901 scheduled @ 1019
+[2023.08.29 10:20:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:20:00 - info ] 1021 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:20:00 - debug] Strategy T0_LXY_159901 scheduled @ 1020
+[2023.08.29 10:21:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:21:00 - info ] 1022 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:21:00 - debug] Strategy T0_LXY_159901 scheduled @ 1021
+[2023.08.29 10:22:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:22:00 - info ] 1023 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:22:00 - debug] Strategy T0_LXY_159901 scheduled @ 1022
+[2023.08.29 10:23:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:23:00 - info ] 1024 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:23:00 - debug] Strategy T0_LXY_159901 scheduled @ 1023
+[2023.08.29 10:23:00 - info ] Strategy has been scheduled 20 times, totally taking 3538922 us, 176946.100 us each time
+[2023.08.29 10:24:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:24:00 - info ] 1025 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:24:00 - debug] Strategy T0_LXY_159901 scheduled @ 1024
+[2023.08.29 10:25:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:25:00 - info ] 1026 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:25:00 - debug] Strategy T0_LXY_159901 scheduled @ 1025
+[2023.08.29 10:26:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:26:00 - info ] 1027 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:26:00 - debug] Strategy T0_LXY_159901 scheduled @ 1026
+[2023.08.29 10:27:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:27:00 - info ] 1028 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:27:00 - debug] Strategy T0_LXY_159901 scheduled @ 1027
+[2023.08.29 10:28:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:28:00 - info ] 1029 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:28:00 - debug] Strategy T0_LXY_159901 scheduled @ 1028
+[2023.08.29 10:29:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:29:00 - info ] 1030 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:29:00 - debug] Strategy T0_LXY_159901 scheduled @ 1029
+[2023.08.29 10:30:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:30:00 - info ] 1031 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:30:00 - debug] Strategy T0_LXY_159901 scheduled @ 1030
+[2023.08.29 10:31:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:31:00 - info ] 1032 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:31:00 - debug] Strategy T0_LXY_159901 scheduled @ 1031
+[2023.08.29 10:32:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:32:00 - info ] 1033 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:32:00 - debug] Strategy T0_LXY_159901 scheduled @ 1032
+[2023.08.29 10:33:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:33:00 - info ] 1034 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:33:00 - debug] Strategy T0_LXY_159901 scheduled @ 1033
+[2023.08.29 10:34:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:34:00 - info ] 1035 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:34:00 - debug] Strategy T0_LXY_159901 scheduled @ 1034
+[2023.08.29 10:35:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:35:00 - info ] 1036 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:35:00 - debug] Strategy T0_LXY_159901 scheduled @ 1035
+[2023.08.29 10:36:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:36:00 - info ] 1037 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:36:00 - debug] Strategy T0_LXY_159901 scheduled @ 1036
+[2023.08.29 10:37:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:37:00 - info ] 1038 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:37:00 - debug] Strategy T0_LXY_159901 scheduled @ 1037
+[2023.08.29 10:38:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:38:00 - info ] 1039 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:38:00 - debug] Strategy T0_LXY_159901 scheduled @ 1038
+[2023.08.29 10:39:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:39:00 - info ] 1040 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:39:00 - debug] Strategy T0_LXY_159901 scheduled @ 1039
+[2023.08.29 10:40:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:40:00 - info ] 1041 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:40:00 - debug] Strategy T0_LXY_159901 scheduled @ 1040
+[2023.08.29 10:41:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:41:00 - info ] 1042 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:41:00 - debug] Strategy T0_LXY_159901 scheduled @ 1041
+[2023.08.29 10:42:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:42:00 - info ] 1043 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:42:00 - debug] Strategy T0_LXY_159901 scheduled @ 1042
+[2023.08.29 10:43:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:43:00 - info ] 1044 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:43:00 - debug] Strategy T0_LXY_159901 scheduled @ 1043
+[2023.08.29 10:43:00 - info ] Strategy has been scheduled 40 times, totally taking 7487438 us, 187185.950 us each time
+[2023.08.29 10:44:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:44:00 - info ] 1045 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:44:00 - debug] Strategy T0_LXY_159901 scheduled @ 1044
+[2023.08.29 10:45:21 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 10:45:21 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: -0
+[2023.08.29 10:45:21 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:45:21 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 10:45:21 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:45:40 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 10:45:40 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: -0
+[2023.08.29 10:45:40 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:45:40 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 10:45:40 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 10:46:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:46:00 - info ] 1047 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:46:00 - debug] Strategy T0_LXY_159901 scheduled @ 1046
+[2023.08.29 10:47:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:47:00 - info ] 1048 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:47:00 - debug] Strategy T0_LXY_159901 scheduled @ 1047
+[2023.08.29 10:48:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:48:00 - info ] 1049 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:48:00 - debug] Strategy T0_LXY_159901 scheduled @ 1048
+[2023.08.29 10:49:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:49:00 - info ] 1050 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:49:00 - debug] Strategy T0_LXY_159901 scheduled @ 1049
+[2023.08.29 10:50:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:50:00 - info ] 1051 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:50:00 - debug] Strategy T0_LXY_159901 scheduled @ 1050
+[2023.08.29 10:51:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:51:00 - info ] 1052 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:51:00 - debug] Strategy T0_LXY_159901 scheduled @ 1051
+[2023.08.29 10:52:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:52:00 - info ] 1053 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:52:00 - debug] Strategy T0_LXY_159901 scheduled @ 1052
+[2023.08.29 10:53:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:53:00 - info ] 1054 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:53:00 - debug] Strategy T0_LXY_159901 scheduled @ 1053
+[2023.08.29 10:54:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:54:00 - info ] 1054 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:54:00 - debug] Strategy T0_LXY_159901 scheduled @ 1054
+[2023.08.29 10:55:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:55:00 - info ] 1055 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:55:00 - debug] Strategy T0_LXY_159901 scheduled @ 1055
+[2023.08.29 10:56:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:56:00 - info ] 1057 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:56:00 - debug] Strategy T0_LXY_159901 scheduled @ 1056
+[2023.08.29 10:57:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:57:00 - info ] 1058 set SZSE.ETF.159901 position -0.0
+[2023.08.29 10:57:00 - debug] Strategy T0_LXY_159901 scheduled @ 1057
+[2023.08.29 10:58:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:58:00 - info ] 1059 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:58:00 - debug] Strategy T0_LXY_159901 scheduled @ 1058
+[2023.08.29 10:59:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 10:59:00 - info ] 1059 set SZSE.ETF.159901 position 0.0
+[2023.08.29 10:59:00 - debug] Strategy T0_LXY_159901 scheduled @ 1059
+[2023.08.29 11:00:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:00:00 - info ] 1101 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:00:00 - debug] Strategy T0_LXY_159901 scheduled @ 1100
+[2023.08.29 11:01:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:01:00 - info ] 1102 set SZSE.ETF.159901 position -0.0
+[2023.08.29 11:01:00 - debug] Strategy T0_LXY_159901 scheduled @ 1101
+[2023.08.29 11:02:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:02:00 - info ] 1102 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:02:00 - debug] Strategy T0_LXY_159901 scheduled @ 1102
+[2023.08.29 11:03:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:03:00 - info ] 1103 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:03:00 - debug] Strategy T0_LXY_159901 scheduled @ 1103
+[2023.08.29 11:04:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:04:00 - info ] 1104 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:04:00 - debug] Strategy T0_LXY_159901 scheduled @ 1104
+[2023.08.29 11:05:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:05:00 - info ] 1106 set SZSE.ETF.159901 position -0.0
+[2023.08.29 11:05:00 - debug] Strategy T0_LXY_159901 scheduled @ 1105
+[2023.08.29 11:05:00 - info ] Strategy has been scheduled 20 times, totally taking 4083530 us, 204176.500 us each time
+[2023.08.29 11:06:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:06:00 - info ] 1107 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:06:00 - debug] Strategy T0_LXY_159901 scheduled @ 1106
+[2023.08.29 11:07:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:07:00 - info ] 1108 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:07:00 - debug] Strategy T0_LXY_159901 scheduled @ 1107
+[2023.08.29 11:08:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:08:00 - info ] 1109 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:08:00 - debug] Strategy T0_LXY_159901 scheduled @ 1108
+[2023.08.29 11:09:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:09:00 - debug] Strategy T0_LXY_159901 scheduled @ 1109
+[2023.08.29 11:10:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:10:00 - info ] 1110 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:10:00 - debug] Strategy T0_LXY_159901 scheduled @ 1110
+[2023.08.29 11:11:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:11:00 - info ] 1112 set SZSE.ETF.159901 position -0.0
+[2023.08.29 11:11:00 - debug] Strategy T0_LXY_159901 scheduled @ 1111
+[2023.08.29 11:12:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:12:00 - info ] 1112 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:12:00 - debug] Strategy T0_LXY_159901 scheduled @ 1112
+[2023.08.29 11:13:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:13:00 - info ] 1113 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:13:00 - debug] Strategy T0_LXY_159901 scheduled @ 1113
+[2023.08.29 11:14:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:14:00 - info ] 1114 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:14:00 - debug] Strategy T0_LXY_159901 scheduled @ 1114
+[2023.08.29 11:15:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:15:00 - info ] 1116 set SZSE.ETF.159901 position -0.0
+[2023.08.29 11:15:00 - debug] Strategy T0_LXY_159901 scheduled @ 1115
+[2023.08.29 11:16:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:16:00 - info ] 1116 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:16:00 - debug] Strategy T0_LXY_159901 scheduled @ 1116
+[2023.08.29 11:17:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:17:00 - info ] 1117 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:17:00 - debug] Strategy T0_LXY_159901 scheduled @ 1117
+[2023.08.29 11:18:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:18:00 - info ] 1118 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:18:00 - debug] Strategy T0_LXY_159901 scheduled @ 1118
+[2023.08.29 11:19:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:19:00 - info ] 1120 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:19:00 - debug] Strategy T0_LXY_159901 scheduled @ 1119
+[2023.08.29 11:20:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:20:00 - info ] 1121 set SZSE.ETF.159901 position -0.0
+[2023.08.29 11:20:00 - debug] Strategy T0_LXY_159901 scheduled @ 1120
+[2023.08.29 11:21:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:21:00 - info ] 1122 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:21:00 - debug] Strategy T0_LXY_159901 scheduled @ 1121
+[2023.08.29 11:22:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:22:00 - debug] Strategy T0_LXY_159901 scheduled @ 1122
+[2023.08.29 11:23:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:23:00 - info ] 1124 set SZSE.ETF.159901 position -0.0
+[2023.08.29 11:23:00 - debug] Strategy T0_LXY_159901 scheduled @ 1123
+[2023.08.29 11:24:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:24:00 - info ] 1125 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:24:00 - debug] Strategy T0_LXY_159901 scheduled @ 1124
+[2023.08.29 11:25:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:25:00 - info ] 1126 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:25:00 - debug] Strategy T0_LXY_159901 scheduled @ 1125
+[2023.08.29 11:25:00 - info ] Strategy has been scheduled 40 times, totally taking 7899238 us, 197480.950 us each time
+[2023.08.29 11:26:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:26:00 - info ] 1126 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:26:00 - debug] Strategy T0_LXY_159901 scheduled @ 1126
+[2023.08.29 11:27:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:27:00 - info ] 1128 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:27:00 - debug] Strategy T0_LXY_159901 scheduled @ 1127
+[2023.08.29 11:28:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:28:00 - info ] 1129 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:28:00 - debug] Strategy T0_LXY_159901 scheduled @ 1128
+[2023.08.29 11:29:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:29:00 - info ] 1129 set SZSE.ETF.159901 position 0.0
+[2023.08.29 11:29:00 - debug] Strategy T0_LXY_159901 scheduled @ 1129
+[2023.08.29 11:30:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 11:30:00 - info ] 1130 set SZSE.ETF.159901 position 1000.0
+[2023.08.29 11:30:00 - debug] Strategy T0_LXY_159901 scheduled @ 1130
+[2023.08.29 13:42:39 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 13:42:39 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:42:39 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 13:42:39 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 13:42:39 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:42:39 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 13:42:39 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:46:30 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 13:46:30 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:46:30 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 13:46:30 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 13:46:30 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:46:30 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 13:46:30 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:47:44 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 13:47:44 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:47:44 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 13:47:44 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 13:47:44 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:47:44 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 13:47:44 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:59:19 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 13:59:19 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:59:19 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 13:59:19 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 13:59:19 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 13:59:19 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 13:59:19 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:00:07 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 14:00:07 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:00:07 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:00:07 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 14:00:07 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:00:07 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:00:07 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:08:08 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 14:08:08 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:08:08 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:08:08 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 14:08:08 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:08:08 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:08:08 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:08:33 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 14:08:33 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:08:33 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:08:33 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 14:08:33 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:08:33 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:08:33 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:09:52 - info ] Position confirmed,SZSE.ETF.159901 -> 1000
+[2023.08.29 14:09:52 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:09:52 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:09:52 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 1000
+[2023.08.29 14:09:52 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:09:52 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:09:52 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:10:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:10:00 - info ] 1410 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:10:00 - debug] Strategy T0_LXY_159901 scheduled @ 1410
+[2023.08.29 14:10:46 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:10:46 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: -0
+[2023.08.29 14:10:46 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:10:46 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:10:46 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:11:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:11:00 - info ] 1411 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:11:00 - debug] Strategy T0_LXY_159901 scheduled @ 1411
+[2023.08.29 14:12:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:12:00 - info ] 1412 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:12:00 - debug] Strategy T0_LXY_159901 scheduled @ 1412
+[2023.08.29 14:13:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:13:00 - info ] 1413 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:13:00 - debug] Strategy T0_LXY_159901 scheduled @ 1413
+[2023.08.29 14:14:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:14:00 - info ] 1414 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:14:00 - debug] Strategy T0_LXY_159901 scheduled @ 1414
+[2023.08.29 14:15:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:15:00 - info ] 1415 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:15:00 - debug] Strategy T0_LXY_159901 scheduled @ 1415
+[2023.08.29 14:16:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:16:00 - info ] 1416 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:16:00 - debug] Strategy T0_LXY_159901 scheduled @ 1416
+[2023.08.29 14:17:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:17:00 - info ] 1417 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:17:00 - debug] Strategy T0_LXY_159901 scheduled @ 1417
+[2023.08.29 14:18:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:18:00 - info ] 1418 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:18:00 - debug] Strategy T0_LXY_159901 scheduled @ 1418
+[2023.08.29 14:19:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:19:00 - info ] 1419 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:19:00 - debug] Strategy T0_LXY_159901 scheduled @ 1419
+[2023.08.29 14:20:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:20:00 - info ] 1420 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:20:00 - debug] Strategy T0_LXY_159901 scheduled @ 1420
+[2023.08.29 14:21:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:21:00 - info ] 1421 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:21:00 - debug] Strategy T0_LXY_159901 scheduled @ 1421
+[2023.08.29 14:22:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:22:00 - info ] 1422 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:22:00 - debug] Strategy T0_LXY_159901 scheduled @ 1422
+[2023.08.29 14:23:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:23:00 - info ] 1423 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:23:00 - debug] Strategy T0_LXY_159901 scheduled @ 1423
+[2023.08.29 14:24:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:24:00 - info ] 1424 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:24:00 - debug] Strategy T0_LXY_159901 scheduled @ 1424
+[2023.08.29 14:25:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:25:00 - info ] 1425 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:25:00 - debug] Strategy T0_LXY_159901 scheduled @ 1425
+[2023.08.29 14:26:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:26:00 - info ] 1426 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:26:00 - debug] Strategy T0_LXY_159901 scheduled @ 1426
+[2023.08.29 14:27:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:27:00 - info ] 1427 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:27:00 - debug] Strategy T0_LXY_159901 scheduled @ 1427
+[2023.08.29 14:28:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:28:00 - info ] 1429 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:28:00 - debug] Strategy T0_LXY_159901 scheduled @ 1428
+[2023.08.29 14:29:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:29:00 - info ] 1430 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:29:01 - debug] Strategy T0_LXY_159901 scheduled @ 1429
+[2023.08.29 14:30:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:30:01 - info ] 1431 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:30:01 - debug] Strategy T0_LXY_159901 scheduled @ 1430
+[2023.08.29 14:30:01 - info ] Strategy has been scheduled 20 times, totally taking 4993853 us, 249692.650 us each time
+[2023.08.29 14:31:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:31:00 - info ] 1432 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:31:00 - debug] Strategy T0_LXY_159901 scheduled @ 1431
+[2023.08.29 14:32:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:32:00 - info ] 1432 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:32:00 - debug] Strategy T0_LXY_159901 scheduled @ 1432
+[2023.08.29 14:33:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:33:00 - info ] 1434 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:33:00 - debug] Strategy T0_LXY_159901 scheduled @ 1433
+[2023.08.29 14:34:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:34:00 - info ] 1435 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:34:00 - debug] Strategy T0_LXY_159901 scheduled @ 1434
+[2023.08.29 14:35:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:35:00 - info ] 1436 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:35:00 - debug] Strategy T0_LXY_159901 scheduled @ 1435
+[2023.08.29 14:36:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:36:00 - info ] 1437 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:36:00 - debug] Strategy T0_LXY_159901 scheduled @ 1436
+[2023.08.29 14:37:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:37:00 - info ] 1438 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:37:00 - debug] Strategy T0_LXY_159901 scheduled @ 1437
+[2023.08.29 14:38:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:38:00 - info ] 1439 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:38:00 - debug] Strategy T0_LXY_159901 scheduled @ 1438
+[2023.08.29 14:39:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:39:00 - info ] 1440 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:39:00 - debug] Strategy T0_LXY_159901 scheduled @ 1439
+[2023.08.29 14:40:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:40:01 - info ] 1441 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:40:01 - debug] Strategy T0_LXY_159901 scheduled @ 1440
+[2023.08.29 14:41:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:41:00 - info ] 1442 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:41:00 - debug] Strategy T0_LXY_159901 scheduled @ 1441
+[2023.08.29 14:42:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:42:01 - info ] 1443 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:42:01 - debug] Strategy T0_LXY_159901 scheduled @ 1442
+[2023.08.29 14:43:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:43:00 - info ] 1444 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:43:00 - debug] Strategy T0_LXY_159901 scheduled @ 1443
+[2023.08.29 14:44:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:44:00 - info ] 1445 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:44:01 - debug] Strategy T0_LXY_159901 scheduled @ 1444
+[2023.08.29 14:45:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:45:00 - info ] 1446 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:45:00 - debug] Strategy T0_LXY_159901 scheduled @ 1445
+[2023.08.29 14:46:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:46:00 - info ] 1447 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:46:00 - debug] Strategy T0_LXY_159901 scheduled @ 1446
+[2023.08.29 14:47:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:47:00 - info ] 1448 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:47:00 - debug] Strategy T0_LXY_159901 scheduled @ 1447
+[2023.08.29 14:48:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:48:00 - info ] 1449 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:48:00 - debug] Strategy T0_LXY_159901 scheduled @ 1448
+[2023.08.29 14:49:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:49:00 - info ] 1450 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:49:00 - debug] Strategy T0_LXY_159901 scheduled @ 1449
+[2023.08.29 14:49:47 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:49:47 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 14:49:47 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:49:47 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:49:47 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:50:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:50:00 - info ] 1451 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:50:00 - debug] Strategy T0_LXY_159901 scheduled @ 1450
+[2023.08.29 14:50:00 - info ] Strategy has been scheduled 40 times, totally taking 17318118 us, 432952.950 us each time
+[2023.08.29 14:51:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:51:00 - info ] 1452 set SZSE.ETF.159901 position -0.0
+[2023.08.29 14:51:00 - debug] Strategy T0_LXY_159901 scheduled @ 1451
+[2023.08.29 14:52:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:52:00 - info ] 1453 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:52:00 - debug] Strategy T0_LXY_159901 scheduled @ 1452
+[2023.08.29 14:53:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:53:00 - info ] 1454 set SZSE.ETF.159901 position 0.0
+[2023.08.29 14:53:00 - debug] Strategy T0_LXY_159901 scheduled @ 1453
+[2023.08.29 14:54:00 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:54:00 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 14:54:00 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:54:00 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:54:00 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:54:20 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:54:20 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 14:54:20 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:54:20 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:54:20 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:55:25 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:55:25 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 14:55:25 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:55:25 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:55:25 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:57:29 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 14:57:29 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 14:57:29 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:57:29 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 14:57:29 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 14:58:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:58:00 - info ] 1459 set SZSE.ETF.159901 position 0
+[2023.08.29 14:58:00 - debug] Strategy T0_LXY_159901 scheduled @ 1458
+[2023.08.29 14:59:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 14:59:00 - info ] 1500 set SZSE.ETF.159901 position 0
+[2023.08.29 14:59:00 - debug] Strategy T0_LXY_159901 scheduled @ 1459
+[2023.08.29 15:00:00 - debug] Main KBars SZSE.ETF.159901#m1 closed
+[2023.08.29 15:00:00 - info ] 1500 set SZSE.ETF.159901 position 0
+[2023.08.29 15:00:00 - debug] Strategy T0_LXY_159901 scheduled @ 1500
+[2023.08.29 15:33:22 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 15:33:22 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 15:33:22 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 15:33:22 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 15:33:22 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 15:38:32 - info ] 0 conditions recovered, setup time: 0
+[2023.08.29 15:38:32 - info ] SZSE.ETF.159901 untouched signal recovered, target pos: 0
+[2023.08.29 15:38:32 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.29 15:38:32 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.29 15:38:32 - info ] Market data subscribed: SZSE.ETF.159901

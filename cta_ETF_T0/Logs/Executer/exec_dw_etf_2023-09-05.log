@@ -1,0 +1,1516 @@
+[2023.09.05 09:38:33 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.09.05 09:38:34 - info ] [exec_dw_etf]MiniImpactExecUnit SSE.ETF.510050 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.09.05 09:38:34 - info ] [exec_dw_etf]=================================channle ready==============================
+[2023.09.05 09:38:34 - info ] Target position of SSE.ETF.510050 changed: 0 -> 10000 : 10000 with scale1
+[2023.09.05 09:38:34 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:38:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:44 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877723860 <= 1693877922400, execute later
+[2023.09.05 09:38:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:38:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:00 - info ] Target position of SSE.ETF.510050 changed: 10000 -> 0 : 0 with scale1
+[2023.09.05 09:39:00 - info ] [exec_dw_etf]avaliable update 0->:4999999999900
+[2023.09.05 09:39:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877600210 <= 1693877940406, execute later
+[2023.09.05 09:39:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877744888 <= 1693877958401, execute later
+[2023.09.05 09:39:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877609220 <= 1693877964407, execute later
+[2023.09.05 09:39:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:38 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877756877 <= 1693877976405, execute later
+[2023.09.05 09:39:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877618310 <= 1693877985446, execute later
+[2023.09.05 09:39:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:39:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877621190 <= 1693877994452, execute later
+[2023.09.05 09:39:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:40:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:40:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:41:33 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.09.05 09:41:34 - info ] [exec_dw_etf]MiniImpactExecUnit SSE.ETF.510050 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.09.05 09:41:34 - info ] [exec_dw_etf]avaliable update 0->:4999999999900
+[2023.09.05 09:41:34 - info ] [exec_dw_etf]=================================channle ready==============================
+[2023.09.05 09:41:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877840851 <= 1693878111404, execute later
+[2023.09.05 09:41:57 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877663280 <= 1693878114383, execute later
+[2023.09.05 09:41:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877843845 <= 1693878117450, execute later
+[2023.09.05 09:42:00 - info ] Target position of SSE.ETF.510050 changed: 0 -> 10000 : 10000 with scale1
+[2023.09.05 09:42:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:42:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:42:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:02 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877846900 <= 1693878120407, execute later
+[2023.09.05 09:42:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877665680 <= 1693878123446, execute later
+[2023.09.05 09:42:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877849859 <= 1693878126432, execute later
+[2023.09.05 09:42:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877671590 <= 1693878141430, execute later
+[2023.09.05 09:42:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877861851 <= 1693878144383, execute later
+[2023.09.05 09:42:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877873888 <= 1693878165383, execute later
+[2023.09.05 09:42:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:42:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:43:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:43:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877888876 <= 1693878189383, execute later
+[2023.09.05 09:43:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877692500 <= 1693878189383, execute later
+[2023.09.05 09:43:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877897848 <= 1693878204383, execute later
+[2023.09.05 09:43:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:37 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877702310 <= 1693878216384, execute later
+[2023.09.05 09:43:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:43:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:44:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:44:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877711090 <= 1693878252387, execute later
+[2023.09.05 09:44:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877936864 <= 1693878264391, execute later
+[2023.09.05 09:44:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877719660 <= 1693878267393, execute later
+[2023.09.05 09:44:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:44 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877724760 <= 1693878282399, execute later
+[2023.09.05 09:44:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:44:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:45:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:45:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877960849 <= 1693878303408, execute later
+[2023.09.05 09:45:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:08 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877963847 <= 1693878306438, execute later
+[2023.09.05 09:45:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877738350 <= 1693878315385, execute later
+[2023.09.05 09:45:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877969840 <= 1693878315385, execute later
+[2023.09.05 09:45:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877741360 <= 1693878324390, execute later
+[2023.09.05 09:45:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877981846 <= 1693878333434, execute later
+[2023.09.05 09:45:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:38 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877747240 <= 1693878336430, execute later
+[2023.09.05 09:45:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877987893 <= 1693878339384, execute later
+[2023.09.05 09:45:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877753050 <= 1693878351368, execute later
+[2023.09.05 09:45:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:45:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:00 - info ] Target position of SSE.ETF.510050 changed: 10000 -> 0 : 0 with scale1
+[2023.09.05 09:46:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:46:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:11 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878005902 <= 1693878369381, execute later
+[2023.09.05 09:46:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:19 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877762290 <= 1693878378387, execute later
+[2023.09.05 09:46:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878017891 <= 1693878387383, execute later
+[2023.09.05 09:46:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878020885 <= 1693878390368, execute later
+[2023.09.05 09:46:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877771150 <= 1693878402384, execute later
+[2023.09.05 09:46:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877774080 <= 1693878411384, execute later
+[2023.09.05 09:46:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878038849 <= 1693878411384, execute later
+[2023.09.05 09:46:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:46:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:47:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877777310 <= 1693878420393, execute later
+[2023.09.05 09:47:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877786150 <= 1693878441397, execute later
+[2023.09.05 09:47:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878059885 <= 1693878441397, execute later
+[2023.09.05 09:47:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:47:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878080834 <= 1693878477424, execute later
+[2023.09.05 09:48:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:48:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877801270 <= 1693878480377, execute later
+[2023.09.05 09:48:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877810170 <= 1693878501385, execute later
+[2023.09.05 09:48:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878104839 <= 1693878513431, execute later
+[2023.09.05 09:48:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878107842 <= 1693878519430, execute later
+[2023.09.05 09:48:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878110844 <= 1693878525430, execute later
+[2023.09.05 09:48:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:48:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878119847 <= 1693878537375, execute later
+[2023.09.05 09:49:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:49:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878128872 <= 1693878552449, execute later
+[2023.09.05 09:49:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878134862 <= 1693878558437, execute later
+[2023.09.05 09:49:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878137895 <= 1693878561400, execute later
+[2023.09.05 09:49:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878143837 <= 1693878570375, execute later
+[2023.09.05 09:49:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877837370 <= 1693878570375, execute later
+[2023.09.05 09:49:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878146844 <= 1693878573414, execute later
+[2023.09.05 09:49:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878152842 <= 1693878579372, execute later
+[2023.09.05 09:49:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:49 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877840490 <= 1693878588386, execute later
+[2023.09.05 09:49:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:49:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:50:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878167884 <= 1693878600371, execute later
+[2023.09.05 09:50:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878170866 <= 1693878603430, execute later
+[2023.09.05 09:50:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878176908 <= 1693878609368, execute later
+[2023.09.05 09:50:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878179835 <= 1693878612372, execute later
+[2023.09.05 09:50:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878185829 <= 1693878615368, execute later
+[2023.09.05 09:50:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877854870 <= 1693878615368, execute later
+[2023.09.05 09:50:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877858040 <= 1693878624416, execute later
+[2023.09.05 09:50:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878194887 <= 1693878627368, execute later
+[2023.09.05 09:50:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878200856 <= 1693878633393, execute later
+[2023.09.05 09:50:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877864290 <= 1693878642425, execute later
+[2023.09.05 09:50:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:50:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:51:00 - info ] Target position of SSE.ETF.510050 changed: 0 -> 20000 : 20000 with scale1
+[2023.09.05 09:51:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 20000
+[2023.09.05 09:51:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:51:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877869770 <= 1693878660399, execute later
+[2023.09.05 09:51:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878227845 <= 1693878663383, execute later
+[2023.09.05 09:51:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878242832 <= 1693878684352, execute later
+[2023.09.05 09:51:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877885220 <= 1693878696372, execute later
+[2023.09.05 09:51:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:47 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878260871 <= 1693878705415, execute later
+[2023.09.05 09:51:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:51:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877890180 <= 1693878714369, execute later
+[2023.09.05 09:51:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 20000 hold:0 left 20000 wait to execute
+[2023.09.05 09:52:00 - info ] Target position of SSE.ETF.510050 changed: 20000 -> 10000 : 10000 with scale1
+[2023.09.05 09:52:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:52:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:52:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878272874 <= 1693878723374, execute later
+[2023.09.05 09:52:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878281840 <= 1693878732440, execute later
+[2023.09.05 09:52:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878290828 <= 1693878747396, execute later
+[2023.09.05 09:52:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878293827 <= 1693878750370, execute later
+[2023.09.05 09:52:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878296835 <= 1693878753410, execute later
+[2023.09.05 09:52:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:52:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:53:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:53:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878311832 <= 1693878780393, execute later
+[2023.09.05 09:53:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878317822 <= 1693878789388, execute later
+[2023.09.05 09:53:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877924160 <= 1693878798386, execute later
+[2023.09.05 09:53:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878338830 <= 1693878813416, execute later
+[2023.09.05 09:53:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878344831 <= 1693878819435, execute later
+[2023.09.05 09:53:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877932710 <= 1693878819435, execute later
+[2023.09.05 09:53:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:48 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877936070 <= 1693878828410, execute later
+[2023.09.05 09:53:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:53:57 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878356822 <= 1693878834358, execute later
+[2023.09.05 09:53:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:54:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:54:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:02 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878359857 <= 1693878840407, execute later
+[2023.09.05 09:54:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878365852 <= 1693878852452, execute later
+[2023.09.05 09:54:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878374826 <= 1693878867390, execute later
+[2023.09.05 09:54:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877950860 <= 1693878870358, execute later
+[2023.09.05 09:54:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877952370 <= 1693878879346, execute later
+[2023.09.05 09:54:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878386824 <= 1693878885361, execute later
+[2023.09.05 09:54:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:51 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878389821 <= 1693878891377, execute later
+[2023.09.05 09:54:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:54:54 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877960200 <= 1693878894366, execute later
+[2023.09.05 09:54:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:55:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:55:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878395881 <= 1693878900437, execute later
+[2023.09.05 09:55:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877968840 <= 1693878912371, execute later
+[2023.09.05 09:55:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877975250 <= 1693878927361, execute later
+[2023.09.05 09:55:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877977680 <= 1693878933363, execute later
+[2023.09.05 09:55:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:55:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:56:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:56:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877990400 <= 1693878960381, execute later
+[2023.09.05 09:56:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:05 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878434851 <= 1693878963380, execute later
+[2023.09.05 09:56:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:08 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877992440 <= 1693878966362, execute later
+[2023.09.05 09:56:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878437823 <= 1693878966362, execute later
+[2023.09.05 09:56:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:15 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878443875 <= 1693878975354, execute later
+[2023.09.05 09:56:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693877998960 <= 1693878981364, execute later
+[2023.09.05 09:56:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878000260 <= 1693878990480, execute later
+[2023.09.05 09:56:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:56:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:57:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:57:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878491816 <= 1693879050350, execute later
+[2023.09.05 09:57:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878029250 <= 1693879053412, execute later
+[2023.09.05 09:57:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:57:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878506828 <= 1693879074401, execute later
+[2023.09.05 09:57:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:58:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:58:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:02 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878043600 <= 1693879080403, execute later
+[2023.09.05 09:58:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:13 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878048760 <= 1693879092388, execute later
+[2023.09.05 09:58:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878518872 <= 1693879092388, execute later
+[2023.09.05 09:58:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878527813 <= 1693879104420, execute later
+[2023.09.05 09:58:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878530819 <= 1693879110369, execute later
+[2023.09.05 09:58:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:38 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878536813 <= 1693879116353, execute later
+[2023.09.05 09:58:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878542841 <= 1693879125544, execute later
+[2023.09.05 09:58:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:58:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 09:59:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 09:59:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:07 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878557875 <= 1693879146418, execute later
+[2023.09.05 09:59:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:11 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878071180 <= 1693879149456, execute later
+[2023.09.05 09:59:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878073900 <= 1693879158350, execute later
+[2023.09.05 09:59:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878569814 <= 1693879161349, execute later
+[2023.09.05 09:59:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:25 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878572862 <= 1693879164360, execute later
+[2023.09.05 09:59:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878575888 <= 1693879167411, execute later
+[2023.09.05 09:59:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:30 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878076390 <= 1693879170440, execute later
+[2023.09.05 09:59:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878578810 <= 1693879170440, execute later
+[2023.09.05 09:59:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878590811 <= 1693879182349, execute later
+[2023.09.05 09:59:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878083560 <= 1693879191443, execute later
+[2023.09.05 09:59:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 09:59:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:00:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:00:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878092140 <= 1693879206393, execute later
+[2023.09.05 10:00:07 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878605843 <= 1693879206393, execute later
+[2023.09.05 10:00:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878608816 <= 1693879209357, execute later
+[2023.09.05 10:00:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:13 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878095290 <= 1693879212353, execute later
+[2023.09.05 10:00:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878614809 <= 1693879218357, execute later
+[2023.09.05 10:00:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:25 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878617810 <= 1693879224344, execute later
+[2023.09.05 10:00:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878101010 <= 1693879224344, execute later
+[2023.09.05 10:00:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878104080 <= 1693879233351, execute later
+[2023.09.05 10:00:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:00:57 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878638870 <= 1693879257356, execute later
+[2023.09.05 10:00:59 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878111840 <= 1693879257356, execute later
+[2023.09.05 10:01:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:01:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:01:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878656819 <= 1693879281353, execute later
+[2023.09.05 10:01:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878124500 <= 1693879287351, execute later
+[2023.09.05 10:01:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878127920 <= 1693879302346, execute later
+[2023.09.05 10:01:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:01:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878135650 <= 1693879314342, execute later
+[2023.09.05 10:01:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:02:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:02:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878680818 <= 1693879323377, execute later
+[2023.09.05 10:02:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:13 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878144780 <= 1693879333457, execute later
+[2023.09.05 10:02:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:15 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878689813 <= 1693879335339, execute later
+[2023.09.05 10:02:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:19 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878148150 <= 1693879338341, execute later
+[2023.09.05 10:02:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878692823 <= 1693879338341, execute later
+[2023.09.05 10:02:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878695810 <= 1693879344346, execute later
+[2023.09.05 10:02:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878154580 <= 1693879350339, execute later
+[2023.09.05 10:02:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878160790 <= 1693879359342, execute later
+[2023.09.05 10:02:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:02:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878166560 <= 1693879374343, execute later
+[2023.09.05 10:02:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:03:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:03:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878171370 <= 1693879383382, execute later
+[2023.09.05 10:03:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:15 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878177590 <= 1693879395337, execute later
+[2023.09.05 10:03:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878183270 <= 1693879404440, execute later
+[2023.09.05 10:03:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878737803 <= 1693879407348, execute later
+[2023.09.05 10:03:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878196710 <= 1693879425335, execute later
+[2023.09.05 10:03:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878755815 <= 1693879431336, execute later
+[2023.09.05 10:03:54 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878202820 <= 1693879431336, execute later
+[2023.09.05 10:03:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:03:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878761807 <= 1693879437394, execute later
+[2023.09.05 10:04:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:04:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:04:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878764831 <= 1693879443370, execute later
+[2023.09.05 10:04:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878210160 <= 1693879446340, execute later
+[2023.09.05 10:04:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878770814 <= 1693879449387, execute later
+[2023.09.05 10:04:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878213380 <= 1693879452380, execute later
+[2023.09.05 10:04:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:37 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878227310 <= 1693879476346, execute later
+[2023.09.05 10:04:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:42 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878794807 <= 1693879479339, execute later
+[2023.09.05 10:04:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:42 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878230050 <= 1693879482341, execute later
+[2023.09.05 10:04:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:04:57 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878232840 <= 1693879497335, execute later
+[2023.09.05 10:05:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:05:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:05:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878236930 <= 1693879503378, execute later
+[2023.09.05 10:05:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:08 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878815840 <= 1693879506380, execute later
+[2023.09.05 10:05:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878244720 <= 1693879515365, execute later
+[2023.09.05 10:05:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878824811 <= 1693879518338, execute later
+[2023.09.05 10:05:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878827851 <= 1693879521343, execute later
+[2023.09.05 10:05:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878833806 <= 1693879527332, execute later
+[2023.09.05 10:05:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878251330 <= 1693879527332, execute later
+[2023.09.05 10:05:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:39 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878842799 <= 1693879539336, execute later
+[2023.09.05 10:05:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878256200 <= 1693879539336, execute later
+[2023.09.05 10:05:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:47 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878260190 <= 1693879545329, execute later
+[2023.09.05 10:05:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:49 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878848900 <= 1693879548345, execute later
+[2023.09.05 10:05:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878262770 <= 1693879551472, execute later
+[2023.09.05 10:05:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:05:59 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878265370 <= 1693879557343, execute later
+[2023.09.05 10:05:59 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878854799 <= 1693879557343, execute later
+[2023.09.05 10:06:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:06:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:06:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878860852 <= 1693879569335, execute later
+[2023.09.05 10:06:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:37 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878881800 <= 1693879596332, execute later
+[2023.09.05 10:06:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878884802 <= 1693879599400, execute later
+[2023.09.05 10:06:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:44 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878887795 <= 1693879602357, execute later
+[2023.09.05 10:06:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878286370 <= 1693879605338, execute later
+[2023.09.05 10:06:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:06:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878292660 <= 1693879617362, execute later
+[2023.09.05 10:07:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:07:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:07:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878902817 <= 1693879620364, execute later
+[2023.09.05 10:07:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878295690 <= 1693879623374, execute later
+[2023.09.05 10:07:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:08 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878905813 <= 1693879626363, execute later
+[2023.09.05 10:07:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878914799 <= 1693879644365, execute later
+[2023.09.05 10:07:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878920799 <= 1693879653321, execute later
+[2023.09.05 10:07:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:38 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878308290 <= 1693879656323, execute later
+[2023.09.05 10:07:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878311090 <= 1693879665362, execute later
+[2023.09.05 10:07:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878938794 <= 1693879671328, execute later
+[2023.09.05 10:07:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:07:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878941816 <= 1693879674332, execute later
+[2023.09.05 10:07:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:08:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:08:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878319780 <= 1693879686333, execute later
+[2023.09.05 10:08:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878328830 <= 1693879701342, execute later
+[2023.09.05 10:08:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878962817 <= 1693879701342, execute later
+[2023.09.05 10:08:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878331660 <= 1693879707339, execute later
+[2023.09.05 10:08:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878968804 <= 1693879710328, execute later
+[2023.09.05 10:08:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878974790 <= 1693879719321, execute later
+[2023.09.05 10:08:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878340570 <= 1693879725380, execute later
+[2023.09.05 10:08:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:49 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878983837 <= 1693879728356, execute later
+[2023.09.05 10:08:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878986806 <= 1693879731314, execute later
+[2023.09.05 10:08:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:08:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878347010 <= 1693879734341, execute later
+[2023.09.05 10:08:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:09:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:09:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878350340 <= 1693879740332, execute later
+[2023.09.05 10:09:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878998796 <= 1693879749317, execute later
+[2023.09.05 10:09:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:13 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879001794 <= 1693879752322, execute later
+[2023.09.05 10:09:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879004808 <= 1693879755376, execute later
+[2023.09.05 10:09:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:19 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879007807 <= 1693879758335, execute later
+[2023.09.05 10:09:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878358500 <= 1693879761319, execute later
+[2023.09.05 10:09:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879010879 <= 1693879761319, execute later
+[2023.09.05 10:09:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878362020 <= 1693879770317, execute later
+[2023.09.05 10:09:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:39 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879022892 <= 1693879779316, execute later
+[2023.09.05 10:09:39 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878363140 <= 1693879779316, execute later
+[2023.09.05 10:09:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879025804 <= 1693879782327, execute later
+[2023.09.05 10:09:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:47 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879028798 <= 1693879785317, execute later
+[2023.09.05 10:09:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:48 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878365920 <= 1693879788322, execute later
+[2023.09.05 10:09:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:09:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:10:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:10:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879040796 <= 1693879800309, execute later
+[2023.09.05 10:10:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879046794 <= 1693879809316, execute later
+[2023.09.05 10:10:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879049786 <= 1693879812319, execute later
+[2023.09.05 10:10:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879058846 <= 1693879827371, execute later
+[2023.09.05 10:10:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:35 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878385460 <= 1693879833317, execute later
+[2023.09.05 10:10:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879070829 <= 1693879839319, execute later
+[2023.09.05 10:10:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:50 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879079839 <= 1693879848320, execute later
+[2023.09.05 10:10:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:10:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:11:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:11:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879103856 <= 1693879875314, execute later
+[2023.09.05 10:11:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879109806 <= 1693879881316, execute later
+[2023.09.05 10:11:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878405110 <= 1693879890316, execute later
+[2023.09.05 10:11:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:45 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878412610 <= 1693879905309, execute later
+[2023.09.05 10:11:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:11:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:12:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:12:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:05 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878422370 <= 1693879923314, execute later
+[2023.09.05 10:12:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879142814 <= 1693879929313, execute later
+[2023.09.05 10:12:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:13 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879145855 <= 1693879932368, execute later
+[2023.09.05 10:12:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879160785 <= 1693879944305, execute later
+[2023.09.05 10:12:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879172783 <= 1693879959305, execute later
+[2023.09.05 10:12:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:12:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879184816 <= 1693879974335, execute later
+[2023.09.05 10:12:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:13:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:13:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879196782 <= 1693879989304, execute later
+[2023.09.05 10:13:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879208794 <= 1693880004319, execute later
+[2023.09.05 10:13:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878454260 <= 1693880007302, execute later
+[2023.09.05 10:13:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879211778 <= 1693880010314, execute later
+[2023.09.05 10:13:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878457340 <= 1693880010314, execute later
+[2023.09.05 10:13:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:47 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879220779 <= 1693880025297, execute later
+[2023.09.05 10:13:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879223780 <= 1693880031349, execute later
+[2023.09.05 10:13:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878466010 <= 1693880031349, execute later
+[2023.09.05 10:13:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:13:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:14:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 10:14:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879229778 <= 1693880043323, execute later
+[2023.09.05 10:14:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:07 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879232787 <= 1693880046331, execute later
+[2023.09.05 10:14:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:11 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879235800 <= 1693880049315, execute later
+[2023.09.05 10:14:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879247778 <= 1693880067311, execute later
+[2023.09.05 10:14:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879250778 <= 1693880070307, execute later
+[2023.09.05 10:14:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:14:44 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878484940 <= 1693880082386, execute later
+[2023.09.05 10:14:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:21:10 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.09.05 10:21:10 - info ] [exec_dw_etf]MiniImpactExecUnit SSE.ETF.510050 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.09.05 10:21:10 - info ] Target position of SSE.ETF.510050 changed: 0 -> 10000 : 10000 with scale1
+[2023.09.05 10:21:10 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 10:21:10 - info ] [exec_dw_etf]avaliable update 0->:4999999999900
+[2023.09.05 10:21:10 - info ] [exec_dw_etf]=================================channle ready==============================
+[2023.09.05 10:21:10 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:21:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:21:13 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693879547778 <= 1693880472293, execute later
+[2023.09.05 10:21:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:21:17 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878655460 <= 1693880475298, execute later
+[2023.09.05 10:21:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:21:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 10:21:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693878657840 <= 1693880481298, execute later
+[2023.09.05 10:21:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:29 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.09.05 11:17:29 - info ] [exec_dw_etf]MiniImpactExecUnit SSE.ETF.510050 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.09.05 11:17:29 - info ] Target position of SSE.ETF.510050 changed: 0 -> 10000 : 10000 with scale1
+[2023.09.05 11:17:29 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:17:29 - info ] [exec_dw_etf]avaliable update 0->:4999999999900
+[2023.09.05 11:17:29 - info ] [exec_dw_etf]=================================channle ready==============================
+[2023.09.05 11:17:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883780561 <= 1693883850142, execute later
+[2023.09.05 11:17:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883783624 <= 1693883856197, execute later
+[2023.09.05 11:17:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883644860 <= 1693883859176, execute later
+[2023.09.05 11:17:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883789560 <= 1693883862148, execute later
+[2023.09.05 11:17:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883650800 <= 1693883871144, execute later
+[2023.09.05 11:17:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:17:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:18:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:18:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:02 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883813558 <= 1693883880144, execute later
+[2023.09.05 11:18:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:05 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883656350 <= 1693883883157, execute later
+[2023.09.05 11:18:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883816573 <= 1693883886139, execute later
+[2023.09.05 11:18:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883819682 <= 1693883889151, execute later
+[2023.09.05 11:18:11 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883656550 <= 1693883889151, execute later
+[2023.09.05 11:18:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883822589 <= 1693883889151, execute later
+[2023.09.05 11:18:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883825560 <= 1693883892187, execute later
+[2023.09.05 11:18:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:17 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883656550 <= 1693883895202, execute later
+[2023.09.05 11:18:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:23 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883834559 <= 1693883901138, execute later
+[2023.09.05 11:18:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:35 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883669950 <= 1693883913147, execute later
+[2023.09.05 11:18:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883676730 <= 1693883919137, execute later
+[2023.09.05 11:18:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:44 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883852573 <= 1693883922143, execute later
+[2023.09.05 11:18:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:47 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883855604 <= 1693883925143, execute later
+[2023.09.05 11:18:47 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883684380 <= 1693883925143, execute later
+[2023.09.05 11:18:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:18:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883685880 <= 1693883934136, execute later
+[2023.09.05 11:18:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:19:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:19:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883689190 <= 1693883943148, execute later
+[2023.09.05 11:19:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883689390 <= 1693883949146, execute later
+[2023.09.05 11:19:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883900558 <= 1693883970134, execute later
+[2023.09.05 11:19:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883906557 <= 1693883979141, execute later
+[2023.09.05 11:19:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:42 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883709270 <= 1693883982186, execute later
+[2023.09.05 11:19:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883714630 <= 1693883991125, execute later
+[2023.09.05 11:19:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:19:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883915603 <= 1693883994125, execute later
+[2023.09.05 11:19:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:20:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:20:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:17 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883936554 <= 1693884015123, execute later
+[2023.09.05 11:20:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883730280 <= 1693884021135, execute later
+[2023.09.05 11:20:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883948560 <= 1693884027120, execute later
+[2023.09.05 11:20:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:31 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883951544 <= 1693884030173, execute later
+[2023.09.05 11:20:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:39 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883740950 <= 1693884039140, execute later
+[2023.09.05 11:20:42 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883960558 <= 1693884039140, execute later
+[2023.09.05 11:20:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:48 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883966542 <= 1693884048131, execute later
+[2023.09.05 11:20:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883972635 <= 1693884054157, execute later
+[2023.09.05 11:20:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883740950 <= 1693884054157, execute later
+[2023.09.05 11:20:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:20:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883975557 <= 1693884057137, execute later
+[2023.09.05 11:21:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:21:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:21:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883981603 <= 1693884063139, execute later
+[2023.09.05 11:21:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883759490 <= 1693884072145, execute later
+[2023.09.05 11:21:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883993555 <= 1693884075125, execute later
+[2023.09.05 11:21:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884002543 <= 1693884084175, execute later
+[2023.09.05 11:21:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884005593 <= 1693884087143, execute later
+[2023.09.05 11:21:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:38 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884014545 <= 1693884096127, execute later
+[2023.09.05 11:21:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884020560 <= 1693884102117, execute later
+[2023.09.05 11:21:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883774780 <= 1693884105127, execute later
+[2023.09.05 11:21:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884032636 <= 1693884111139, execute later
+[2023.09.05 11:21:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884035542 <= 1693884114120, execute later
+[2023.09.05 11:21:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:21:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883774780 <= 1693884117133, execute later
+[2023.09.05 11:22:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:22:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:22:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:05 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883787880 <= 1693884123172, execute later
+[2023.09.05 11:22:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883799360 <= 1693884141148, execute later
+[2023.09.05 11:22:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883802690 <= 1693884144169, execute later
+[2023.09.05 11:22:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883802890 <= 1693884147134, execute later
+[2023.09.05 11:22:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884074547 <= 1693884153140, execute later
+[2023.09.05 11:22:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:37 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884077547 <= 1693884156130, execute later
+[2023.09.05 11:22:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:39 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884080547 <= 1693884159123, execute later
+[2023.09.05 11:22:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883815760 <= 1693884165117, execute later
+[2023.09.05 11:22:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:22:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884101544 <= 1693884174125, execute later
+[2023.09.05 11:22:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:23:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:23:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:07 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884110559 <= 1693884186204, execute later
+[2023.09.05 11:23:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:19 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884122598 <= 1693884198172, execute later
+[2023.09.05 11:23:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883840210 <= 1693884198172, execute later
+[2023.09.05 11:23:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884125566 <= 1693884201120, execute later
+[2023.09.05 11:23:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883843230 <= 1693884207132, execute later
+[2023.09.05 11:23:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884140565 <= 1693884210123, execute later
+[2023.09.05 11:23:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883845120 <= 1693884213138, execute later
+[2023.09.05 11:23:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:39 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884149548 <= 1693884219233, execute later
+[2023.09.05 11:23:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:23:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884170577 <= 1693884237136, execute later
+[2023.09.05 11:24:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:24:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:24:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884173545 <= 1693884240152, execute later
+[2023.09.05 11:24:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884179654 <= 1693884243123, execute later
+[2023.09.05 11:24:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:26 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883873870 <= 1693884264119, execute later
+[2023.09.05 11:24:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884197582 <= 1693884267126, execute later
+[2023.09.05 11:24:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884206550 <= 1693884276158, execute later
+[2023.09.05 11:24:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884221532 <= 1693884291120, execute later
+[2023.09.05 11:24:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:54 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884224579 <= 1693884294115, execute later
+[2023.09.05 11:24:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:24:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883897170 <= 1693884297119, execute later
+[2023.09.05 11:25:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:25:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:25:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883897370 <= 1693884303143, execute later
+[2023.09.05 11:25:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884236546 <= 1693884306127, execute later
+[2023.09.05 11:25:07 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883903310 <= 1693884306127, execute later
+[2023.09.05 11:25:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883911530 <= 1693884327115, execute later
+[2023.09.05 11:25:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884254533 <= 1693884327115, execute later
+[2023.09.05 11:25:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:35 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884260533 <= 1693884333148, execute later
+[2023.09.05 11:25:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:49 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884272547 <= 1693884348130, execute later
+[2023.09.05 11:25:50 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883917580 <= 1693884348130, execute later
+[2023.09.05 11:25:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:25:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884281531 <= 1693884357116, execute later
+[2023.09.05 11:26:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:26:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:26:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883926850 <= 1693884363148, execute later
+[2023.09.05 11:26:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883929380 <= 1693884369196, execute later
+[2023.09.05 11:26:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884293529 <= 1693884369196, execute later
+[2023.09.05 11:26:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884296545 <= 1693884372113, execute later
+[2023.09.05 11:26:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883939290 <= 1693884378124, execute later
+[2023.09.05 11:26:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884302566 <= 1693884381124, execute later
+[2023.09.05 11:26:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884320549 <= 1693884402136, execute later
+[2023.09.05 11:26:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:26:54 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884332563 <= 1693884414114, execute later
+[2023.09.05 11:26:55 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883957400 <= 1693884414114, execute later
+[2023.09.05 11:26:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:27:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:27:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884338578 <= 1693884420123, execute later
+[2023.09.05 11:27:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:05 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883963430 <= 1693884423122, execute later
+[2023.09.05 11:27:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884341562 <= 1693884423122, execute later
+[2023.09.05 11:27:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884347546 <= 1693884432125, execute later
+[2023.09.05 11:27:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884350530 <= 1693884435118, execute later
+[2023.09.05 11:27:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883984210 <= 1693884453119, execute later
+[2023.09.05 11:27:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:42 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884368615 <= 1693884462111, execute later
+[2023.09.05 11:27:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:51 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693883990470 <= 1693884468116, execute later
+[2023.09.05 11:27:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:27:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:28:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:28:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884392534 <= 1693884489104, execute later
+[2023.09.05 11:28:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:14 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884006030 <= 1693884492110, execute later
+[2023.09.05 11:28:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:19 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884401549 <= 1693884498186, execute later
+[2023.09.05 11:28:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884410532 <= 1693884507105, execute later
+[2023.09.05 11:28:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:35 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884416532 <= 1693884513104, execute later
+[2023.09.05 11:28:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884011070 <= 1693884519126, execute later
+[2023.09.05 11:28:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884011070 <= 1693884522150, execute later
+[2023.09.05 11:28:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884422634 <= 1693884522150, execute later
+[2023.09.05 11:28:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:28:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:29:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:29:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884037350 <= 1693884540119, execute later
+[2023.09.05 11:29:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884434523 <= 1693884540119, execute later
+[2023.09.05 11:29:03 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:06 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:09 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:11 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884443538 <= 1693884549095, execute later
+[2023.09.05 11:29:12 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:15 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:15 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884044880 <= 1693884555105, execute later
+[2023.09.05 11:29:18 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:21 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:24 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:27 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:30 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:33 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:33 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884058210 <= 1693884573164, execute later
+[2023.09.05 11:29:36 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884467520 <= 1693884576142, execute later
+[2023.09.05 11:29:39 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:42 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:45 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:48 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:51 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:52 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884068590 <= 1693884591137, execute later
+[2023.09.05 11:29:54 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:29:57 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:30:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:30:00 - info ] [exec_dw_etf]Target position of SSE.ETF.510050 is set tb be 10000
+[2023.09.05 11:30:00 - info ] [exec_dw_etf]SSE.ETF.510050: target: 10000 hold:0 left 10000 wait to execute
+[2023.09.05 11:30:00 - info ] [exec_dw_etf]avaliable update 4999999999900->:4999999999900
+[2023.09.05 11:30:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884497605 <= 1693884600116, execute later
+[2023.09.05 11:30:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884079260 <= 1693884600116, execute later
+[2023.09.05 11:30:15 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884503604 <= 1693884600116, execute later
+[2023.09.05 11:30:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884506526 <= 1693884600116, execute later
+[2023.09.05 11:30:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884092490 <= 1693884600116, execute later
+[2023.09.05 11:30:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884521555 <= 1693884600116, execute later
+[2023.09.05 11:30:46 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884109330 <= 1693884600116, execute later
+[2023.09.05 11:30:53 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884530726 <= 1693884600116, execute later
+[2023.09.05 11:31:00 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884113930 <= 1693884600116, execute later
+[2023.09.05 11:31:18 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884548565 <= 1693884600116, execute later
+[2023.09.05 11:31:28 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884557580 <= 1693884600116, execute later
+[2023.09.05 11:31:48 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884572578 <= 1693884600116, execute later
+[2023.09.05 11:32:06 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884164530 <= 1693884600116, execute later
+[2023.09.05 11:32:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884587530 <= 1693884600116, execute later
+[2023.09.05 11:32:13 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884170770 <= 1693884600116, execute later
+[2023.09.05 11:32:17 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884174910 <= 1693884600116, execute later
+[2023.09.05 11:32:20 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884593607 <= 1693884600116, execute later
+[2023.09.05 11:32:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884175110 <= 1693884600116, execute later
+[2023.09.05 11:32:50 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884215570 <= 1693884600116, execute later
+[2023.09.05 11:33:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884248170 <= 1693884600116, execute later
+[2023.09.05 11:33:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884255510 <= 1693884600116, execute later
+[2023.09.05 11:33:25 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884268370 <= 1693884600116, execute later
+[2023.09.05 11:33:27 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884270330 <= 1693884600116, execute later
+[2023.09.05 11:33:29 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884273960 <= 1693884600116, execute later
+[2023.09.05 11:33:40 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884290730 <= 1693884600116, execute later
+[2023.09.05 11:33:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884313400 <= 1693884600116, execute later
+[2023.09.05 11:33:58 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884317330 <= 1693884600116, execute later
+[2023.09.05 11:34:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884326190 <= 1693884600116, execute later
+[2023.09.05 11:34:07 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884332050 <= 1693884600116, execute later
+[2023.09.05 11:34:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884332250 <= 1693884600116, execute later
+[2023.09.05 11:34:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884342950 <= 1693884600116, execute later
+[2023.09.05 11:34:22 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884352160 <= 1693884600116, execute later
+[2023.09.05 11:34:38 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884370200 <= 1693884600116, execute later
+[2023.09.05 11:34:49 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884385960 <= 1693884600116, execute later
+[2023.09.05 11:34:59 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884386680 <= 1693884600116, execute later
+[2023.09.05 11:35:03 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884405140 <= 1693884600116, execute later
+[2023.09.05 11:35:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884409180 <= 1693884600116, execute later
+[2023.09.05 11:35:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884424320 <= 1693884600116, execute later
+[2023.09.05 11:35:21 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884430570 <= 1693884600116, execute later
+[2023.09.05 11:35:34 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884446110 <= 1693884600116, execute later
+[2023.09.05 11:35:56 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884480740 <= 1693884600116, execute later
+[2023.09.05 11:36:01 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884488570 <= 1693884600116, execute later
+[2023.09.05 11:36:04 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884500230 <= 1693884600116, execute later
+[2023.09.05 11:36:05 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884500430 <= 1693884600116, execute later
+[2023.09.05 11:36:09 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884512170 <= 1693884600116, execute later
+[2023.09.05 11:36:10 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884512370 <= 1693884600116, execute later
+[2023.09.05 11:36:12 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884517480 <= 1693884600116, execute later
+[2023.09.05 11:36:16 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884526740 <= 1693884600116, execute later
+[2023.09.05 11:36:19 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884528790 <= 1693884600116, execute later
+[2023.09.05 11:36:24 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884547570 <= 1693884600116, execute later
+[2023.09.05 11:36:32 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884556410 <= 1693884600116, execute later
+[2023.09.05 11:36:36 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884573390 <= 1693884600116, execute later
+[2023.09.05 11:36:41 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884580650 <= 1693884600116, execute later
+[2023.09.05 11:36:43 - info ] [exec_dw_etf]No tick of SSE.ETF.510050 updated, 1693884591540 <= 1693884600116, execute later

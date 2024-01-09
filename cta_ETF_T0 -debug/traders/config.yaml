@@ -1,0 +1,18 @@
+config:
+    session: ./common/sessions.json
+    commodity: ./common/stk_comms.json
+    contract: ./common/stocks.json
+    risk: false
+    profile: ddTest
+    trader: TraderFix.dll
+
+ddTest:
+    front: '58.210.86.54@38000/tcp'
+    commuser: 'AD11000Z1'  # 通讯账户
+    commpass: '000000'  # 通讯密码
+    user: '000100000061'  # 用户账户
+    pass: '123123'  # 密码 
+    systemid: '4'  # 4-股票 9-期权
+    orderway: '8'
+    node: 'PC;IIP=NA;IPORT=NA;LIP=192.168.110.103;MAC=2CF05D3E58F6;HD=40BD9941;TYPE=TDRJYR'
+    

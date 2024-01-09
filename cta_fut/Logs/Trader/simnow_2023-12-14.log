@@ -1,0 +1,17 @@
+[2023.12.14 09:51:43 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 09:51:43 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 09:51:43 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.12.14 09:51:43 - error] [TraderCTP][9999-211877] Login failed: CTP:不合法的登录
+[2023.12.14 09:51:43 - error] [simnow] Trader login failed: CTP:不合法的登录
+[2023.12.14 09:54:09 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 09:54:09 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 09:54:09 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 09:54:09 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 09:55:33 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 09:55:33 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 09:55:33 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 09:55:33 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 10:33:57 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 10:33:57 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:33:57 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 10:33:57 - error] 0 rsp error: 77 : CTP:无此功能

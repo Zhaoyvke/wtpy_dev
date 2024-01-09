@@ -1,0 +1,14 @@
+{
+    "positions": [],
+    "fund": {
+        "total_profit": 0.0,
+        "total_dynprofit": 0.0,
+        "total_fees": 0.0,
+        "tdate": 1886331424
+    },
+    "signals": {},
+    "conditions": {
+        "settime": 2314885530817006892,
+        "items": {}
+    }
+}

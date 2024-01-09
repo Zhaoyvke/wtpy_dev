@@ -1,0 +1,145 @@
+[2023.07.24 09:17:48 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:17:48 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:17:48 - info ] DualThrust inited
+[2023.07.24 09:17:48 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:18:46 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:18:46 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:18:46 - info ] DualThrust inited
+[2023.07.24 09:18:46 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:20:44 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:20:44 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:20:44 - info ] DualThrust inited
+[2023.07.24 09:20:44 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:26:42 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:26:42 - debug] Main KBars confirmed: SSE.STK.600000#min1
+[2023.07.24 09:27:28 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:27:28 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:27:28 - info ] DualThrust inited
+[2023.07.24 09:27:28 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:28:04 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:28:04 - debug] Main KBars confirmed: SSE.STK.600000#m5
+[2023.07.24 09:28:04 - info ] DualThrust inited
+[2023.07.24 09:28:04 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:36:49 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:36:49 - debug] Main KBars confirmed: SSE.STK.600000#m5
+[2023.07.24 09:36:49 - info ] DualThrust inited
+[2023.07.24 09:36:49 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:37:14 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:37:14 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:37:14 - info ] DualThrust inited
+[2023.07.24 09:37:14 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:37:51 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:37:51 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:37:51 - info ] DualThrust inited
+[2023.07.24 09:37:51 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:40:09 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:40:09 - debug] Main KBars confirmed: SSE.STK.600000#ticks
+[2023.07.24 09:40:25 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:40:25 - debug] Main KBars confirmed: SSE.STK.600000#tick
+[2023.07.24 09:40:45 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:40:45 - debug] Main KBars confirmed: SSE.STK.600000#t
+[2023.07.24 09:42:30 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:42:30 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:42:30 - info ] DualThrust inited
+[2023.07.24 09:42:30 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:43:36 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:43:36 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:43:36 - info ] DualThrust inited
+[2023.07.24 09:43:36 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:44:20 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:44:20 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:44:20 - info ] DualThrust inited
+[2023.07.24 09:44:20 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:45:07 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:45:07 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:45:07 - info ] DualThrust inited
+[2023.07.24 09:45:07 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:46:06 - debug] Main KBars SSE.STK.600000#m1 closed
+[2023.07.24 09:46:06 - error] Main KBars already confirmed
+[2023.07.24 09:46:06 - debug] Strategy pydt_SH600000 scheduled @ 946
+[2023.07.24 09:47:09 - debug] Main KBars SSE.STK.600000#m1 closed
+[2023.07.24 09:47:09 - debug] Strategy pydt_SH600000 scheduled @ 947
+[2023.07.24 09:53:02 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:53:02 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:53:02 - info ] DualThrust inited
+[2023.07.24 09:53:02 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 09:53:09 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 09:53:09 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 09:53:09 - info ] DualThrust inited
+[2023.07.24 09:53:09 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:03:30 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:03:30 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:03:30 - info ] DualThrust inited
+[2023.07.24 11:03:30 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:05:12 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:05:12 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:05:12 - info ] DualThrust inited
+[2023.07.24 11:05:12 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:09:29 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:09:29 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:09:29 - info ] DualThrust inited
+[2023.07.24 11:09:29 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:19:18 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:19:18 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:19:18 - info ] DualThrust inited
+[2023.07.24 11:19:18 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:51:51 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:51:51 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:51:51 - info ] DualThrust inited
+[2023.07.24 11:51:51 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:52:17 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:52:17 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:52:17 - info ] DualThrust inited
+[2023.07.24 11:52:17 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:52:59 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:52:59 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:52:59 - info ] DualThrust inited
+[2023.07.24 11:52:59 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:53:14 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:53:14 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:53:14 - info ] DualThrust inited
+[2023.07.24 11:53:14 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 11:56:14 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 11:56:14 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 11:56:14 - info ] DualThrust inited
+[2023.07.24 11:56:14 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 13:04:47 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 13:04:47 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 13:04:47 - info ] DualThrust inited
+[2023.07.24 13:04:47 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 13:54:46 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 13:54:46 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 13:54:46 - info ] DualThrust inited
+[2023.07.24 13:54:46 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 13:59:01 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 13:59:01 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 13:59:01 - info ] DualThrust inited
+[2023.07.24 13:59:01 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 14:26:06 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 14:26:06 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 14:26:06 - info ] DualThrust inited
+[2023.07.24 14:26:06 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 14:26:43 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 14:26:43 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 14:26:43 - info ] DualThrust inited
+[2023.07.24 14:26:43 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 14:31:14 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 14:31:14 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 14:31:14 - info ] DualThrust inited
+[2023.07.24 14:31:14 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 14:34:48 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 14:34:48 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 14:34:48 - info ] DualThrust inited
+[2023.07.24 14:34:48 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 15:02:33 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 15:02:33 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 15:02:33 - info ] DualThrust inited
+[2023.07.24 15:02:33 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 15:02:39 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 15:02:39 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 15:02:39 - info ] DualThrust inited
+[2023.07.24 15:02:39 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.24 15:12:06 - info ] 0 conditions recovered, setup time: 0
+[2023.07.24 15:12:06 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.24 15:12:06 - info ] DualThrust inited
+[2023.07.24 15:12:06 - info ] Market data subscribed: SSE.STK.600000

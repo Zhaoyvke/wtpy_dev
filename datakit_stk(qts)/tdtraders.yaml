@@ -1,0 +1,11 @@
+traders:
+-   active: true
+    host: '112.4.154.165'  # 
+    port: '8162'
+    user: 'MDCTest2859'
+    pass: 'e._+95pK5hRgd'
+    front_backup: '218.94.125.135:8172;221.6.24.39:8152'
+    service_num: 5
+    cert: './cert'
+    flowdir: ''
+    

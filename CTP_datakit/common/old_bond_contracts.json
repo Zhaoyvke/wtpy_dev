@@ -1,0 +1,4470 @@
+{
+"XSHG": {
+ "110031": {
+  "name": "航信转债",
+  "code": "110031",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110033": {
+  "name": "国贸转债",
+  "code": "110033",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110034": {
+  "name": "九州转债",
+  "code": "110034",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110038": {
+  "name": "济川转债",
+  "code": "110038",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110041": {
+  "name": "蒙电转债",
+  "code": "110041",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110042": {
+  "name": "航电转债",
+  "code": "110042",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110043": {
+  "name": "无锡转债",
+  "code": "110043",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110044": {
+  "name": "广电转债",
+  "code": "110044",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110045": {
+  "name": "海澜转债",
+  "code": "110045",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110046": {
+  "name": "圆通转债",
+  "code": "110046",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110047": {
+  "name": "山鹰转债",
+  "code": "110047",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110048": {
+  "name": "福能转债",
+  "code": "110048",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110050": {
+  "name": "佳都转债",
+  "code": "110050",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110051": {
+  "name": "中天转债",
+  "code": "110051",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110052": {
+  "name": "贵广转债",
+  "code": "110052",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110053": {
+  "name": "苏银转债",
+  "code": "110053",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110054": {
+  "name": "通威转债",
+  "code": "110054",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110055": {
+  "name": "伊力转债",
+  "code": "110055",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110056": {
+  "name": "亨通转债",
+  "code": "110056",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110057": {
+  "name": "现代转债",
+  "code": "110057",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110058": {
+  "name": "永鼎转债",
+  "code": "110058",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110059": {
+  "name": "浦发转债",
+  "code": "110059",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110060": {
+  "name": "天路转债",
+  "code": "110060",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110061": {
+  "name": "川投转债",
+  "code": "110061",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110062": {
+  "name": "烽火转债",
+  "code": "110062",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110063": {
+  "name": "鹰19转债",
+  "code": "110063",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110064": {
+  "name": "建工转债",
+  "code": "110064",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110065": {
+  "name": "淮矿转债",
+  "code": "110065",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110066": {
+  "name": "盛屯转债",
+  "code": "110066",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110067": {
+  "name": "华安转债",
+  "code": "110067",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110068": {
+  "name": "龙净转债",
+  "code": "110068",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110069": {
+  "name": "瀚蓝转债",
+  "code": "110069",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110070": {
+  "name": "凌钢转债",
+  "code": "110070",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110071": {
+  "name": "湖盐转债",
+  "code": "110071",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110072": {
+  "name": "广汇转债",
+  "code": "110072",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110073": {
+  "name": "国投转债",
+  "code": "110073",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110074": {
+  "name": "精达转债",
+  "code": "110074",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110075": {
+  "name": "南航转债",
+  "code": "110075",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110076": {
+  "name": "华海转债",
+  "code": "110076",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110077": {
+  "name": "洪城转债",
+  "code": "110077",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110079": {
+  "name": "杭银转债",
+  "code": "110079",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110080": {
+  "name": "东湖转债",
+  "code": "110080",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110081": {
+  "name": "闻泰转债",
+  "code": "110081",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110082": {
+  "name": "宏发转债",
+  "code": "110082",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110083": {
+  "name": "苏租转债",
+  "code": "110083",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110084": {
+  "name": "贵燃转债",
+  "code": "110084",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110085": {
+  "name": "通22转债",
+  "code": "110085",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110086": {
+  "name": "精工转债",
+  "code": "110086",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110087": {
+  "name": "天业转债",
+  "code": "110087",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110088": {
+  "name": "淮22转债",
+  "code": "110088",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110089": {
+  "name": "兴发转债",
+  "code": "110089",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110090": {
+  "name": "爱迪转债",
+  "code": "110090",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110091": {
+  "name": "合力转债",
+  "code": "110091",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110092": {
+  "name": "三房转债",
+  "code": "110092",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "110093": {
+  "name": "神马转债",
+  "code": "110093",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111000": {
+  "name": "起帆转债",
+  "code": "111000",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111001": {
+  "name": "山玻转债",
+  "code": "111001",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111002": {
+  "name": "特纸转债",
+  "code": "111002",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111003": {
+  "name": "聚合转债",
+  "code": "111003",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111004": {
+  "name": "明新转债",
+  "code": "111004",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111005": {
+  "name": "富春转债",
+  "code": "111005",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111006": {
+  "name": "嵘泰转债",
+  "code": "111006",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111007": {
+  "name": "永和转债",
+  "code": "111007",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111008": {
+  "name": "沿浦转债",
+  "code": "111008",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111009": {
+  "name": "盛泰转债",
+  "code": "111009",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111010": {
+  "name": "立昂转债",
+  "code": "111010",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111011": {
+  "name": "冠盛转债",
+  "code": "111011",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111012": {
+  "name": "福新转债",
+  "code": "111012",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "111013": {
+  "name": "新港转债",
+  "code": "111013",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113008": {
+  "name": "电气转债",
+  "code": "113008",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113009": {
+  "name": "广汽转债",
+  "code": "113009",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113011": {
+  "name": "光大转债",
+  "code": "113011",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113012": {
+  "name": "骆驼转债",
+  "code": "113012",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113013": {
+  "name": "国君转债",
+  "code": "113013",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113014": {
+  "name": "林洋转债",
+  "code": "113014",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113016": {
+  "name": "小康转债",
+  "code": "113016",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113017": {
+  "name": "吉视转债",
+  "code": "113017",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113019": {
+  "name": "玲珑转债",
+  "code": "113019",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113020": {
+  "name": "桐昆转债",
+  "code": "113020",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113021": {
+  "name": "中信转债",
+  "code": "113021",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113022": {
+  "name": "浙商转债",
+  "code": "113022",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113024": {
+  "name": "核建转债",
+  "code": "113024",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113025": {
+  "name": "明泰转债",
+  "code": "113025",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113026": {
+  "name": "核能转债",
+  "code": "113026",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113027": {
+  "name": "华钰转债",
+  "code": "113027",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113028": {
+  "name": "环境转债",
+  "code": "113028",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113029": {
+  "name": "明阳转债",
+  "code": "113029",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113030": {
+  "name": "东风转债",
+  "code": "113030",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113031": {
+  "name": "博威转债",
+  "code": "113031",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113032": {
+  "name": "桐20转债",
+  "code": "113032",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113033": {
+  "name": "利群转债",
+  "code": "113033",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113034": {
+  "name": "滨化转债",
+  "code": "113034",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113035": {
+  "name": "福莱转债",
+  "code": "113035",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113036": {
+  "name": "宁建转债",
+  "code": "113036",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113037": {
+  "name": "紫银转债",
+  "code": "113037",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113038": {
+  "name": "隆20转债",
+  "code": "113038",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113039": {
+  "name": "嘉泽转债",
+  "code": "113039",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113040": {
+  "name": "星宇转债",
+  "code": "113040",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113041": {
+  "name": "紫金转债",
+  "code": "113041",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113042": {
+  "name": "上银转债",
+  "code": "113042",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113043": {
+  "name": "财通转债",
+  "code": "113043",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113044": {
+  "name": "大秦转债",
+  "code": "113044",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113045": {
+  "name": "环旭转债",
+  "code": "113045",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113046": {
+  "name": "金田转债",
+  "code": "113046",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113047": {
+  "name": "旗滨转债",
+  "code": "113047",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113048": {
+  "name": "晶科转债",
+  "code": "113048",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113049": {
+  "name": "长汽转债",
+  "code": "113049",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113050": {
+  "name": "南银转债",
+  "code": "113050",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113051": {
+  "name": "节能转债",
+  "code": "113051",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113052": {
+  "name": "兴业转债",
+  "code": "113052",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113053": {
+  "name": "隆22转债",
+  "code": "113053",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113054": {
+  "name": "绿动转债",
+  "code": "113054",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113055": {
+  "name": "成银转债",
+  "code": "113055",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113056": {
+  "name": "重银转债",
+  "code": "113056",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113057": {
+  "name": "中银转债",
+  "code": "113057",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113058": {
+  "name": "友发转债",
+  "code": "113058",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113059": {
+  "name": "福莱转债",
+  "code": "113059",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113060": {
+  "name": "浙22转债",
+  "code": "113060",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113061": {
+  "name": "拓普转债",
+  "code": "113061",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113062": {
+  "name": "常银转债",
+  "code": "113062",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113063": {
+  "name": "赛轮转债",
+  "code": "113063",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113064": {
+  "name": "东材转债",
+  "code": "113064",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113065": {
+  "name": "齐鲁转债",
+  "code": "113065",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113066": {
+  "name": "平煤转债",
+  "code": "113066",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113502": {
+  "name": "嘉澳转债",
+  "code": "113502",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113503": {
+  "name": "泰晶转债",
+  "code": "113503",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113504": {
+  "name": "艾华转债",
+  "code": "113504",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113505": {
+  "name": "杭电转债",
+  "code": "113505",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113508": {
+  "name": "新凤转债",
+  "code": "113508",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113509": {
+  "name": "新泉转债",
+  "code": "113509",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113510": {
+  "name": "再升转债",
+  "code": "113510",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113511": {
+  "name": "千禾转债",
+  "code": "113511",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113514": {
+  "name": "威帝转债",
+  "code": "113514",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113515": {
+  "name": "高能转债",
+  "code": "113515",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113516": {
+  "name": "苏农转债",
+  "code": "113516",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113517": {
+  "name": "曙光转债",
+  "code": "113517",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113518": {
+  "name": "顾家转债",
+  "code": "113518",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113519": {
+  "name": "长久转债",
+  "code": "113519",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113520": {
+  "name": "百合转债",
+  "code": "113520",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113521": {
+  "name": "科森转债",
+  "code": "113521",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113522": {
+  "name": "旭升转债",
+  "code": "113522",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113523": {
+  "name": "伟明转债",
+  "code": "113523",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113524": {
+  "name": "奇精转债",
+  "code": "113524",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113525": {
+  "name": "台华转债",
+  "code": "113525",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113526": {
+  "name": "联泰转债",
+  "code": "113526",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113527": {
+  "name": "维格转债",
+  "code": "113527",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113528": {
+  "name": "长城转债",
+  "code": "113528",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113530": {
+  "name": "大丰转债",
+  "code": "113530",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113531": {
+  "name": "百姓转债",
+  "code": "113531",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113532": {
+  "name": "海环转债",
+  "code": "113532",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113533": {
+  "name": "参林转债",
+  "code": "113533",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113534": {
+  "name": "鼎胜转债",
+  "code": "113534",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113535": {
+  "name": "大业转债",
+  "code": "113535",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113536": {
+  "name": "三星转债",
+  "code": "113536",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113537": {
+  "name": "文灿转债",
+  "code": "113537",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113538": {
+  "name": "安图转债",
+  "code": "113538",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113539": {
+  "name": "圣达转债",
+  "code": "113539",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113540": {
+  "name": "南威转债",
+  "code": "113540",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113541": {
+  "name": "荣晟转债",
+  "code": "113541",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113542": {
+  "name": "好客转债",
+  "code": "113542",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113543": {
+  "name": "欧派转债",
+  "code": "113543",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113544": {
+  "name": "桃李转债",
+  "code": "113544",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113545": {
+  "name": "金能转债",
+  "code": "113545",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113546": {
+  "name": "迪贝转债",
+  "code": "113546",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113547": {
+  "name": "索发转债",
+  "code": "113547",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113548": {
+  "name": "石英转债",
+  "code": "113548",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113549": {
+  "name": "白电转债",
+  "code": "113549",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113550": {
+  "name": "常汽转债",
+  "code": "113550",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113551": {
+  "name": "福特转债",
+  "code": "113551",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113552": {
+  "name": "克来转债",
+  "code": "113552",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113553": {
+  "name": "金牌转债",
+  "code": "113553",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113554": {
+  "name": "仙鹤转债",
+  "code": "113554",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113555": {
+  "name": "振德转债",
+  "code": "113555",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113556": {
+  "name": "至纯转债",
+  "code": "113556",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113557": {
+  "name": "森特转债",
+  "code": "113557",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113558": {
+  "name": "日月转债",
+  "code": "113558",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113559": {
+  "name": "永创转债",
+  "code": "113559",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113561": {
+  "name": "正裕转债",
+  "code": "113561",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113562": {
+  "name": "璞泰转债",
+  "code": "113562",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113563": {
+  "name": "柳药转债",
+  "code": "113563",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113564": {
+  "name": "天目转债",
+  "code": "113564",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113565": {
+  "name": "宏辉转债",
+  "code": "113565",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113566": {
+  "name": "翔港转债",
+  "code": "113566",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113567": {
+  "name": "君禾转债",
+  "code": "113567",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113568": {
+  "name": "新春转债",
+  "code": "113568",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113569": {
+  "name": "科达转债",
+  "code": "113569",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113570": {
+  "name": "百达转债",
+  "code": "113570",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113571": {
+  "name": "博特转债",
+  "code": "113571",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113572": {
+  "name": "三祥转债",
+  "code": "113572",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113573": {
+  "name": "纵横转债",
+  "code": "113573",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113574": {
+  "name": "华体转债",
+  "code": "113574",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113575": {
+  "name": "东时转债",
+  "code": "113575",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113576": {
+  "name": "起步转债",
+  "code": "113576",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113577": {
+  "name": "春秋转债",
+  "code": "113577",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113578": {
+  "name": "全筑转债",
+  "code": "113578",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113579": {
+  "name": "健友转债",
+  "code": "113579",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113580": {
+  "name": "康隆转债",
+  "code": "113580",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113581": {
+  "name": "龙蟠转债",
+  "code": "113581",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113582": {
+  "name": "火炬转债",
+  "code": "113582",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113583": {
+  "name": "益丰转债",
+  "code": "113583",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113584": {
+  "name": "家悦转债",
+  "code": "113584",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113585": {
+  "name": "寿仙转债",
+  "code": "113585",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113586": {
+  "name": "上机转债",
+  "code": "113586",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113587": {
+  "name": "泛微转债",
+  "code": "113587",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113588": {
+  "name": "润达转债",
+  "code": "113588",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113589": {
+  "name": "天创转债",
+  "code": "113589",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113590": {
+  "name": "海容转债",
+  "code": "113590",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113591": {
+  "name": "胜达转债",
+  "code": "113591",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113592": {
+  "name": "安20转债",
+  "code": "113592",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113593": {
+  "name": "沪工转债",
+  "code": "113593",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113594": {
+  "name": "淳中转债",
+  "code": "113594",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113595": {
+  "name": "花王转债",
+  "code": "113595",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113596": {
+  "name": "城地转债",
+  "code": "113596",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113597": {
+  "name": "佳力转债",
+  "code": "113597",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113598": {
+  "name": "法兰转债",
+  "code": "113598",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113599": {
+  "name": "嘉友转债",
+  "code": "113599",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113600": {
+  "name": "新星转债",
+  "code": "113600",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113601": {
+  "name": "塞力转债",
+  "code": "113601",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113602": {
+  "name": "景20转债",
+  "code": "113602",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113603": {
+  "name": "东缆转债",
+  "code": "113603",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113604": {
+  "name": "多伦转债",
+  "code": "113604",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113605": {
+  "name": "大参转债",
+  "code": "113605",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113606": {
+  "name": "荣泰转债",
+  "code": "113606",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113607": {
+  "name": "伟20转债",
+  "code": "113607",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113608": {
+  "name": "威派转债",
+  "code": "113608",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113609": {
+  "name": "永安转债",
+  "code": "113609",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113610": {
+  "name": "灵康转债",
+  "code": "113610",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113611": {
+  "name": "福20转债",
+  "code": "113611",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113612": {
+  "name": "永冠转债",
+  "code": "113612",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113614": {
+  "name": "健20转债",
+  "code": "113614",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113615": {
+  "name": "金诚转债",
+  "code": "113615",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113616": {
+  "name": "韦尔转债",
+  "code": "113616",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113618": {
+  "name": "美诺转债",
+  "code": "113618",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113619": {
+  "name": "世运转债",
+  "code": "113619",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113620": {
+  "name": "傲农转债",
+  "code": "113620",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113621": {
+  "name": "彤程转债",
+  "code": "113621",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113622": {
+  "name": "杭叉转债",
+  "code": "113622",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113623": {
+  "name": "凤21转债",
+  "code": "113623",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113624": {
+  "name": "正川转债",
+  "code": "113624",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113625": {
+  "name": "江山转债",
+  "code": "113625",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113626": {
+  "name": "伯特转债",
+  "code": "113626",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113627": {
+  "name": "太平转债",
+  "code": "113627",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113628": {
+  "name": "晨丰转债",
+  "code": "113628",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113629": {
+  "name": "泉峰转债",
+  "code": "113629",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113630": {
+  "name": "赛伍转债",
+  "code": "113630",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113631": {
+  "name": "皖天转债",
+  "code": "113631",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113632": {
+  "name": "鹤21转债",
+  "code": "113632",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113633": {
+  "name": "科沃转债",
+  "code": "113633",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113634": {
+  "name": "珀莱转债",
+  "code": "113634",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113635": {
+  "name": "升21转债",
+  "code": "113635",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113636": {
+  "name": "甬金转债",
+  "code": "113636",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113637": {
+  "name": "华翔转债",
+  "code": "113637",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113638": {
+  "name": "台21转债",
+  "code": "113638",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113639": {
+  "name": "华正转债",
+  "code": "113639",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113640": {
+  "name": "苏利转债",
+  "code": "113640",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113641": {
+  "name": "华友转债",
+  "code": "113641",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113642": {
+  "name": "上22转债",
+  "code": "113642",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113643": {
+  "name": "风语转债",
+  "code": "113643",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113644": {
+  "name": "艾迪转债",
+  "code": "113644",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113646": {
+  "name": "永吉转债",
+  "code": "113646",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113647": {
+  "name": "禾丰转债",
+  "code": "113647",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113648": {
+  "name": "巨星转债",
+  "code": "113648",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113649": {
+  "name": "丰山转债",
+  "code": "113649",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113650": {
+  "name": "博22转债",
+  "code": "113650",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113651": {
+  "name": "松霖转债",
+  "code": "113651",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113652": {
+  "name": "伟22转债",
+  "code": "113652",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113653": {
+  "name": "永22转债",
+  "code": "113653",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113654": {
+  "name": "永02转债",
+  "code": "113654",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113655": {
+  "name": "欧22转债",
+  "code": "113655",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113656": {
+  "name": "嘉诚转债",
+  "code": "113656",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113657": {
+  "name": "再22转债",
+  "code": "113657",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113658": {
+  "name": "密卫转债",
+  "code": "113658",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113659": {
+  "name": "莱克转债",
+  "code": "113659",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113660": {
+  "name": "寿22转债",
+  "code": "113660",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113661": {
+  "name": "福22转债",
+  "code": "113661",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113662": {
+  "name": "豪能转债",
+  "code": "113662",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113663": {
+  "name": "新化转债",
+  "code": "113663",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113664": {
+  "name": "大元转债",
+  "code": "113664",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113665": {
+  "name": "汇通转债",
+  "code": "113665",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113666": {
+  "name": "爱玛转债",
+  "code": "113666",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113667": {
+  "name": "春23转债",
+  "code": "113667",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113668": {
+  "name": "鹿山转债",
+  "code": "113668",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113669": {
+  "name": "景23转债",
+  "code": "113669",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "113670": {
+  "name": "金23转债",
+  "code": "113670",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118000": {
+  "name": "嘉元转债",
+  "code": "118000",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118001": {
+  "name": "金博转债",
+  "code": "118001",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118002": {
+  "name": "天合转债",
+  "code": "118002",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118003": {
+  "name": "华兴转债",
+  "code": "118003",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118004": {
+  "name": "博瑞转债",
+  "code": "118004",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118005": {
+  "name": "天奈转债",
+  "code": "118005",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118006": {
+  "name": "阿拉转债",
+  "code": "118006",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118007": {
+  "name": "山石转债",
+  "code": "118007",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118008": {
+  "name": "海优转债",
+  "code": "118008",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118009": {
+  "name": "华锐转债",
+  "code": "118009",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118010": {
+  "name": "洁特转债",
+  "code": "118010",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118011": {
+  "name": "银微转债",
+  "code": "118011",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118012": {
+  "name": "微芯转债",
+  "code": "118012",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118013": {
+  "name": "道通转债",
+  "code": "118013",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118014": {
+  "name": "高测转债",
+  "code": "118014",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118015": {
+  "name": "芯海转债",
+  "code": "118015",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118016": {
+  "name": "京源转债",
+  "code": "118016",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118017": {
+  "name": "深科转债",
+  "code": "118017",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118018": {
+  "name": "瑞科转债",
+  "code": "118018",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118019": {
+  "name": "金盘转债",
+  "code": "118019",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118020": {
+  "name": "芳源转债",
+  "code": "118020",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118021": {
+  "name": "新致转债",
+  "code": "118021",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118022": {
+  "name": "锂科转债",
+  "code": "118022",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118023": {
+  "name": "广大转债",
+  "code": "118023",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118024": {
+  "name": "冠宇转债",
+  "code": "118024",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118025": {
+  "name": "奕瑞转债",
+  "code": "118025",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118026": {
+  "name": "利元转债",
+  "code": "118026",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118027": {
+  "name": "宏图转债",
+  "code": "118027",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118028": {
+  "name": "会通转债",
+  "code": "118028",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118029": {
+  "name": "富淼转债",
+  "code": "118029",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118030": {
+  "name": "睿创转债",
+  "code": "118030",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118031": {
+  "name": "天23转债",
+  "code": "118031",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118032": {
+  "name": "建龙转债",
+  "code": "118032",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118033": {
+  "name": "华特转债",
+  "code": "118033",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "118034": {
+  "name": "晶能转债",
+  "code": "118034",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ }
+ "XSHE": {
+ "120002": {
+  "name": "18中原EB",
+  "code": "120002",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "120003": {
+  "name": "19华菱EB",
+  "code": "120003",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "120004": {
+  "name": "20华菱EB",
+  "code": "120004",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123002": {
+  "name": "国祯转债",
+  "code": "123002",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123003": {
+  "name": "蓝思转债",
+  "code": "123003",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123004": {
+  "name": "铁汉转债",
+  "code": "123004",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123007": {
+  "name": "道氏转债",
+  "code": "123007",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123009": {
+  "name": "星源转债",
+  "code": "123009",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123010": {
+  "name": "博世转债",
+  "code": "123010",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123011": {
+  "name": "德尔转债",
+  "code": "123011",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123012": {
+  "name": "万顺转债",
+  "code": "123012",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123013": {
+  "name": "横河转债",
+  "code": "123013",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123014": {
+  "name": "凯发转债",
+  "code": "123014",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123015": {
+  "name": "蓝盾转债",
+  "code": "123015",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123016": {
+  "name": "洲明转债",
+  "code": "123016",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123017": {
+  "name": "寒锐转债",
+  "code": "123017",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123018": {
+  "name": "溢利转债",
+  "code": "123018",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123019": {
+  "name": "中来转债",
+  "code": "123019",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123020": {
+  "name": "富祥转债",
+  "code": "123020",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123021": {
+  "name": "万信转2",
+  "code": "123021",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123022": {
+  "name": "长信转债",
+  "code": "123022",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123023": {
+  "name": "迪森转债",
+  "code": "123023",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123024": {
+  "name": "岱勒转债",
+  "code": "123024",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123025": {
+  "name": "精测转债",
+  "code": "123025",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123026": {
+  "name": "中环转债",
+  "code": "123026",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123027": {
+  "name": "蓝晓转债",
+  "code": "123027",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123028": {
+  "name": "清水转债",
+  "code": "123028",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123029": {
+  "name": "英科转债",
+  "code": "123029",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123030": {
+  "name": "九洲转债",
+  "code": "123030",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123031": {
+  "name": "晶瑞转债",
+  "code": "123031",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123032": {
+  "name": "万里转债",
+  "code": "123032",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123033": {
+  "name": "金力转债",
+  "code": "123033",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123034": {
+  "name": "通光转债",
+  "code": "123034",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123035": {
+  "name": "利德转债",
+  "code": "123035",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123036": {
+  "name": "先导转债",
+  "code": "123036",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123037": {
+  "name": "新莱转债",
+  "code": "123037",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123038": {
+  "name": "联得转债",
+  "code": "123038",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123039": {
+  "name": "开润转债",
+  "code": "123039",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123040": {
+  "name": "乐普转债",
+  "code": "123040",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123041": {
+  "name": "东财转2",
+  "code": "123041",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123042": {
+  "name": "银河转债",
+  "code": "123042",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123043": {
+  "name": "正元转债",
+  "code": "123043",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123044": {
+  "name": "红相转债",
+  "code": "123044",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123045": {
+  "name": "雷迪转债",
+  "code": "123045",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123046": {
+  "name": "天铁转债",
+  "code": "123046",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123047": {
+  "name": "久吾转债",
+  "code": "123047",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123048": {
+  "name": "应急转债",
+  "code": "123048",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123049": {
+  "name": "维尔转债",
+  "code": "123049",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123050": {
+  "name": "聚飞转债",
+  "code": "123050",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123051": {
+  "name": "今天转债",
+  "code": "123051",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123052": {
+  "name": "飞鹿转债",
+  "code": "123052",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123053": {
+  "name": "宝通转债",
+  "code": "123053",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123054": {
+  "name": "思特转债",
+  "code": "123054",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123055": {
+  "name": "晨光转债",
+  "code": "123055",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123056": {
+  "name": "雪榕转债",
+  "code": "123056",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123057": {
+  "name": "美联转债",
+  "code": "123057",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123058": {
+  "name": "欣旺转债",
+  "code": "123058",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123059": {
+  "name": "银信转债",
+  "code": "123059",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123060": {
+  "name": "苏试转债",
+  "code": "123060",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123061": {
+  "name": "航新转债",
+  "code": "123061",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123062": {
+  "name": "三超转债",
+  "code": "123062",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123063": {
+  "name": "大禹转债",
+  "code": "123063",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123064": {
+  "name": "万孚转债",
+  "code": "123064",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123065": {
+  "name": "宝莱转债",
+  "code": "123065",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123066": {
+  "name": "赛意转债",
+  "code": "123066",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123067": {
+  "name": "斯莱转债",
+  "code": "123067",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123068": {
+  "name": "弘信转债",
+  "code": "123068",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123069": {
+  "name": "金诺转债",
+  "code": "123069",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123070": {
+  "name": "鹏辉转债",
+  "code": "123070",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123071": {
+  "name": "天能转债",
+  "code": "123071",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123072": {
+  "name": "乐歌转债",
+  "code": "123072",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123073": {
+  "name": "同和转债",
+  "code": "123073",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123074": {
+  "name": "隆利转债",
+  "code": "123074",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123075": {
+  "name": "贝斯转债",
+  "code": "123075",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123076": {
+  "name": "强力转债",
+  "code": "123076",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123077": {
+  "name": "汉得转债",
+  "code": "123077",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123078": {
+  "name": "飞凯转债",
+  "code": "123078",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123079": {
+  "name": "运达转债",
+  "code": "123079",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123080": {
+  "name": "海波转债",
+  "code": "123080",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123081": {
+  "name": "精研转债",
+  "code": "123081",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123082": {
+  "name": "北陆转债",
+  "code": "123082",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123083": {
+  "name": "朗新转债",
+  "code": "123083",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123084": {
+  "name": "高澜转债",
+  "code": "123084",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123085": {
+  "name": "万顺转2",
+  "code": "123085",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123086": {
+  "name": "海兰转债",
+  "code": "123086",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123087": {
+  "name": "明电转债",
+  "code": "123087",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123088": {
+  "name": "威唐转债",
+  "code": "123088",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123089": {
+  "name": "九洲转2",
+  "code": "123089",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123090": {
+  "name": "三诺转债",
+  "code": "123090",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123091": {
+  "name": "长海转债",
+  "code": "123091",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123092": {
+  "name": "天壕转债",
+  "code": "123092",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123093": {
+  "name": "金陵转债",
+  "code": "123093",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123094": {
+  "name": "星源转2",
+  "code": "123094",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123096": {
+  "name": "思创转债",
+  "code": "123096",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123097": {
+  "name": "美力转债",
+  "code": "123097",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123098": {
+  "name": "一品转债",
+  "code": "123098",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123099": {
+  "name": "普利转债",
+  "code": "123099",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123100": {
+  "name": "朗科转债",
+  "code": "123100",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123101": {
+  "name": "拓斯转债",
+  "code": "123101",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123102": {
+  "name": "华自转债",
+  "code": "123102",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123103": {
+  "name": "震安转债",
+  "code": "123103",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123104": {
+  "name": "卫宁转债",
+  "code": "123104",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123105": {
+  "name": "拓尔转债",
+  "code": "123105",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123106": {
+  "name": "正丹转债",
+  "code": "123106",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123107": {
+  "name": "温氏转债",
+  "code": "123107",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123108": {
+  "name": "乐普转2",
+  "code": "123108",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123109": {
+  "name": "昌红转债",
+  "code": "123109",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123110": {
+  "name": "九典转债",
+  "code": "123110",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123111": {
+  "name": "东财转3",
+  "code": "123111",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123112": {
+  "name": "万讯转债",
+  "code": "123112",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123113": {
+  "name": "仙乐转债",
+  "code": "123113",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123114": {
+  "name": "三角转债",
+  "code": "123114",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123115": {
+  "name": "捷捷转债",
+  "code": "123115",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123116": {
+  "name": "万兴转债",
+  "code": "123116",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123117": {
+  "name": "健帆转债",
+  "code": "123117",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123118": {
+  "name": "惠城转债",
+  "code": "123118",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123119": {
+  "name": "康泰转2",
+  "code": "123119",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123120": {
+  "name": "隆华转债",
+  "code": "123120",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123121": {
+  "name": "帝尔转债",
+  "code": "123121",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123122": {
+  "name": "富瀚转债",
+  "code": "123122",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123123": {
+  "name": "江丰转债",
+  "code": "123123",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123124": {
+  "name": "晶瑞转2",
+  "code": "123124",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123125": {
+  "name": "元力转债",
+  "code": "123125",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123126": {
+  "name": "瑞丰转债",
+  "code": "123126",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123127": {
+  "name": "耐普转债",
+  "code": "123127",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123128": {
+  "name": "首华转债",
+  "code": "123128",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123129": {
+  "name": "锦鸡转债",
+  "code": "123129",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123130": {
+  "name": "设研转债",
+  "code": "123130",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123131": {
+  "name": "奥飞转债",
+  "code": "123131",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123132": {
+  "name": "回盛转债",
+  "code": "123132",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123133": {
+  "name": "佩蒂转债",
+  "code": "123133",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123134": {
+  "name": "卡倍转债",
+  "code": "123134",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123135": {
+  "name": "泰林转债",
+  "code": "123135",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123136": {
+  "name": "城市转债",
+  "code": "123136",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123137": {
+  "name": "锦浪转债",
+  "code": "123137",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123138": {
+  "name": "丝路转债",
+  "code": "123138",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123139": {
+  "name": "铂科转债",
+  "code": "123139",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123140": {
+  "name": "天地转债",
+  "code": "123140",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123141": {
+  "name": "宏丰转债",
+  "code": "123141",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123142": {
+  "name": "申昊转债",
+  "code": "123142",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123143": {
+  "name": "胜蓝转债",
+  "code": "123143",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123144": {
+  "name": "裕兴转债",
+  "code": "123144",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123145": {
+  "name": "药石转债",
+  "code": "123145",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123146": {
+  "name": "中环转2",
+  "code": "123146",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123147": {
+  "name": "中辰转债",
+  "code": "123147",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123148": {
+  "name": "上能转债",
+  "code": "123148",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123149": {
+  "name": "通裕转债",
+  "code": "123149",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123150": {
+  "name": "九强转债",
+  "code": "123150",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123151": {
+  "name": "康医转债",
+  "code": "123151",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123152": {
+  "name": "润禾转债",
+  "code": "123152",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123153": {
+  "name": "英力转债",
+  "code": "123153",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123154": {
+  "name": "火星转债",
+  "code": "123154",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123155": {
+  "name": "中陆转债",
+  "code": "123155",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123156": {
+  "name": "博汇转债",
+  "code": "123156",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123157": {
+  "name": "科蓝转债",
+  "code": "123157",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123158": {
+  "name": "宙邦转债",
+  "code": "123158",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123159": {
+  "name": "崧盛转债",
+  "code": "123159",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123160": {
+  "name": "泰福转债",
+  "code": "123160",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123161": {
+  "name": "强联转债",
+  "code": "123161",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123162": {
+  "name": "东杰转债",
+  "code": "123162",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123163": {
+  "name": "金沃转债",
+  "code": "123163",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123164": {
+  "name": "法本转债",
+  "code": "123164",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123165": {
+  "name": "回天转债",
+  "code": "123165",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123166": {
+  "name": "蒙泰转债",
+  "code": "123166",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123167": {
+  "name": "商络转债",
+  "code": "123167",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123168": {
+  "name": "惠云转债",
+  "code": "123168",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123169": {
+  "name": "正海转债",
+  "code": "123169",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123170": {
+  "name": "南电转债",
+  "code": "123170",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123171": {
+  "name": "共同转债",
+  "code": "123171",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123172": {
+  "name": "漱玉转债",
+  "code": "123172",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123173": {
+  "name": "恒锋转债",
+  "code": "123173",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123174": {
+  "name": "精锻转债",
+  "code": "123174",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123175": {
+  "name": "百畅转债",
+  "code": "123175",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123176": {
+  "name": "精测转2",
+  "code": "123176",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123177": {
+  "name": "测绘转债",
+  "code": "123177",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123178": {
+  "name": "花园转债",
+  "code": "123178",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123179": {
+  "name": "立高转债",
+  "code": "123179",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123180": {
+  "name": "浙矿转债",
+  "code": "123180",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123181": {
+  "name": "亚康转债",
+  "code": "123181",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123182": {
+  "name": "广联转债",
+  "code": "123182",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123183": {
+  "name": "海顺转债",
+  "code": "123183",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123184": {
+  "name": "天阳转债",
+  "code": "123184",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123185": {
+  "name": "能辉转债",
+  "code": "123185",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123186": {
+  "name": "志特转债",
+  "code": "123186",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123187": {
+  "name": "超达转债",
+  "code": "123187",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123188": {
+  "name": "水羊转债",
+  "code": "123188",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123189": {
+  "name": "晓鸣转债",
+  "code": "123189",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123190": {
+  "name": "道氏转02",
+  "code": "123190",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123191": {
+  "name": "智尚转债",
+  "code": "123191",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123192": {
+  "name": "科思转债",
+  "code": "123192",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123193": {
+  "name": "海能转债",
+  "code": "123193",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123194": {
+  "name": "百洋转债",
+  "code": "123194",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123195": {
+  "name": "蓝晓转02",
+  "code": "123195",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123196": {
+  "name": "正元转02",
+  "code": "123196",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "123197": {
+  "name": "光力转债",
+  "code": "123197",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127003": {
+  "name": "海印转债",
+  "code": "127003",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127004": {
+  "name": "模塑转债",
+  "code": "127004",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127005": {
+  "name": "长证转债",
+  "code": "127005",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127006": {
+  "name": "敖东转债",
+  "code": "127006",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127007": {
+  "name": "湖广转债",
+  "code": "127007",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127008": {
+  "name": "特发转债",
+  "code": "127008",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127011": {
+  "name": "中鼎转2",
+  "code": "127011",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127012": {
+  "name": "招路转债",
+  "code": "127012",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127013": {
+  "name": "创维转债",
+  "code": "127013",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127014": {
+  "name": "北方转债",
+  "code": "127014",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127015": {
+  "name": "希望转债",
+  "code": "127015",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127016": {
+  "name": "鲁泰转债",
+  "code": "127016",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127017": {
+  "name": "万青转债",
+  "code": "127017",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127018": {
+  "name": "本钢转债",
+  "code": "127018",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127019": {
+  "name": "国城转债",
+  "code": "127019",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127020": {
+  "name": "中金转债",
+  "code": "127020",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127021": {
+  "name": "特发转2",
+  "code": "127021",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127022": {
+  "name": "恒逸转债",
+  "code": "127022",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127023": {
+  "name": "华菱转2",
+  "code": "127023",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127024": {
+  "name": "盈峰转债",
+  "code": "127024",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127025": {
+  "name": "冀东转债",
+  "code": "127025",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127026": {
+  "name": "超声转债",
+  "code": "127026",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127027": {
+  "name": "能化转债",
+  "code": "127027",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127028": {
+  "name": "英特转债",
+  "code": "127028",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127029": {
+  "name": "中钢转债",
+  "code": "127029",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127030": {
+  "name": "盛虹转债",
+  "code": "127030",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127031": {
+  "name": "洋丰转债",
+  "code": "127031",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127032": {
+  "name": "苏行转债",
+  "code": "127032",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127033": {
+  "name": "中装转2",
+  "code": "127033",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127034": {
+  "name": "绿茵转债",
+  "code": "127034",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127035": {
+  "name": "濮耐转债",
+  "code": "127035",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127036": {
+  "name": "三花转债",
+  "code": "127036",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127037": {
+  "name": "银轮转债",
+  "code": "127037",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127038": {
+  "name": "国微转债",
+  "code": "127038",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127039": {
+  "name": "北港转债",
+  "code": "127039",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127040": {
+  "name": "国泰转债",
+  "code": "127040",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127041": {
+  "name": "弘亚转债",
+  "code": "127041",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127042": {
+  "name": "嘉美转债",
+  "code": "127042",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127043": {
+  "name": "川恒转债",
+  "code": "127043",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127044": {
+  "name": "蒙娜转债",
+  "code": "127044",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127045": {
+  "name": "牧原转债",
+  "code": "127045",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127046": {
+  "name": "百润转债",
+  "code": "127046",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127047": {
+  "name": "帝欧转债",
+  "code": "127047",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127048": {
+  "name": "中大转债",
+  "code": "127048",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127049": {
+  "name": "希望转2",
+  "code": "127049",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127050": {
+  "name": "麒麟转债",
+  "code": "127050",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127051": {
+  "name": "博杰转债",
+  "code": "127051",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127052": {
+  "name": "西子转债",
+  "code": "127052",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127053": {
+  "name": "豪美转债",
+  "code": "127053",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127054": {
+  "name": "双箭转债",
+  "code": "127054",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127055": {
+  "name": "精装转债",
+  "code": "127055",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127056": {
+  "name": "中特转债",
+  "code": "127056",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127057": {
+  "name": "盘龙转债",
+  "code": "127057",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127058": {
+  "name": "科伦转债",
+  "code": "127058",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127059": {
+  "name": "永东转2",
+  "code": "127059",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127060": {
+  "name": "湘佳转债",
+  "code": "127060",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127061": {
+  "name": "美锦转债",
+  "code": "127061",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127062": {
+  "name": "垒知转债",
+  "code": "127062",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127063": {
+  "name": "贵轮转债",
+  "code": "127063",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127064": {
+  "name": "杭氧转债",
+  "code": "127064",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127065": {
+  "name": "瑞鹄转债",
+  "code": "127065",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127066": {
+  "name": "科利转债",
+  "code": "127066",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127067": {
+  "name": "恒逸转2",
+  "code": "127067",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127068": {
+  "name": "顺博转债",
+  "code": "127068",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127069": {
+  "name": "小熊转债",
+  "code": "127069",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127070": {
+  "name": "大中转债",
+  "code": "127070",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127071": {
+  "name": "天箭转债",
+  "code": "127071",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127072": {
+  "name": "博实转债",
+  "code": "127072",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127073": {
+  "name": "天赐转债",
+  "code": "127073",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127074": {
+  "name": "麦米转2",
+  "code": "127074",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127075": {
+  "name": "百川转2",
+  "code": "127075",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127076": {
+  "name": "中宠转2",
+  "code": "127076",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127077": {
+  "name": "华宏转债",
+  "code": "127077",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127078": {
+  "name": "优彩转债",
+  "code": "127078",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127079": {
+  "name": "华亚转债",
+  "code": "127079",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127080": {
+  "name": "声迅转债",
+  "code": "127080",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127081": {
+  "name": "中旗转债",
+  "code": "127081",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127082": {
+  "name": "亚科转债",
+  "code": "127082",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127083": {
+  "name": "山路转债",
+  "code": "127083",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127084": {
+  "name": "柳工转2",
+  "code": "127084",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "127085": {
+  "name": "韵达转债",
+  "code": "127085",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128010": {
+  "name": "蔚蓝转债",
+  "code": "128010",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128012": {
+  "name": "辉丰转债",
+  "code": "128012",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128013": {
+  "name": "洪涛转债",
+  "code": "128013",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128014": {
+  "name": "永东转债",
+  "code": "128014",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128015": {
+  "name": "久其转债",
+  "code": "128015",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128016": {
+  "name": "雨虹转债",
+  "code": "128016",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128017": {
+  "name": "金禾转债",
+  "code": "128017",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128018": {
+  "name": "时达转债",
+  "code": "128018",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128019": {
+  "name": "久立转2",
+  "code": "128019",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128020": {
+  "name": "水晶转债",
+  "code": "128020",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128021": {
+  "name": "兄弟转债",
+  "code": "128021",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128022": {
+  "name": "众信转债",
+  "code": "128022",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128023": {
+  "name": "亚太转债",
+  "code": "128023",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128025": {
+  "name": "特一转债",
+  "code": "128025",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128026": {
+  "name": "众兴转债",
+  "code": "128026",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128028": {
+  "name": "赣锋转债",
+  "code": "128028",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128029": {
+  "name": "太阳转债",
+  "code": "128029",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128030": {
+  "name": "天康转债",
+  "code": "128030",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128032": {
+  "name": "双环转债",
+  "code": "128032",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128033": {
+  "name": "迪龙转债",
+  "code": "128033",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128034": {
+  "name": "江银转债",
+  "code": "128034",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128035": {
+  "name": "大族转债",
+  "code": "128035",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128036": {
+  "name": "金农转债",
+  "code": "128036",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128037": {
+  "name": "岩土转债",
+  "code": "128037",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128038": {
+  "name": "利欧转债",
+  "code": "128038",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128039": {
+  "name": "三力转债",
+  "code": "128039",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128040": {
+  "name": "华通转债",
+  "code": "128040",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128041": {
+  "name": "盛路转债",
+  "code": "128041",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128042": {
+  "name": "凯中转债",
+  "code": "128042",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128043": {
+  "name": "东音转债",
+  "code": "128043",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128044": {
+  "name": "岭南转债",
+  "code": "128044",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128045": {
+  "name": "机电转债",
+  "code": "128045",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128046": {
+  "name": "利尔转债",
+  "code": "128046",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128048": {
+  "name": "张行转债",
+  "code": "128048",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128049": {
+  "name": "华源转债",
+  "code": "128049",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128050": {
+  "name": "钧达转债",
+  "code": "128050",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128051": {
+  "name": "光华转债",
+  "code": "128051",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128052": {
+  "name": "凯龙转债",
+  "code": "128052",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128053": {
+  "name": "尚荣转债",
+  "code": "128053",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128054": {
+  "name": "中宠转债",
+  "code": "128054",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128055": {
+  "name": "长青转2",
+  "code": "128055",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128056": {
+  "name": "今飞转债",
+  "code": "128056",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128057": {
+  "name": "博彦转债",
+  "code": "128057",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128058": {
+  "name": "拓邦转债",
+  "code": "128058",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128059": {
+  "name": "视源转债",
+  "code": "128059",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128060": {
+  "name": "中装转债",
+  "code": "128060",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128061": {
+  "name": "启明转债",
+  "code": "128061",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128062": {
+  "name": "亚药转债",
+  "code": "128062",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128063": {
+  "name": "未来转债",
+  "code": "128063",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128064": {
+  "name": "司尔转债",
+  "code": "128064",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128065": {
+  "name": "雅化转债",
+  "code": "128065",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128066": {
+  "name": "亚泰转债",
+  "code": "128066",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128067": {
+  "name": "一心转债",
+  "code": "128067",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128068": {
+  "name": "和而转债",
+  "code": "128068",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128069": {
+  "name": "华森转债",
+  "code": "128069",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128070": {
+  "name": "智能转债",
+  "code": "128070",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128071": {
+  "name": "合兴转债",
+  "code": "128071",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128072": {
+  "name": "翔鹭转债",
+  "code": "128072",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128073": {
+  "name": "哈尔转债",
+  "code": "128073",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128074": {
+  "name": "游族转债",
+  "code": "128074",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128075": {
+  "name": "远东转债",
+  "code": "128075",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128076": {
+  "name": "金轮转债",
+  "code": "128076",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128077": {
+  "name": "华夏转债",
+  "code": "128077",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128078": {
+  "name": "太极转债",
+  "code": "128078",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128079": {
+  "name": "英联转债",
+  "code": "128079",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128080": {
+  "name": "顺丰转债",
+  "code": "128080",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128081": {
+  "name": "海亮转债",
+  "code": "128081",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128082": {
+  "name": "华锋转债",
+  "code": "128082",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128083": {
+  "name": "新北转债",
+  "code": "128083",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128084": {
+  "name": "木森转债",
+  "code": "128084",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128085": {
+  "name": "鸿达转债",
+  "code": "128085",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128086": {
+  "name": "国轩转债",
+  "code": "128086",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128087": {
+  "name": "孚日转债",
+  "code": "128087",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128088": {
+  "name": "深南转债",
+  "code": "128088",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128089": {
+  "name": "麦米转债",
+  "code": "128089",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128090": {
+  "name": "汽模转2",
+  "code": "128090",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128091": {
+  "name": "新天转债",
+  "code": "128091",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128092": {
+  "name": "唐人转债",
+  "code": "128092",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128093": {
+  "name": "百川转债",
+  "code": "128093",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128094": {
+  "name": "星帅转债",
+  "code": "128094",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128095": {
+  "name": "恩捷转债",
+  "code": "128095",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128096": {
+  "name": "奥瑞转债",
+  "code": "128096",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128097": {
+  "name": "奥佳转债",
+  "code": "128097",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128098": {
+  "name": "康弘转债",
+  "code": "128098",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128099": {
+  "name": "永高转债",
+  "code": "128099",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128100": {
+  "name": "搜特转债",
+  "code": "128100",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128101": {
+  "name": "联创转债",
+  "code": "128101",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128102": {
+  "name": "海大转债",
+  "code": "128102",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128103": {
+  "name": "同德转债",
+  "code": "128103",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128104": {
+  "name": "裕同转债",
+  "code": "128104",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128105": {
+  "name": "长集转债",
+  "code": "128105",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128106": {
+  "name": "华统转债",
+  "code": "128106",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128107": {
+  "name": "交科转债",
+  "code": "128107",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128108": {
+  "name": "蓝帆转债",
+  "code": "128108",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128109": {
+  "name": "楚江转债",
+  "code": "128109",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128110": {
+  "name": "永兴转债",
+  "code": "128110",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128111": {
+  "name": "中矿转债",
+  "code": "128111",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128112": {
+  "name": "歌尔转2",
+  "code": "128112",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128113": {
+  "name": "比音转债",
+  "code": "128113",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128114": {
+  "name": "正邦转债",
+  "code": "128114",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128115": {
+  "name": "巨星转债",
+  "code": "128115",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128116": {
+  "name": "瑞达转债",
+  "code": "128116",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128117": {
+  "name": "道恩转债",
+  "code": "128117",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128118": {
+  "name": "瀛通转债",
+  "code": "128118",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128119": {
+  "name": "龙大转债",
+  "code": "128119",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128120": {
+  "name": "联诚转债",
+  "code": "128120",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128121": {
+  "name": "宏川转债",
+  "code": "128121",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128122": {
+  "name": "兴森转债",
+  "code": "128122",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128123": {
+  "name": "国光转债",
+  "code": "128123",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128124": {
+  "name": "科华转债",
+  "code": "128124",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128125": {
+  "name": "华阳转债",
+  "code": "128125",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128126": {
+  "name": "赣锋转2",
+  "code": "128126",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128127": {
+  "name": "文科转债",
+  "code": "128127",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128128": {
+  "name": "齐翔转2",
+  "code": "128128",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128129": {
+  "name": "青农转债",
+  "code": "128129",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128130": {
+  "name": "景兴转债",
+  "code": "128130",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128131": {
+  "name": "崇达转2",
+  "code": "128131",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128132": {
+  "name": "交建转债",
+  "code": "128132",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128133": {
+  "name": "奇正转债",
+  "code": "128133",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128134": {
+  "name": "鸿路转债",
+  "code": "128134",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128135": {
+  "name": "洽洽转债",
+  "code": "128135",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128136": {
+  "name": "立讯转债",
+  "code": "128136",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128137": {
+  "name": "洁美转债",
+  "code": "128137",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128138": {
+  "name": "侨银转债",
+  "code": "128138",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128139": {
+  "name": "祥鑫转债",
+  "code": "128139",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128140": {
+  "name": "润建转债",
+  "code": "128140",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128141": {
+  "name": "旺能转债",
+  "code": "128141",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128142": {
+  "name": "新乳转债",
+  "code": "128142",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128143": {
+  "name": "锋龙转债",
+  "code": "128143",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128144": {
+  "name": "利民转债",
+  "code": "128144",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "128145": {
+  "name": "日丰转债",
+  "code": "128145",
+  "exchg": "XSHE",
+  "product": "bond"
+ },
+ "132004": {
+  "name": "15国盛EB",
+  "code": "132004",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132005": {
+  "name": "15国资EB",
+  "code": "132005",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132006": {
+  "name": "16皖新EB",
+  "code": "132006",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132007": {
+  "name": "16凤凰EB",
+  "code": "132007",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132008": {
+  "name": "17山高EB",
+  "code": "132008",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132009": {
+  "name": "17中油EB",
+  "code": "132009",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132011": {
+  "name": "17浙报EB",
+  "code": "132011",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132012": {
+  "name": "17巨化EB",
+  "code": "132012",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132013": {
+  "name": "17宝武EB",
+  "code": "132013",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132014": {
+  "name": "18中化EB",
+  "code": "132014",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132015": {
+  "name": "18中油EB",
+  "code": "132015",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132016": {
+  "name": "19东创EB",
+  "code": "132016",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132017": {
+  "name": "19新钢EB",
+  "code": "132017",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132018": {
+  "name": "G三峡EB1",
+  "code": "132018",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132020": {
+  "name": "19蓝星EB",
+  "code": "132020",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132021": {
+  "name": "19中电EB",
+  "code": "132021",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132022": {
+  "name": "20广版EB",
+  "code": "132022",
+  "exchg": "XSHG",
+  "product": "bond"
+ },
+ "132026": {
+  "name": "G三峡EB2",
+  "code": "132026",
+  "exchg": "XSHG",
+  "product": "bond"
+ }
+}
+}

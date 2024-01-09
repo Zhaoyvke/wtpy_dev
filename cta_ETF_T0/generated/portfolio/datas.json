@@ -1,0 +1,30 @@
+{
+    "fund": {
+        "predynbal": 0.0,
+        "balance": 0.0,
+        "prebalance": 0.0,
+        "profit": 0.0,
+        "dynprofit": 0.0,
+        "fees": 0.0,
+        "max_dyn_bal": 0.0,
+        "max_time": 93831111,
+        "min_dyn_bal": 0.0,
+        "min_time": 93831111,
+        "last_date": 20230904,
+        "date": 20230905,
+        "maxmd": {
+            "date": 20230829,
+            "dyn_balance": 0.0
+        },
+        "minmd": {
+            "date": 20230829,
+            "dyn_balance": 0.0
+        },
+        "update_time": 1693884600187
+    },
+    "positions": [],
+    "riskmon": {
+        "scale": 1.0,
+        "date": 0
+    }
+}

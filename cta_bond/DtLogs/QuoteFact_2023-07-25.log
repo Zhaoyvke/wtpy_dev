@@ -1,0 +1,7 @@
+[2023.07.25 13:55:14 - info ] Trading sessions loaded
+[2023.07.25 13:55:14 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.07.25 13:55:14 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges
+[2023.07.25 13:55:14 - info ] Holidays loaded
+[2023.07.25 13:55:14 - error] Exception raised while start subscribing service @ port 3997
+[2023.07.25 13:55:14 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:17
+[2023.07.25 13:55:14 - info ] 0 parsers started

@@ -1,0 +1,26 @@
+[2023.12.18 09:10:14 - info ] [ParserCTP] Market data server connected
+[2023.12.18 09:10:14 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 09:10:14 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.18 10:32:08 - info ] [ParserCTP] Market data server connected
+[2023.12.18 10:32:08 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 10:32:08 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.18 10:35:00 - info ] [ParserCTP] Market data server connected
+[2023.12.18 10:35:00 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 10:35:00 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.18 10:36:16 - info ] [ParserCTP] Market data server connected
+[2023.12.18 10:36:16 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 10:36:16 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.18 10:39:57 - info ] [ParserCTP] Market data server connected
+[2023.12.18 10:39:57 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 10:39:57 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.18 10:41:10 - info ] [ParserCTP] Market data server connected
+[2023.12.18 10:41:10 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 10:41:10 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.18 13:04:47 - error] [ParserCTP] Market data server disconnected: 8193
+[2023.12.18 13:04:57 - info ] [ParserCTP] Market data server connected
+[2023.12.18 13:04:57 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 13:04:57 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.18 13:05:24 - info ] [ParserCTP] Market data server connected
+[2023.12.18 13:05:24 - info ] [ParserCTP] Market data server logined, 20231218
+[2023.12.18 13:05:24 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.18 16:27:19 - error] [ParserCTP] Market data server disconnected: 4097

@@ -1,0 +1,37 @@
+[2023.09.12 14:28:43 - debug] [ParserQTS] Subscribe 695 instruments from SSE market ...
+[2023.09.12 14:28:43 - debug] [ParserQTS] Subscribe 816 instruments from SZSE market ...
+[2023.09.12 14:28:43 - info ] [PaserQTS] Register Service Success!
+[2023.09.12 14:28:49 - debug] [ParserQTS] Subscribe 695 instruments from SSE market ...
+[2023.09.12 14:28:49 - debug] [ParserQTS] Subscribe 816 instruments from SZSE market ...
+[2023.09.12 14:28:49 - info ] [PaserQTS] Register Service Success!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Login success !
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - warning] [ParserQTS] Subscribe  Msg_SSEL2_ShortQuotation Success,Start to Receive Data ...
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - warning] [ParserQTS] Subscribe  Msg_SSEL2_Index Success,Start to Receive Data ...
+[2023.09.12 14:28:53 - warning] [ParserQTS] Subscribe  Msg_SSEL2_BondQuotation Success,Start to Receive Data ...
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - warning] [ParserQTS] Subscribe  SZSEL2_Index Success,Start to Receive Data ...
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - info ] [ParserQTS] shwzh Connect!
+[2023.09.12 14:28:53 - warning] [ParserQTS] Subscribe  Msg_SZSEL2_ShortQuotation Success,Start to Receive Data ...
+[2023.09.12 14:28:53 - warning] [ParserQTS] Subscribe  Msg_SZSEL2_BondQuotation Success,Start to Receive Data ...

@@ -1,0 +1,23 @@
+parsers:
+-   active: true
+    id: parser
+    module: ParserInsight
+    host: '112.4.154.165'  # 
+    port: '8262'
+    user: 'MDIL2SHWUZHI01'
+    pass: 'W.Q+T_WE55XGu'
+    front_backup: '218.94.125.135:8252;221.6.24.39:8272'
+    service_num: 5
+    cert: './cert'
+    flowdir: ''
+    
+    has_transaction_order: false
+    has_tick: true
+    has_bySourece: true
+
+    has_index: true
+    has_share: true
+    has_etf: true
+    has_bond: true
+    has_future: false
+    has_option: false

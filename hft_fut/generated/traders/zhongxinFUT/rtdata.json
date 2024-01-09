@@ -1,0 +1,32 @@
+{
+    "positions": [
+        {
+            "code": "DCE.y.2403",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 1.0,
+                "newavail": 1.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        }
+    ],
+    "funds": {
+        "CNY": {
+            "prebalance": 2000000.0,
+            "balance": 1999996.0,
+            "closeprofit": 0.0,
+            "dynprofit": -5720.0,
+            "margin": 5150.5999999999995,
+            "fee": 4.0,
+            "available": 1989125.4,
+            "deposit": 0.0,
+            "withdraw": 0.0
+        }
+    }
+}

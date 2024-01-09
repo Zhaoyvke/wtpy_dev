@@ -1,0 +1,410 @@
+[2023.08.30 10:54:27 - debug] Main KBars confirmed: SSE.ETF.510050#m1
+[2023.08.30 10:54:27 - info ] Market data subscribed: SSE.ETF.510050
+[2023.08.30 10:55:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 10:55:00 - debug] Strategy T0_LXY_510050 scheduled @ 1055
+[2023.08.30 10:57:03 - info ] 0 conditions recovered, setup time: 0
+[2023.08.30 10:57:03 - debug] Main KBars confirmed: SSE.ETF.510050#m1
+[2023.08.30 10:57:03 - info ] Market data subscribed: SSE.ETF.510050
+[2023.08.30 10:58:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 10:58:00 - debug] Strategy T0_LXY_510050 scheduled @ 1058
+[2023.08.30 11:21:28 - info ] 0 conditions recovered, setup time: 0
+[2023.08.30 11:21:28 - debug] Main KBars confirmed: SSE.ETF.510050#m1
+[2023.08.30 11:21:28 - info ] Market data subscribed: SSE.ETF.510050
+[2023.08.30 11:22:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:22:00 - info ] 1122 set SSE.ETF.510050 position -0.0
+[2023.08.30 11:22:00 - debug] Strategy T0_LXY_510050 scheduled @ 1122
+[2023.08.30 11:22:34 - info ] 0 conditions recovered, setup time: 0
+[2023.08.30 11:22:34 - info ] SSE.ETF.510050 untouched signal recovered, target pos: -0
+[2023.08.30 11:22:34 - info ] Market data subscribed: SSE.ETF.510050
+[2023.08.30 11:22:34 - debug] Main KBars confirmed: SSE.ETF.510050#m1
+[2023.08.30 11:22:34 - info ] Market data subscribed: SSE.ETF.510050
+[2023.08.30 11:23:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:23:00 - info ] 1123 set SSE.ETF.510050 position 0.0
+[2023.08.30 11:23:00 - debug] Strategy T0_LXY_510050 scheduled @ 1123
+[2023.08.30 11:24:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:24:00 - info ] 1124 set SSE.ETF.510050 position -0.0
+[2023.08.30 11:24:00 - debug] Strategy T0_LXY_510050 scheduled @ 1124
+[2023.08.30 11:25:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:25:00 - info ] 1125 set SSE.ETF.510050 position 0.0
+[2023.08.30 11:25:00 - debug] Strategy T0_LXY_510050 scheduled @ 1125
+[2023.08.30 11:26:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:26:00 - info ] 1126 set SSE.ETF.510050 position 0.0
+[2023.08.30 11:26:00 - debug] Strategy T0_LXY_510050 scheduled @ 1126
+[2023.08.30 11:27:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:27:00 - info ] 1127 set SSE.ETF.510050 position -0.0
+[2023.08.30 11:27:00 - debug] Strategy T0_LXY_510050 scheduled @ 1127
+[2023.08.30 11:28:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:28:00 - info ] 1128 set SSE.ETF.510050 position -0.0
+[2023.08.30 11:28:00 - debug] Strategy T0_LXY_510050 scheduled @ 1128
+[2023.08.30 11:28:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 11:28:54 - info ] 1129 set SSE.ETF.510050 position 0.0
+[2023.08.30 11:28:54 - debug] Strategy T0_LXY_510050 scheduled @ 1129
+[2023.08.30 12:59:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 12:59:54 - info ] 1130 set SSE.ETF.510050 position -0.0
+[2023.08.30 12:59:54 - debug] Strategy T0_LXY_510050 scheduled @ 1130
+[2023.08.30 13:00:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:00:54 - info ] 1301 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:00:54 - debug] Strategy T0_LXY_510050 scheduled @ 1301
+[2023.08.30 13:01:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:01:54 - info ] 1302 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:01:54 - debug] Strategy T0_LXY_510050 scheduled @ 1302
+[2023.08.30 13:02:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:02:54 - info ] 1303 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:02:54 - debug] Strategy T0_LXY_510050 scheduled @ 1303
+[2023.08.30 13:03:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:03:54 - info ] 1304 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:03:54 - debug] Strategy T0_LXY_510050 scheduled @ 1304
+[2023.08.30 13:04:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:04:54 - info ] 1305 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:04:54 - debug] Strategy T0_LXY_510050 scheduled @ 1305
+[2023.08.30 13:05:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:05:54 - info ] 1306 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:05:54 - debug] Strategy T0_LXY_510050 scheduled @ 1306
+[2023.08.30 13:06:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:06:59 - info ] 1307 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:06:59 - debug] Strategy T0_LXY_510050 scheduled @ 1307
+[2023.08.30 13:07:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:07:57 - info ] 1308 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:07:57 - debug] Strategy T0_LXY_510050 scheduled @ 1308
+[2023.08.30 13:08:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:08:54 - info ] 1309 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:08:54 - debug] Strategy T0_LXY_510050 scheduled @ 1309
+[2023.08.30 13:09:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:09:54 - info ] 1310 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:09:54 - debug] Strategy T0_LXY_510050 scheduled @ 1310
+[2023.08.30 13:10:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:10:54 - info ] 1311 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:10:54 - debug] Strategy T0_LXY_510050 scheduled @ 1311
+[2023.08.30 13:11:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:11:54 - info ] 1312 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:11:54 - debug] Strategy T0_LXY_510050 scheduled @ 1312
+[2023.08.30 13:11:54 - info ] Strategy has been scheduled 20 times, totally taking 18306981 us, 915349.050 us each time
+[2023.08.30 13:12:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:12:54 - info ] 1313 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:12:54 - debug] Strategy T0_LXY_510050 scheduled @ 1313
+[2023.08.30 13:13:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:13:54 - info ] 1314 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:13:54 - debug] Strategy T0_LXY_510050 scheduled @ 1314
+[2023.08.30 13:14:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:14:54 - info ] 1315 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:14:54 - debug] Strategy T0_LXY_510050 scheduled @ 1315
+[2023.08.30 13:15:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:15:54 - info ] 1316 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:15:54 - debug] Strategy T0_LXY_510050 scheduled @ 1316
+[2023.08.30 13:16:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:16:54 - info ] 1317 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:16:54 - debug] Strategy T0_LXY_510050 scheduled @ 1317
+[2023.08.30 13:17:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:17:54 - info ] 1318 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:17:54 - debug] Strategy T0_LXY_510050 scheduled @ 1318
+[2023.08.30 13:18:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:18:54 - info ] 1319 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:18:54 - debug] Strategy T0_LXY_510050 scheduled @ 1319
+[2023.08.30 13:19:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:19:54 - info ] 1320 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:19:54 - debug] Strategy T0_LXY_510050 scheduled @ 1320
+[2023.08.30 13:20:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:20:54 - info ] 1321 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:20:54 - debug] Strategy T0_LXY_510050 scheduled @ 1321
+[2023.08.30 13:21:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:22:00 - info ] 1322 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:22:00 - debug] Strategy T0_LXY_510050 scheduled @ 1322
+[2023.08.30 13:22:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:22:54 - info ] 1323 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:22:54 - debug] Strategy T0_LXY_510050 scheduled @ 1323
+[2023.08.30 13:23:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:23:54 - info ] 1324 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:23:54 - debug] Strategy T0_LXY_510050 scheduled @ 1324
+[2023.08.30 13:24:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:24:54 - info ] 1325 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:24:54 - debug] Strategy T0_LXY_510050 scheduled @ 1325
+[2023.08.30 13:25:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:25:54 - info ] 1326 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:25:54 - debug] Strategy T0_LXY_510050 scheduled @ 1326
+[2023.08.30 13:26:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:26:54 - info ] 1327 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:26:54 - debug] Strategy T0_LXY_510050 scheduled @ 1327
+[2023.08.30 13:27:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:27:54 - info ] 1328 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:27:54 - debug] Strategy T0_LXY_510050 scheduled @ 1328
+[2023.08.30 13:28:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:28:54 - info ] 1329 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:28:54 - debug] Strategy T0_LXY_510050 scheduled @ 1329
+[2023.08.30 13:29:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:29:54 - info ] 1330 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:29:54 - debug] Strategy T0_LXY_510050 scheduled @ 1330
+[2023.08.30 13:30:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:30:54 - info ] 1331 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:30:54 - debug] Strategy T0_LXY_510050 scheduled @ 1331
+[2023.08.30 13:31:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:31:53 - info ] 1332 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:31:53 - debug] Strategy T0_LXY_510050 scheduled @ 1332
+[2023.08.30 13:31:54 - info ] Strategy has been scheduled 40 times, totally taking 37390317 us, 934757.925 us each time
+[2023.08.30 13:32:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:32:54 - info ] 1333 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:32:54 - debug] Strategy T0_LXY_510050 scheduled @ 1333
+[2023.08.30 13:33:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:33:54 - info ] 1334 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:33:54 - debug] Strategy T0_LXY_510050 scheduled @ 1334
+[2023.08.30 13:34:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:34:54 - info ] 1335 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:34:54 - debug] Strategy T0_LXY_510050 scheduled @ 1335
+[2023.08.30 13:35:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:35:54 - info ] 1336 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:35:54 - debug] Strategy T0_LXY_510050 scheduled @ 1336
+[2023.08.30 13:36:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:36:54 - info ] 1337 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:36:54 - debug] Strategy T0_LXY_510050 scheduled @ 1337
+[2023.08.30 13:37:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:37:54 - info ] 1338 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:37:54 - debug] Strategy T0_LXY_510050 scheduled @ 1338
+[2023.08.30 13:38:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:38:54 - info ] 1339 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:38:54 - debug] Strategy T0_LXY_510050 scheduled @ 1339
+[2023.08.30 13:39:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:39:54 - info ] 1340 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:39:54 - debug] Strategy T0_LXY_510050 scheduled @ 1340
+[2023.08.30 13:40:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:40:54 - info ] 1341 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:40:54 - debug] Strategy T0_LXY_510050 scheduled @ 1341
+[2023.08.30 13:41:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:41:54 - info ] 1342 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:41:54 - debug] Strategy T0_LXY_510050 scheduled @ 1342
+[2023.08.30 13:42:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:42:54 - info ] 1343 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:42:54 - debug] Strategy T0_LXY_510050 scheduled @ 1343
+[2023.08.30 13:43:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:43:54 - info ] 1344 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:43:54 - debug] Strategy T0_LXY_510050 scheduled @ 1344
+[2023.08.30 13:44:54 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:44:54 - info ] 1346 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:44:54 - debug] Strategy T0_LXY_510050 scheduled @ 1345
+[2023.08.30 13:45:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:45:54 - info ] 1347 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:45:54 - debug] Strategy T0_LXY_510050 scheduled @ 1346
+[2023.08.30 13:46:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:46:54 - info ] 1347 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:46:54 - debug] Strategy T0_LXY_510050 scheduled @ 1347
+[2023.08.30 13:47:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:47:54 - info ] 1348 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:47:54 - debug] Strategy T0_LXY_510050 scheduled @ 1348
+[2023.08.30 13:48:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:48:54 - info ] 1349 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:48:54 - debug] Strategy T0_LXY_510050 scheduled @ 1349
+[2023.08.30 13:49:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:49:54 - info ] 1350 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:49:54 - debug] Strategy T0_LXY_510050 scheduled @ 1350
+[2023.08.30 13:50:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:50:54 - info ] 1351 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:50:54 - debug] Strategy T0_LXY_510050 scheduled @ 1351
+[2023.08.30 13:51:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:51:54 - info ] 1352 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:51:54 - debug] Strategy T0_LXY_510050 scheduled @ 1352
+[2023.08.30 13:51:54 - info ] Strategy has been scheduled 60 times, totally taking 54502880 us, 908381.333 us each time
+[2023.08.30 13:52:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:52:54 - info ] 1353 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:52:54 - debug] Strategy T0_LXY_510050 scheduled @ 1353
+[2023.08.30 13:53:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:53:54 - info ] 1354 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:53:54 - debug] Strategy T0_LXY_510050 scheduled @ 1354
+[2023.08.30 13:54:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:54:54 - info ] 1355 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:54:54 - debug] Strategy T0_LXY_510050 scheduled @ 1355
+[2023.08.30 13:55:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:55:54 - info ] 1356 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:55:54 - debug] Strategy T0_LXY_510050 scheduled @ 1356
+[2023.08.30 13:56:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:56:54 - info ] 1357 set SSE.ETF.510050 position -0.0
+[2023.08.30 13:56:54 - debug] Strategy T0_LXY_510050 scheduled @ 1357
+[2023.08.30 13:57:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:57:54 - info ] 1358 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:57:54 - debug] Strategy T0_LXY_510050 scheduled @ 1358
+[2023.08.30 13:58:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:58:54 - info ] 1359 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:58:54 - debug] Strategy T0_LXY_510050 scheduled @ 1359
+[2023.08.30 13:59:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 13:59:54 - info ] 1400 set SSE.ETF.510050 position 0.0
+[2023.08.30 13:59:54 - debug] Strategy T0_LXY_510050 scheduled @ 1400
+[2023.08.30 14:00:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:00:54 - info ] 1401 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:00:54 - debug] Strategy T0_LXY_510050 scheduled @ 1401
+[2023.08.30 14:01:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:01:54 - info ] 1402 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:01:54 - debug] Strategy T0_LXY_510050 scheduled @ 1402
+[2023.08.30 14:02:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:02:54 - info ] 1404 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:02:54 - debug] Strategy T0_LXY_510050 scheduled @ 1403
+[2023.08.30 14:03:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:03:54 - info ] 1405 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:03:54 - debug] Strategy T0_LXY_510050 scheduled @ 1404
+[2023.08.30 14:04:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:04:54 - info ] 1405 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:04:54 - debug] Strategy T0_LXY_510050 scheduled @ 1405
+[2023.08.30 14:05:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:05:54 - info ] 1406 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:05:54 - debug] Strategy T0_LXY_510050 scheduled @ 1406
+[2023.08.30 14:07:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:07:01 - info ] 1407 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:07:01 - debug] Strategy T0_LXY_510050 scheduled @ 1407
+[2023.08.30 14:08:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:08:01 - info ] 1409 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:08:01 - debug] Strategy T0_LXY_510050 scheduled @ 1408
+[2023.08.30 14:09:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:09:00 - info ] 1410 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:09:00 - debug] Strategy T0_LXY_510050 scheduled @ 1409
+[2023.08.30 14:10:00 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:10:00 - info ] 1410 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:10:00 - debug] Strategy T0_LXY_510050 scheduled @ 1410
+[2023.08.30 14:10:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:10:53 - info ] 1411 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:10:53 - debug] Strategy T0_LXY_510050 scheduled @ 1411
+[2023.08.30 14:11:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:11:53 - info ] 1412 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:11:53 - debug] Strategy T0_LXY_510050 scheduled @ 1412
+[2023.08.30 14:11:53 - info ] Strategy has been scheduled 80 times, totally taking 71461340 us, 893266.750 us each time
+[2023.08.30 14:12:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:12:53 - info ] 1413 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:12:53 - debug] Strategy T0_LXY_510050 scheduled @ 1413
+[2023.08.30 14:13:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:13:53 - info ] 1414 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:13:53 - debug] Strategy T0_LXY_510050 scheduled @ 1414
+[2023.08.30 14:14:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:14:53 - info ] 1415 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:14:53 - debug] Strategy T0_LXY_510050 scheduled @ 1415
+[2023.08.30 14:15:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:15:53 - info ] 1416 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:15:53 - debug] Strategy T0_LXY_510050 scheduled @ 1416
+[2023.08.30 14:16:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:16:53 - info ] 1417 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:16:53 - debug] Strategy T0_LXY_510050 scheduled @ 1417
+[2023.08.30 14:17:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:17:53 - info ] 1418 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:17:53 - debug] Strategy T0_LXY_510050 scheduled @ 1418
+[2023.08.30 14:18:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:18:53 - info ] 1419 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:18:53 - debug] Strategy T0_LXY_510050 scheduled @ 1419
+[2023.08.30 14:19:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:19:53 - info ] 1420 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:19:53 - debug] Strategy T0_LXY_510050 scheduled @ 1420
+[2023.08.30 14:20:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:20:53 - info ] 1421 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:20:53 - debug] Strategy T0_LXY_510050 scheduled @ 1421
+[2023.08.30 14:21:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:21:53 - info ] 1422 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:21:53 - debug] Strategy T0_LXY_510050 scheduled @ 1422
+[2023.08.30 14:22:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:22:53 - info ] 1423 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:22:53 - debug] Strategy T0_LXY_510050 scheduled @ 1423
+[2023.08.30 14:23:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:23:53 - info ] 1424 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:23:53 - debug] Strategy T0_LXY_510050 scheduled @ 1424
+[2023.08.30 14:24:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:24:53 - info ] 1425 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:24:53 - debug] Strategy T0_LXY_510050 scheduled @ 1425
+[2023.08.30 14:25:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:25:53 - info ] 1426 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:25:53 - debug] Strategy T0_LXY_510050 scheduled @ 1426
+[2023.08.30 14:26:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:26:53 - info ] 1427 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:26:53 - debug] Strategy T0_LXY_510050 scheduled @ 1427
+[2023.08.30 14:27:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:27:53 - info ] 1428 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:27:53 - debug] Strategy T0_LXY_510050 scheduled @ 1428
+[2023.08.30 14:28:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:28:53 - info ] 1429 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:28:53 - debug] Strategy T0_LXY_510050 scheduled @ 1429
+[2023.08.30 14:29:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:29:53 - info ] 1430 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:29:53 - debug] Strategy T0_LXY_510050 scheduled @ 1430
+[2023.08.30 14:30:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:30:54 - info ] 1431 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:30:54 - debug] Strategy T0_LXY_510050 scheduled @ 1431
+[2023.08.30 14:31:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:31:54 - info ] 1432 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:31:54 - debug] Strategy T0_LXY_510050 scheduled @ 1432
+[2023.08.30 14:31:54 - info ] Strategy has been scheduled 100 times, totally taking 75847758 us, 758477.580 us each time
+[2023.08.30 14:32:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:32:54 - info ] 1433 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:32:54 - debug] Strategy T0_LXY_510050 scheduled @ 1433
+[2023.08.30 14:33:53 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:33:54 - info ] 1434 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:33:54 - debug] Strategy T0_LXY_510050 scheduled @ 1434
+[2023.08.30 14:34:54 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:34:54 - info ] 1435 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:34:54 - debug] Strategy T0_LXY_510050 scheduled @ 1435
+[2023.08.30 14:35:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:36:00 - info ] 1436 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:36:00 - debug] Strategy T0_LXY_510050 scheduled @ 1436
+[2023.08.30 14:36:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:37:00 - info ] 1437 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:37:00 - debug] Strategy T0_LXY_510050 scheduled @ 1437
+[2023.08.30 14:37:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:38:00 - info ] 1438 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:38:00 - debug] Strategy T0_LXY_510050 scheduled @ 1438
+[2023.08.30 14:38:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:39:00 - info ] 1439 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:39:00 - debug] Strategy T0_LXY_510050 scheduled @ 1439
+[2023.08.30 14:39:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:40:00 - info ] 1440 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:40:00 - debug] Strategy T0_LXY_510050 scheduled @ 1440
+[2023.08.30 14:40:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:41:00 - info ] 1441 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:41:00 - debug] Strategy T0_LXY_510050 scheduled @ 1441
+[2023.08.30 14:41:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:42:00 - info ] 1442 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:42:00 - debug] Strategy T0_LXY_510050 scheduled @ 1442
+[2023.08.30 14:42:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:43:00 - info ] 1443 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:43:00 - debug] Strategy T0_LXY_510050 scheduled @ 1443
+[2023.08.30 14:43:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:44:00 - info ] 1444 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:44:00 - debug] Strategy T0_LXY_510050 scheduled @ 1444
+[2023.08.30 14:44:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:45:00 - info ] 1445 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:45:00 - debug] Strategy T0_LXY_510050 scheduled @ 1445
+[2023.08.30 14:45:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:46:00 - info ] 1446 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:46:00 - debug] Strategy T0_LXY_510050 scheduled @ 1446
+[2023.08.30 14:46:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:47:00 - info ] 1447 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:47:00 - debug] Strategy T0_LXY_510050 scheduled @ 1447
+[2023.08.30 14:47:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:48:00 - info ] 1448 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:48:00 - debug] Strategy T0_LXY_510050 scheduled @ 1448
+[2023.08.30 14:48:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:49:00 - info ] 1449 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:49:00 - debug] Strategy T0_LXY_510050 scheduled @ 1449
+[2023.08.30 14:49:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:50:00 - info ] 1450 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:50:00 - debug] Strategy T0_LXY_510050 scheduled @ 1450
+[2023.08.30 14:50:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:51:00 - info ] 1451 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:51:00 - debug] Strategy T0_LXY_510050 scheduled @ 1451
+[2023.08.30 14:51:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:52:00 - info ] 1452 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:52:00 - debug] Strategy T0_LXY_510050 scheduled @ 1452
+[2023.08.30 14:52:00 - info ] Strategy has been scheduled 120 times, totally taking 88371205 us, 736426.708 us each time
+[2023.08.30 14:52:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:53:00 - info ] 1453 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:53:00 - debug] Strategy T0_LXY_510050 scheduled @ 1453
+[2023.08.30 14:53:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:54:00 - info ] 1454 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:54:00 - debug] Strategy T0_LXY_510050 scheduled @ 1454
+[2023.08.30 14:54:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:55:00 - info ] 1455 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:55:00 - debug] Strategy T0_LXY_510050 scheduled @ 1455
+[2023.08.30 14:55:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:56:00 - info ] 1456 set SSE.ETF.510050 position 0.0
+[2023.08.30 14:56:00 - debug] Strategy T0_LXY_510050 scheduled @ 1456
+[2023.08.30 14:56:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:57:00 - info ] 1457 set SSE.ETF.510050 position -0.0
+[2023.08.30 14:57:00 - debug] Strategy T0_LXY_510050 scheduled @ 1457
+[2023.08.30 14:57:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:58:00 - info ] 1458 set SSE.ETF.510050 position 0
+[2023.08.30 14:58:00 - debug] Strategy T0_LXY_510050 scheduled @ 1458
+[2023.08.30 14:58:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 14:59:00 - info ] 1459 set SSE.ETF.510050 position 0
+[2023.08.30 14:59:00 - debug] Strategy T0_LXY_510050 scheduled @ 1459
+[2023.08.30 14:59:59 - debug] Main KBars SSE.ETF.510050#m1 closed
+[2023.08.30 15:00:00 - info ] 1500 set SSE.ETF.510050 position 0
+[2023.08.30 15:00:00 - debug] Strategy T0_LXY_510050 scheduled @ 1500

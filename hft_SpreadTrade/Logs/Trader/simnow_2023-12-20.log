@@ -1,0 +1,102 @@
+[2023.12.20 09:25:17 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:25:17 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:25:17 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1116019480, login time: 09:25:17...
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:25:17 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:25:18 - info ] [simnow] Position data updated
+[2023.12.20 09:25:22 - info ] [simnow] Trading channel ready
+[2023.12.20 09:32:20 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:32:20 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:32:20 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1143808473, login time: 09:32:20...
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:32:20 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:32:21 - info ] [simnow] Position data updated
+[2023.12.20 09:32:24 - info ] [simnow] Trading channel ready
+[2023.12.20 09:33:56 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:33:56 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:33:56 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1150034796, login time: 09:33:56...
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:33:56 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:33:57 - info ] [simnow] Position data updated
+[2023.12.20 09:34:00 - info ] [simnow] Trading channel ready
+[2023.12.20 09:40:38 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:40:38 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:40:38 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1176447458, login time: 09:40:39...
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:40:39 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:40:40 - info ] [simnow] Position data updated
+[2023.12.20 09:40:43 - info ] [simnow] Trading channel ready
+[2023.12.20 09:41:30 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:41:30 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:41:30 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1179855545, login time: 09:41:31...
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:41:30 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:41:31 - info ] [simnow] Position data updated
+[2023.12.20 09:41:35 - info ] [simnow] Trading channel ready
+[2023.12.20 09:50:14 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:50:14 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:50:14 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1214198467, login time: 09:50:15...
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:50:15 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:50:16 - info ] [simnow] Position data updated
+[2023.12.20 09:50:19 - info ] [simnow] Trading channel ready
+[2023.12.20 10:01:14 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:01:14 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:01:14 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1257520544, login time: 10:01:15...
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 10:01:14 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 10:01:15 - info ] [simnow] Position data updated
+[2023.12.20 10:01:19 - info ] [simnow] Trading channel ready
+[2023.12.20 10:04:19 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:04:19 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:04:31 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:04:31 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:05:47 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:05:47 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:06:56 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:06:56 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:08:58 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:08:58 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:12:26 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:12:26 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:23:47 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:23:47 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:23:56 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:23:56 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:26:49 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:26:49 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:32:04 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:32:04 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:51:42 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:51:42 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:59:07 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:59:07 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:00:08 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:00:08 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:00:58 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:00:58 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:21:28 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:21:28 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:23:07 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:23:07 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded

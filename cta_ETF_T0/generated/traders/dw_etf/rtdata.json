@@ -1,0 +1,16 @@
+{
+    "positions": [],
+    "funds": {
+        "CNY": {
+            "prebalance": 0.0,
+            "balance": 5000157972560.59,
+            "closeprofit": 0.0,
+            "dynprofit": 0.0,
+            "margin": 0.0,
+            "fee": 0.0,
+            "available": 4999999999900.0,
+            "deposit": 0.0,
+            "withdraw": 0.0
+        }
+    }
+}

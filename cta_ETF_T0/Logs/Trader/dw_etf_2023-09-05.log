@@ -1,0 +1,46 @@
+[2023.09.05 09:25:05 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.09.05 09:25:05 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.09.05 09:38:31 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.09.05 09:38:31 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.09.05 09:38:34 - info ] [TraderFix] Connected!
+[2023.09.05 09:38:34 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.09.05 09:38:34 - info ] [TraderFix] Subscribe order report success
+[2023.09.05 09:38:34 - info ] [TraderFix] Subscribe trade report success
+[2023.09.05 09:38:34 - info ] [TraderFix] Account information init success ...
+[2023.09.05 09:38:34 - info ] [dw_etf] Trader login succeed, trading date: 20230905
+[2023.09.05 09:38:34 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.09.05 09:38:34 - info ] [dw_etf] Position data updated
+[2023.09.05 09:38:34 - info ] [dw_etf] Trading channel ready
+[2023.09.05 09:41:33 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.09.05 09:41:33 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.09.05 09:41:34 - info ] [TraderFix] Connected!
+[2023.09.05 09:41:34 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.09.05 09:41:34 - info ] [TraderFix] Subscribe order report success
+[2023.09.05 09:41:34 - info ] [TraderFix] Subscribe trade report success
+[2023.09.05 09:41:34 - info ] [TraderFix] Account information init success ...
+[2023.09.05 09:41:34 - info ] [dw_etf] Trader login succeed, trading date: 20230905
+[2023.09.05 09:41:34 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.09.05 09:41:34 - info ] [dw_etf] Position data updated
+[2023.09.05 09:41:34 - info ] [dw_etf] Trading channel ready
+[2023.09.05 10:21:09 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.09.05 10:21:09 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.09.05 10:21:10 - info ] [TraderFix] Connected!
+[2023.09.05 10:21:10 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.09.05 10:21:10 - info ] [TraderFix] Subscribe order report success
+[2023.09.05 10:21:10 - info ] [TraderFix] Subscribe trade report success
+[2023.09.05 10:21:10 - info ] [TraderFix] Account information init success ...
+[2023.09.05 10:21:10 - info ] [dw_etf] Trader login succeed, trading date: 20230905
+[2023.09.05 10:21:10 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.09.05 10:21:10 - info ] [dw_etf] Position data updated
+[2023.09.05 10:21:10 - info ] [dw_etf] Trading channel ready
+[2023.09.05 11:17:28 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.09.05 11:17:28 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.09.05 11:17:29 - info ] [TraderFix] Connected!
+[2023.09.05 11:17:29 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.09.05 11:17:29 - info ] [TraderFix] Subscribe order report success
+[2023.09.05 11:17:29 - info ] [TraderFix] Subscribe trade report success
+[2023.09.05 11:17:29 - info ] [TraderFix] Account information init success ...
+[2023.09.05 11:17:29 - info ] [dw_etf] Trader login succeed, trading date: 20230905
+[2023.09.05 11:17:29 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.09.05 11:17:29 - info ] [dw_etf] Position data updated
+[2023.09.05 11:17:29 - info ] [dw_etf] Trading channel ready

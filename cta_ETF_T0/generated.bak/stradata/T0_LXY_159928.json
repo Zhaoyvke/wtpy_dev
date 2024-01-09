@@ -1,0 +1,36 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.ETF.159928",
+            "volume": 0.0,
+            "closeprofit": 3960.0000000000027,
+            "dynprofit": 0.0,
+            "lastentertime": 202308241458,
+            "lastexittime": 202308241459,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": 3960.0000000000027,
+        "total_dynprofit": 0.0,
+        "total_fees": 2331.8399999999997,
+        "tdate": 20230824
+    },
+    "signals": {
+        "SZSE.ETF.159928": {
+            "usertag": "",
+            "volume": 0.0,
+            "sigprice": 0.929,
+            "gentime": 20230824150001100
+        }
+    },
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 287
+    }
+}

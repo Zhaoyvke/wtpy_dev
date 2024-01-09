@@ -1,0 +1,36 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.ETF.159901",
+            "volume": 0.0,
+            "closeprofit": -269.9999999999968,
+            "dynprofit": 0.0,
+            "lastentertime": 202308281457,
+            "lastexittime": 202308281459,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": -269.9999999999968,
+        "total_dynprofit": 0.0,
+        "total_fees": 250.66000000000009,
+        "tdate": 20230828
+    },
+    "signals": {
+        "SZSE.ETF.159901": {
+            "usertag": "",
+            "volume": 0.0,
+            "sigprice": 2.728,
+            "gentime": 20230828145959917
+        }
+    },
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 217
+    }
+}

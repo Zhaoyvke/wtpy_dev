@@ -1,0 +1,3 @@
+code,direct,opentime,openprice,closetime,closeprice,qty,profit,totalprofit,entertag,exittag,openbarno,closebarno
+SZSE.ETF.159901,LONG,202308290945,2.738,202308291005,2.729,100,-90,-90,,,15,16
+SZSE.ETF.159901,LONG,202308291301,2.786,202308291411,2.772,1000,-1400,-1490,,,100,101

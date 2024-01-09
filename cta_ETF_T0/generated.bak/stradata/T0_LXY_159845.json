@@ -1,0 +1,36 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.ETF.159845",
+            "volume": -0.0,
+            "closeprofit": -149.99999999956598,
+            "dynprofit": 0.0,
+            "lastentertime": 202308241452,
+            "lastexittime": 202308241453,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": -149.99999999956598,
+        "total_dynprofit": 0.0,
+        "total_fees": 1736.52,
+        "tdate": 20230824
+    },
+    "signals": {
+        "SZSE.ETF.159845": {
+            "usertag": "",
+            "volume": 0.0,
+            "sigprice": 2.411,
+            "gentime": 20230824150000200
+        }
+    },
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 288
+    }
+}

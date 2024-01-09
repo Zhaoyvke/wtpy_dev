@@ -1,0 +1,9 @@
+parsers:
+-   active: true
+    id: parser1
+    module: ParserUDP
+    host: 127.0.0.1
+    bport: 9001       # 广播端口
+    sport: 3997       # 查询端口
+    filter: ''
+    

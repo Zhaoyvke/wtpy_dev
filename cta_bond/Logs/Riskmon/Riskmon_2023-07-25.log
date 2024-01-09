@@ -1,0 +1,29 @@
+[2023.07.25 09:27:17 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.25 09:29:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:07 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:12 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:17 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:22 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:27 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:32 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:37 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:42 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:47 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:52 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:29:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:07 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:12 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:17 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:22 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:27 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:32 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:37 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:42 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:47 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:52 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:30:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:33:23 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.25 09:33:23 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:33:28 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.25 09:33:33 - info ] [RiskControl] Current Balance Ratio: 100.00%

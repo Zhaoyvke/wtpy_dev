@@ -1,0 +1,53 @@
+[2023.09.08 09:35:49 - info ] Trading sessions loaded
+[2023.09.08 09:35:49 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.09.08 09:35:50 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges
+[2023.09.08 09:35:50 - info ] Holidays loaded
+[2023.09.08 09:35:50 - info ] Data storage module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.08 09:35:50 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.09.08 09:35:50 - info ] Reading parser config from mdparsers.yaml...
+[2023.09.08 09:35:50 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.09.08 09:50:07 - info ] Trading sessions loaded
+[2023.09.08 09:50:07 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.09.08 09:50:08 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges
+[2023.09.08 09:50:08 - info ] Holidays loaded
+[2023.09.08 09:50:08 - info ] Data storage module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.08 09:50:08 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.09.08 09:50:08 - info ] Reading parser config from mdparsers.yaml...
+[2023.09.08 09:50:08 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.09.08 09:50:09 - error] [ParserInsight] Create client failed!
+[2023.09.08 09:50:09 - error] [parser] Parser initializing failed: api initializing failed...
+[2023.09.08 09:50:09 - info ] 1 market data parsers loaded in total
+[2023.09.08 09:50:09 - info ] Callbacks of Extented Parser registration done
+[2023.09.08 09:50:09 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Sep  6 2023 10:17:43
+[2023.09.08 09:50:09 - info ] 1 parsers started
+[2023.09.08 09:50:09 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data
+[2023.09.08 10:42:58 - info ] Trading sessions loaded
+[2023.09.08 10:42:58 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.09.08 10:42:59 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges
+[2023.09.08 10:42:59 - info ] Holidays loaded
+[2023.09.08 10:42:59 - info ] Data storage module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.08 10:42:59 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.09.08 10:42:59 - info ] Reading parser config from mdparsers.yaml...
+[2023.09.08 10:42:59 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.09.08 10:43:01 - error] [ParserInsight] Create client failed!
+[2023.09.08 10:43:01 - error] [parser] Parser initializing failed: api initializing failed...
+[2023.09.08 10:43:01 - info ] 1 market data parsers loaded in total
+[2023.09.08 10:43:01 - info ] Callbacks of Extented Parser registration done
+[2023.09.08 10:43:01 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Sep  6 2023 10:17:43
+[2023.09.08 10:43:01 - info ] 1 parsers started
+[2023.09.08 10:43:01 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data
+[2023.09.08 10:44:38 - info ] Trading sessions loaded
+[2023.09.08 10:44:38 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.09.08 10:44:38 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges
+[2023.09.08 10:44:38 - info ] Holidays loaded
+[2023.09.08 10:44:38 - info ] Data storage module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.09.08 10:44:38 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.09.08 10:44:38 - info ] Reading parser config from mdparsers.yaml...
+[2023.09.08 10:44:38 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.09.08 10:44:40 - error] [ParserInsight] Create client failed!
+[2023.09.08 10:44:40 - error] [parser] Parser initializing failed: api initializing failed...
+[2023.09.08 10:44:40 - info ] 1 market data parsers loaded in total
+[2023.09.08 10:44:40 - info ] Callbacks of Extented Parser registration done
+[2023.09.08 10:44:40 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Sep  6 2023 10:17:43
+[2023.09.08 10:44:40 - info ] 1 parsers started
+[2023.09.08 10:44:40 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data

@@ -1,0 +1,736 @@
+[2023.08.29 09:25:08 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 09:32:00 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: MARKET ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 09:32:00 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 09:44:00 - info ] [exec_dw_etf] Target position of SZSE.ETF.159901 changed: 0 -> 100, diff postion changed: 0 -> 100
+[2023.08.29 09:44:00 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 100
+[2023.08.29 09:44:00 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:00 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829093726388 <= 20230829094406485, execute later
+[2023.08.29 09:44:09 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 09:44:24 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:02:14 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 10:02:14 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: MARKET ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 10:02:14 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 100
+[2023.08.29 10:02:14 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 10:02:14 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 100
+[2023.08.29 10:02:14 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 10:02:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:13 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 10:03:13 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: MARKET ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 10:03:13 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 100
+[2023.08.29 10:03:13 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 10:03:13 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 100
+[2023.08.29 10:03:13 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 10:03:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:24 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:27 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:30 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:33 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:36 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:39 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:42 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:45 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:47 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829094714378 <= 20230829100345330, execute later
+[2023.08.29 10:03:48 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:51 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:53 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829094717369 <= 20230829100351347, execute later
+[2023.08.29 10:03:54 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:57 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 10:03:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829094720360 <= 20230829100357311, execute later
+[2023.08.29 10:04:00 - info ] [exec_dw_etf] Target position of SZSE.ETF.159901 changed: 100 -> 0, diff postion changed: 100 -> 0
+[2023.08.29 10:04:00 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 0
+[2023.08.29 10:45:21 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 10:45:21 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: MARKET ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 10:45:22 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 0
+[2023.08.29 10:45:22 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 10:45:39 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 10:45:40 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: MARKET ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 10:45:40 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 0
+[2023.08.29 10:45:40 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 11:30:00 - info ] [exec_dw_etf] Target position of SZSE.ETF.159901 changed: 0 -> 1000, diff postion changed: 0 -> 1000
+[2023.08.29 11:30:00 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 11:30:19 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829103920096 <= 20230829113000174, execute later
+[2023.08.29 11:31:25 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829103959099 <= 20230829113000174, execute later
+[2023.08.29 11:31:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104002139 <= 20230829113000174, execute later
+[2023.08.29 11:31:42 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104008093 <= 20230829113000174, execute later
+[2023.08.29 11:31:53 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104014051 <= 20230829113000174, execute later
+[2023.08.29 11:31:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104017074 <= 20230829113000174, execute later
+[2023.08.29 11:32:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104023026 <= 20230829113000174, execute later
+[2023.08.29 11:32:38 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104044040 <= 20230829113000174, execute later
+[2023.08.29 11:32:42 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104047051 <= 20230829113000174, execute later
+[2023.08.29 11:32:46 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104050060 <= 20230829113000174, execute later
+[2023.08.29 11:32:51 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104053035 <= 20230829113000174, execute later
+[2023.08.29 11:33:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104117111 <= 20230829113000174, execute later
+[2023.08.29 11:33:46 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104126041 <= 20230829113000174, execute later
+[2023.08.29 11:34:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104202082 <= 20230829113000174, execute later
+[2023.08.29 11:35:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104220100 <= 20230829113000174, execute later
+[2023.08.29 11:36:01 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104241077 <= 20230829113000174, execute later
+[2023.08.29 11:36:22 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104253121 <= 20230829113000174, execute later
+[2023.08.29 11:36:52 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104308131 <= 20230829113000174, execute later
+[2023.08.29 11:36:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104311123 <= 20230829113000174, execute later
+[2023.08.29 11:37:10 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104317102 <= 20230829113000174, execute later
+[2023.08.29 11:37:20 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104323100 <= 20230829113000174, execute later
+[2023.08.29 11:37:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104329074 <= 20230829113000174, execute later
+[2023.08.29 11:37:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104335084 <= 20230829113000174, execute later
+[2023.08.29 11:37:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104338033 <= 20230829113000174, execute later
+[2023.08.29 11:38:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104359065 <= 20230829113000174, execute later
+[2023.08.29 11:38:22 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104402124 <= 20230829113000174, execute later
+[2023.08.29 11:39:29 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104444028 <= 20230829113000174, execute later
+[2023.08.29 11:39:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104447044 <= 20230829113000174, execute later
+[2023.08.29 11:39:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104453011 <= 20230829113000174, execute later
+[2023.08.29 11:40:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104502107 <= 20230829113000174, execute later
+[2023.08.29 11:40:26 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104517052 <= 20230829113000174, execute later
+[2023.08.29 11:40:35 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104523055 <= 20230829113000174, execute later
+[2023.08.29 11:40:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104526009 <= 20230829113000174, execute later
+[2023.08.29 11:40:50 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104532058 <= 20230829113000174, execute later
+[2023.08.29 11:41:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104543974 <= 20230829113000174, execute later
+[2023.08.29 11:41:13 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104546988 <= 20230829113000174, execute later
+[2023.08.29 11:41:16 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104550557 <= 20230829113000174, execute later
+[2023.08.29 11:41:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104604325 <= 20230829113000174, execute later
+[2023.08.29 11:41:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104610760 <= 20230829113000174, execute later
+[2023.08.29 11:41:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104614619 <= 20230829113000174, execute later
+[2023.08.29 11:42:22 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104645662 <= 20230829113000174, execute later
+[2023.08.29 11:42:25 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104647139 <= 20230829113000174, execute later
+[2023.08.29 11:43:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104708083 <= 20230829113000174, execute later
+[2023.08.29 11:43:13 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104714167 <= 20230829113000174, execute later
+[2023.08.29 11:43:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104717211 <= 20230829113000174, execute later
+[2023.08.29 11:43:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104729045 <= 20230829113000174, execute later
+[2023.08.29 11:43:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104735030 <= 20230829113000174, execute later
+[2023.08.29 11:43:49 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104738121 <= 20230829113000174, execute later
+[2023.08.29 11:44:01 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104746998 <= 20230829113000174, execute later
+[2023.08.29 11:44:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104753034 <= 20230829113000174, execute later
+[2023.08.29 11:44:20 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104759179 <= 20230829113000174, execute later
+[2023.08.29 11:44:27 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104802083 <= 20230829113000174, execute later
+[2023.08.29 11:44:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104814137 <= 20230829113000174, execute later
+[2023.08.29 11:45:12 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104835014 <= 20230829113000174, execute later
+[2023.08.29 11:45:20 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104841010 <= 20230829113000174, execute later
+[2023.08.29 11:45:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104850026 <= 20230829113000174, execute later
+[2023.08.29 11:45:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104853067 <= 20230829113000174, execute later
+[2023.08.29 11:45:57 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104905058 <= 20230829113000174, execute later
+[2023.08.29 11:46:01 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104908090 <= 20230829113000174, execute later
+[2023.08.29 11:46:10 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104914037 <= 20230829113000174, execute later
+[2023.08.29 11:46:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104944003 <= 20230829113000174, execute later
+[2023.08.29 11:47:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104946984 <= 20230829113000174, execute later
+[2023.08.29 11:47:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829104949988 <= 20230829113000174, execute later
+[2023.08.29 11:47:25 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105002004 <= 20230829113000174, execute later
+[2023.08.29 11:47:47 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105016995 <= 20230829113000174, execute later
+[2023.08.29 11:48:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105025981 <= 20230829113000174, execute later
+[2023.08.29 11:48:06 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105028984 <= 20230829113000174, execute later
+[2023.08.29 11:48:10 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105031977 <= 20230829113000174, execute later
+[2023.08.29 11:48:30 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105044011 <= 20230829113000174, execute later
+[2023.08.29 11:48:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105046954 <= 20230829113000174, execute later
+[2023.08.29 11:48:38 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105049973 <= 20230829113000174, execute later
+[2023.08.29 11:48:46 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105055980 <= 20230829113000174, execute later
+[2023.08.29 11:49:04 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105107983 <= 20230829113000174, execute later
+[2023.08.29 11:49:09 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105110992 <= 20230829113000174, execute later
+[2023.08.29 11:49:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105116948 <= 20230829113000174, execute later
+[2023.08.29 11:49:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105119977 <= 20230829113000174, execute later
+[2023.08.29 11:49:51 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105137956 <= 20230829113000174, execute later
+[2023.08.29 11:50:14 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105150026 <= 20230829113000174, execute later
+[2023.08.29 11:51:00 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105217016 <= 20230829113000174, execute later
+[2023.08.29 11:51:16 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105226005 <= 20230829113000174, execute later
+[2023.08.29 11:51:25 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105231976 <= 20230829113000174, execute later
+[2023.08.29 11:51:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105243959 <= 20230829113000174, execute later
+[2023.08.29 11:51:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105252978 <= 20230829113000174, execute later
+[2023.08.29 11:52:10 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105301998 <= 20230829113000174, execute later
+[2023.08.29 11:52:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105334899 <= 20230829113000174, execute later
+[2023.08.29 11:53:01 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105337900 <= 20230829113000174, execute later
+[2023.08.29 11:53:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105343935 <= 20230829113000174, execute later
+[2023.08.29 11:53:14 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105349911 <= 20230829113000174, execute later
+[2023.08.29 11:53:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105401966 <= 20230829113000174, execute later
+[2023.08.29 11:53:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105407993 <= 20230829113000174, execute later
+[2023.08.29 11:53:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105410967 <= 20230829113000174, execute later
+[2023.08.29 11:53:56 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105416933 <= 20230829113000174, execute later
+[2023.08.29 11:54:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105425925 <= 20230829113000174, execute later
+[2023.08.29 11:54:16 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105431961 <= 20230829113000174, execute later
+[2023.08.29 11:54:20 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105434921 <= 20230829113000174, execute later
+[2023.08.29 11:54:43 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105449939 <= 20230829113000174, execute later
+[2023.08.29 11:54:47 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105452901 <= 20230829113000174, execute later
+[2023.08.29 11:54:57 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105458934 <= 20230829113000174, execute later
+[2023.08.29 11:55:01 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105501971 <= 20230829113000174, execute later
+[2023.08.29 11:55:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105505106 <= 20230829113000174, execute later
+[2023.08.29 11:55:16 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105510994 <= 20230829113000174, execute later
+[2023.08.29 11:55:21 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105514026 <= 20230829113000174, execute later
+[2023.08.29 11:55:30 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105519992 <= 20230829113000174, execute later
+[2023.08.29 11:55:33 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105523010 <= 20230829113000174, execute later
+[2023.08.29 11:55:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105525969 <= 20230829113000174, execute later
+[2023.08.29 11:55:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105531930 <= 20230829113000174, execute later
+[2023.08.29 11:57:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105634947 <= 20230829113000174, execute later
+[2023.08.29 11:57:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105644000 <= 20230829113000174, execute later
+[2023.08.29 11:57:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105652945 <= 20230829113000174, execute later
+[2023.08.29 11:57:52 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105658979 <= 20230829113000174, execute later
+[2023.08.29 11:58:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105704988 <= 20230829113000174, execute later
+[2023.08.29 11:58:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105722935 <= 20230829113000174, execute later
+[2023.08.29 11:58:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105728936 <= 20230829113000174, execute later
+[2023.08.29 11:59:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105740963 <= 20230829113000174, execute later
+[2023.08.29 11:59:11 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105746919 <= 20230829113000174, execute later
+[2023.08.29 11:59:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105752948 <= 20230829113000174, execute later
+[2023.08.29 11:59:29 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105801957 <= 20230829113000174, execute later
+[2023.08.29 11:59:51 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105816936 <= 20230829113000174, execute later
+[2023.08.29 12:00:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105849915 <= 20230829113000174, execute later
+[2023.08.29 12:00:38 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105852922 <= 20230829113000174, execute later
+[2023.08.29 12:00:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105855882 <= 20230829113000174, execute later
+[2023.08.29 12:00:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105904956 <= 20230829113000174, execute later
+[2023.08.29 12:01:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105913965 <= 20230829113000174, execute later
+[2023.08.29 12:01:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105923000 <= 20230829113000174, execute later
+[2023.08.29 12:01:42 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105932100 <= 20230829113000174, execute later
+[2023.08.29 12:01:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105935009 <= 20230829113000174, execute later
+[2023.08.29 12:01:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105938001 <= 20230829113000174, execute later
+[2023.08.29 12:01:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105940970 <= 20230829113000174, execute later
+[2023.08.29 12:02:04 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829105943997 <= 20230829113000174, execute later
+[2023.08.29 12:02:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110008143 <= 20230829113000174, execute later
+[2023.08.29 12:03:24 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110029137 <= 20230829113000174, execute later
+[2023.08.29 12:04:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110052974 <= 20230829113000174, execute later
+[2023.08.29 12:04:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110056144 <= 20230829113000174, execute later
+[2023.08.29 12:04:16 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110102046 <= 20230829113000174, execute later
+[2023.08.29 12:04:25 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110108067 <= 20230829113000174, execute later
+[2023.08.29 12:04:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110114025 <= 20230829113000174, execute later
+[2023.08.29 12:04:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110119971 <= 20230829113000174, execute later
+[2023.08.29 12:04:57 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110128953 <= 20230829113000174, execute later
+[2023.08.29 12:05:01 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110131966 <= 20230829113000174, execute later
+[2023.08.29 12:05:09 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110137953 <= 20230829113000174, execute later
+[2023.08.29 12:05:29 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110152932 <= 20230829113000174, execute later
+[2023.08.29 12:06:06 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110217122 <= 20230829113000174, execute later
+[2023.08.29 12:06:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110240966 <= 20230829113000174, execute later
+[2023.08.29 12:06:55 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110249940 <= 20230829113000174, execute later
+[2023.08.29 12:07:06 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110258920 <= 20230829113000174, execute later
+[2023.08.29 12:07:11 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110301979 <= 20230829113000174, execute later
+[2023.08.29 12:07:19 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110307936 <= 20230829113000174, execute later
+[2023.08.29 12:07:29 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110313953 <= 20230829113000174, execute later
+[2023.08.29 12:07:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110316931 <= 20230829113000174, execute later
+[2023.08.29 12:07:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110325881 <= 20230829113000174, execute later
+[2023.08.29 12:08:52 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110410899 <= 20230829113000174, execute later
+[2023.08.29 12:08:57 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110413898 <= 20230829113000174, execute later
+[2023.08.29 12:09:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110425913 <= 20230829113000174, execute later
+[2023.08.29 12:09:30 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110434977 <= 20230829113000174, execute later
+[2023.08.29 12:09:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110437934 <= 20230829113000174, execute later
+[2023.08.29 12:09:43 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110443935 <= 20230829113000174, execute later
+[2023.08.29 12:09:51 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110449924 <= 20230829113000174, execute later
+[2023.08.29 12:09:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110452875 <= 20230829113000174, execute later
+[2023.08.29 12:10:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110507981 <= 20230829113000174, execute later
+[2023.08.29 12:10:57 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110531995 <= 20230829113000174, execute later
+[2023.08.29 12:11:13 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110540914 <= 20230829113000174, execute later
+[2023.08.29 12:11:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110552962 <= 20230829113000174, execute later
+[2023.08.29 12:11:36 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110555955 <= 20230829113000174, execute later
+[2023.08.29 12:12:12 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110616943 <= 20230829113000174, execute later
+[2023.08.29 12:12:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110619960 <= 20230829113000174, execute later
+[2023.08.29 12:12:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110622967 <= 20230829113000174, execute later
+[2023.08.29 12:13:04 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110646972 <= 20230829113000174, execute later
+[2023.08.29 12:13:09 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110649978 <= 20230829113000174, execute later
+[2023.08.29 12:13:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110702005 <= 20230829113000174, execute later
+[2023.08.29 12:13:42 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110708007 <= 20230829113000174, execute later
+[2023.08.29 12:13:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110711022 <= 20230829113000174, execute later
+[2023.08.29 12:13:55 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110713988 <= 20230829113000174, execute later
+[2023.08.29 12:14:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110728960 <= 20230829113000174, execute later
+[2023.08.29 12:14:29 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110731986 <= 20230829113000174, execute later
+[2023.08.29 12:15:10 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110755896 <= 20230829113000174, execute later
+[2023.08.29 12:15:15 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110758923 <= 20230829113000174, execute later
+[2023.08.29 12:15:28 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110805064 <= 20230829113000174, execute later
+[2023.08.29 12:15:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110820023 <= 20230829113000174, execute later
+[2023.08.29 12:16:28 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110837932 <= 20230829113000174, execute later
+[2023.08.29 12:16:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110840929 <= 20230829113000174, execute later
+[2023.08.29 12:16:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110846899 <= 20230829113000174, execute later
+[2023.08.29 12:16:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110849925 <= 20230829113000174, execute later
+[2023.08.29 12:16:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110855879 <= 20230829113000174, execute later
+[2023.08.29 12:17:03 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110858936 <= 20230829113000174, execute later
+[2023.08.29 12:17:13 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110904942 <= 20230829113000174, execute later
+[2023.08.29 12:17:49 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110928938 <= 20230829113000174, execute later
+[2023.08.29 12:18:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110949891 <= 20230829113000174, execute later
+[2023.08.29 12:18:30 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829110955891 <= 20230829113000174, execute later
+[2023.08.29 12:18:46 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111004983 <= 20230829113000174, execute later
+[2023.08.29 12:18:51 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111007981 <= 20230829113000174, execute later
+[2023.08.29 12:19:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111013974 <= 20230829113000174, execute later
+[2023.08.29 12:19:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111016962 <= 20230829113000174, execute later
+[2023.08.29 12:19:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111023031 <= 20230829113000174, execute later
+[2023.08.29 12:19:29 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111028940 <= 20230829113000174, execute later
+[2023.08.29 12:20:13 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111055927 <= 20230829113000174, execute later
+[2023.08.29 12:20:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111128860 <= 20230829113000174, execute later
+[2023.08.29 12:21:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111131864 <= 20230829113000174, execute later
+[2023.08.29 12:21:15 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111143835 <= 20230829113000174, execute later
+[2023.08.29 12:21:33 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111158873 <= 20230829113000174, execute later
+[2023.08.29 12:22:21 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111225890 <= 20230829113000174, execute later
+[2023.08.29 12:22:25 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111228889 <= 20230829113000174, execute later
+[2023.08.29 12:22:33 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111234870 <= 20230829113000174, execute later
+[2023.08.29 12:23:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111316878 <= 20230829113000174, execute later
+[2023.08.29 12:24:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111331922 <= 20230829113000174, execute later
+[2023.08.29 12:24:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111337889 <= 20230829113000174, execute later
+[2023.08.29 12:24:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111346898 <= 20230829113000174, execute later
+[2023.08.29 12:24:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111349928 <= 20230829113000174, execute later
+[2023.08.29 12:24:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111352902 <= 20230829113000174, execute later
+[2023.08.29 12:24:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111355907 <= 20230829113000174, execute later
+[2023.08.29 12:25:12 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111413858 <= 20230829113000174, execute later
+[2023.08.29 12:25:22 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111419886 <= 20230829113000174, execute later
+[2023.08.29 12:25:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111425880 <= 20230829113000174, execute later
+[2023.08.29 12:25:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111428883 <= 20230829113000174, execute later
+[2023.08.29 12:25:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111431876 <= 20230829113000174, execute later
+[2023.08.29 12:25:47 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111434841 <= 20230829113000174, execute later
+[2023.08.29 12:25:56 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111440850 <= 20230829113000174, execute later
+[2023.08.29 12:25:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111443837 <= 20230829113000174, execute later
+[2023.08.29 12:26:09 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111449830 <= 20230829113000174, execute later
+[2023.08.29 12:26:27 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111501883 <= 20230829113000174, execute later
+[2023.08.29 12:26:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111504939 <= 20230829113000174, execute later
+[2023.08.29 12:26:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111516892 <= 20230829113000174, execute later
+[2023.08.29 12:27:11 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111531865 <= 20230829113000174, execute later
+[2023.08.29 12:27:24 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111540863 <= 20230829113000174, execute later
+[2023.08.29 12:27:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111549909 <= 20230829113000174, execute later
+[2023.08.29 12:27:41 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111552856 <= 20230829113000174, execute later
+[2023.08.29 12:28:00 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111604911 <= 20230829113000174, execute later
+[2023.08.29 12:28:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111613955 <= 20230829113000174, execute later
+[2023.08.29 12:28:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111616895 <= 20230829113000174, execute later
+[2023.08.29 12:29:07 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111643870 <= 20230829113000174, execute later
+[2023.08.29 12:29:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111649874 <= 20230829113000174, execute later
+[2023.08.29 12:29:46 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111707869 <= 20230829113000174, execute later
+[2023.08.29 12:30:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111719963 <= 20230829113000174, execute later
+[2023.08.29 12:30:14 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111722949 <= 20230829113000174, execute later
+[2023.08.29 12:30:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111740883 <= 20230829113000174, execute later
+[2023.08.29 12:30:50 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111743876 <= 20230829113000174, execute later
+[2023.08.29 12:30:53 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111746869 <= 20230829113000174, execute later
+[2023.08.29 12:31:11 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111758879 <= 20230829113000174, execute later
+[2023.08.29 12:31:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111804893 <= 20230829113000174, execute later
+[2023.08.29 12:31:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111813894 <= 20230829113000174, execute later
+[2023.08.29 12:31:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111819839 <= 20230829113000174, execute later
+[2023.08.29 12:31:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111831831 <= 20230829113000174, execute later
+[2023.08.29 12:32:13 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111846810 <= 20230829113000174, execute later
+[2023.08.29 12:32:22 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111852807 <= 20230829113000174, execute later
+[2023.08.29 12:32:27 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111855862 <= 20230829113000174, execute later
+[2023.08.29 12:32:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111858840 <= 20230829113000174, execute later
+[2023.08.29 12:32:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111904848 <= 20230829113000174, execute later
+[2023.08.29 12:32:56 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111916856 <= 20230829113000174, execute later
+[2023.08.29 12:33:00 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111919862 <= 20230829113000174, execute later
+[2023.08.29 12:33:04 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111922832 <= 20230829113000174, execute later
+[2023.08.29 12:33:19 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111934796 <= 20230829113000174, execute later
+[2023.08.29 12:33:27 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111940834 <= 20230829113000174, execute later
+[2023.08.29 12:33:35 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111946836 <= 20230829113000174, execute later
+[2023.08.29 12:33:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111952825 <= 20230829113000174, execute later
+[2023.08.29 12:33:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111955831 <= 20230829113000174, execute later
+[2023.08.29 12:33:53 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829111958852 <= 20230829113000174, execute later
+[2023.08.29 12:33:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112001873 <= 20230829113000174, execute later
+[2023.08.29 12:34:11 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112008250 <= 20230829113000174, execute later
+[2023.08.29 12:34:24 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112014005 <= 20230829113000174, execute later
+[2023.08.29 12:34:42 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112023063 <= 20230829113000174, execute later
+[2023.08.29 12:35:05 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112034962 <= 20230829113000174, execute later
+[2023.08.29 12:35:16 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112041002 <= 20230829113000174, execute later
+[2023.08.29 12:35:48 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112059034 <= 20230829113000174, execute later
+[2023.08.29 12:35:51 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112102010 <= 20230829113000174, execute later
+[2023.08.29 12:36:20 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112131981 <= 20230829113000174, execute later
+[2023.08.29 12:36:30 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112143926 <= 20230829113000174, execute later
+[2023.08.29 12:36:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112152886 <= 20230829113000174, execute later
+[2023.08.29 12:36:40 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112155894 <= 20230829113000174, execute later
+[2023.08.29 12:36:50 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112207933 <= 20230829113000174, execute later
+[2023.08.29 12:36:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112216891 <= 20230829113000174, execute later
+[2023.08.29 12:37:03 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112222873 <= 20230829113000174, execute later
+[2023.08.29 12:37:06 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112228835 <= 20230829113000174, execute later
+[2023.08.29 12:37:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112231875 <= 20230829113000174, execute later
+[2023.08.29 12:37:15 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112243822 <= 20230829113000174, execute later
+[2023.08.29 12:37:19 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112249848 <= 20230829113000174, execute later
+[2023.08.29 12:37:21 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112252843 <= 20230829113000174, execute later
+[2023.08.29 12:37:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112255799 <= 20230829113000174, execute later
+[2023.08.29 12:37:28 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112301916 <= 20230829113000174, execute later
+[2023.08.29 12:37:35 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112310856 <= 20230829113000174, execute later
+[2023.08.29 12:37:53 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112337859 <= 20230829113000174, execute later
+[2023.08.29 12:38:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112349864 <= 20230829113000174, execute later
+[2023.08.29 12:38:04 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112352830 <= 20230829113000174, execute later
+[2023.08.29 12:38:09 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112358869 <= 20230829113000174, execute later
+[2023.08.29 12:38:14 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112407816 <= 20230829113000174, execute later
+[2023.08.29 12:38:19 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112413801 <= 20230829113000174, execute later
+[2023.08.29 12:38:23 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112419817 <= 20230829113000174, execute later
+[2023.08.29 12:38:24 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112422837 <= 20230829113000174, execute later
+[2023.08.29 12:38:26 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112425856 <= 20230829113000174, execute later
+[2023.08.29 12:38:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112437792 <= 20230829113000174, execute later
+[2023.08.29 12:38:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112443800 <= 20230829113000174, execute later
+[2023.08.29 12:38:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112455850 <= 20230829113000174, execute later
+[2023.08.29 12:38:50 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112501919 <= 20230829113000174, execute later
+[2023.08.29 12:38:52 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112504939 <= 20230829113000174, execute later
+[2023.08.29 12:38:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112507956 <= 20230829113000174, execute later
+[2023.08.29 12:38:57 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112510955 <= 20230829113000174, execute later
+[2023.08.29 12:38:59 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112513927 <= 20230829113000174, execute later
+[2023.08.29 12:39:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112516937 <= 20230829113000174, execute later
+[2023.08.29 12:39:04 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112519929 <= 20230829113000174, execute later
+[2023.08.29 12:39:11 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112528895 <= 20230829113000174, execute later
+[2023.08.29 12:39:18 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112537876 <= 20230829113000174, execute later
+[2023.08.29 12:39:24 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112546940 <= 20230829113000174, execute later
+[2023.08.29 12:39:26 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112549901 <= 20230829113000174, execute later
+[2023.08.29 12:39:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112555897 <= 20230829113000174, execute later
+[2023.08.29 12:39:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112607927 <= 20230829113000174, execute later
+[2023.08.29 12:39:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112613863 <= 20230829113000174, execute later
+[2023.08.29 12:39:52 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112622933 <= 20230829113000174, execute later
+[2023.08.29 12:39:55 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112625911 <= 20230829113000174, execute later
+[2023.08.29 12:40:06 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112637911 <= 20230829113000174, execute later
+[2023.08.29 12:40:08 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112640880 <= 20230829113000174, execute later
+[2023.08.29 12:40:21 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112655872 <= 20230829113000174, execute later
+[2023.08.29 12:40:28 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112704969 <= 20230829113000174, execute later
+[2023.08.29 12:40:31 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112707919 <= 20230829113000174, execute later
+[2023.08.29 12:40:37 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112713920 <= 20230829113000174, execute later
+[2023.08.29 12:40:44 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112722874 <= 20230829113000174, execute later
+[2023.08.29 12:40:49 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112728883 <= 20230829113000174, execute later
+[2023.08.29 12:40:52 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112731877 <= 20230829113000174, execute later
+[2023.08.29 12:40:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112740809 <= 20230829113000174, execute later
+[2023.08.29 12:41:32 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112822849 <= 20230829113000174, execute later
+[2023.08.29 12:41:34 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112825814 <= 20230829113000174, execute later
+[2023.08.29 12:41:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112831856 <= 20230829113000174, execute later
+[2023.08.29 12:41:47 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112840884 <= 20230829113000174, execute later
+[2023.08.29 12:41:49 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112843877 <= 20230829113000174, execute later
+[2023.08.29 12:41:54 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112849922 <= 20230829113000174, execute later
+[2023.08.29 12:41:56 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112852858 <= 20230829113000174, execute later
+[2023.08.29 12:41:58 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112855843 <= 20230829113000174, execute later
+[2023.08.29 12:42:00 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112858933 <= 20230829113000174, execute later
+[2023.08.29 12:42:02 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112902007 <= 20230829113000174, execute later
+[2023.08.29 12:42:06 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112907964 <= 20230829113000174, execute later
+[2023.08.29 12:42:10 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112913872 <= 20230829113000174, execute later
+[2023.08.29 12:42:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112922872 <= 20230829113000174, execute later
+[2023.08.29 12:42:30 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112940902 <= 20230829113000174, execute later
+[2023.08.29 12:42:39 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112949859 <= 20230829113000174, execute later
+[2023.08.29 12:42:42 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112952863 <= 20230829113000174, execute later
+[2023.08.29 12:42:45 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829112959097 <= 20230829113000174, execute later
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 12:59:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:00 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:00 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:03 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:06 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:12 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:14 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:15 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:17 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829130007932 <= 20230829130014948, execute later
+[2023.08.29 13:00:17 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:00:18 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:39 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 13:42:39 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: MARKET ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 13:42:39 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 1000
+[2023.08.29 13:42:39 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 13:42:39 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 13:42:39 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:41 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:42 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:42 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:42 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:43 - info ] [exec_dw_etf] No tick of SZSE.ETF.159901 updated, 20230829133337547 <= 20230829134241669, execute later
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:44 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:45 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:45 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:45 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:45 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:45 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:48 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:48 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:48 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:48 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:42:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:46:30 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 13:46:30 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byvol @ 100.00
+[2023.08.29 13:46:30 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 1000
+[2023.08.29 13:46:30 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 13:46:30 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 13:46:30 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 13:46:31 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:46:32 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:46:35 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:46:39 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:44 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 13:47:44 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 1.00
+[2023.08.29 13:47:44 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 1000
+[2023.08.29 13:47:44 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 13:47:44 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 13:47:44 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:47 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:47:50 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:18 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 13:59:19 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 1000
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 13:59:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:00:06 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 14:08:08 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 14:08:08 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 14:08:33 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 14:08:33 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 14:08:34 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 1000
+[2023.08.29 14:08:34 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 14:08:34 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 14:08:34 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 14:09:52 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 14:09:52 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 14:09:52 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 recovered to 1000
+[2023.08.29 14:09:52 - info ] [exec_dw_etf] Unrecognized condition while channle ready, 0.00 live orders of SZSE.ETF.159901 exists, local orders not exist
+[2023.08.29 14:09:52 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 1000
+[2023.08.29 14:09:52 - info ] [exec_dw_etf] No lastest tick data of SZSE.ETF.159901, execute later
+[2023.08.29 14:09:56 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:09:57 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:09:59 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:00 - info ] [exec_dw_etf] Target position of SZSE.ETF.159901 changed: 1000 -> 0, diff postion changed: 1000 -> 0
+[2023.08.29 14:10:00 - info ] [exec_dw_etf] Diff of SZSE.ETF.159901 updated to 0
+[2023.08.29 14:10:00 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:02 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:05 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:08 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:09 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:11 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:14 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:17 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:20 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:21 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:23 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:26 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:29 - info ] [exec_dw_etf] Live orders exist, DiffMinImpactExeUnit of SZSE.ETF.159901
+[2023.08.29 14:10:46 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 14:10:46 - info ] [exec_dw_etf] DiffMiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20
+[2023.08.29 14:49:47 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.29 14:54:00 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.08.29 14:54:00 - info ] [exec_dw_etf]MiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.08.29 14:54:20 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.08.29 14:54:20 - info ] [exec_dw_etf]MiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.08.29 14:55:25 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.08.29 14:55:25 - info ] [exec_dw_etf]MiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.08.29 14:57:29 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.08.29 14:57:29 - info ] [exec_dw_etf]MiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.08.29 14:57:49 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290376316 <= 1693292263782, execute later
+[2023.08.29 14:57:53 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290379308 <= 1693292272782, execute later
+[2023.08.29 14:58:01 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290385310 <= 1693292272782, execute later
+[2023.08.29 14:58:35 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290412338 <= 1693292308801, execute later
+[2023.08.29 14:58:53 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290427353 <= 1693292326783, execute later
+[2023.08.29 14:59:00 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290433307 <= 1693292335766, execute later
+[2023.08.29 15:00:08 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290493344 <= 1693292402845, execute later
+[2023.08.29 15:00:22 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290502375 <= 1693292402845, execute later
+[2023.08.29 15:00:32 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290508500 <= 1693292402845, execute later
+[2023.08.29 15:00:43 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290514490 <= 1693292402845, execute later
+[2023.08.29 15:00:54 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290520389 <= 1693292402845, execute later
+[2023.08.29 15:01:05 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290526492 <= 1693292402845, execute later
+[2023.08.29 15:01:21 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290535396 <= 1693292402845, execute later
+[2023.08.29 15:01:26 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290538699 <= 1693292402845, execute later
+[2023.08.29 15:01:35 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290544414 <= 1693292402845, execute later
+[2023.08.29 15:01:50 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290553410 <= 1693292402845, execute later
+[2023.08.29 15:02:09 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290565416 <= 1693292402845, execute later
+[2023.08.29 15:02:17 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290571356 <= 1693292402845, execute later
+[2023.08.29 15:02:32 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290583366 <= 1693292402845, execute later
+[2023.08.29 15:02:54 - info ] [exec_dw_etf]No tick of SZSE.ETF.159901 updated, 1693290598394 <= 1693292402845, execute later
+[2023.08.29 15:33:22 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.08.29 15:33:22 - info ] [exec_dw_etf]MiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true
+[2023.08.29 15:38:32 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 1, code_groups: 0
+[2023.08.29 15:38:32 - info ] [exec_dw_etf]MiniImpactExecUnit SZSE.ETF.159901 inited, order price: BESTPX ¡À 0 ticks, order expired: 5 secs, order timespan:500 millisec, order qty: byrate @ 0.20 min_order: 0.00 is_cancel_unmanaged_order: true

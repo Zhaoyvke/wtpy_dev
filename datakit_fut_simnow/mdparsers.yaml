@@ -1,0 +1,14 @@
+parsers:
+-   active: true
+    broker: '9999'
+    code: ''
+    front: tcp://180.168.146.187:10211     #仿真
+    id: simnow
+    module: parserCTP
+    pass: qq442037632!
+    user: 211887
+    authcode: '0000000000000000'
+    appid: simnow_client_test
+    # 如果要使用openctp，启用该配置项即可
+    #ctpmodule: tts_thostmduserapi_se
+

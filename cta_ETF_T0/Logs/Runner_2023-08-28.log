@@ -1,0 +1,75 @@
+[2023.08.28 16:55:33 - info ] Callbacks of Extented Parser registration done
+[2023.08.28 16:55:33 - info ] Callbacks of Extented Executer registration done
+[2023.08.28 16:55:33 - info ] WonderTrader CTA production framework initialzied，version: X64 v0.9.8 Build@Jun 27 2023 21:45:18
+[2023.08.28 16:55:33 - info ] Trading sessions loaded
+[2023.08.28 16:55:33 - info ] Commodities configuration file F:/wt_opt_sim/common/sopt_comms.json loaded
+[2023.08.28 16:55:33 - info ] Commodities configuration file F:/wt_opt_sim/common/etf_comms.json loaded
+[2023.08.28 16:55:33 - warning] No session configured for INE.ec
+[2023.08.28 16:55:33 - warning] No session configured for SHFE.ao
+[2023.08.28 16:55:33 - info ] Commodities configuration file F:/wt_opt_sim/common/commodities.json loaded
+[2023.08.28 16:55:33 - info ] Commodities configuration file F:/wt_opt_sim/common/fopt_comms.json loaded
+[2023.08.28 16:55:33 - info ] Contracts configuration file F:/wt_opt_sim/common/stk_options.json loaded, 2 exchanges
+[2023.08.28 16:55:33 - info ] Contracts configuration file F:/wt_opt_sim/common/etfs.json loaded, 2 exchanges
+[2023.08.28 16:55:33 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.08.28 16:55:33 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.08.28 16:55:33 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.08.28 16:55:33 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.08.28 16:55:33 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.08.28 16:55:33 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.08.28 16:55:33 - info ] Contracts configuration file F:/wt_opt_sim/common/contracts.json loaded, 8 exchanges
+[2023.08.28 16:55:34 - info ] Contracts configuration file F:/wt_opt_sim/common/fut_options.json loaded, 8 exchanges
+[2023.08.28 16:55:34 - info ] Holidays loaded
+[2023.08.28 16:55:34 - info ] Trading environment initialized, engine name: CTA
+[2023.08.28 16:55:34 - info ] Running mode: Production
+[2023.08.28 16:55:34 - debug] Filters configuration file filters.yaml not exists
+[2023.08.28 16:55:34 - info ] 44 fee templates loaded
+[2023.08.28 16:55:34 - info ] Engine task poolsize is 0
+[2023.08.28 16:55:34 - info ] Resampled bars will be aligned by section:  not
+[2023.08.28 16:55:34 - info ] WtDataReader initialized, rt dir is F:/storage/rt/, hist dir is F:/storage/his/, adjust_flag is 0
+[2023.08.28 16:55:34 - info ] No adjusting factor file configured, loading skipped
+[2023.08.28 16:55:34 - info ] Data manager initialized
+[2023.08.28 16:55:34 - info ] Action policies initialized
+[2023.08.28 16:55:34 - info ] Reading parser config from tdparsers.yaml...
+[2023.08.28 16:55:34 - info ] [parser2] Parser module F:/deploy/ETF_T0/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.08.28 16:55:34 - info ] [parser2] Parser initialzied, check_time: false
+[2023.08.28 16:55:34 - info ] 1 parsers loaded
+[2023.08.28 16:55:34 - info ] Reading trader config from tdtraders.yaml...
+[2023.08.28 16:55:34 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.28 16:55:34 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.28 16:55:34 - info ] 1 traders loaded
+[2023.08.28 16:55:34 - info ] EventNotifier initialized with channel ipc:///wtpy/etf_t0.ipc
+[2023.08.28 16:55:34 - info ] Reading executer config from executers.yaml...
+[2023.08.28 16:55:34 - info ] Executer factory WtExeFact loaded
+[2023.08.28 16:55:34 - info ] [exec_dw_etf] Diff executer inited, scale: 1, thread poolsize: 1
+[2023.08.28 16:55:34 - info ] 1 executers loaded
+[2023.08.28 16:55:34 - info ] Signal of strategy T0_LXY_159901 will be routed to executer exec_dw_etf
+[2023.08.28 16:55:34 - info ] 1 router rules loaded
+[2023.08.28 16:55:34 - info ] 1 parsers started
+[2023.08.28 16:55:34 - info ] [TraderFix] Connected!
+[2023.08.28 16:55:34 - info ] 1 trading channels started
+[2023.08.28 16:55:34 - info ] CtaTicker will drive engine with session SD0930
+[2023.08.28 16:55:34 - info ] Trading date confirmed: 20230828
+[2023.08.28 16:55:34 - debug] Main KBars confirmed: SZSE.ETF.159901#m1
+[2023.08.28 16:55:34 - info ] Reading final bars of SZSE.ETF.159901 via extended loader...
+[2023.08.28 16:55:34 - info ] 612 items of back min1 data of SZSE.ETF.159901 cached
+[2023.08.28 16:55:34 - debug] RT min1 block of SZSE.159901 loaded
+[2023.08.28 16:55:34 - debug] His min1 bars of SZSE.ETF.159901 loaded, 1 from history, 0 from realtime
+[2023.08.28 16:55:34 - info ] Market data subscribed: SZSE.ETF.159901
+[2023.08.28 16:55:34 - info ] Trading day 20230828 begun
+[2023.08.28 16:55:34 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.28 16:55:34 - info ] [TraderFix] Subscribe order report success
+[2023.08.28 16:55:34 - info ] [TraderFix] Subscribe trade report success
+[2023.08.28 16:55:34 - info ] [TraderFix] Account information init success ...
+[2023.08.28 16:55:34 - info ] [dw_etf] Trader login succeed, trading date: 20230828
+[2023.08.28 16:55:34 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.28 16:55:34 - info ] [dw_etf] Position data updated
+[2023.08.28 16:55:34 - info ] [dw_etf] Trading channel ready

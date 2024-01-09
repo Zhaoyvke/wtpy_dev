@@ -1,0 +1,43 @@
+[2023.08.30 09:25:07 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.30 09:25:07 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.30 10:53:08 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.30 10:53:08 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.30 10:53:09 - info ] [TraderFix] Connected!
+[2023.08.30 10:53:09 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.30 10:53:09 - info ] [TraderFix] Subscribe order report success
+[2023.08.30 10:53:09 - info ] [TraderFix] Subscribe trade report success
+[2023.08.30 10:53:09 - info ] [TraderFix] Account information init success ...
+[2023.08.30 10:53:09 - info ] [dw_etf] Trader login succeed, trading date: 20230830
+[2023.08.30 10:53:09 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.30 10:53:09 - info ] [dw_etf] Position data updated
+[2023.08.30 10:53:10 - info ] [dw_etf] Trading channel ready
+[2023.08.30 10:54:26 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.30 10:54:26 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.30 10:54:27 - info ] [TraderFix] Connected!
+[2023.08.30 10:54:27 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.30 10:54:27 - info ] [TraderFix] Subscribe order report success
+[2023.08.30 10:54:27 - info ] [TraderFix] Subscribe trade report success
+[2023.08.30 10:54:27 - info ] [TraderFix] Account information init success ...
+[2023.08.30 10:54:27 - info ] [dw_etf] Trader login succeed, trading date: 20230830
+[2023.08.30 10:54:27 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.30 10:54:27 - info ] [dw_etf] Position data updated
+[2023.08.30 10:54:27 - info ] [dw_etf] Trading channel ready
+[2023.08.30 10:57:02 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.30 10:57:02 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.30 10:57:03 - info ] [TraderFix] Connected!
+[2023.08.30 10:57:03 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.30 10:57:03 - info ] [TraderFix] Subscribe order report success
+[2023.08.30 10:57:03 - info ] [TraderFix] Subscribe trade report success
+[2023.08.30 10:57:03 - info ] [TraderFix] Account information init success ...
+[2023.08.30 10:57:03 - info ] [dw_etf] Trader login succeed, trading date: 20230830
+[2023.08.30 10:57:03 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.30 10:57:03 - info ] [dw_etf] Position data updated
+[2023.08.30 10:57:03 - info ] [dw_etf] Trading channel ready
+[2023.08.30 11:21:28 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.30 11:21:28 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.30 11:21:28 - info ] [TraderFix] Connected!
+[2023.08.30 11:21:28 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.30 11:21:28 - error] [TraderFix] Subscribe order report fail：failed to subscribe, param KHH or TOKEN is empty(-503)
+[2023.08.30 11:22:33 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.30 11:22:33 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.30 11:22:34 - info ] [TraderFix] Connected!

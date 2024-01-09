@@ -1,0 +1,32 @@
+[2023.12.14 11:01:27 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 11:01:27 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 11:01:27 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 11:03:47 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 11:03:47 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 11:03:47 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1886258686, login time: 11:03:25...
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 11:03:47 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 11:03:47 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 11:03:48 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 11:03:51 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 11:05:07 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 11:05:07 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 11:05:07 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 11:05:08 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1891501577, login time: 11:04:45...
+[2023.12.14 11:05:08 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 11:05:08 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 11:05:09 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 11:05:09 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 11:05:09 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 11:05:12 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] Selling DCE.y.2403 of quantity 1
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] DCE.y.2403 qty of undone order updated, 0 -> -1
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] Signal of selling DCE.y.2403 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.14 11:26:53 - debug] [zhongxinFUT] Order notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, state: Smtting
+[2023.12.14 11:26:53 - debug] [zhongxinFUT] Order notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, state: UnTrd
+[2023.12.14 11:26:53 - debug] [zhongxinFUT] Order notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, state: AllTrd
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] Trade notified, instrument: DCE.y.2403, usertag: otp.zhongxinFUT.1501100650, trdqty: 1, trdprice: 7358
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] DCE.y.2403 position updated, long:0[0]|0[0], short:0[0]|1[1]
+[2023.12.14 11:26:53 - info ] [zhongxinFUT] DCE.y.2403 qty of undone order updated, -1 -> 0

@@ -1,0 +1,901 @@
+[2023.12.20 09:25:17 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 09:25:17 - info ] Trading sessions loaded
+[2023.12.20 09:25:17 - warning] No session configured for CFFEX.TL
+[2023.12.20 09:25:17 - warning] No session configured for CZCE.PX
+[2023.12.20 09:25:17 - warning] No session configured for CZCE.SH
+[2023.12.20 09:25:17 - warning] No session configured for GFEX.lc
+[2023.12.20 09:25:17 - warning] No session configured for GFEX.si
+[2023.12.20 09:25:17 - warning] No session configured for INE.ec
+[2023.12.20 09:25:17 - warning] No session configured for SHFE.ao
+[2023.12.20 09:25:17 - warning] No session configured for SHFE.br
+[2023.12.20 09:25:17 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 09:25:17 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 2 exchanges
+[2023.12.20 09:25:17 - info ] Holidays loaded
+[2023.12.20 09:25:17 - info ] Hot rules loaded
+[2023.12.20 09:25:17 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 09:25:17 - info ] Running mode: Production
+[2023.12.20 09:25:17 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 09:25:17 - info ] 0 fee templates loaded
+[2023.12.20 09:25:17 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 09:25:17 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 09:25:17 - info ] Force to cache bars: yes
+[2023.12.20 09:25:17 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 09:25:17 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 09:25:17 - info ] Data manager initialized
+[2023.12.20 09:25:17 - info ] Action policies initialized
+[2023.12.20 09:25:17 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 09:25:17 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 09:25:17 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 09:25:17 - info ] 1 parsers loaded
+[2023.12.20 09:25:17 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 09:25:17 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:25:17 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:25:17 - info ] 1 traders loaded
+[2023.12.20 09:25:17 - info ] 1 parsers started
+[2023.12.20 09:25:17 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:25:17 - info ] 1 trading channels started
+[2023.12.20 09:25:17 - info ] Market Data subscribed: DCE.lh.2401
+[2023.12.20 09:25:17 - info ] Market Data subscribed: DCE.lh.2403
+[2023.12.20 09:25:17 - info ] Trading day 20231220 begun
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1116019480, login time: 09:25:17...
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:25:17 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:25:17 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:25:18 - info ] [simnow] Position data updated
+[2023.12.20 09:25:22 - info ] [simnow] Trading channel ready
+[2023.12.20 09:32:20 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 09:32:20 - info ] Trading sessions loaded
+[2023.12.20 09:32:20 - warning] No session configured for CFFEX.TL
+[2023.12.20 09:32:20 - warning] No session configured for CZCE.PX
+[2023.12.20 09:32:20 - warning] No session configured for CZCE.SH
+[2023.12.20 09:32:20 - warning] No session configured for GFEX.lc
+[2023.12.20 09:32:20 - warning] No session configured for GFEX.si
+[2023.12.20 09:32:20 - warning] No session configured for INE.ec
+[2023.12.20 09:32:20 - warning] No session configured for SHFE.ao
+[2023.12.20 09:32:20 - warning] No session configured for SHFE.br
+[2023.12.20 09:32:20 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 09:32:20 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 2 exchanges
+[2023.12.20 09:32:20 - info ] Holidays loaded
+[2023.12.20 09:32:20 - info ] Hot rules loaded
+[2023.12.20 09:32:20 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 09:32:20 - info ] Running mode: Production
+[2023.12.20 09:32:20 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 09:32:20 - info ] 0 fee templates loaded
+[2023.12.20 09:32:20 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 09:32:20 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 09:32:20 - info ] Force to cache bars: yes
+[2023.12.20 09:32:20 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 09:32:20 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 09:32:20 - info ] Data manager initialized
+[2023.12.20 09:32:20 - info ] Action policies initialized
+[2023.12.20 09:32:20 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 09:32:20 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 09:32:20 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 09:32:20 - info ] 1 parsers loaded
+[2023.12.20 09:32:20 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 09:32:20 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:32:20 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:32:20 - info ] 1 traders loaded
+[2023.12.20 09:32:20 - info ] 1 parsers started
+[2023.12.20 09:32:20 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:32:20 - info ] 1 trading channels started
+[2023.12.20 09:32:20 - info ] Market Data subscribed: DCE.lh.2401
+[2023.12.20 09:32:20 - info ] Market Data subscribed: DCE.lh.2403
+[2023.12.20 09:32:20 - info ] Trading day 20231220 begun
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1143808473, login time: 09:32:20...
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:32:20 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:32:20 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:32:21 - info ] [simnow] Position data updated
+[2023.12.20 09:32:24 - info ] [simnow] Trading channel ready
+[2023.12.20 09:33:56 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 09:33:56 - info ] Trading sessions loaded
+[2023.12.20 09:33:56 - warning] No session configured for CFFEX.TL
+[2023.12.20 09:33:56 - warning] No session configured for CZCE.PX
+[2023.12.20 09:33:56 - warning] No session configured for CZCE.SH
+[2023.12.20 09:33:56 - warning] No session configured for GFEX.lc
+[2023.12.20 09:33:56 - warning] No session configured for GFEX.si
+[2023.12.20 09:33:56 - warning] No session configured for INE.ec
+[2023.12.20 09:33:56 - warning] No session configured for SHFE.ao
+[2023.12.20 09:33:56 - warning] No session configured for SHFE.br
+[2023.12.20 09:33:56 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 09:33:56 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 2 exchanges
+[2023.12.20 09:33:56 - info ] Holidays loaded
+[2023.12.20 09:33:56 - info ] Hot rules loaded
+[2023.12.20 09:33:56 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 09:33:56 - info ] Running mode: Production
+[2023.12.20 09:33:56 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 09:33:56 - info ] 0 fee templates loaded
+[2023.12.20 09:33:56 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 09:33:56 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 09:33:56 - info ] Force to cache bars: yes
+[2023.12.20 09:33:56 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 09:33:56 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 09:33:56 - info ] Data manager initialized
+[2023.12.20 09:33:56 - info ] Action policies initialized
+[2023.12.20 09:33:56 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 09:33:56 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 09:33:56 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 09:33:56 - info ] 1 parsers loaded
+[2023.12.20 09:33:56 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 09:33:56 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:33:56 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:33:56 - info ] 1 traders loaded
+[2023.12.20 09:33:56 - info ] 1 parsers started
+[2023.12.20 09:33:56 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:33:56 - info ] 1 trading channels started
+[2023.12.20 09:33:56 - info ] Market Data subscribed: DCE.lh.2401
+[2023.12.20 09:33:56 - info ] Market Data subscribed: DCE.lh.2403
+[2023.12.20 09:33:56 - info ] Trading day 20231220 begun
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1150034796, login time: 09:33:56...
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:33:56 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:33:56 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:33:57 - info ] [simnow] Position data updated
+[2023.12.20 09:34:00 - info ] [simnow] Trading channel ready
+[2023.12.20 09:40:38 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 09:40:38 - info ] Trading sessions loaded
+[2023.12.20 09:40:38 - warning] No session configured for CFFEX.TL
+[2023.12.20 09:40:38 - warning] No session configured for CZCE.PX
+[2023.12.20 09:40:38 - warning] No session configured for CZCE.SH
+[2023.12.20 09:40:38 - warning] No session configured for GFEX.lc
+[2023.12.20 09:40:38 - warning] No session configured for GFEX.si
+[2023.12.20 09:40:38 - warning] No session configured for INE.ec
+[2023.12.20 09:40:38 - warning] No session configured for SHFE.ao
+[2023.12.20 09:40:38 - warning] No session configured for SHFE.br
+[2023.12.20 09:40:38 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 09:40:38 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 2 exchanges
+[2023.12.20 09:40:38 - info ] Holidays loaded
+[2023.12.20 09:40:38 - info ] Hot rules loaded
+[2023.12.20 09:40:38 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 09:40:38 - info ] Running mode: Production
+[2023.12.20 09:40:38 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 09:40:38 - info ] 0 fee templates loaded
+[2023.12.20 09:40:38 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 09:40:38 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 09:40:38 - info ] Force to cache bars: yes
+[2023.12.20 09:40:38 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 09:40:38 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 09:40:38 - info ] Data manager initialized
+[2023.12.20 09:40:38 - info ] Action policies initialized
+[2023.12.20 09:40:38 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 09:40:38 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 09:40:38 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 09:40:38 - info ] 1 parsers loaded
+[2023.12.20 09:40:38 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 09:40:38 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:40:38 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:40:38 - info ] 1 traders loaded
+[2023.12.20 09:40:38 - info ] 1 parsers started
+[2023.12.20 09:40:38 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:40:38 - info ] 1 trading channels started
+[2023.12.20 09:40:38 - info ] Market Data subscribed: DCE.lh.2401
+[2023.12.20 09:40:38 - info ] Market Data subscribed: DCE.lh.2403
+[2023.12.20 09:40:38 - info ] Trading day 20231220 begun
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1176447458, login time: 09:40:39...
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:40:39 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:40:39 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:40:40 - info ] [simnow] Position data updated
+[2023.12.20 09:40:43 - info ] [simnow] Trading channel ready
+[2023.12.20 09:41:30 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 09:41:30 - info ] Trading sessions loaded
+[2023.12.20 09:41:30 - warning] No session configured for CFFEX.TL
+[2023.12.20 09:41:30 - warning] No session configured for CZCE.PX
+[2023.12.20 09:41:30 - warning] No session configured for CZCE.SH
+[2023.12.20 09:41:30 - warning] No session configured for GFEX.lc
+[2023.12.20 09:41:30 - warning] No session configured for GFEX.si
+[2023.12.20 09:41:30 - warning] No session configured for INE.ec
+[2023.12.20 09:41:30 - warning] No session configured for SHFE.ao
+[2023.12.20 09:41:30 - warning] No session configured for SHFE.br
+[2023.12.20 09:41:30 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 09:41:30 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 09:41:30 - info ] Holidays loaded
+[2023.12.20 09:41:30 - info ] Hot rules loaded
+[2023.12.20 09:41:30 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 09:41:30 - info ] Running mode: Production
+[2023.12.20 09:41:30 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 09:41:30 - info ] 0 fee templates loaded
+[2023.12.20 09:41:30 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 09:41:30 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 09:41:30 - info ] Force to cache bars: yes
+[2023.12.20 09:41:30 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 09:41:30 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 09:41:30 - info ] Data manager initialized
+[2023.12.20 09:41:30 - info ] Action policies initialized
+[2023.12.20 09:41:30 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 09:41:30 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 09:41:30 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 09:41:30 - info ] 1 parsers loaded
+[2023.12.20 09:41:30 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 09:41:30 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:41:30 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:41:30 - info ] 1 traders loaded
+[2023.12.20 09:41:30 - info ] 1 parsers started
+[2023.12.20 09:41:30 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:41:30 - info ] 1 trading channels started
+[2023.12.20 09:41:30 - info ] Market Data subscribed: DCE.lh.2401
+[2023.12.20 09:41:30 - info ] Market Data subscribed: DCE.lh.2403
+[2023.12.20 09:41:30 - info ] Trading day 20231220 begun
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1179855545, login time: 09:41:31...
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:41:30 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:41:30 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:41:31 - info ] [simnow] Position data updated
+[2023.12.20 09:41:35 - info ] [simnow] Trading channel ready
+[2023.12.20 09:50:14 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 09:50:14 - info ] Trading sessions loaded
+[2023.12.20 09:50:14 - warning] No session configured for CFFEX.TL
+[2023.12.20 09:50:14 - warning] No session configured for CZCE.PX
+[2023.12.20 09:50:14 - warning] No session configured for CZCE.SH
+[2023.12.20 09:50:14 - warning] No session configured for GFEX.lc
+[2023.12.20 09:50:14 - warning] No session configured for GFEX.si
+[2023.12.20 09:50:14 - warning] No session configured for INE.ec
+[2023.12.20 09:50:14 - warning] No session configured for SHFE.ao
+[2023.12.20 09:50:14 - warning] No session configured for SHFE.br
+[2023.12.20 09:50:14 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 09:50:14 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 09:50:14 - info ] Holidays loaded
+[2023.12.20 09:50:14 - info ] Hot rules loaded
+[2023.12.20 09:50:14 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 09:50:14 - info ] Running mode: Production
+[2023.12.20 09:50:14 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 09:50:14 - info ] 0 fee templates loaded
+[2023.12.20 09:50:14 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 09:50:14 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 09:50:14 - info ] Force to cache bars: yes
+[2023.12.20 09:50:14 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 09:50:14 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 09:50:14 - info ] Data manager initialized
+[2023.12.20 09:50:14 - info ] Action policies initialized
+[2023.12.20 09:50:14 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 09:50:14 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 09:50:14 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 09:50:14 - info ] 1 parsers loaded
+[2023.12.20 09:50:14 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 09:50:14 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 09:50:14 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 09:50:14 - info ] 1 traders loaded
+[2023.12.20 09:50:14 - info ] 1 parsers started
+[2023.12.20 09:50:14 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 09:50:14 - info ] 1 trading channels started
+[2023.12.20 09:50:14 - info ] Market Data subscribed: SHFE.hc.2405
+[2023.12.20 09:50:14 - info ] Market Data subscribed: SHFE.rb.2405
+[2023.12.20 09:50:14 - info ] Trading day 20231220 begun
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1214198467, login time: 09:50:15...
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 09:50:15 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 09:50:15 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 09:50:16 - info ] [simnow] Position data updated
+[2023.12.20 09:50:19 - info ] [simnow] Trading channel ready
+[2023.12.20 10:01:14 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:01:14 - info ] Trading sessions loaded
+[2023.12.20 10:01:14 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:01:14 - warning] No session configured for CZCE.PX
+[2023.12.20 10:01:14 - warning] No session configured for CZCE.SH
+[2023.12.20 10:01:14 - warning] No session configured for GFEX.lc
+[2023.12.20 10:01:14 - warning] No session configured for GFEX.si
+[2023.12.20 10:01:14 - warning] No session configured for INE.ec
+[2023.12.20 10:01:14 - warning] No session configured for SHFE.ao
+[2023.12.20 10:01:14 - warning] No session configured for SHFE.br
+[2023.12.20 10:01:14 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:01:14 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:01:14 - info ] Holidays loaded
+[2023.12.20 10:01:14 - info ] Hot rules loaded
+[2023.12.20 10:01:14 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:01:14 - info ] Running mode: Production
+[2023.12.20 10:01:14 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:01:14 - info ] 0 fee templates loaded
+[2023.12.20 10:01:14 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:01:14 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:01:14 - info ] Force to cache bars: yes
+[2023.12.20 10:01:14 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:01:14 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:01:14 - info ] Data manager initialized
+[2023.12.20 10:01:14 - info ] Action policies initialized
+[2023.12.20 10:01:14 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:01:14 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:01:14 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:01:14 - info ] 1 parsers loaded
+[2023.12.20 10:01:14 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:01:14 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:01:14 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:01:14 - info ] 1 traders loaded
+[2023.12.20 10:01:14 - info ] 1 parsers started
+[2023.12.20 10:01:14 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.20 10:01:14 - info ] 1 trading channels started
+[2023.12.20 10:01:14 - info ] Market Data subscribed: SHFE.hc.2405
+[2023.12.20 10:01:14 - info ] Market Data subscribed: SHFE.rb.2405
+[2023.12.20 10:01:14 - info ] Trading day 20231220 begun
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Login succeed, AppID: simnow_client_test, Sessionid: 1257520544, login time: 10:01:15...
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Login succeed, trading date: 20231220...
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Querying confirming state of settlement data...
+[2023.12.20 10:01:14 - info ] [TraderCTP][9999-211887] Trading channel initialized...
+[2023.12.20 10:01:14 - info ] [simnow] Trader login succeed, trading date: 20231220
+[2023.12.20 10:01:15 - info ] [simnow] Position data updated
+[2023.12.20 10:01:19 - info ] [simnow] Trading channel ready
+[2023.12.20 10:04:19 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:04:19 - info ] Trading sessions loaded
+[2023.12.20 10:04:19 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:04:19 - warning] No session configured for CZCE.PX
+[2023.12.20 10:04:19 - warning] No session configured for CZCE.SH
+[2023.12.20 10:04:19 - warning] No session configured for GFEX.lc
+[2023.12.20 10:04:19 - warning] No session configured for GFEX.si
+[2023.12.20 10:04:19 - warning] No session configured for INE.ec
+[2023.12.20 10:04:19 - warning] No session configured for SHFE.ao
+[2023.12.20 10:04:19 - warning] No session configured for SHFE.br
+[2023.12.20 10:04:19 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:04:19 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:04:19 - info ] Holidays loaded
+[2023.12.20 10:04:19 - info ] Hot rules loaded
+[2023.12.20 10:04:19 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:04:19 - info ] Running mode: Production
+[2023.12.20 10:04:19 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:04:19 - info ] 0 fee templates loaded
+[2023.12.20 10:04:19 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:04:19 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:04:19 - info ] Force to cache bars: yes
+[2023.12.20 10:04:19 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:04:19 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:04:19 - info ] Data manager initialized
+[2023.12.20 10:04:19 - info ] Action policies initialized
+[2023.12.20 10:04:19 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:04:19 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:04:19 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:04:19 - info ] 1 parsers loaded
+[2023.12.20 10:04:19 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:04:19 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:04:19 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:04:19 - info ] 1 traders loaded
+[2023.12.20 10:04:19 - info ] 1 parsers started
+[2023.12.20 10:04:31 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:04:31 - info ] Trading sessions loaded
+[2023.12.20 10:04:31 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:04:31 - warning] No session configured for CZCE.PX
+[2023.12.20 10:04:31 - warning] No session configured for CZCE.SH
+[2023.12.20 10:04:31 - warning] No session configured for GFEX.lc
+[2023.12.20 10:04:31 - warning] No session configured for GFEX.si
+[2023.12.20 10:04:31 - warning] No session configured for INE.ec
+[2023.12.20 10:04:31 - warning] No session configured for SHFE.ao
+[2023.12.20 10:04:31 - warning] No session configured for SHFE.br
+[2023.12.20 10:04:31 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:04:31 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:04:31 - info ] Holidays loaded
+[2023.12.20 10:04:31 - info ] Hot rules loaded
+[2023.12.20 10:04:31 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:04:31 - info ] Running mode: Production
+[2023.12.20 10:04:31 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:04:31 - info ] 0 fee templates loaded
+[2023.12.20 10:04:31 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:04:31 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:04:31 - info ] Force to cache bars: yes
+[2023.12.20 10:04:31 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:04:31 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:04:31 - info ] Data manager initialized
+[2023.12.20 10:04:31 - info ] Action policies initialized
+[2023.12.20 10:04:31 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:04:31 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:04:31 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:04:31 - info ] 1 parsers loaded
+[2023.12.20 10:04:31 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:04:31 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:04:31 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:04:31 - info ] 1 traders loaded
+[2023.12.20 10:04:31 - info ] 1 parsers started
+[2023.12.20 10:05:47 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:05:47 - info ] Trading sessions loaded
+[2023.12.20 10:05:47 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:05:47 - warning] No session configured for CZCE.PX
+[2023.12.20 10:05:47 - warning] No session configured for CZCE.SH
+[2023.12.20 10:05:47 - warning] No session configured for GFEX.lc
+[2023.12.20 10:05:47 - warning] No session configured for GFEX.si
+[2023.12.20 10:05:47 - warning] No session configured for INE.ec
+[2023.12.20 10:05:47 - warning] No session configured for SHFE.ao
+[2023.12.20 10:05:47 - warning] No session configured for SHFE.br
+[2023.12.20 10:05:47 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:05:47 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:05:47 - info ] Holidays loaded
+[2023.12.20 10:05:47 - info ] Hot rules loaded
+[2023.12.20 10:05:47 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:05:47 - info ] Running mode: Production
+[2023.12.20 10:05:47 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:05:47 - info ] 0 fee templates loaded
+[2023.12.20 10:05:47 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:05:47 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:05:47 - info ] Force to cache bars: yes
+[2023.12.20 10:05:47 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:05:47 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:05:47 - info ] Data manager initialized
+[2023.12.20 10:05:47 - info ] Action policies initialized
+[2023.12.20 10:05:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:05:47 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:05:47 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:05:47 - info ] 1 parsers loaded
+[2023.12.20 10:05:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:05:47 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:05:47 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:05:47 - info ] 1 traders loaded
+[2023.12.20 10:05:47 - info ] 1 parsers started
+[2023.12.20 10:06:56 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:06:56 - info ] Trading sessions loaded
+[2023.12.20 10:06:56 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:06:56 - warning] No session configured for CZCE.PX
+[2023.12.20 10:06:56 - warning] No session configured for CZCE.SH
+[2023.12.20 10:06:56 - warning] No session configured for GFEX.lc
+[2023.12.20 10:06:56 - warning] No session configured for GFEX.si
+[2023.12.20 10:06:56 - warning] No session configured for INE.ec
+[2023.12.20 10:06:56 - warning] No session configured for SHFE.ao
+[2023.12.20 10:06:56 - warning] No session configured for SHFE.br
+[2023.12.20 10:06:56 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:06:56 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:06:56 - info ] Holidays loaded
+[2023.12.20 10:06:56 - info ] Hot rules loaded
+[2023.12.20 10:06:56 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:06:56 - info ] Running mode: Production
+[2023.12.20 10:06:56 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:06:56 - info ] 0 fee templates loaded
+[2023.12.20 10:06:56 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:06:56 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:06:56 - info ] Force to cache bars: yes
+[2023.12.20 10:06:56 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:06:56 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:06:56 - info ] Data manager initialized
+[2023.12.20 10:06:56 - info ] Action policies initialized
+[2023.12.20 10:06:56 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:06:56 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:06:56 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:06:56 - info ] 1 parsers loaded
+[2023.12.20 10:06:56 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:06:56 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:06:56 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:06:56 - info ] 1 traders loaded
+[2023.12.20 10:06:56 - info ] 1 parsers started
+[2023.12.20 10:08:58 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:08:58 - info ] Trading sessions loaded
+[2023.12.20 10:08:58 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:08:58 - warning] No session configured for CZCE.PX
+[2023.12.20 10:08:58 - warning] No session configured for CZCE.SH
+[2023.12.20 10:08:58 - warning] No session configured for GFEX.lc
+[2023.12.20 10:08:58 - warning] No session configured for GFEX.si
+[2023.12.20 10:08:58 - warning] No session configured for INE.ec
+[2023.12.20 10:08:58 - warning] No session configured for SHFE.ao
+[2023.12.20 10:08:58 - warning] No session configured for SHFE.br
+[2023.12.20 10:08:58 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:08:58 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:08:58 - info ] Holidays loaded
+[2023.12.20 10:08:58 - info ] Hot rules loaded
+[2023.12.20 10:08:58 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:08:58 - info ] Running mode: Production
+[2023.12.20 10:08:58 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:08:58 - info ] 0 fee templates loaded
+[2023.12.20 10:08:58 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:08:58 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:08:58 - info ] Force to cache bars: yes
+[2023.12.20 10:08:58 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:08:58 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:08:58 - info ] Data manager initialized
+[2023.12.20 10:08:58 - info ] Action policies initialized
+[2023.12.20 10:08:58 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:08:58 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:08:58 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:08:58 - info ] 1 parsers loaded
+[2023.12.20 10:08:58 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:08:58 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:08:58 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:08:58 - info ] 1 traders loaded
+[2023.12.20 10:08:58 - info ] 1 parsers started
+[2023.12.20 10:12:19 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:12:19 - info ] Trading sessions loaded
+[2023.12.20 10:12:19 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:12:19 - warning] No session configured for CZCE.PX
+[2023.12.20 10:12:19 - warning] No session configured for CZCE.SH
+[2023.12.20 10:12:19 - warning] No session configured for GFEX.lc
+[2023.12.20 10:12:19 - warning] No session configured for GFEX.si
+[2023.12.20 10:12:19 - warning] No session configured for INE.ec
+[2023.12.20 10:12:19 - warning] No session configured for SHFE.ao
+[2023.12.20 10:12:19 - warning] No session configured for SHFE.br
+[2023.12.20 10:12:19 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:12:19 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:12:19 - info ] Holidays loaded
+[2023.12.20 10:12:19 - info ] Hot rules loaded
+[2023.12.20 10:12:19 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:12:19 - info ] Running mode: Production
+[2023.12.20 10:12:19 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:12:19 - info ] 0 fee templates loaded
+[2023.12.20 10:12:19 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:12:19 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:12:19 - info ] Force to cache bars: yes
+[2023.12.20 10:12:19 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:12:19 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:12:19 - info ] Data manager initialized
+[2023.12.20 10:12:19 - info ] Action policies initialized
+[2023.12.20 10:12:19 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:12:19 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:12:19 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:12:19 - info ] 1 parsers loaded
+[2023.12.20 10:12:19 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:12:19 - info ] [parserUDPSw] Risk control rule default of trading channel loaded
+[2023.12.20 10:12:19 - info ] [parserUDPSw] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:12:19 - info ] 1 traders loaded
+[2023.12.20 10:12:19 - error] Trader simnow not exists, Binding trader to HFT strategy failed
+[2023.12.20 10:12:19 - info ] 1 parsers started
+[2023.12.20 10:12:26 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:12:26 - info ] Trading sessions loaded
+[2023.12.20 10:12:26 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:12:26 - warning] No session configured for CZCE.PX
+[2023.12.20 10:12:26 - warning] No session configured for CZCE.SH
+[2023.12.20 10:12:26 - warning] No session configured for GFEX.lc
+[2023.12.20 10:12:26 - warning] No session configured for GFEX.si
+[2023.12.20 10:12:26 - warning] No session configured for INE.ec
+[2023.12.20 10:12:26 - warning] No session configured for SHFE.ao
+[2023.12.20 10:12:26 - warning] No session configured for SHFE.br
+[2023.12.20 10:12:26 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:12:26 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:12:26 - info ] Holidays loaded
+[2023.12.20 10:12:26 - info ] Hot rules loaded
+[2023.12.20 10:12:26 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:12:26 - info ] Running mode: Production
+[2023.12.20 10:12:26 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:12:26 - info ] 0 fee templates loaded
+[2023.12.20 10:12:26 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:12:26 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:12:26 - info ] Force to cache bars: yes
+[2023.12.20 10:12:26 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.20 10:12:26 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:12:26 - info ] Data manager initialized
+[2023.12.20 10:12:26 - info ] Action policies initialized
+[2023.12.20 10:12:26 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:12:26 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:12:26 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:12:26 - info ] 1 parsers loaded
+[2023.12.20 10:12:26 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:12:26 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:12:26 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:12:26 - info ] 1 traders loaded
+[2023.12.20 10:12:26 - info ] 1 parsers started
+[2023.12.20 10:23:47 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:23:47 - info ] Trading sessions loaded
+[2023.12.20 10:23:47 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:23:47 - warning] No session configured for CZCE.PX
+[2023.12.20 10:23:47 - warning] No session configured for CZCE.SH
+[2023.12.20 10:23:47 - warning] No session configured for GFEX.lc
+[2023.12.20 10:23:47 - warning] No session configured for GFEX.si
+[2023.12.20 10:23:47 - warning] No session configured for INE.ec
+[2023.12.20 10:23:47 - warning] No session configured for SHFE.ao
+[2023.12.20 10:23:47 - warning] No session configured for SHFE.br
+[2023.12.20 10:23:47 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:23:47 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:23:47 - info ] Holidays loaded
+[2023.12.20 10:23:47 - info ] Hot rules loaded
+[2023.12.20 10:23:47 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:23:47 - info ] Running mode: Production
+[2023.12.20 10:23:47 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:23:47 - info ] 0 fee templates loaded
+[2023.12.20 10:23:47 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:23:47 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:23:47 - info ] Force to cache bars: yes
+[2023.12.20 10:23:47 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 10:23:47 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:23:47 - info ] Data manager initialized
+[2023.12.20 10:23:47 - info ] Action policies initialized
+[2023.12.20 10:23:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:23:47 - info ] [parserUDPSw] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:23:47 - info ] [parserUDPSw] Parser initialzied, check_time: false
+[2023.12.20 10:23:47 - info ] 1 parsers loaded
+[2023.12.20 10:23:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:23:47 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:23:47 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:23:48 - info ] 1 traders loaded
+[2023.12.20 10:23:48 - info ] 1 parsers started
+[2023.12.20 10:23:56 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:23:56 - info ] Trading sessions loaded
+[2023.12.20 10:23:56 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:23:56 - warning] No session configured for CZCE.PX
+[2023.12.20 10:23:56 - warning] No session configured for CZCE.SH
+[2023.12.20 10:23:56 - warning] No session configured for GFEX.lc
+[2023.12.20 10:23:56 - warning] No session configured for GFEX.si
+[2023.12.20 10:23:56 - warning] No session configured for INE.ec
+[2023.12.20 10:23:56 - warning] No session configured for SHFE.ao
+[2023.12.20 10:23:56 - warning] No session configured for SHFE.br
+[2023.12.20 10:23:56 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:23:56 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:23:56 - info ] Holidays loaded
+[2023.12.20 10:23:56 - info ] Hot rules loaded
+[2023.12.20 10:23:56 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:23:56 - info ] Running mode: Production
+[2023.12.20 10:23:56 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:23:56 - info ] 0 fee templates loaded
+[2023.12.20 10:23:56 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:23:56 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:23:56 - info ] Force to cache bars: yes
+[2023.12.20 10:23:56 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 10:23:56 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:23:56 - info ] Data manager initialized
+[2023.12.20 10:23:56 - info ] Action policies initialized
+[2023.12.20 10:23:56 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:23:56 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:23:56 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 10:23:56 - info ] 1 parsers loaded
+[2023.12.20 10:23:56 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:23:56 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:23:56 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:23:56 - info ] 1 traders loaded
+[2023.12.20 10:23:56 - info ] 1 parsers started
+[2023.12.20 10:26:49 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:26:49 - info ] Trading sessions loaded
+[2023.12.20 10:26:49 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:26:49 - warning] No session configured for CZCE.PX
+[2023.12.20 10:26:49 - warning] No session configured for CZCE.SH
+[2023.12.20 10:26:49 - warning] No session configured for GFEX.lc
+[2023.12.20 10:26:49 - warning] No session configured for GFEX.si
+[2023.12.20 10:26:49 - warning] No session configured for INE.ec
+[2023.12.20 10:26:49 - warning] No session configured for SHFE.ao
+[2023.12.20 10:26:49 - warning] No session configured for SHFE.br
+[2023.12.20 10:26:49 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:26:49 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:26:49 - info ] Holidays loaded
+[2023.12.20 10:26:49 - info ] Hot rules loaded
+[2023.12.20 10:26:49 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:26:49 - info ] Running mode: Production
+[2023.12.20 10:26:49 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:26:49 - info ] 0 fee templates loaded
+[2023.12.20 10:26:49 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:26:49 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:26:49 - info ] Force to cache bars: yes
+[2023.12.20 10:26:49 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 10:26:49 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:26:49 - info ] Data manager initialized
+[2023.12.20 10:26:49 - info ] Action policies initialized
+[2023.12.20 10:26:49 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:26:49 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:26:49 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 10:26:49 - info ] 1 parsers loaded
+[2023.12.20 10:26:49 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:26:49 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:26:49 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:26:49 - info ] 1 traders loaded
+[2023.12.20 10:26:49 - info ] 1 parsers started
+[2023.12.20 10:32:04 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:32:04 - info ] Trading sessions loaded
+[2023.12.20 10:32:04 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:32:04 - warning] No session configured for CZCE.PX
+[2023.12.20 10:32:04 - warning] No session configured for CZCE.SH
+[2023.12.20 10:32:04 - warning] No session configured for GFEX.lc
+[2023.12.20 10:32:04 - warning] No session configured for GFEX.si
+[2023.12.20 10:32:04 - warning] No session configured for INE.ec
+[2023.12.20 10:32:04 - warning] No session configured for SHFE.ao
+[2023.12.20 10:32:04 - warning] No session configured for SHFE.br
+[2023.12.20 10:32:04 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:32:04 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:32:04 - info ] Holidays loaded
+[2023.12.20 10:32:04 - info ] Hot rules loaded
+[2023.12.20 10:32:04 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:32:04 - info ] Running mode: Production
+[2023.12.20 10:32:04 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:32:04 - info ] 0 fee templates loaded
+[2023.12.20 10:32:04 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:32:04 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:32:04 - info ] Force to cache bars: yes
+[2023.12.20 10:32:04 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 10:32:04 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:32:04 - info ] Data manager initialized
+[2023.12.20 10:32:04 - info ] Action policies initialized
+[2023.12.20 10:32:04 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:32:04 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:32:04 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 10:32:04 - info ] 1 parsers loaded
+[2023.12.20 10:32:04 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:32:04 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:32:04 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:32:04 - info ] 1 traders loaded
+[2023.12.20 10:32:04 - info ] 1 parsers started
+[2023.12.20 10:51:42 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:51:42 - info ] Trading sessions loaded
+[2023.12.20 10:51:42 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:51:42 - warning] No session configured for CZCE.PX
+[2023.12.20 10:51:42 - warning] No session configured for CZCE.SH
+[2023.12.20 10:51:42 - warning] No session configured for GFEX.lc
+[2023.12.20 10:51:42 - warning] No session configured for GFEX.si
+[2023.12.20 10:51:42 - warning] No session configured for INE.ec
+[2023.12.20 10:51:42 - warning] No session configured for SHFE.ao
+[2023.12.20 10:51:42 - warning] No session configured for SHFE.br
+[2023.12.20 10:51:42 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:51:42 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:51:42 - info ] Holidays loaded
+[2023.12.20 10:51:42 - info ] Hot rules loaded
+[2023.12.20 10:51:42 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:51:42 - info ] Running mode: Production
+[2023.12.20 10:51:42 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:51:42 - info ] 0 fee templates loaded
+[2023.12.20 10:51:42 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:51:42 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:51:42 - info ] Force to cache bars: yes
+[2023.12.20 10:51:42 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 10:51:42 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:51:42 - info ] Data manager initialized
+[2023.12.20 10:51:42 - info ] Action policies initialized
+[2023.12.20 10:51:42 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:51:42 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:51:42 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 10:51:42 - info ] 1 parsers loaded
+[2023.12.20 10:51:42 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:51:42 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:51:42 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:51:42 - info ] 1 traders loaded
+[2023.12.20 10:51:42 - info ] 1 parsers started
+[2023.12.20 10:59:07 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 10:59:07 - info ] Trading sessions loaded
+[2023.12.20 10:59:07 - warning] No session configured for CFFEX.TL
+[2023.12.20 10:59:07 - warning] No session configured for CZCE.PX
+[2023.12.20 10:59:07 - warning] No session configured for CZCE.SH
+[2023.12.20 10:59:07 - warning] No session configured for GFEX.lc
+[2023.12.20 10:59:07 - warning] No session configured for GFEX.si
+[2023.12.20 10:59:07 - warning] No session configured for INE.ec
+[2023.12.20 10:59:07 - warning] No session configured for SHFE.ao
+[2023.12.20 10:59:07 - warning] No session configured for SHFE.br
+[2023.12.20 10:59:07 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 10:59:07 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 10:59:07 - info ] Holidays loaded
+[2023.12.20 10:59:07 - info ] Hot rules loaded
+[2023.12.20 10:59:07 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 10:59:07 - info ] Running mode: Production
+[2023.12.20 10:59:07 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 10:59:07 - info ] 0 fee templates loaded
+[2023.12.20 10:59:07 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 10:59:07 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 10:59:07 - info ] Force to cache bars: yes
+[2023.12.20 10:59:07 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 10:59:07 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 10:59:07 - info ] Data manager initialized
+[2023.12.20 10:59:07 - info ] Action policies initialized
+[2023.12.20 10:59:07 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 10:59:07 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 10:59:07 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 10:59:07 - info ] 1 parsers loaded
+[2023.12.20 10:59:07 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 10:59:07 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 10:59:07 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 10:59:07 - info ] 1 traders loaded
+[2023.12.20 10:59:07 - info ] 1 parsers started
+[2023.12.20 11:00:07 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 11:00:07 - info ] Trading sessions loaded
+[2023.12.20 11:00:08 - warning] No session configured for CFFEX.TL
+[2023.12.20 11:00:08 - warning] No session configured for CZCE.PX
+[2023.12.20 11:00:08 - warning] No session configured for CZCE.SH
+[2023.12.20 11:00:08 - warning] No session configured for GFEX.lc
+[2023.12.20 11:00:08 - warning] No session configured for GFEX.si
+[2023.12.20 11:00:08 - warning] No session configured for INE.ec
+[2023.12.20 11:00:08 - warning] No session configured for SHFE.ao
+[2023.12.20 11:00:08 - warning] No session configured for SHFE.br
+[2023.12.20 11:00:08 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 11:00:08 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 11:00:08 - info ] Holidays loaded
+[2023.12.20 11:00:08 - info ] Hot rules loaded
+[2023.12.20 11:00:08 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 11:00:08 - info ] Running mode: Production
+[2023.12.20 11:00:08 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 11:00:08 - info ] 0 fee templates loaded
+[2023.12.20 11:00:08 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 11:00:08 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 11:00:08 - info ] Force to cache bars: yes
+[2023.12.20 11:00:08 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 11:00:08 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 11:00:08 - info ] Data manager initialized
+[2023.12.20 11:00:08 - info ] Action policies initialized
+[2023.12.20 11:00:08 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 11:00:08 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 11:00:08 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 11:00:08 - info ] 1 parsers loaded
+[2023.12.20 11:00:08 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 11:00:08 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:00:08 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:00:08 - info ] 1 traders loaded
+[2023.12.20 11:00:08 - info ] 1 parsers started
+[2023.12.20 11:00:58 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 11:00:58 - info ] Trading sessions loaded
+[2023.12.20 11:00:58 - warning] No session configured for CFFEX.TL
+[2023.12.20 11:00:58 - warning] No session configured for CZCE.PX
+[2023.12.20 11:00:58 - warning] No session configured for CZCE.SH
+[2023.12.20 11:00:58 - warning] No session configured for GFEX.lc
+[2023.12.20 11:00:58 - warning] No session configured for GFEX.si
+[2023.12.20 11:00:58 - warning] No session configured for INE.ec
+[2023.12.20 11:00:58 - warning] No session configured for SHFE.ao
+[2023.12.20 11:00:58 - warning] No session configured for SHFE.br
+[2023.12.20 11:00:58 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 11:00:58 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 11:00:58 - info ] Holidays loaded
+[2023.12.20 11:00:58 - info ] Hot rules loaded
+[2023.12.20 11:00:58 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 11:00:58 - info ] Running mode: Production
+[2023.12.20 11:00:58 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 11:00:58 - info ] 0 fee templates loaded
+[2023.12.20 11:00:58 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 11:00:58 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 11:00:58 - info ] Force to cache bars: yes
+[2023.12.20 11:00:58 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 11:00:58 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 11:00:58 - info ] Data manager initialized
+[2023.12.20 11:00:58 - info ] Action policies initialized
+[2023.12.20 11:00:58 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 11:00:58 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 11:00:58 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 11:00:58 - info ] 1 parsers loaded
+[2023.12.20 11:00:58 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 11:00:58 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:00:58 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:00:58 - info ] 1 traders loaded
+[2023.12.20 11:00:58 - info ] 1 parsers started
+[2023.12.20 11:21:28 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 11:21:28 - info ] Trading sessions loaded
+[2023.12.20 11:21:28 - warning] No session configured for CFFEX.TL
+[2023.12.20 11:21:28 - warning] No session configured for CZCE.PX
+[2023.12.20 11:21:28 - warning] No session configured for CZCE.SH
+[2023.12.20 11:21:28 - warning] No session configured for GFEX.lc
+[2023.12.20 11:21:28 - warning] No session configured for GFEX.si
+[2023.12.20 11:21:28 - warning] No session configured for INE.ec
+[2023.12.20 11:21:28 - warning] No session configured for SHFE.ao
+[2023.12.20 11:21:28 - warning] No session configured for SHFE.br
+[2023.12.20 11:21:28 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 11:21:28 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 11:21:28 - info ] Holidays loaded
+[2023.12.20 11:21:28 - info ] Hot rules loaded
+[2023.12.20 11:21:28 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 11:21:28 - info ] Running mode: Production
+[2023.12.20 11:21:28 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 11:21:28 - info ] 0 fee templates loaded
+[2023.12.20 11:21:28 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 11:21:28 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 11:21:28 - info ] Force to cache bars: yes
+[2023.12.20 11:21:28 - info ] WtDataReader initialized, rt dir is ../storage/rt/, hist dir is ../storage/his/, adjust_flag is 0
+[2023.12.20 11:21:28 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 11:21:28 - info ] Data manager initialized
+[2023.12.20 11:21:28 - info ] Action policies initialized
+[2023.12.20 11:21:28 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 11:21:28 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 11:21:28 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 11:21:28 - info ] 1 parsers loaded
+[2023.12.20 11:21:28 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 11:21:28 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:21:28 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:21:28 - info ] 1 traders loaded
+[2023.12.20 11:21:28 - info ] 1 parsers started
+[2023.12.20 11:23:07 - info ] WonderTrader HFT production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.20 11:23:07 - info ] Trading sessions loaded
+[2023.12.20 11:23:07 - warning] No session configured for CFFEX.TL
+[2023.12.20 11:23:07 - warning] No session configured for CZCE.PX
+[2023.12.20 11:23:07 - warning] No session configured for CZCE.SH
+[2023.12.20 11:23:07 - warning] No session configured for GFEX.lc
+[2023.12.20 11:23:07 - warning] No session configured for GFEX.si
+[2023.12.20 11:23:07 - warning] No session configured for INE.ec
+[2023.12.20 11:23:07 - warning] No session configured for SHFE.ao
+[2023.12.20 11:23:07 - warning] No session configured for SHFE.br
+[2023.12.20 11:23:07 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.20 11:23:07 - info ] Contracts configuration file ../common/contracts_SPP.json loaded, 1 exchanges
+[2023.12.20 11:23:07 - info ] Holidays loaded
+[2023.12.20 11:23:07 - info ] Hot rules loaded
+[2023.12.20 11:23:07 - info ] Trading environment initialized, engine name: HFT
+[2023.12.20 11:23:07 - info ] Running mode: Production
+[2023.12.20 11:23:07 - debug] Filters configuration file filters.yaml not exists
+[2023.12.20 11:23:07 - info ] 0 fee templates loaded
+[2023.12.20 11:23:07 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.12.20 11:23:07 - info ] Resampled bars will be aligned by section:  no
+[2023.12.20 11:23:07 - info ] Force to cache bars: yes
+[2023.12.20 11:23:07 - info ] WtDataReader initialized, rt dir is D:/WTP_Data/rt/, hist dir is D:/WTP_Data/his/, adjust_flag is 0
+[2023.12.20 11:23:07 - info ] No adjusting factor file configured, loading skipped
+[2023.12.20 11:23:07 - info ] Data manager initialized
+[2023.12.20 11:23:07 - info ] Action policies initialized
+[2023.12.20 11:23:07 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.20 11:23:07 - info ] [parserUDP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.20 11:23:07 - info ] [parserUDP] Parser initialzied, check_time: false
+[2023.12.20 11:23:07 - info ] 1 parsers loaded
+[2023.12.20 11:23:07 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.20 11:23:07 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.20 11:23:07 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:23:07 - info ] 1 traders loaded
+[2023.12.20 11:23:07 - info ] 1 parsers started

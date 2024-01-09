@@ -1,0 +1,1649 @@
+[2023.08.29 09:25:07 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 09:25:07 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 09:25:08 - info ] [TraderFix] Connected!
+[2023.08.29 09:25:08 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 09:25:08 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 09:25:08 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 09:25:08 - info ] [TraderFix] Account information init success ...
+[2023.08.29 09:25:08 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 09:25:08 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 09:25:08 - info ] [dw_etf] Position data updated
+[2023.08.29 09:25:08 - info ] [dw_etf] Trading channel ready
+[2023.08.29 09:44:00 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:00 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:00 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:00 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:03 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:03 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:06 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:06 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:09 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:09 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:09 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:09 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:09 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:09 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:09 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:09 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:09 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:09 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:09 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:12 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:12 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:15 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:15 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:18 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:18 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:21 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:21 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:24 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 09:44:24 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 09:44:24 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 09:44:24 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:24 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:24 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:24 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 09:44:24 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 09:44:24 - error] 委托数量应该是100的整数倍
+[2023.08.29 09:44:24 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 09:44:24 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 09:44:27 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:02:14 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:02:14 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:02:14 - info ] [TraderFix] Connected!
+[2023.08.29 10:02:14 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 10:02:14 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 10:02:14 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 10:02:14 - info ] [TraderFix] Account information init success ...
+[2023.08.29 10:02:14 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 10:02:14 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 10:02:14 - info ] [dw_etf] Position data updated
+[2023.08.29 10:02:14 - info ] [dw_etf] Trading channel ready
+[2023.08.29 10:02:15 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:02:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:02:15 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:02:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:02:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:02:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:02:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:02:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:02:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:02:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:02:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:13 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:03:13 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:03:13 - info ] [TraderFix] Connected!
+[2023.08.29 10:03:13 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 10:03:13 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 10:03:13 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 10:03:13 - info ] [TraderFix] Account information init success ...
+[2023.08.29 10:03:13 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 10:03:13 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 10:03:13 - info ] [dw_etf] Position data updated
+[2023.08.29 10:03:13 - info ] [dw_etf] Trading channel ready
+[2023.08.29 10:03:15 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:15 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:18 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:18 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:21 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:21 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:24 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:24 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:24 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:24 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:24 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:24 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:24 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:24 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:24 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:24 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:24 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:27 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:27 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:27 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:27 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:27 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:27 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:27 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:27 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:27 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:27 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:27 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:30 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:30 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:30 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:30 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:30 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:30 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:30 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:30 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:30 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:30 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:30 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:33 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:33 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:33 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:33 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:33 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:33 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:33 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:33 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:33 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:33 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:33 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:36 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:36 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:36 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:36 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:36 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:36 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:36 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:36 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:36 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:36 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:36 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:39 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:39 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:39 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:39 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:39 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:39 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:39 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:39 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:39 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:39 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:39 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:42 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:42 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:42 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:42 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:42 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:42 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:42 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:42 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:45 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:45 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:48 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:48 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:51 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:51 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:51 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:51 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:51 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:51 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:51 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:51 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:51 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:51 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:51 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:54 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:54 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:54 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:54 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:54 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:54 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:54 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:54 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:54 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:54 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:54 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:03:57 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 10:03:57 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 10:03:57 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 10:03:57 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:57 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:57 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:57 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 10:03:57 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 10:03:57 - error] 委托数量应该是100的整数倍
+[2023.08.29 10:03:57 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 10:03:57 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 10:44:32 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:44:32 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:44:48 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:44:48 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:44:58 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:44:58 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:45:21 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:45:21 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:45:21 - info ] [TraderFix] Connected!
+[2023.08.29 10:45:21 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 10:45:21 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 10:45:21 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 10:45:21 - info ] [TraderFix] Account information init success ...
+[2023.08.29 10:45:21 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 10:45:22 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 10:45:22 - info ] [dw_etf] Position data updated
+[2023.08.29 10:45:22 - info ] [dw_etf] Trading channel ready
+[2023.08.29 10:45:39 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 10:45:39 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 10:45:40 - info ] [TraderFix] Connected!
+[2023.08.29 10:45:40 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 10:45:40 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 10:45:40 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 10:45:40 - info ] [TraderFix] Account information init success ...
+[2023.08.29 10:45:40 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 10:45:40 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 10:45:40 - info ] [dw_etf] Position data updated
+[2023.08.29 10:45:40 - info ] [dw_etf] Trading channel ready
+[2023.08.29 11:30:00 - error] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000, 1130 not in trading time
+[2023.08.29 12:59:59 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 12:59:59 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: init state, no req(-4010)
+[2023.08.29 12:59:59 - error] init state, no req
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: init state, no req, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 12:59:59 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 12:59:59 - error] 委托数量应该是100的整数倍
+[2023.08.29 12:59:59 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 12:59:59 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:00:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:00:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:00:00 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:00 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:00 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:00 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:00:03 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:00:03 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: init state, no req(-4010)
+[2023.08.29 13:00:03 - error] init state, no req
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: init state, no req, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: init state, no req(-4010)
+[2023.08.29 13:00:03 - error] init state, no req
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: init state, no req, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: init state, no req(-4010)
+[2023.08.29 13:00:03 - error] init state, no req
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: init state, no req, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: init state, no req(-4010)
+[2023.08.29 13:00:03 - error] init state, no req
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: init state, no req, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:00:03 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:03 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:03 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:03 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:00:06 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:00:06 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:00:06 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:06 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:06 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:06 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:00:09 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 20
+[2023.08.29 13:00:09 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 20
+[2023.08.29 13:00:09 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 20 triggered: Opening long of quantity 20
+[2023.08.29 13:00:09 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:09 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:09 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 20
+[2023.08.29 13:00:09 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 20 -> 0
+[2023.08.29 13:00:11 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:00:11 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:00:11 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:00:12 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:12 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:12 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:12 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:00:14 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:00:14 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:00:14 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:00:14 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:14 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:14 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:14 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: init state, no req(-4010)
+[2023.08.29 13:00:15 - error] init state, no req
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: init state, no req, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:00:15 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:15 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:15 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:15 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:00:17 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:00:17 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:00:17 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:00:17 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:17 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:17 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:17 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:00:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:00:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:00:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:00:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:00:18 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:00:18 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:00:18 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:00:18 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:42:39 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 13:42:39 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 13:42:39 - info ] [TraderFix] Connected!
+[2023.08.29 13:42:39 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 13:42:39 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 13:42:39 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 13:42:39 - info ] [TraderFix] Account information init success ...
+[2023.08.29 13:42:39 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 13:42:39 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 13:42:39 - info ] [dw_etf] Position data updated
+[2023.08.29 13:42:39 - info ] [dw_etf] Trading channel ready
+[2023.08.29 13:42:41 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:42:41 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:42:41 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:41 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:41 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:41 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:42:42 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:42 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:42 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:42:42 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:42 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:42 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:42:42 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:42 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:42 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:42:42 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:42 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:42 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:42 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:42:44 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:42:44 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:42:44 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:44 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:44 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:44 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:42:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:42:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:42:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:42:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:42:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:42:45 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:45 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:45 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:45 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:42:47 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:42:47 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:42:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:42:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:42:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:42:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:42:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:42:48 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:48 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:48 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:48 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:42:50 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:42:50 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:42:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:42:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:42:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:42:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:46:30 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 13:46:30 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 13:46:30 - info ] [TraderFix] Connected!
+[2023.08.29 13:46:30 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 13:46:30 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 13:46:30 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 13:46:30 - info ] [TraderFix] Account information init success ...
+[2023.08.29 13:46:30 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 13:46:30 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 13:46:30 - info ] [dw_etf] Position data updated
+[2023.08.29 13:46:30 - info ] [dw_etf] Trading channel ready
+[2023.08.29 13:46:31 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 13:46:31 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 13:46:31 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 13:46:31 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:31 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:31 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:31 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:46:31 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:31 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:31 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:31 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:46:32 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 13:46:32 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 13:46:32 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 13:46:32 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:32 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:32 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:32 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:46:32 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:32 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:32 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:32 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:46:35 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 13:46:35 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 13:46:35 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 13:46:35 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:35 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:35 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:35 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:46:35 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:35 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:35 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:35 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:46:38 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 100
+[2023.08.29 13:46:39 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 100
+[2023.08.29 13:46:39 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 100 triggered: Opening long of quantity 100
+[2023.08.29 13:46:39 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:39 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:39 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:39 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:46:39 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:46:39 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:46:39 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:46:39 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:47:44 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 13:47:44 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 13:47:44 - info ] [TraderFix] Connected!
+[2023.08.29 13:47:44 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 13:47:44 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 13:47:44 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 13:47:44 - info ] [TraderFix] Account information init success ...
+[2023.08.29 13:47:44 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 13:47:44 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 13:47:44 - info ] [dw_etf] Position data updated
+[2023.08.29 13:47:44 - info ] [dw_etf] Trading channel ready
+[2023.08.29 13:47:47 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:47:47 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:47:47 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:47 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:47 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:47 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:47:50 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:47:50 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:47:50 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:47:50 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:47:50 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:47:50 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:59:18 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 13:59:18 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 13:59:19 - info ] [TraderFix] Connected!
+[2023.08.29 13:59:19 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 13:59:19 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 13:59:19 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 13:59:19 - info ] [TraderFix] Account information init success ...
+[2023.08.29 13:59:19 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 13:59:19 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 13:59:19 - info ] [dw_etf] Position data updated
+[2023.08.29 13:59:20 - info ] [dw_etf] Trading channel ready
+[2023.08.29 13:59:20 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:59:20 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:59:20 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:59:20 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 1000 -> 950
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 950 -> 900
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 900 -> 850
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 850 -> 800
+[2023.08.29 13:59:20 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:20 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:20 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:20 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 800 -> 750
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 750 -> 700
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 700 -> 650
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 650 -> 600
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 600 -> 550
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 550 -> 500
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 500 -> 450
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 450 -> 400
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 400 -> 350
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 350 -> 300
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 300 -> 250
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 250 -> 200
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 200 -> 150
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 150 -> 100
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 100 -> 50
+[2023.08.29 13:59:21 - error] [TraderFix] Order insert fail: 委托数量应该是100的整数倍(-4010)
+[2023.08.29 13:59:21 - error] 委托数量应该是100的整数倍
+[2023.08.29 13:59:21 - error] [dw_etf] Order placing failed: 委托数量应该是100的整数倍, instrument: 159901, action: open long, qty: 50
+[2023.08.29 13:59:21 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 50 -> 0
+[2023.08.29 13:59:23 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 13:59:23 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 13:59:23 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 14:00:06 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:00:06 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:00:07 - info ] [TraderFix] Connected!
+[2023.08.29 14:00:07 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:00:07 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:00:07 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:00:07 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:00:07 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:00:07 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:00:07 - info ] [dw_etf] Position data updated
+[2023.08.29 14:00:07 - info ] [dw_etf] Trading channel ready
+[2023.08.29 14:08:07 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:08:07 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:08:08 - info ] [TraderFix] Connected!
+[2023.08.29 14:08:08 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:08:08 - error] [TraderFix] Subscribe order report fail：failed to subscribe, param KHH or TOKEN is empty(-503)
+[2023.08.29 14:08:08 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:08:08 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:08:08 - error] [TraderFixOpt] Query position fail: not find service or rule limit(-101)
+[2023.08.29 14:08:08 - info ] [dw_etf] Position data updated
+[2023.08.29 14:08:08 - error] [TraderFixOpt] Query orders fail: not find service or rule limit(-101)
+[2023.08.29 14:08:08 - error] [TraderFixOpt] Query trades fail: not find service or rule limit(-101)
+[2023.08.29 14:08:08 - error] [TraderFix] Query asset fail: not find service or rule limit(-101)
+[2023.08.29 14:08:33 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:08:33 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:08:33 - info ] [TraderFix] Connected!
+[2023.08.29 14:08:33 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:08:33 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:08:33 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:08:33 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:08:33 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:08:33 - debug] [queryPositions] Cur Pos: 0, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500000, Total Avail Pos: 500000 | curVol: 500000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:08:33 - info ] [dw_etf] Position data updated
+[2023.08.29 14:08:34 - info ] [dw_etf] Trading channel ready
+[2023.08.29 14:08:35 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 14:08:35 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 14:08:35 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 14:08:35 - debug] [OnRtnTrade] Code: 159901, exchg: SZSE, Vol: 500, Price: 2.772
+[2023.08.29 14:08:59 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:08:59 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:09:51 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:09:51 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:09:52 - info ] [TraderFix] Connected!
+[2023.08.29 14:09:52 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:09:52 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:09:52 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:09:52 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:09:52 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:09:52 - debug] [queryPositions] Cur Pos: 500, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 500500, Total Avail Pos: 500000 | curVol: 500500, preVol: 500000, curAvail: 500000
+[2023.08.29 14:09:52 - info ] [dw_etf] Position data updated
+[2023.08.29 14:09:52 - info ] [dw_etf] Trading channel ready
+[2023.08.29 14:09:53 - info ] [dw_etf] Buying SZSE.ETF.159901 of quantity 1000
+[2023.08.29 14:09:53 - info ] [dw_etf] SZSE.ETF.159901 qty of undone order updated, 0 -> 1000
+[2023.08.29 14:09:53 - info ] [dw_etf] Signal of buying SZSE.ETF.159901 of quantity 1000 triggered: Opening long of quantity 1000
+[2023.08.29 14:09:53 - debug] [OnRtnTrade] Code: 159901, exchg: SZSE, Vol: 500, Price: 2.772
+[2023.08.29 14:10:46 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:10:46 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:10:46 - info ] [TraderFix] Connected!
+[2023.08.29 14:10:46 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:10:46 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:10:46 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:10:46 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:10:46 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:49:47 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:49:47 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:49:47 - info ] [TraderFix] Connected!
+[2023.08.29 14:49:47 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:49:47 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:49:47 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:49:47 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:49:47 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:49:47 - debug] [queryPositions] Cur Pos: 1000, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 501000, Total Avail Pos: 500000 | curVol: 501000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:49:47 - info ] [dw_etf] Position data updated
+[2023.08.29 14:54:00 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:54:00 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:54:00 - info ] [TraderFix] Connected!
+[2023.08.29 14:54:00 - info ] [TraderFix] Request Login success, code: 1, msg: 
+[2023.08.29 14:54:00 - error] [TraderFix] Subscribe order report fail：subs token invalid:base64 decode fail.(-159)
+[2023.08.29 14:54:00 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:54:00 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:54:00 - debug] [queryPositions] Cur Pos: 1000, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 501000, Total Avail Pos: 500000 | curVol: 501000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:54:00 - info ] [dw_etf] Position data updated
+[2023.08.29 14:54:20 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:54:20 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:54:20 - info ] [TraderFix] Connected!
+[2023.08.29 14:54:20 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:54:20 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:54:20 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:54:20 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:54:20 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:54:20 - debug] [queryPositions] Cur Pos: 1000, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 501000, Total Avail Pos: 500000 | curVol: 501000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:54:20 - info ] [dw_etf] Position data updated
+[2023.08.29 14:55:25 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:55:25 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:55:25 - info ] [TraderFix] Connected!
+[2023.08.29 14:55:25 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:55:25 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:55:25 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:55:25 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:55:25 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:55:26 - debug] [queryPositions] Cur Pos: 1000, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 501000, Total Avail Pos: 500000 | curVol: 501000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:55:26 - info ] [dw_etf] Position data updated
+[2023.08.29 14:57:29 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 14:57:29 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 14:57:29 - info ] [TraderFix] Connected!
+[2023.08.29 14:57:29 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 14:57:29 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 14:57:29 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 14:57:29 - info ] [TraderFix] Account information init success ...
+[2023.08.29 14:57:29 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 14:57:29 - debug] [queryPositions] Cur Pos: 1000, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 501000, Total Avail Pos: 500000 | curVol: 501000, preVol: 500000, curAvail: 500000
+[2023.08.29 14:57:29 - info ] [dw_etf] Position data updated
+[2023.08.29 15:33:21 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 15:33:21 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 15:33:22 - info ] [TraderFix] Connected!
+[2023.08.29 15:33:22 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 15:33:22 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 15:33:22 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 15:33:22 - info ] [TraderFix] Account information init success ...
+[2023.08.29 15:33:22 - info ] [dw_etf] Trader login succeed, trading date: 20230829
+[2023.08.29 15:33:22 - debug] [queryPositions] Cur Pos: 1000, Pre Pos: 500000, Cur Avail Pos: 0, Pre Avail Pos: 500000, Total Pos: 501000, Total Avail Pos: 500000 | curVol: 501000, preVol: 500000, curAvail: 500000
+[2023.08.29 15:33:22 - info ] [dw_etf] Position data updated
+[2023.08.29 15:33:39 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 15:33:39 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 15:38:32 - info ] [dw_etf] Risk control rule default of trading channel loaded
+[2023.08.29 15:38:32 - info ] [dw_etf] Trader module F:/deploy/ETF_T0/traders/TraderFix.dll loaded
+[2023.08.29 15:38:32 - info ] [TraderFix] Connected!
+[2023.08.29 15:38:32 - info ] [TraderFix] Request Login success, code: 1, msg: 验证成功
+[2023.08.29 15:38:32 - info ] [TraderFix] Subscribe order report success
+[2023.08.29 15:38:32 - info ] [TraderFix] Subscribe trade report success
+[2023.08.29 15:38:32 - info ] [TraderFix] Account information init success ...
+[2023.08.29 15:38:32 - info ] [dw_etf] Trader login succeed, trading date: 20230829

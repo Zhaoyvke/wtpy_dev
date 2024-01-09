@@ -1,0 +1,1051 @@
+[2023.12.13 09:31:17 - info ] Trading sessions loaded
+[2023.12.13 09:31:17 - warning] No session configured for CFFEX.TL
+[2023.12.13 09:31:17 - warning] No session configured for CZCE.PX
+[2023.12.13 09:31:17 - warning] No session configured for CZCE.SH
+[2023.12.13 09:31:17 - warning] No session configured for GFEX.lc
+[2023.12.13 09:31:17 - warning] No session configured for GFEX.si
+[2023.12.13 09:31:17 - warning] No session configured for INE.ec
+[2023.12.13 09:31:17 - warning] No session configured for SHFE.ao
+[2023.12.13 09:31:17 - warning] No session configured for SHFE.br
+[2023.12.13 09:31:17 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 09:31:17 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 09:31:17 - info ] Holidays loaded
+[2023.12.13 09:31:17 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 09:31:17 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 09:31:17 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 09:31:17 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 09:31:17 - info ] 1 market data parsers loaded in total
+[2023.12.13 09:31:17 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 09:31:17 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 09:31:17 - info ] 1 parsers started
+[2023.12.13 09:31:17 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 09:31:17 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 09:31:17 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 09:31:17 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 09:31:17 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 09:31:17 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 09:31:17 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 09:31:17 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:17 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:17 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:17 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:17 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:17 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:17 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:17 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:19 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:19 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 09:31:19 - info ] [ParserCTP] Market data server connected
+[2023.12.13 09:31:19 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:24 - info ] Trading sessions loaded
+[2023.12.13 10:25:24 - warning] No session configured for CFFEX.TL
+[2023.12.13 10:25:24 - warning] No session configured for CZCE.PX
+[2023.12.13 10:25:24 - warning] No session configured for CZCE.SH
+[2023.12.13 10:25:24 - warning] No session configured for GFEX.lc
+[2023.12.13 10:25:24 - warning] No session configured for GFEX.si
+[2023.12.13 10:25:24 - warning] No session configured for INE.ec
+[2023.12.13 10:25:24 - warning] No session configured for SHFE.ao
+[2023.12.13 10:25:24 - warning] No session configured for SHFE.br
+[2023.12.13 10:25:24 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 10:25:24 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 10:25:24 - info ] Holidays loaded
+[2023.12.13 10:25:24 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 10:25:24 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 10:25:24 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 10:25:24 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 10:25:24 - info ] 1 market data parsers loaded in total
+[2023.12.13 10:25:24 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 10:25:24 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 10:25:24 - info ] 1 parsers started
+[2023.12.13 10:25:24 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.13 10:25:24 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 10:25:24 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.13 10:25:24 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.13 10:25:24 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.13 10:25:24 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 10:25:24 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 10:25:24 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 10:25:24 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:24 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:25:25 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:25:25 - error] [Par[2023.12.13 10:27:02 - info ] Trading sessions loaded
+[2023.12.13 10:27:02 - warning] No session configured for CFFEX.TL
+[2023.12.13 10:27:02 - warning] No session configured for CZCE.PX
+[2023.12.13 10:27:02 - warning] No session configured for CZCE.SH
+[2023.12.13 10:27:02 - warning] No session configured for GFEX.lc
+[2023.12.13 10:27:02 - warning] No session configured for GFEX.si
+[2023.12.13 10:27:02 - warning] No session configured for INE.ec
+[2023.12.13 10:27:02 - warning] No session configured for SHFE.ao
+[2023.12.13 10:27:02 - warning] No session configured for SHFE.br
+[2023.12.13 10:27:02 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 10:27:02 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 10:27:02 - info ] Holidays loaded
+[2023.12.13 10:27:02 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 10:27:02 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 10:27:02 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 10:27:02 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 10:27:02 - info ] 1 market data parsers loaded in total
+[2023.12.13 10:27:02 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 10:27:02 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 10:27:02 - info ] 1 parsers started
+[2023.12.13 10:27:02 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.13 10:27:02 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 10:27:02 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.13 10:27:02 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.13 10:27:02 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.13 10:27:02 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 10:27:02 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 10:27:02 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 10:27:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:27:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:27:03 - error] [Par[2023.12.13 10:27:19 - info ] Trading sessions loaded
+[2023.12.13 10:27:19 - warning] No session configured for CFFEX.TL
+[2023.12.13 10:27:19 - warning] No session configured for CZCE.PX
+[2023.12.13 10:27:19 - warning] No session configured for CZCE.SH
+[2023.12.13 10:27:19 - warning] No session configured for GFEX.lc
+[2023.12.13 10:27:19 - warning] No session configured for GFEX.si
+[2023.12.13 10:27:19 - warning] No session configured for INE.ec
+[2023.12.13 10:27:19 - warning] No session configured for SHFE.ao
+[2023.12.13 10:27:19 - warning] No session configured for SHFE.br
+[2023.12.13 10:27:19 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 10:27:19 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 10:27:19 - info ] Holidays loaded
+[2023.12.13 10:27:19 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 10:27:19 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 10:27:19 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 10:27:19 - error] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ctpmodule.dll loading failed
+[2023.12.13 10:27:19 - info ] 1 market data parsers loaded in total
+[2023.12.13 10:27:19 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 10:27:19 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 10:27:19 - info ] 1 parsers started
+[2023.12.13 10:27:19 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.13 10:27:19 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 10:27:19 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.13 10:27:19 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.13 10:27:19 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.13 10:27:19 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 10:27:19 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 10:27:19 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 10:27:46 - info ] Trading sessions loaded
+[2023.12.13 10:27:46 - warning] No session configured for CFFEX.TL
+[2023.12.13 10:27:46 - warning] No session configured for CZCE.PX
+[2023.12.13 10:27:46 - warning] No session configured for CZCE.SH
+[2023.12.13 10:27:46 - warning] No session configured for GFEX.lc
+[2023.12.13 10:27:46 - warning] No session configured for GFEX.si
+[2023.12.13 10:27:46 - warning] No session configured for INE.ec
+[2023.12.13 10:27:46 - warning] No session configured for SHFE.ao
+[2023.12.13 10:27:46 - warning] No session configured for SHFE.br
+[2023.12.13 10:27:46 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 10:27:46 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 10:27:46 - info ] Holidays loaded
+[2023.12.13 10:27:46 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 10:27:46 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 10:27:46 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 10:27:46 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 10:27:46 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 10:27:46 - info ] 0 parsers started
+[2023.12.13 10:27:46 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.13 10:27:46 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 10:27:46 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.13 10:27:46 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.13 10:27:46 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.13 10:27:46 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 10:27:46 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 10:27:46 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 10:28:18 - info ] Trading sessions loaded
+[2023.12.13 10:28:18 - warning] No session configured for CFFEX.TL
+[2023.12.13 10:28:18 - warning] No session configured for CZCE.PX
+[2023.12.13 10:28:18 - warning] No session configured for CZCE.SH
+[2023.12.13 10:28:18 - warning] No session configured for GFEX.lc
+[2023.12.13 10:28:18 - warning] No session configured for GFEX.si
+[2023.12.13 10:28:18 - warning] No session configured for INE.ec
+[2023.12.13 10:28:18 - warning] No session configured for SHFE.ao
+[2023.12.13 10:28:18 - warning] No session configured for SHFE.br
+[2023.12.13 10:28:18 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 10:28:18 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 10:28:18 - info ] Holidays loaded
+[2023.12.13 10:28:18 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 10:28:18 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 10:28:18 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 10:28:18 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 10:28:18 - info ] 1 market data parsers loaded in total
+[2023.12.13 10:28:18 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 10:28:18 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 10:28:18 - info ] 1 parsers started
+[2023.12.13 10:28:18 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.13 10:28:18 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 10:28:18 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.13 10:28:18 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.13 10:28:18 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.13 10:28:18 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 10:28:18 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 10:28:18 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 10:28:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:18 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:18 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:19 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:19 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:19 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:19 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:19 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:19 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:19 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:19 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:19 - error] [Par[2023.12.13 10:28:32 - info ] Trading sessions loaded
+[2023.12.13 10:28:32 - warning] No session configured for CFFEX.TL
+[2023.12.13 10:28:32 - warning] No session configured for CZCE.PX
+[2023.12.13 10:28:32 - warning] No session configured for CZCE.SH
+[2023.12.13 10:28:32 - warning] No session configured for GFEX.lc
+[2023.12.13 10:28:32 - warning] No session configured for GFEX.si
+[2023.12.13 10:28:32 - warning] No session configured for INE.ec
+[2023.12.13 10:28:32 - warning] No session configured for SHFE.ao
+[2023.12.13 10:28:32 - warning] No session configured for SHFE.br
+[2023.12.13 10:28:32 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 10:28:32 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 10:28:32 - info ] Holidays loaded
+[2023.12.13 10:28:32 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 10:28:32 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 10:28:32 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 10:28:32 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 10:28:32 - info ] 1 market data parsers loaded in total
+[2023.12.13 10:28:32 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 10:28:32 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 10:28:32 - info ] 1 parsers started
+[2023.12.13 10:28:32 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.13 10:28:32 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 10:28:32 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.13 10:28:32 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.13 10:28:32 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.13 10:28:32 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 10:28:32 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 10:28:32 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 10:28:32 - info ] [ParserCTP] Market data server connected
+[2023.12.13 10:28:32 - error] [Par[2023.12.13 13:55:56 - info ] Trading sessions loaded
+[2023.12.13 13:55:56 - warning] No session configured for CFFEX.TL
+[2023.12.13 13:55:56 - warning] No session configured for CZCE.PX
+[2023.12.13 13:55:56 - warning] No session configured for CZCE.SH
+[2023.12.13 13:55:56 - warning] No session configured for GFEX.lc
+[2023.12.13 13:55:56 - warning] No session configured for GFEX.si
+[2023.12.13 13:55:56 - warning] No session configured for INE.ec
+[2023.12.13 13:55:56 - warning] No session configured for SHFE.ao
+[2023.12.13 13:55:56 - warning] No session configured for SHFE.br
+[2023.12.13 13:55:56 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 13:55:56 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 13:55:56 - info ] Holidays loaded
+[2023.12.13 13:55:56 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 13:55:56 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 13:55:56 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 13:55:56 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 13:55:56 - info ] 1 market data parsers loaded in total
+[2023.12.13 13:55:56 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 13:55:56 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 13:55:56 - info ] 1 parsers started
+[2023.12.13 13:55:56 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 13:55:56 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 13:55:56 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 13:55:56 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 13:55:56 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 13:55:56 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 13:55:56 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 13:55:56 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 13:55:56 - info ] [ParserCTP] Market data server connected
+[2023.12.13 13:55:56 - info ] [ParserCTP] Market data server logined, 20231213
+[2023.12.13 13:55:56 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.13 13:56:11 - info ] Trading sessions loaded
+[2023.12.13 13:56:11 - warning] No session configured for CFFEX.TL
+[2023.12.13 13:56:11 - warning] No session configured for CZCE.PX
+[2023.12.13 13:56:11 - warning] No session configured for CZCE.SH
+[2023.12.13 13:56:11 - warning] No session configured for GFEX.lc
+[2023.12.13 13:56:11 - warning] No session configured for GFEX.si
+[2023.12.13 13:56:11 - warning] No session configured for INE.ec
+[2023.12.13 13:56:11 - warning] No session configured for SHFE.ao
+[2023.12.13 13:56:11 - warning] No session configured for SHFE.br
+[2023.12.13 13:56:11 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 13:56:11 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 13:56:11 - info ] Holidays loaded
+[2023.12.13 13:56:11 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 13:56:11 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 13:56:11 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 13:56:11 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 13:56:11 - info ] 1 market data parsers loaded in total
+[2023.12.13 13:56:11 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 13:56:11 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 13:56:11 - info ] 1 parsers started
+[2023.12.13 13:56:11 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 13:56:11 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 13:56:11 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 13:56:11 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 13:56:11 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 13:56:11 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 13:56:11 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 13:56:11 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 13:56:11 - info ] [ParserCTP] Market data server connected
+[2023.12.13 13:56:11 - info ] [ParserCTP] Market data server logined, 20231213
+[2023.12.13 13:56:11 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.13 14:01:51 - info ] Trading sessions loaded
+[2023.12.13 14:01:51 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:01:51 - warning] No session configured for CZCE.PX
+[2023.12.13 14:01:51 - warning] No session configured for CZCE.SH
+[2023.12.13 14:01:51 - warning] No session configured for GFEX.lc
+[2023.12.13 14:01:51 - warning] No session configured for GFEX.si
+[2023.12.13 14:01:51 - warning] No session configured for INE.ec
+[2023.12.13 14:01:51 - warning] No session configured for SHFE.ao
+[2023.12.13 14:01:51 - warning] No session configured for SHFE.br
+[2023.12.13 14:01:51 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:01:51 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:01:51 - info ] Holidays loaded
+[2023.12.13 14:01:51 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:01:51 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:01:51 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:01:51 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:01:51 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:01:51 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:01:51 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:01:51 - info ] 1 parsers started
+[2023.12.13 14:01:51 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:01:51 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:01:51 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:01:51 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:01:51 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:01:51 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:01:51 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:01:51 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:01:51 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:01:51 - info ] [ParserCTP] Market data server logined, 20231213
+[2023.12.13 14:01:51 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.13 14:06:47 - info ] Trading sessions loaded
+[2023.12.13 14:06:47 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:06:47 - warning] No session configured for CZCE.PX
+[2023.12.13 14:06:47 - warning] No session configured for CZCE.SH
+[2023.12.13 14:06:47 - warning] No session configured for GFEX.lc
+[2023.12.13 14:06:47 - warning] No session configured for GFEX.si
+[2023.12.13 14:06:47 - warning] No session configured for INE.ec
+[2023.12.13 14:06:47 - warning] No session configured for SHFE.ao
+[2023.12.13 14:06:47 - warning] No session configured for SHFE.br
+[2023.12.13 14:06:47 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:06:47 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:06:47 - info ] Holidays loaded
+[2023.12.13 14:06:47 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:06:48 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:06:48 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:06:48 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:06:48 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:06:48 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:06:48 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:06:48 - info ] 1 parsers started
+[2023.12.13 14:06:48 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:06:48 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:06:48 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:06:48 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:06:48 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:06:48 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:06:48 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:06:48 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:06:49 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:06:49 - info ] [ParserCTP] Market data server logined, 20231213
+[2023.12.13 14:06:49 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.13 14:23:02 - info ] Trading sessions loaded
+[2023.12.13 14:23:02 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:23:02 - warning] No session configured for CZCE.PX
+[2023.12.13 14:23:02 - warning] No session configured for CZCE.SH
+[2023.12.13 14:23:02 - warning] No session configured for GFEX.lc
+[2023.12.13 14:23:02 - warning] No session configured for GFEX.si
+[2023.12.13 14:23:02 - warning] No session configured for INE.ec
+[2023.12.13 14:23:02 - warning] No session configured for SHFE.ao
+[2023.12.13 14:23:02 - warning] No session configured for SHFE.br
+[2023.12.13 14:23:02 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:23:02 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:23:02 - info ] Holidays loaded
+[2023.12.13 14:23:02 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:23:02 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:23:02 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:23:02 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:23:02 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:23:02 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:23:02 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:23:02 - info ] 1 parsers started
+[2023.12.13 14:23:02 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:23:02 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:23:02 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:23:02 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:23:02 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:23:02 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:23:02 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:23:02 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:02 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:02 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:03 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:03 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:03 - error] [2023.12.13 14:23:11 - info ] Trading sessions loaded
+[2023.12.13 14:23:11 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:23:11 - warning] No session configured for CZCE.PX
+[2023.12.13 14:23:11 - warning] No session configured for CZCE.SH
+[2023.12.13 14:23:11 - warning] No session configured for GFEX.lc
+[2023.12.13 14:23:11 - warning] No session configured for GFEX.si
+[2023.12.13 14:23:11 - warning] No session configured for INE.ec
+[2023.12.13 14:23:11 - warning] No session configured for SHFE.ao
+[2023.12.13 14:23:11 - warning] No session configured for SHFE.br
+[2023.12.13 14:23:11 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:23:11 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:23:11 - info ] Holidays loaded
+[2023.12.13 14:23:11 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:23:11 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:23:11 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:23:11 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:23:11 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:23:11 - info ] 0 parsers started
+[2023.12.13 14:23:11 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:23:11 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:23:11 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:23:11 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:23:11 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:23:11 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:23:11 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:23:11 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:23:41 - info ] Trading sessions loaded
+[2023.12.13 14:23:41 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:23:41 - warning] No session configured for CZCE.PX
+[2023.12.13 14:23:41 - warning] No session configured for CZCE.SH
+[2023.12.13 14:23:41 - warning] No session configured for GFEX.lc
+[2023.12.13 14:23:41 - warning] No session configured for GFEX.si
+[2023.12.13 14:23:41 - warning] No session configured for INE.ec
+[2023.12.13 14:23:41 - warning] No session configured for SHFE.ao
+[2023.12.13 14:23:41 - warning] No session configured for SHFE.br
+[2023.12.13 14:23:41 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:23:41 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:23:41 - info ] Holidays loaded
+[2023.12.13 14:23:41 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:23:41 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:23:41 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:23:41 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:23:41 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:23:41 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:23:41 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:23:41 - info ] 1 parsers started
+[2023.12.13 14:23:41 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:23:41 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:23:41 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:23:41 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:23:41 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:23:41 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:23:41 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:23:41 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:23:41 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:41 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:23:42 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:23:42 - error] [2023.12.13 14:37:04 - info ] Trading sessions loaded
+[2023.12.13 14:37:04 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:37:04 - warning] No session configured for CZCE.PX
+[2023.12.13 14:37:04 - warning] No session configured for CZCE.SH
+[2023.12.13 14:37:04 - warning] No session configured for GFEX.lc
+[2023.12.13 14:37:04 - warning] No session configured for GFEX.si
+[2023.12.13 14:37:04 - warning] No session configured for INE.ec
+[2023.12.13 14:37:04 - warning] No session configured for SHFE.ao
+[2023.12.13 14:37:04 - warning] No session configured for SHFE.br
+[2023.12.13 14:37:04 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:37:04 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:37:04 - info ] Holidays loaded
+[2023.12.13 14:37:04 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:37:04 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:37:04 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:37:04 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:37:04 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:37:04 - info ] 0 parsers started
+[2023.12.13 14:37:04 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:37:04 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:37:04 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:37:04 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:37:04 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:37:04 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:37:04 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:37:04 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:38:08 - info ] Trading sessions loaded
+[2023.12.13 14:38:08 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:38:08 - warning] No session configured for CZCE.PX
+[2023.12.13 14:38:08 - warning] No session configured for CZCE.SH
+[2023.12.13 14:38:08 - warning] No session configured for GFEX.lc
+[2023.12.13 14:38:08 - warning] No session configured for GFEX.si
+[2023.12.13 14:38:08 - warning] No session configured for INE.ec
+[2023.12.13 14:38:08 - warning] No session configured for SHFE.ao
+[2023.12.13 14:38:08 - warning] No session configured for SHFE.br
+[2023.12.13 14:38:08 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:38:08 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:38:08 - info ] Holidays loaded
+[2023.12.13 14:38:08 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:38:08 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:38:08 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:38:08 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:38:08 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:38:08 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:38:08 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:38:08 - info ] 1 parsers started
+[2023.12.13 14:38:08 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:38:08 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:38:08 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:38:08 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:38:08 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:38:08 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:38:08 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:38:08 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:08 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:08 - error] [2023.12.13 14:38:53 - info ] Trading sessions loaded
+[2023.12.13 14:38:53 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:38:53 - warning] No session configured for CZCE.PX
+[2023.12.13 14:38:53 - warning] No session configured for CZCE.SH
+[2023.12.13 14:38:53 - warning] No session configured for GFEX.lc
+[2023.12.13 14:38:53 - warning] No session configured for GFEX.si
+[2023.12.13 14:38:53 - warning] No session configured for INE.ec
+[2023.12.13 14:38:53 - warning] No session configured for SHFE.ao
+[2023.12.13 14:38:53 - warning] No session configured for SHFE.br
+[2023.12.13 14:38:53 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:38:53 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:38:53 - info ] Holidays loaded
+[2023.12.13 14:38:53 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:38:53 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:38:53 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:38:53 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:38:53 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:38:53 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:38:53 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:38:53 - info ] 1 parsers started
+[2023.12.13 14:38:53 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:38:53 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:38:53 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:38:53 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:38:53 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:38:53 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:38:53 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:38:53 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:38:53 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:53 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:53 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:53 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:53 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:53 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:53 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:53 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:53 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:54 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:54 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:54 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:54 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:54 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:54 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:54 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:54 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:54 - error] [ParserCTP] Market data server disconnected: 0
+[2023.12.13 14:38:54 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:38:54 - error] [2023.12.13 14:41:59 - info ] Trading sessions loaded
+[2023.12.13 14:41:59 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:41:59 - warning] No session configured for CZCE.PX
+[2023.12.13 14:41:59 - warning] No session configured for CZCE.SH
+[2023.12.13 14:41:59 - warning] No session configured for GFEX.lc
+[2023.12.13 14:41:59 - warning] No session configured for GFEX.si
+[2023.12.13 14:41:59 - warning] No session configured for INE.ec
+[2023.12.13 14:41:59 - warning] No session configured for SHFE.ao
+[2023.12.13 14:41:59 - warning] No session configured for SHFE.br
+[2023.12.13 14:41:59 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:41:59 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:41:59 - info ] Holidays loaded
+[2023.12.13 14:41:59 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:41:59 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:41:59 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:41:59 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:41:59 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:41:59 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:41:59 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:41:59 - info ] 1 parsers started
+[2023.12.13 14:41:59 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:41:59 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:41:59 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:41:59 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:41:59 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:41:59 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:41:59 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:41:59 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:41:59 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:41:59 - info ] [ParserCTP] Market data server logined, 20231213
+[2023.12.13 14:41:59 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.13 14:53:40 - info ] Trading sessions loaded
+[2023.12.13 14:53:40 - warning] No session configured for CFFEX.TL
+[2023.12.13 14:53:40 - warning] No session configured for CZCE.PX
+[2023.12.13 14:53:40 - warning] No session configured for CZCE.SH
+[2023.12.13 14:53:40 - warning] No session configured for GFEX.lc
+[2023.12.13 14:53:40 - warning] No session configured for GFEX.si
+[2023.12.13 14:53:40 - warning] No session configured for INE.ec
+[2023.12.13 14:53:40 - warning] No session configured for SHFE.ao
+[2023.12.13 14:53:40 - warning] No session configured for SHFE.br
+[2023.12.13 14:53:40 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 14:53:40 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 14:53:40 - info ] Holidays loaded
+[2023.12.13 14:53:40 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 14:53:40 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 14:53:40 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 14:53:40 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 14:53:40 - info ] 1 market data parsers loaded in total
+[2023.12.13 14:53:40 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 14:53:40 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 14:53:40 - info ] 1 parsers started
+[2023.12.13 14:53:40 - info ] Trading session 期货白盘0900[FD0900] started receiving data
+[2023.12.13 14:53:40 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.13 14:53:40 - info ] Trading session 期货夜盘0100[FN0100] started receiving data
+[2023.12.13 14:53:40 - info ] Trading session 期货夜盘0230[FN0230] started receiving data
+[2023.12.13 14:53:40 - info ] Trading session 期货夜盘2300[FN2300] started receiving data
+[2023.12.13 14:53:40 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 14:53:40 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 14:53:40 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.13 14:53:40 - info ] [ParserCTP] Market data server connected
+[2023.12.13 14:53:40 - info ] [ParserCTP] Market data server logined, 20231213
+[2023.12.13 14:53:40 - info ] [ParserCTP] Market data of 52 contracts subscribed totally
+[2023.12.13 17:10:30 - info ] Trading sessions loaded
+[2023.12.13 17:10:30 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:10:30 - warning] No session configured for CZCE.PX
+[2023.12.13 17:10:30 - warning] No session configured for CZCE.SH
+[2023.12.13 17:10:30 - warning] No session configured for GFEX.lc
+[2023.12.13 17:10:30 - warning] No session configured for GFEX.si
+[2023.12.13 17:10:30 - warning] No session configured for INE.ec
+[2023.12.13 17:10:30 - warning] No session configured for SHFE.ao
+[2023.12.13 17:10:30 - warning] No session configured for SHFE.br
+[2023.12.13 17:10:30 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:10:30 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:10:30 - info ] Holidays loaded
+[2023.12.13 17:10:30 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:10:30 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:10:30 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:10:30 - info ] [parserCTP] Parser module parserCTP.dll loaded
+[2023.12.13 17:10:30 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:10:30 - info ] 0 parsers started
+[2023.12.13 17:10:30 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:10:30 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:10:30 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:10:30 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:10:30 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:10:30 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:10:30 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:10:30 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:10:31 - info ] Trading session 期货白盘0900[FD0900] started processing closing task
+[2023.12.13 17:10:31 - info ] Trading session 期货白盘0915[FD0915] started processing closing task
+[2023.12.13 17:10:31 - info ] Trading session 期货夜盘0100[FN0100] started processing closing task
+[2023.12.13 17:10:31 - info ] Trading session 期货夜盘0230[FN0230] started processing closing task
+[2023.12.13 17:10:31 - info ] Trading session 期货夜盘2300[FN2300] started processing closing task
+[2023.12.13 17:10:31 - info ] Trading session 股票白盘0930[SD0930] started processing closing task
+[2023.12.13 17:10:31 - info ] ClosingTask mark of Trading session [FD0900] updated: 20231213
+[2023.12.13 17:10:31 - info ] ClosingTask mark of Trading session [FD0915] updated: 20231213
+[2023.12.13 17:10:31 - info ] ClosingTask mark of Trading session [FN0100] updated: 20231213
+[2023.12.13 17:10:31 - info ] ClosingTask mark of Trading session [FN0230] updated: 20231213
+[2023.12.13 17:10:31 - info ] ClosingTask of y2401[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2403[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2411[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2405[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2407[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2408[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2409[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of y2312[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2312[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2401[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2402[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2403[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2410[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2404[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2411[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2405[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2406[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2407[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2408[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of i2409[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2312[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2401[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2402[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2403[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2410[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2404[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2411[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2405[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2406[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2407[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2408[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of j2409[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2409[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2312[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2401[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2403[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2411[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2405[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2407[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of m2408[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2312[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2401[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2402[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2403[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2410[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2404[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2411[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2405[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2406[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2407[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2408[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask of p2409[DCE] done, 0 datas processed totally
+[2023.12.13 17:10:31 - info ] ClosingTask mark of Trading session [FN2300] updated: 20231213
+[2023.12.13 17:10:31 - info ] ClosingTask mark of Trading session [SD0930] updated: 20231213
+[2023.12.13 17:10:58 - info ] Trading sessions loaded
+[2023.12.13 17:10:58 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:10:58 - warning] No session configured for CZCE.PX
+[2023.12.13 17:10:58 - warning] No session configured for CZCE.SH
+[2023.12.13 17:10:58 - warning] No session configured for GFEX.lc
+[2023.12.13 17:10:58 - warning] No session configured for GFEX.si
+[2023.12.13 17:10:58 - warning] No session configured for INE.ec
+[2023.12.13 17:10:58 - warning] No session configured for SHFE.ao
+[2023.12.13 17:10:58 - warning] No session configured for SHFE.br
+[2023.12.13 17:10:58 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:10:58 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:10:58 - info ] Holidays loaded
+[2023.12.13 17:10:58 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:10:58 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:10:58 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:10:58 - info ] [parserCTP] Parser module parserCTP.dll loaded
+[2023.12.13 17:10:58 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:10:58 - info ] 0 parsers started
+[2023.12.13 17:10:58 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:10:58 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:10:58 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:10:58 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:10:58 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:10:58 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:10:58 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:10:58 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:11:18 - info ] Trading sessions loaded
+[2023.12.13 17:11:18 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:11:18 - warning] No session configured for CZCE.PX
+[2023.12.13 17:11:18 - warning] No session configured for CZCE.SH
+[2023.12.13 17:11:18 - warning] No session configured for GFEX.lc
+[2023.12.13 17:11:18 - warning] No session configured for GFEX.si
+[2023.12.13 17:11:18 - warning] No session configured for INE.ec
+[2023.12.13 17:11:18 - warning] No session configured for SHFE.ao
+[2023.12.13 17:11:18 - warning] No session configured for SHFE.br
+[2023.12.13 17:11:18 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:11:18 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:11:18 - info ] Holidays loaded
+[2023.12.13 17:11:18 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:11:18 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:11:18 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:11:18 - info ] [parserCTP] Parser module parserCTP.dll loaded
+[2023.12.13 17:11:18 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:11:18 - info ] 0 parsers started
+[2023.12.13 17:11:18 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:11:18 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:11:18 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:11:18 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:11:18 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:11:18 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:11:18 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:11:18 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:11:25 - info ] Trading sessions loaded
+[2023.12.13 17:11:25 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:11:25 - warning] No session configured for CZCE.PX
+[2023.12.13 17:11:25 - warning] No session configured for CZCE.SH
+[2023.12.13 17:11:25 - warning] No session configured for GFEX.lc
+[2023.12.13 17:11:25 - warning] No session configured for GFEX.si
+[2023.12.13 17:11:25 - warning] No session configured for INE.ec
+[2023.12.13 17:11:25 - warning] No session configured for SHFE.ao
+[2023.12.13 17:11:25 - warning] No session configured for SHFE.br
+[2023.12.13 17:11:25 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:11:25 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:11:25 - info ] Holidays loaded
+[2023.12.13 17:11:25 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:11:25 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:11:25 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:11:25 - info ] [parserCTP] Parser module parserCTP.dll loaded
+[2023.12.13 17:11:25 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:11:25 - info ] 0 parsers started
+[2023.12.13 17:11:25 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:11:25 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:11:25 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:11:25 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:11:25 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:11:25 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:11:25 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:11:25 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:12:24 - info ] Trading sessions loaded
+[2023.12.13 17:12:24 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:12:24 - warning] No session configured for CZCE.PX
+[2023.12.13 17:12:24 - warning] No session configured for CZCE.SH
+[2023.12.13 17:12:24 - warning] No session configured for GFEX.lc
+[2023.12.13 17:12:24 - warning] No session configured for GFEX.si
+[2023.12.13 17:12:24 - warning] No session configured for INE.ec
+[2023.12.13 17:12:24 - warning] No session configured for SHFE.ao
+[2023.12.13 17:12:24 - warning] No session configured for SHFE.br
+[2023.12.13 17:12:24 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:12:24 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:12:24 - info ] Holidays loaded
+[2023.12.13 17:12:24 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:12:24 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:12:24 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:12:24 - info ] [parserCTP] Parser module parserCTP.dll loaded
+[2023.12.13 17:12:24 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:12:24 - info ] 0 parsers started
+[2023.12.13 17:12:24 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:12:24 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:12:24 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:12:24 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:12:24 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:12:24 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:12:24 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:12:24 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:13:32 - info ] Trading sessions loaded
+[2023.12.13 17:13:32 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:13:32 - warning] No session configured for CZCE.PX
+[2023.12.13 17:13:32 - warning] No session configured for CZCE.SH
+[2023.12.13 17:13:32 - warning] No session configured for GFEX.lc
+[2023.12.13 17:13:32 - warning] No session configured for GFEX.si
+[2023.12.13 17:13:32 - warning] No session configured for INE.ec
+[2023.12.13 17:13:32 - warning] No session configured for SHFE.ao
+[2023.12.13 17:13:32 - warning] No session configured for SHFE.br
+[2023.12.13 17:13:32 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:13:32 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:13:32 - info ] Holidays loaded
+[2023.12.13 17:13:32 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:13:32 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:13:32 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:13:32 - info ] [parserCTP] Parser module parserCTP.dll loaded
+[2023.12.13 17:13:32 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:13:32 - info ] 0 parsers started
+[2023.12.13 17:13:32 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:13:32 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:13:32 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:13:32 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:13:32 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:13:32 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:13:32 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:13:32 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:14:23 - info ] Trading sessions loaded
+[2023.12.13 17:14:23 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:14:23 - warning] No session configured for CZCE.PX
+[2023.12.13 17:14:23 - warning] No session configured for CZCE.SH
+[2023.12.13 17:14:23 - warning] No session configured for GFEX.lc
+[2023.12.13 17:14:23 - warning] No session configured for GFEX.si
+[2023.12.13 17:14:23 - warning] No session configured for INE.ec
+[2023.12.13 17:14:23 - warning] No session configured for SHFE.ao
+[2023.12.13 17:14:23 - warning] No session configured for SHFE.br
+[2023.12.13 17:14:23 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:14:23 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:14:23 - info ] Holidays loaded
+[2023.12.13 17:14:23 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:14:23 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:14:23 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:14:23 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 17:14:23 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:14:23 - info ] 0 parsers started
+[2023.12.13 17:14:23 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:14:23 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:14:23 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:14:23 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:14:23 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:14:23 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:14:23 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:14:23 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:15:23 - info ] Trading sessions loaded
+[2023.12.13 17:15:23 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:15:23 - warning] No session configured for CZCE.PX
+[2023.12.13 17:15:23 - warning] No session configured for CZCE.SH
+[2023.12.13 17:15:23 - warning] No session configured for GFEX.lc
+[2023.12.13 17:15:23 - warning] No session configured for GFEX.si
+[2023.12.13 17:15:23 - warning] No session configured for INE.ec
+[2023.12.13 17:15:23 - warning] No session configured for SHFE.ao
+[2023.12.13 17:15:23 - warning] No session configured for SHFE.br
+[2023.12.13 17:15:23 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:15:23 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:15:23 - info ] Holidays loaded
+[2023.12.13 17:15:23 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:15:23 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:15:23 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:15:23 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 17:15:23 - info ] 1 market data parsers loaded in total
+[2023.12.13 17:15:23 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 17:15:23 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:15:23 - info ] 1 parsers started
+[2023.12.13 17:15:23 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:15:23 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:15:23 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:15:23 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:15:23 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:15:23 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:15:23 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:15:23 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 17:15:53 - info ] Trading sessions loaded
+[2023.12.13 17:15:53 - warning] No session configured for CFFEX.TL
+[2023.12.13 17:15:53 - warning] No session configured for CZCE.PX
+[2023.12.13 17:15:53 - warning] No session configured for CZCE.SH
+[2023.12.13 17:15:53 - warning] No session configured for GFEX.lc
+[2023.12.13 17:15:53 - warning] No session configured for GFEX.si
+[2023.12.13 17:15:53 - warning] No session configured for INE.ec
+[2023.12.13 17:15:53 - warning] No session configured for SHFE.ao
+[2023.12.13 17:15:53 - warning] No session configured for SHFE.br
+[2023.12.13 17:15:53 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.13 17:15:53 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.13 17:15:53 - info ] Holidays loaded
+[2023.12.13 17:15:53 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.13 17:15:53 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.13 17:15:53 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.13 17:15:53 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.13 17:15:53 - info ] 1 market data parsers loaded in total
+[2023.12.13 17:15:53 - info ] Callbacks of Extented Parser registration done
+[2023.12.13 17:15:53 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.13 17:15:53 - info ] 1 parsers started
+[2023.12.13 17:15:53 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.13 17:15:53 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data
+[2023.12.13 17:15:53 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.13 17:15:53 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.13 17:15:53 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.13 17:15:53 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.13 17:15:53 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.13 17:15:53 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.13 19:00:00 - info ] Trading session 期货夜盘0100[FN0100] state reset
+[2023.12.13 19:00:00 - info ] Trading session 期货夜盘0230[FN0230] state reset
+[2023.12.13 19:00:00 - info ] Trading session 期货夜盘2300[FN2300] state reset

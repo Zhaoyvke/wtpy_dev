@@ -1,0 +1,15 @@
+{
+    "capital": 500000,
+    "days": 32,
+    "total_return": -29.396008000000005,
+    "annual_return": -92.6511492375257,
+    "win_rate": 28.125,
+    "max_falldown": 29.242638358594508,
+    "max_profratio": 4.504071186046892,
+    "std": 31.553888169179306,
+    "down_std": 16.280032245130556,
+    "sharpe_ratio": -2.9996667520035616,
+    "sortino_ratio": -5.8139411404320995,
+    "calmar_ratio": -3.168358070204538,
+    "name": "pydt_IF"
+}

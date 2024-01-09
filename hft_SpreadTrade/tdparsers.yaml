@@ -1,0 +1,9 @@
+parsers:
+-   active: true
+    id: parserUDP
+    module: ParserUDP
+    bport: 9909
+    sport: 3986    
+    host: 127.0.0.1
+    filter: ''
+    

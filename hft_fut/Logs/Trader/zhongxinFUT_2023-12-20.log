@@ -1,0 +1,13 @@
+[2023.12.20 11:28:06 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.20 11:28:06 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.20 11:28:06 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.20 11:28:06 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1596327551, login time: 11:27:41...
+[2023.12.20 11:28:06 - warning] Cache file reset due to a different date
+[2023.12.20 11:28:06 - warning] Cache file reset due to a different date
+[2023.12.20 11:28:06 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231220...
+[2023.12.20 11:28:06 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.20 11:28:07 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.20 11:28:07 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231220
+[2023.12.20 11:28:08 - info ] [zhongxinFUT] DCE.p.2408 position updated, long:0[0]|0[0], short:1[1]|0[0]
+[2023.12.20 11:28:08 - info ] [zhongxinFUT] DCE.y.2403 position updated, long:0[0]|0[0], short:1[1]|0[0]
+[2023.12.20 11:28:08 - info ] [zhongxinFUT] Position data updated

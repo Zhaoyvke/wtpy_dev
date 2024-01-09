@@ -1,0 +1,87 @@
+[2024.01.09 15:50:42 - info ] WonderTrader CTA backtest framework initialzied, version: X64 v0.9.9 Build@Nov 27 2023 13:47:46
+[2024.01.09 15:50:42 - info ] Backtest time range is set to be [201909100930,201912011500] via config
+[2024.01.09 15:50:42 - info ] Unused cache data will be cleard in 0 days
+[2024.01.09 15:50:42 - info ] Tick data replaying is disabled
+[2024.01.09 15:50:42 - info ] adjust_flag is 0
+[2024.01.09 15:50:42 - info ] Resampled bars will be aligned by section:  no
+[2024.01.09 15:50:42 - info ] nosim_if_notrade is false
+[2024.01.09 15:50:42 - warning] No session configured for CFFEX.TL
+[2024.01.09 15:50:42 - warning] No session configured for CZCE.PX
+[2024.01.09 15:50:42 - warning] No session configured for CZCE.SH
+[2024.01.09 15:50:42 - warning] No session configured for GFEX.lc
+[2024.01.09 15:50:42 - warning] No session configured for GFEX.si
+[2024.01.09 15:50:42 - warning] No session configured for INE.ec
+[2024.01.09 15:50:42 - warning] No session configured for SHFE.ao
+[2024.01.09 15:50:42 - warning] No session configured for SHFE.br
+[2024.01.09 15:50:42 - info ] Commodities configuration file ../common/commodities.json loaded
+[2024.01.09 15:50:42 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2024.01.09 15:50:42 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2024.01.09 15:50:42 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2024.01.09 15:50:42 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2024.01.09 15:50:42 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2024.01.09 15:50:42 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2024.01.09 15:50:42 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2024.01.09 15:50:42 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2024.01.09 15:50:42 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2024.01.09 15:50:42 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2024.01.09 15:50:42 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2024.01.09 15:50:42 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2024.01.09 15:50:42 - info ] 38 items of fees template loaded
+[2024.01.09 15:50:42 - info ] Backtesting will run in sync mode
+[2024.01.09 15:50:42 - debug] Calculating hook disabled
+[2024.01.09 15:50:42 - info ] CTA Strategy initialized with absolute slippage: 0
+[2024.01.09 15:50:42 - error] Back kbar data file ../storage/csv/CFFEX.IH.000016_d.csv not exists
+[2024.01.09 15:50:42 - info ] DualThrust inited

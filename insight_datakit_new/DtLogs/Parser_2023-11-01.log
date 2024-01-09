@@ -1,0 +1,7 @@
+[2023.11.01 14:58:25 - error] [parser] Parser module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/parsers/ParserInsight.dll loading failed
+[2023.11.01 14:59:17 - error] [parser] Parser module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/parsers/ParserInsight.dll loading failed
+[2023.11.01 15:00:01 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.11.01 15:00:02 - error] ¡°subscribe¡±[ParserInsight] Sending md subscribe request failed: ¶©ÔÄÊ§°Ü
+[2023.11.01 15:00:04 - info ] [ParserInsight] MDIL2SHWUZHI01 login success
+[2023.11.01 15:00:04 - info ] [ParserInsight] Connecting to [112.4.154.165] successed: 0, begin to subscibe data ...
+[2023.11.01 15:00:04 - info ] subscribe[ParserInsight] Market data of  instruments of SSE and  instruments of SZSE subscribed

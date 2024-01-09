@@ -1,0 +1,4608 @@
+{
+    "SZSE":{
+		 "000001": {
+		  "name": "000001.XSHE",
+		  "code": "000001",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000060": {
+		  "name": "000060.XSHE",
+		  "code": "000060",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000063": {
+		  "name": "000063.XSHE",
+		  "code": "000063",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000065": {
+		  "name": "000065.XSHE",
+		  "code": "000065",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000070": {
+		  "name": "000070.XSHE",
+		  "code": "000070",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000089": {
+		  "name": "000089.XSHE",
+		  "code": "000089",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000099": {
+		  "name": "000099.XSHE",
+		  "code": "000099",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000301": {
+		  "name": "000301.XSHE",
+		  "code": "000301",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000401": {
+		  "name": "000401.XSHE",
+		  "code": "000401",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000411": {
+		  "name": "000411.XSHE",
+		  "code": "000411",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000425": {
+		  "name": "000425.XSHE",
+		  "code": "000425",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000498": {
+		  "name": "000498.XSHE",
+		  "code": "000498",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000528": {
+		  "name": "000528.XSHE",
+		  "code": "000528",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000552": {
+		  "name": "000552.XSHE",
+		  "code": "000552",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000582": {
+		  "name": "000582.XSHE",
+		  "code": "000582",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000589": {
+		  "name": "000589.XSHE",
+		  "code": "000589",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000623": {
+		  "name": "000623.XSHE",
+		  "code": "000623",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000629": {
+		  "name": "000629.XSHE",
+		  "code": "000629",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000630": {
+		  "name": "000630.XSHE",
+		  "code": "000630",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000665": {
+		  "name": "000665.XSHE",
+		  "code": "000665",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000688": {
+		  "name": "000688.XSHE",
+		  "code": "000688",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000700": {
+		  "name": "000700.XSHE",
+		  "code": "000700",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000703": {
+		  "name": "000703.XSHE",
+		  "code": "000703",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000708": {
+		  "name": "000708.XSHE",
+		  "code": "000708",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000709": {
+		  "name": "000709.XSHE",
+		  "code": "000709",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000719": {
+		  "name": "000719.XSHE",
+		  "code": "000719",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000723": {
+		  "name": "000723.XSHE",
+		  "code": "000723",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000726": {
+		  "name": "000726.XSHE",
+		  "code": "000726",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000729": {
+		  "name": "000729.XSHE",
+		  "code": "000729",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000731": {
+		  "name": "000731.XSHE",
+		  "code": "000731",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000761": {
+		  "name": "000761.XSHE",
+		  "code": "000761",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000783": {
+		  "name": "000783.XSHE",
+		  "code": "000783",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000789": {
+		  "name": "000789.XSHE",
+		  "code": "000789",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000810": {
+		  "name": "000810.XSHE",
+		  "code": "000810",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000811": {
+		  "name": "000811.XSHE",
+		  "code": "000811",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000823": {
+		  "name": "000823.XSHE",
+		  "code": "000823",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000839": {
+		  "name": "000839.XSHE",
+		  "code": "000839",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000861": {
+		  "name": "000861.XSHE",
+		  "code": "000861",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000876": {
+		  "name": "000876.XSHE",
+		  "code": "000876",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000887": {
+		  "name": "000887.XSHE",
+		  "code": "000887",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000902": {
+		  "name": "000902.XSHE",
+		  "code": "000902",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000928": {
+		  "name": "000928.XSHE",
+		  "code": "000928",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000932": {
+		  "name": "000932.XSHE",
+		  "code": "000932",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000960": {
+		  "name": "000960.XSHE",
+		  "code": "000960",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000967": {
+		  "name": "000967.XSHE",
+		  "code": "000967",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "001203": {
+		  "name": "001203.XSHE",
+		  "code": "001203",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "001212": {
+		  "name": "001212.XSHE",
+		  "code": "001212",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "001965": {
+		  "name": "001965.XSHE",
+		  "code": "001965",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002002": {
+		  "name": "002002.XSHE",
+		  "code": "002002",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002008": {
+		  "name": "002008.XSHE",
+		  "code": "002008",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002013": {
+		  "name": "002013.XSHE",
+		  "code": "002013",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002022": {
+		  "name": "002022.XSHE",
+		  "code": "002022",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002031": {
+		  "name": "002031.XSHE",
+		  "code": "002031",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002034": {
+		  "name": "002034.XSHE",
+		  "code": "002034",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002036": {
+		  "name": "002036.XSHE",
+		  "code": "002036",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002049": {
+		  "name": "002049.XSHE",
+		  "code": "002049",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002050": {
+		  "name": "002050.XSHE",
+		  "code": "002050",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002061": {
+		  "name": "002061.XSHE",
+		  "code": "002061",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002065": {
+		  "name": "002065.XSHE",
+		  "code": "002065",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002067": {
+		  "name": "002067.XSHE",
+		  "code": "002067",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002074": {
+		  "name": "002074.XSHE",
+		  "code": "002074",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002078": {
+		  "name": "002078.XSHE",
+		  "code": "002078",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002083": {
+		  "name": "002083.XSHE",
+		  "code": "002083",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002091": {
+		  "name": "002091.XSHE",
+		  "code": "002091",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002100": {
+		  "name": "002100.XSHE",
+		  "code": "002100",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002120": {
+		  "name": "002120.XSHE",
+		  "code": "002120",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002126": {
+		  "name": "002126.XSHE",
+		  "code": "002126",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002131": {
+		  "name": "002131.XSHE",
+		  "code": "002131",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002139": {
+		  "name": "002139.XSHE",
+		  "code": "002139",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002142": {
+		  "name": "002142.XSHE",
+		  "code": "002142",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002157": {
+		  "name": "002157.XSHE",
+		  "code": "002157",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002171": {
+		  "name": "002171.XSHE",
+		  "code": "002171",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002174": {
+		  "name": "002174.XSHE",
+		  "code": "002174",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002179": {
+		  "name": "002179.XSHE",
+		  "code": "002179",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002185": {
+		  "name": "002185.XSHE",
+		  "code": "002185",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002203": {
+		  "name": "002203.XSHE",
+		  "code": "002203",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002224": {
+		  "name": "002224.XSHE",
+		  "code": "002224",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002225": {
+		  "name": "002225.XSHE",
+		  "code": "002225",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002228": {
+		  "name": "002228.XSHE",
+		  "code": "002228",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002233": {
+		  "name": "002233.XSHE",
+		  "code": "002233",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002241": {
+		  "name": "002241.XSHE",
+		  "code": "002241",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002245": {
+		  "name": "002245.XSHE",
+		  "code": "002245",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002258": {
+		  "name": "002258.XSHE",
+		  "code": "002258",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002271": {
+		  "name": "002271.XSHE",
+		  "code": "002271",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002273": {
+		  "name": "002273.XSHE",
+		  "code": "002273",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002279": {
+		  "name": "002279.XSHE",
+		  "code": "002279",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002284": {
+		  "name": "002284.XSHE",
+		  "code": "002284",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002287": {
+		  "name": "002287.XSHE",
+		  "code": "002287",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002311": {
+		  "name": "002311.XSHE",
+		  "code": "002311",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002318": {
+		  "name": "002318.XSHE",
+		  "code": "002318",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002325": {
+		  "name": "002325.XSHE",
+		  "code": "002325",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002347": {
+		  "name": "002347.XSHE",
+		  "code": "002347",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002352": {
+		  "name": "002352.XSHE",
+		  "code": "002352",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002360": {
+		  "name": "002360.XSHE",
+		  "code": "002360",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002368": {
+		  "name": "002368.XSHE",
+		  "code": "002368",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002370": {
+		  "name": "002370.XSHE",
+		  "code": "002370",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002376": {
+		  "name": "002376.XSHE",
+		  "code": "002376",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002381": {
+		  "name": "002381.XSHE",
+		  "code": "002381",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002382": {
+		  "name": "002382.XSHE",
+		  "code": "002382",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002391": {
+		  "name": "002391.XSHE",
+		  "code": "002391",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002398": {
+		  "name": "002398.XSHE",
+		  "code": "002398",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002402": {
+		  "name": "002402.XSHE",
+		  "code": "002402",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002406": {
+		  "name": "002406.XSHE",
+		  "code": "002406",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002408": {
+		  "name": "002408.XSHE",
+		  "code": "002408",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002422": {
+		  "name": "002422.XSHE",
+		  "code": "002422",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002430": {
+		  "name": "002430.XSHE",
+		  "code": "002430",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002436": {
+		  "name": "002436.XSHE",
+		  "code": "002436",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002439": {
+		  "name": "002439.XSHE",
+		  "code": "002439",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002444": {
+		  "name": "002444.XSHE",
+		  "code": "002444",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002446": {
+		  "name": "002446.XSHE",
+		  "code": "002446",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002455": {
+		  "name": "002455.XSHE",
+		  "code": "002455",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002460": {
+		  "name": "002460.XSHE",
+		  "code": "002460",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002472": {
+		  "name": "002472.XSHE",
+		  "code": "002472",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002475": {
+		  "name": "002475.XSHE",
+		  "code": "002475",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002491": {
+		  "name": "002491.XSHE",
+		  "code": "002491",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002496": {
+		  "name": "002496.XSHE",
+		  "code": "002496",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002497": {
+		  "name": "002497.XSHE",
+		  "code": "002497",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002503": {
+		  "name": "002503.XSHE",
+		  "code": "002503",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002510": {
+		  "name": "002510.XSHE",
+		  "code": "002510",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002521": {
+		  "name": "002521.XSHE",
+		  "code": "002521",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002527": {
+		  "name": "002527.XSHE",
+		  "code": "002527",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002534": {
+		  "name": "002534.XSHE",
+		  "code": "002534",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002538": {
+		  "name": "002538.XSHE",
+		  "code": "002538",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002540": {
+		  "name": "002540.XSHE",
+		  "code": "002540",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002541": {
+		  "name": "002541.XSHE",
+		  "code": "002541",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002542": {
+		  "name": "002542.XSHE",
+		  "code": "002542",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002548": {
+		  "name": "002548.XSHE",
+		  "code": "002548",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002551": {
+		  "name": "002551.XSHE",
+		  "code": "002551",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002557": {
+		  "name": "002557.XSHE",
+		  "code": "002557",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002562": {
+		  "name": "002562.XSHE",
+		  "code": "002562",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002567": {
+		  "name": "002567.XSHE",
+		  "code": "002567",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002568": {
+		  "name": "002568.XSHE",
+		  "code": "002568",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002597": {
+		  "name": "002597.XSHE",
+		  "code": "002597",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002603": {
+		  "name": "002603.XSHE",
+		  "code": "002603",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002614": {
+		  "name": "002614.XSHE",
+		  "code": "002614",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002615": {
+		  "name": "002615.XSHE",
+		  "code": "002615",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002616": {
+		  "name": "002616.XSHE",
+		  "code": "002616",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002631": {
+		  "name": "002631.XSHE",
+		  "code": "002631",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002641": {
+		  "name": "002641.XSHE",
+		  "code": "002641",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002645": {
+		  "name": "002645.XSHE",
+		  "code": "002645",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002649": {
+		  "name": "002649.XSHE",
+		  "code": "002649",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002658": {
+		  "name": "002658.XSHE",
+		  "code": "002658",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002698": {
+		  "name": "002698.XSHE",
+		  "code": "002698",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002701": {
+		  "name": "002701.XSHE",
+		  "code": "002701",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002707": {
+		  "name": "002707.XSHE",
+		  "code": "002707",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002709": {
+		  "name": "002709.XSHE",
+		  "code": "002709",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002714": {
+		  "name": "002714.XSHE",
+		  "code": "002714",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002717": {
+		  "name": "002717.XSHE",
+		  "code": "002717",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002722": {
+		  "name": "002722.XSHE",
+		  "code": "002722",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002726": {
+		  "name": "002726.XSHE",
+		  "code": "002726",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002727": {
+		  "name": "002727.XSHE",
+		  "code": "002727",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002728": {
+		  "name": "002728.XSHE",
+		  "code": "002728",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002734": {
+		  "name": "002734.XSHE",
+		  "code": "002734",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002738": {
+		  "name": "002738.XSHE",
+		  "code": "002738",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002741": {
+		  "name": "002741.XSHE",
+		  "code": "002741",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002745": {
+		  "name": "002745.XSHE",
+		  "code": "002745",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002749": {
+		  "name": "002749.XSHE",
+		  "code": "002749",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002753": {
+		  "name": "002753.XSHE",
+		  "code": "002753",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002756": {
+		  "name": "002756.XSHE",
+		  "code": "002756",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002758": {
+		  "name": "002758.XSHE",
+		  "code": "002758",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002772": {
+		  "name": "002772.XSHE",
+		  "code": "002772",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002773": {
+		  "name": "002773.XSHE",
+		  "code": "002773",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002775": {
+		  "name": "002775.XSHE",
+		  "code": "002775",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002783": {
+		  "name": "002783.XSHE",
+		  "code": "002783",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002787": {
+		  "name": "002787.XSHE",
+		  "code": "002787",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002793": {
+		  "name": "002793.XSHE",
+		  "code": "002793",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002798": {
+		  "name": "002798.XSHE",
+		  "code": "002798",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002806": {
+		  "name": "002806.XSHE",
+		  "code": "002806",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002807": {
+		  "name": "002807.XSHE",
+		  "code": "002807",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002811": {
+		  "name": "002811.XSHE",
+		  "code": "002811",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002812": {
+		  "name": "002812.XSHE",
+		  "code": "002812",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002815": {
+		  "name": "002815.XSHE",
+		  "code": "002815",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002822": {
+		  "name": "002822.XSHE",
+		  "code": "002822",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002823": {
+		  "name": "002823.XSHE",
+		  "code": "002823",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002831": {
+		  "name": "002831.XSHE",
+		  "code": "002831",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002832": {
+		  "name": "002832.XSHE",
+		  "code": "002832",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002833": {
+		  "name": "002833.XSHE",
+		  "code": "002833",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002838": {
+		  "name": "002838.XSHE",
+		  "code": "002838",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002839": {
+		  "name": "002839.XSHE",
+		  "code": "002839",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002840": {
+		  "name": "002840.XSHE",
+		  "code": "002840",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002841": {
+		  "name": "002841.XSHE",
+		  "code": "002841",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002842": {
+		  "name": "002842.XSHE",
+		  "code": "002842",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002846": {
+		  "name": "002846.XSHE",
+		  "code": "002846",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002850": {
+		  "name": "002850.XSHE",
+		  "code": "002850",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002851": {
+		  "name": "002851.XSHE",
+		  "code": "002851",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002859": {
+		  "name": "002859.XSHE",
+		  "code": "002859",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002860": {
+		  "name": "002860.XSHE",
+		  "code": "002860",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002861": {
+		  "name": "002861.XSHE",
+		  "code": "002861",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002863": {
+		  "name": "002863.XSHE",
+		  "code": "002863",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002864": {
+		  "name": "002864.XSHE",
+		  "code": "002864",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002865": {
+		  "name": "002865.XSHE",
+		  "code": "002865",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002873": {
+		  "name": "002873.XSHE",
+		  "code": "002873",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002877": {
+		  "name": "002877.XSHE",
+		  "code": "002877",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002887": {
+		  "name": "002887.XSHE",
+		  "code": "002887",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002891": {
+		  "name": "002891.XSHE",
+		  "code": "002891",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002895": {
+		  "name": "002895.XSHE",
+		  "code": "002895",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002896": {
+		  "name": "002896.XSHE",
+		  "code": "002896",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002907": {
+		  "name": "002907.XSHE",
+		  "code": "002907",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002916": {
+		  "name": "002916.XSHE",
+		  "code": "002916",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002918": {
+		  "name": "002918.XSHE",
+		  "code": "002918",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002921": {
+		  "name": "002921.XSHE",
+		  "code": "002921",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002928": {
+		  "name": "002928.XSHE",
+		  "code": "002928",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002929": {
+		  "name": "002929.XSHE",
+		  "code": "002929",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002930": {
+		  "name": "002930.XSHE",
+		  "code": "002930",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002931": {
+		  "name": "002931.XSHE",
+		  "code": "002931",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002941": {
+		  "name": "002941.XSHE",
+		  "code": "002941",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002946": {
+		  "name": "002946.XSHE",
+		  "code": "002946",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002949": {
+		  "name": "002949.XSHE",
+		  "code": "002949",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002953": {
+		  "name": "002953.XSHE",
+		  "code": "002953",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002958": {
+		  "name": "002958.XSHE",
+		  "code": "002958",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002959": {
+		  "name": "002959.XSHE",
+		  "code": "002959",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002961": {
+		  "name": "002961.XSHE",
+		  "code": "002961",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002965": {
+		  "name": "002965.XSHE",
+		  "code": "002965",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002966": {
+		  "name": "002966.XSHE",
+		  "code": "002966",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002969": {
+		  "name": "002969.XSHE",
+		  "code": "002969",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002973": {
+		  "name": "002973.XSHE",
+		  "code": "002973",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002975": {
+		  "name": "002975.XSHE",
+		  "code": "002975",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002982": {
+		  "name": "002982.XSHE",
+		  "code": "002982",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002984": {
+		  "name": "002984.XSHE",
+		  "code": "002984",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002988": {
+		  "name": "002988.XSHE",
+		  "code": "002988",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002989": {
+		  "name": "002989.XSHE",
+		  "code": "002989",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002996": {
+		  "name": "002996.XSHE",
+		  "code": "002996",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002997": {
+		  "name": "002997.XSHE",
+		  "code": "002997",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002998": {
+		  "name": "002998.XSHE",
+		  "code": "002998",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "003004": {
+		  "name": "003004.XSHE",
+		  "code": "003004",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "003009": {
+		  "name": "003009.XSHE",
+		  "code": "003009",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "003043": {
+		  "name": "003043.XSHE",
+		  "code": "003043",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300003": {
+		  "name": "300003.XSHE",
+		  "code": "300003",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300016": {
+		  "name": "300016.XSHE",
+		  "code": "300016",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300021": {
+		  "name": "300021.XSHE",
+		  "code": "300021",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300031": {
+		  "name": "300031.XSHE",
+		  "code": "300031",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300037": {
+		  "name": "300037.XSHE",
+		  "code": "300037",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300040": {
+		  "name": "300040.XSHE",
+		  "code": "300040",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300041": {
+		  "name": "300041.XSHE",
+		  "code": "300041",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300057": {
+		  "name": "300057.XSHE",
+		  "code": "300057",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300058": {
+		  "name": "300058.XSHE",
+		  "code": "300058",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300059": {
+		  "name": "300059.XSHE",
+		  "code": "300059",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300065": {
+		  "name": "300065.XSHE",
+		  "code": "300065",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300078": {
+		  "name": "300078.XSHE",
+		  "code": "300078",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300088": {
+		  "name": "300088.XSHE",
+		  "code": "300088",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300112": {
+		  "name": "300112.XSHE",
+		  "code": "300112",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300138": {
+		  "name": "300138.XSHE",
+		  "code": "300138",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300151": {
+		  "name": "300151.XSHE",
+		  "code": "300151",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300168": {
+		  "name": "300168.XSHE",
+		  "code": "300168",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300170": {
+		  "name": "300170.XSHE",
+		  "code": "300170",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300174": {
+		  "name": "300174.XSHE",
+		  "code": "300174",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300185": {
+		  "name": "300185.XSHE",
+		  "code": "300185",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300190": {
+		  "name": "300190.XSHE",
+		  "code": "300190",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300196": {
+		  "name": "300196.XSHE",
+		  "code": "300196",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300197": {
+		  "name": "300197.XSHE",
+		  "code": "300197",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300207": {
+		  "name": "300207.XSHE",
+		  "code": "300207",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300224": {
+		  "name": "300224.XSHE",
+		  "code": "300224",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300229": {
+		  "name": "300229.XSHE",
+		  "code": "300229",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300231": {
+		  "name": "300231.XSHE",
+		  "code": "300231",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300232": {
+		  "name": "300232.XSHE",
+		  "code": "300232",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300243": {
+		  "name": "300243.XSHE",
+		  "code": "300243",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300246": {
+		  "name": "300246.XSHE",
+		  "code": "300246",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300253": {
+		  "name": "300253.XSHE",
+		  "code": "300253",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300258": {
+		  "name": "300258.XSHE",
+		  "code": "300258",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300260": {
+		  "name": "300260.XSHE",
+		  "code": "300260",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300263": {
+		  "name": "300263.XSHE",
+		  "code": "300263",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300265": {
+		  "name": "300265.XSHE",
+		  "code": "300265",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300283": {
+		  "name": "300283.XSHE",
+		  "code": "300283",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300296": {
+		  "name": "300296.XSHE",
+		  "code": "300296",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300297": {
+		  "name": "300297.XSHE",
+		  "code": "300297",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300298": {
+		  "name": "300298.XSHE",
+		  "code": "300298",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300303": {
+		  "name": "300303.XSHE",
+		  "code": "300303",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300305": {
+		  "name": "300305.XSHE",
+		  "code": "300305",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300332": {
+		  "name": "300332.XSHE",
+		  "code": "300332",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300335": {
+		  "name": "300335.XSHE",
+		  "code": "300335",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300346": {
+		  "name": "300346.XSHE",
+		  "code": "300346",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300381": {
+		  "name": "300381.XSHE",
+		  "code": "300381",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300382": {
+		  "name": "300382.XSHE",
+		  "code": "300382",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300388": {
+		  "name": "300388.XSHE",
+		  "code": "300388",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300393": {
+		  "name": "300393.XSHE",
+		  "code": "300393",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300398": {
+		  "name": "300398.XSHE",
+		  "code": "300398",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300401": {
+		  "name": "300401.XSHE",
+		  "code": "300401",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300406": {
+		  "name": "300406.XSHE",
+		  "code": "300406",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300407": {
+		  "name": "300407.XSHE",
+		  "code": "300407",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300409": {
+		  "name": "300409.XSHE",
+		  "code": "300409",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300416": {
+		  "name": "300416.XSHE",
+		  "code": "300416",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300422": {
+		  "name": "300422.XSHE",
+		  "code": "300422",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300424": {
+		  "name": "300424.XSHE",
+		  "code": "300424",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300427": {
+		  "name": "300427.XSHE",
+		  "code": "300427",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300429": {
+		  "name": "300429.XSHE",
+		  "code": "300429",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300433": {
+		  "name": "300433.XSHE",
+		  "code": "300433",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300437": {
+		  "name": "300437.XSHE",
+		  "code": "300437",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300438": {
+		  "name": "300438.XSHE",
+		  "code": "300438",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300450": {
+		  "name": "300450.XSHE",
+		  "code": "300450",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300473": {
+		  "name": "300473.XSHE",
+		  "code": "300473",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300480": {
+		  "name": "300480.XSHE",
+		  "code": "300480",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300482": {
+		  "name": "300482.XSHE",
+		  "code": "300482",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300483": {
+		  "name": "300483.XSHE",
+		  "code": "300483",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300486": {
+		  "name": "300486.XSHE",
+		  "code": "300486",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300487": {
+		  "name": "300487.XSHE",
+		  "code": "300487",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300490": {
+		  "name": "300490.XSHE",
+		  "code": "300490",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300497": {
+		  "name": "300497.XSHE",
+		  "code": "300497",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300498": {
+		  "name": "300498.XSHE",
+		  "code": "300498",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300499": {
+		  "name": "300499.XSHE",
+		  "code": "300499",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300501": {
+		  "name": "300501.XSHE",
+		  "code": "300501",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300505": {
+		  "name": "300505.XSHE",
+		  "code": "300505",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300511": {
+		  "name": "300511.XSHE",
+		  "code": "300511",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300517": {
+		  "name": "300517.XSHE",
+		  "code": "300517",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300527": {
+		  "name": "300527.XSHE",
+		  "code": "300527",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300529": {
+		  "name": "300529.XSHE",
+		  "code": "300529",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300532": {
+		  "name": "300532.XSHE",
+		  "code": "300532",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300539": {
+		  "name": "300539.XSHE",
+		  "code": "300539",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300543": {
+		  "name": "300543.XSHE",
+		  "code": "300543",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300545": {
+		  "name": "300545.XSHE",
+		  "code": "300545",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300554": {
+		  "name": "300554.XSHE",
+		  "code": "300554",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300556": {
+		  "name": "300556.XSHE",
+		  "code": "300556",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300567": {
+		  "name": "300567.XSHE",
+		  "code": "300567",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300568": {
+		  "name": "300568.XSHE",
+		  "code": "300568",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300569": {
+		  "name": "300569.XSHE",
+		  "code": "300569",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300577": {
+		  "name": "300577.XSHE",
+		  "code": "300577",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300580": {
+		  "name": "300580.XSHE",
+		  "code": "300580",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300586": {
+		  "name": "300586.XSHE",
+		  "code": "300586",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300587": {
+		  "name": "300587.XSHE",
+		  "code": "300587",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300591": {
+		  "name": "300591.XSHE",
+		  "code": "300591",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300601": {
+		  "name": "300601.XSHE",
+		  "code": "300601",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300605": {
+		  "name": "300605.XSHE",
+		  "code": "300605",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300607": {
+		  "name": "300607.XSHE",
+		  "code": "300607",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300608": {
+		  "name": "300608.XSHE",
+		  "code": "300608",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300611": {
+		  "name": "300611.XSHE",
+		  "code": "300611",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300613": {
+		  "name": "300613.XSHE",
+		  "code": "300613",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300614": {
+		  "name": "300614.XSHE",
+		  "code": "300614",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300618": {
+		  "name": "300618.XSHE",
+		  "code": "300618",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300619": {
+		  "name": "300619.XSHE",
+		  "code": "300619",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300623": {
+		  "name": "300623.XSHE",
+		  "code": "300623",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300624": {
+		  "name": "300624.XSHE",
+		  "code": "300624",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300630": {
+		  "name": "300630.XSHE",
+		  "code": "300630",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300631": {
+		  "name": "300631.XSHE",
+		  "code": "300631",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300636": {
+		  "name": "300636.XSHE",
+		  "code": "300636",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300641": {
+		  "name": "300641.XSHE",
+		  "code": "300641",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300645": {
+		  "name": "300645.XSHE",
+		  "code": "300645",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300651": {
+		  "name": "300651.XSHE",
+		  "code": "300651",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300652": {
+		  "name": "300652.XSHE",
+		  "code": "300652",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300655": {
+		  "name": "300655.XSHE",
+		  "code": "300655",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300657": {
+		  "name": "300657.XSHE",
+		  "code": "300657",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300663": {
+		  "name": "300663.XSHE",
+		  "code": "300663",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300665": {
+		  "name": "300665.XSHE",
+		  "code": "300665",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300666": {
+		  "name": "300666.XSHE",
+		  "code": "300666",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300673": {
+		  "name": "300673.XSHE",
+		  "code": "300673",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300677": {
+		  "name": "300677.XSHE",
+		  "code": "300677",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300682": {
+		  "name": "300682.XSHE",
+		  "code": "300682",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300687": {
+		  "name": "300687.XSHE",
+		  "code": "300687",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300692": {
+		  "name": "300692.XSHE",
+		  "code": "300692",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300700": {
+		  "name": "300700.XSHE",
+		  "code": "300700",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300705": {
+		  "name": "300705.XSHE",
+		  "code": "300705",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300707": {
+		  "name": "300707.XSHE",
+		  "code": "300707",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300709": {
+		  "name": "300709.XSHE",
+		  "code": "300709",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300723": {
+		  "name": "300723.XSHE",
+		  "code": "300723",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300725": {
+		  "name": "300725.XSHE",
+		  "code": "300725",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300727": {
+		  "name": "300727.XSHE",
+		  "code": "300727",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300729": {
+		  "name": "300729.XSHE",
+		  "code": "300729",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300732": {
+		  "name": "300732.XSHE",
+		  "code": "300732",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300738": {
+		  "name": "300738.XSHE",
+		  "code": "300738",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300739": {
+		  "name": "300739.XSHE",
+		  "code": "300739",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300740": {
+		  "name": "300740.XSHE",
+		  "code": "300740",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300743": {
+		  "name": "300743.XSHE",
+		  "code": "300743",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300748": {
+		  "name": "300748.XSHE",
+		  "code": "300748",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300752": {
+		  "name": "300752.XSHE",
+		  "code": "300752",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300763": {
+		  "name": "300763.XSHE",
+		  "code": "300763",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300767": {
+		  "name": "300767.XSHE",
+		  "code": "300767",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300772": {
+		  "name": "300772.XSHE",
+		  "code": "300772",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300775": {
+		  "name": "300775.XSHE",
+		  "code": "300775",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300776": {
+		  "name": "300776.XSHE",
+		  "code": "300776",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300778": {
+		  "name": "300778.XSHE",
+		  "code": "300778",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300779": {
+		  "name": "300779.XSHE",
+		  "code": "300779",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300787": {
+		  "name": "300787.XSHE",
+		  "code": "300787",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300791": {
+		  "name": "300791.XSHE",
+		  "code": "300791",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300798": {
+		  "name": "300798.XSHE",
+		  "code": "300798",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300811": {
+		  "name": "300811.XSHE",
+		  "code": "300811",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300813": {
+		  "name": "300813.XSHE",
+		  "code": "300813",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300818": {
+		  "name": "300818.XSHE",
+		  "code": "300818",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300826": {
+		  "name": "300826.XSHE",
+		  "code": "300826",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300827": {
+		  "name": "300827.XSHE",
+		  "code": "300827",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300837": {
+		  "name": "300837.XSHE",
+		  "code": "300837",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300839": {
+		  "name": "300839.XSHE",
+		  "code": "300839",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300843": {
+		  "name": "300843.XSHE",
+		  "code": "300843",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300850": {
+		  "name": "300850.XSHE",
+		  "code": "300850",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300853": {
+		  "name": "300853.XSHE",
+		  "code": "300853",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300856": {
+		  "name": "300856.XSHE",
+		  "code": "300856",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300863": {
+		  "name": "300863.XSHE",
+		  "code": "300863",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300869": {
+		  "name": "300869.XSHE",
+		  "code": "300869",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300871": {
+		  "name": "300871.XSHE",
+		  "code": "300871",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300872": {
+		  "name": "300872.XSHE",
+		  "code": "300872",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300876": {
+		  "name": "300876.XSHE",
+		  "code": "300876",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300891": {
+		  "name": "300891.XSHE",
+		  "code": "300891",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300894": {
+		  "name": "300894.XSHE",
+		  "code": "300894",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300900": {
+		  "name": "300900.XSHE",
+		  "code": "300900",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300918": {
+		  "name": "300918.XSHE",
+		  "code": "300918",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300925": {
+		  "name": "300925.XSHE",
+		  "code": "300925",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300933": {
+		  "name": "300933.XSHE",
+		  "code": "300933",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300956": {
+		  "name": "300956.XSHE",
+		  "code": "300956",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300966": {
+		  "name": "300966.XSHE",
+		  "code": "300966",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300967": {
+		  "name": "300967.XSHE",
+		  "code": "300967",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300973": {
+		  "name": "300973.XSHE",
+		  "code": "300973",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300975": {
+		  "name": "300975.XSHE",
+		  "code": "300975",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300984": {
+		  "name": "300984.XSHE",
+		  "code": "300984",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300986": {
+		  "name": "300986.XSHE",
+		  "code": "300986",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300992": {
+		  "name": "300992.XSHE",
+		  "code": "300992",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301002": {
+		  "name": "301002.XSHE",
+		  "code": "301002",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301015": {
+		  "name": "301015.XSHE",
+		  "code": "301015",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301017": {
+		  "name": "301017.XSHE",
+		  "code": "301017",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301040": {
+		  "name": "301040.XSHE",
+		  "code": "301040",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301046": {
+		  "name": "301046.XSHE",
+		  "code": "301046",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301085": {
+		  "name": "301085.XSHE",
+		  "code": "301085",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301186": {
+		  "name": "301186.XSHE",
+		  "code": "301186",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 }
+	},
+	"SSE":{
+		 "600000": {
+		  "name": "600000.XSHG",
+		  "code": "600000",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600004": {
+		  "name": "600004.XSHG",
+		  "code": "600004",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600005": {
+		  "name": "600005.XSHG",
+		  "code": "600005",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600016": {
+		  "name": "600016.XSHG",
+		  "code": "600016",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600017": {
+		  "name": "600017.XSHG",
+		  "code": "600017",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600018": {
+		  "name": "600018.XSHG",
+		  "code": "600018",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600019": {
+		  "name": "600019.XSHG",
+		  "code": "600019",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600023": {
+		  "name": "600023.XSHG",
+		  "code": "600023",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600026": {
+		  "name": "600026.XSHG",
+		  "code": "600026",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600028": {
+		  "name": "600028.XSHG",
+		  "code": "600028",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600029": {
+		  "name": "600029.XSHG",
+		  "code": "600029",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600031": {
+		  "name": "600031.XSHG",
+		  "code": "600031",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600037": {
+		  "name": "600037.XSHG",
+		  "code": "600037",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600061": {
+		  "name": "600061.XSHG",
+		  "code": "600061",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600067": {
+		  "name": "600067.XSHG",
+		  "code": "600067",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600068": {
+		  "name": "600068.XSHG",
+		  "code": "600068",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600075": {
+		  "name": "600075.XSHG",
+		  "code": "600075",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600078": {
+		  "name": "600078.XSHG",
+		  "code": "600078",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600085": {
+		  "name": "600085.XSHG",
+		  "code": "600085",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600096": {
+		  "name": "600096.XSHG",
+		  "code": "600096",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600104": {
+		  "name": "600104.XSHG",
+		  "code": "600104",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600105": {
+		  "name": "600105.XSHG",
+		  "code": "600105",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600109": {
+		  "name": "600109.XSHG",
+		  "code": "600109",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600133": {
+		  "name": "600133.XSHG",
+		  "code": "600133",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600141": {
+		  "name": "600141.XSHG",
+		  "code": "600141",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600160": {
+		  "name": "600160.XSHG",
+		  "code": "600160",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600170": {
+		  "name": "600170.XSHG",
+		  "code": "600170",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600183": {
+		  "name": "600183.XSHG",
+		  "code": "600183",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600185": {
+		  "name": "600185.XSHG",
+		  "code": "600185",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600197": {
+		  "name": "600197.XSHG",
+		  "code": "600197",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600219": {
+		  "name": "600219.XSHG",
+		  "code": "600219",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600231": {
+		  "name": "600231.XSHG",
+		  "code": "600231",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600233": {
+		  "name": "600233.XSHG",
+		  "code": "600233",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600269": {
+		  "name": "600269.XSHG",
+		  "code": "600269",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600271": {
+		  "name": "600271.XSHG",
+		  "code": "600271",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600297": {
+		  "name": "600297.XSHG",
+		  "code": "600297",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600299": {
+		  "name": "600299.XSHG",
+		  "code": "600299",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600323": {
+		  "name": "600323.XSHG",
+		  "code": "600323",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600326": {
+		  "name": "600326.XSHG",
+		  "code": "600326",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600350": {
+		  "name": "600350.XSHG",
+		  "code": "600350",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600356": {
+		  "name": "600356.XSHG",
+		  "code": "600356",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600362": {
+		  "name": "600362.XSHG",
+		  "code": "600362",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600370": {
+		  "name": "600370.XSHG",
+		  "code": "600370",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600372": {
+		  "name": "600372.XSHG",
+		  "code": "600372",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600388": {
+		  "name": "600388.XSHG",
+		  "code": "600388",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600398": {
+		  "name": "600398.XSHG",
+		  "code": "600398",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600420": {
+		  "name": "600420.XSHG",
+		  "code": "600420",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600428": {
+		  "name": "600428.XSHG",
+		  "code": "600428",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600438": {
+		  "name": "600438.XSHG",
+		  "code": "600438",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600461": {
+		  "name": "600461.XSHG",
+		  "code": "600461",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600481": {
+		  "name": "600481.XSHG",
+		  "code": "600481",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600483": {
+		  "name": "600483.XSHG",
+		  "code": "600483",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600487": {
+		  "name": "600487.XSHG",
+		  "code": "600487",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600496": {
+		  "name": "600496.XSHG",
+		  "code": "600496",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600498": {
+		  "name": "600498.XSHG",
+		  "code": "600498",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600500": {
+		  "name": "600500.XSHG",
+		  "code": "600500",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600518": {
+		  "name": "600518.XSHG",
+		  "code": "600518",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600521": {
+		  "name": "600521.XSHG",
+		  "code": "600521",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600522": {
+		  "name": "600522.XSHG",
+		  "code": "600522",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600535": {
+		  "name": "600535.XSHG",
+		  "code": "600535",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600536": {
+		  "name": "600536.XSHG",
+		  "code": "600536",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600548": {
+		  "name": "600548.XSHG",
+		  "code": "600548",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600566": {
+		  "name": "600566.XSHG",
+		  "code": "600566",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600567": {
+		  "name": "600567.XSHG",
+		  "code": "600567",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600577": {
+		  "name": "600577.XSHG",
+		  "code": "600577",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600600": {
+		  "name": "600600.XSHG",
+		  "code": "600600",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600633": {
+		  "name": "600633.XSHG",
+		  "code": "600633",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600674": {
+		  "name": "600674.XSHG",
+		  "code": "600674",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600690": {
+		  "name": "600690.XSHG",
+		  "code": "600690",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600711": {
+		  "name": "600711.XSHG",
+		  "code": "600711",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600728": {
+		  "name": "600728.XSHG",
+		  "code": "600728",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600745": {
+		  "name": "600745.XSHG",
+		  "code": "600745",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600755": {
+		  "name": "600755.XSHG",
+		  "code": "600755",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600761": {
+		  "name": "600761.XSHG",
+		  "code": "600761",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600782": {
+		  "name": "600782.XSHG",
+		  "code": "600782",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600795": {
+		  "name": "600795.XSHG",
+		  "code": "600795",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600798": {
+		  "name": "600798.XSHG",
+		  "code": "600798",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600808": {
+		  "name": "600808.XSHG",
+		  "code": "600808",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600810": {
+		  "name": "600810.XSHG",
+		  "code": "600810",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600820": {
+		  "name": "600820.XSHG",
+		  "code": "600820",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600831": {
+		  "name": "600831.XSHG",
+		  "code": "600831",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600839": {
+		  "name": "600839.XSHG",
+		  "code": "600839",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600845": {
+		  "name": "600845.XSHG",
+		  "code": "600845",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600859": {
+		  "name": "600859.XSHG",
+		  "code": "600859",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600863": {
+		  "name": "600863.XSHG",
+		  "code": "600863",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600875": {
+		  "name": "600875.XSHG",
+		  "code": "600875",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600885": {
+		  "name": "600885.XSHG",
+		  "code": "600885",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600886": {
+		  "name": "600886.XSHG",
+		  "code": "600886",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600900": {
+		  "name": "600900.XSHG",
+		  "code": "600900",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600901": {
+		  "name": "600901.XSHG",
+		  "code": "600901",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600903": {
+		  "name": "600903.XSHG",
+		  "code": "600903",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600908": {
+		  "name": "600908.XSHG",
+		  "code": "600908",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600909": {
+		  "name": "600909.XSHG",
+		  "code": "600909",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600919": {
+		  "name": "600919.XSHG",
+		  "code": "600919",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600926": {
+		  "name": "600926.XSHG",
+		  "code": "600926",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600929": {
+		  "name": "600929.XSHG",
+		  "code": "600929",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600933": {
+		  "name": "600933.XSHG",
+		  "code": "600933",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600939": {
+		  "name": "600939.XSHG",
+		  "code": "600939",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600966": {
+		  "name": "600966.XSHG",
+		  "code": "600966",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600985": {
+		  "name": "600985.XSHG",
+		  "code": "600985",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600996": {
+		  "name": "600996.XSHG",
+		  "code": "600996",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600998": {
+		  "name": "600998.XSHG",
+		  "code": "600998",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601006": {
+		  "name": "601006.XSHG",
+		  "code": "601006",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601009": {
+		  "name": "601009.XSHG",
+		  "code": "601009",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601012": {
+		  "name": "601012.XSHG",
+		  "code": "601012",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601016": {
+		  "name": "601016.XSHG",
+		  "code": "601016",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601020": {
+		  "name": "601020.XSHG",
+		  "code": "601020",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601058": {
+		  "name": "601058.XSHG",
+		  "code": "601058",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601108": {
+		  "name": "601108.XSHG",
+		  "code": "601108",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601117": {
+		  "name": "601117.XSHG",
+		  "code": "601117",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601127": {
+		  "name": "601127.XSHG",
+		  "code": "601127",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601128": {
+		  "name": "601128.XSHG",
+		  "code": "601128",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601137": {
+		  "name": "601137.XSHG",
+		  "code": "601137",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601139": {
+		  "name": "601139.XSHG",
+		  "code": "601139",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601166": {
+		  "name": "601166.XSHG",
+		  "code": "601166",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601199": {
+		  "name": "601199.XSHG",
+		  "code": "601199",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601200": {
+		  "name": "601200.XSHG",
+		  "code": "601200",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601208": {
+		  "name": "601208.XSHG",
+		  "code": "601208",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601211": {
+		  "name": "601211.XSHG",
+		  "code": "601211",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601222": {
+		  "name": "601222.XSHG",
+		  "code": "601222",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601229": {
+		  "name": "601229.XSHG",
+		  "code": "601229",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601231": {
+		  "name": "601231.XSHG",
+		  "code": "601231",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601233": {
+		  "name": "601233.XSHG",
+		  "code": "601233",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601238": {
+		  "name": "601238.XSHG",
+		  "code": "601238",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601311": {
+		  "name": "601311.XSHG",
+		  "code": "601311",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601318": {
+		  "name": "601318.XSHG",
+		  "code": "601318",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601330": {
+		  "name": "601330.XSHG",
+		  "code": "601330",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601336": {
+		  "name": "601336.XSHG",
+		  "code": "601336",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601366": {
+		  "name": "601366.XSHG",
+		  "code": "601366",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601398": {
+		  "name": "601398.XSHG",
+		  "code": "601398",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601515": {
+		  "name": "601515.XSHG",
+		  "code": "601515",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601601": {
+		  "name": "601601.XSHG",
+		  "code": "601601",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601609": {
+		  "name": "601609.XSHG",
+		  "code": "601609",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601611": {
+		  "name": "601611.XSHG",
+		  "code": "601611",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601615": {
+		  "name": "601615.XSHG",
+		  "code": "601615",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601619": {
+		  "name": "601619.XSHG",
+		  "code": "601619",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601633": {
+		  "name": "601633.XSHG",
+		  "code": "601633",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601636": {
+		  "name": "601636.XSHG",
+		  "code": "601636",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601665": {
+		  "name": "601665.XSHG",
+		  "code": "601665",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601666": {
+		  "name": "601666.XSHG",
+		  "code": "601666",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601677": {
+		  "name": "601677.XSHG",
+		  "code": "601677",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601678": {
+		  "name": "601678.XSHG",
+		  "code": "601678",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601686": {
+		  "name": "601686.XSHG",
+		  "code": "601686",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601689": {
+		  "name": "601689.XSHG",
+		  "code": "601689",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601727": {
+		  "name": "601727.XSHG",
+		  "code": "601727",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601778": {
+		  "name": "601778.XSHG",
+		  "code": "601778",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601789": {
+		  "name": "601789.XSHG",
+		  "code": "601789",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601799": {
+		  "name": "601799.XSHG",
+		  "code": "601799",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601801": {
+		  "name": "601801.XSHG",
+		  "code": "601801",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601818": {
+		  "name": "601818.XSHG",
+		  "code": "601818",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601838": {
+		  "name": "601838.XSHG",
+		  "code": "601838",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601857": {
+		  "name": "601857.XSHG",
+		  "code": "601857",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601860": {
+		  "name": "601860.XSHG",
+		  "code": "601860",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601865": {
+		  "name": "601865.XSHG",
+		  "code": "601865",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601878": {
+		  "name": "601878.XSHG",
+		  "code": "601878",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601881": {
+		  "name": "601881.XSHG",
+		  "code": "601881",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601899": {
+		  "name": "601899.XSHG",
+		  "code": "601899",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601900": {
+		  "name": "601900.XSHG",
+		  "code": "601900",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601928": {
+		  "name": "601928.XSHG",
+		  "code": "601928",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601929": {
+		  "name": "601929.XSHG",
+		  "code": "601929",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601963": {
+		  "name": "601963.XSHG",
+		  "code": "601963",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601966": {
+		  "name": "601966.XSHG",
+		  "code": "601966",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601985": {
+		  "name": "601985.XSHG",
+		  "code": "601985",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601988": {
+		  "name": "601988.XSHG",
+		  "code": "601988",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601989": {
+		  "name": "601989.XSHG",
+		  "code": "601989",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601998": {
+		  "name": "601998.XSHG",
+		  "code": "601998",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603007": {
+		  "name": "603007.XSHG",
+		  "code": "603007",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603019": {
+		  "name": "603019.XSHG",
+		  "code": "603019",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603023": {
+		  "name": "603023.XSHG",
+		  "code": "603023",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603027": {
+		  "name": "603027.XSHG",
+		  "code": "603027",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603030": {
+		  "name": "603030.XSHG",
+		  "code": "603030",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603035": {
+		  "name": "603035.XSHG",
+		  "code": "603035",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603039": {
+		  "name": "603039.XSHG",
+		  "code": "603039",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603051": {
+		  "name": "603051.XSHG",
+		  "code": "603051",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603055": {
+		  "name": "603055.XSHG",
+		  "code": "603055",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603058": {
+		  "name": "603058.XSHG",
+		  "code": "603058",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603079": {
+		  "name": "603079.XSHG",
+		  "code": "603079",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603081": {
+		  "name": "603081.XSHG",
+		  "code": "603081",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603089": {
+		  "name": "603089.XSHG",
+		  "code": "603089",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603098": {
+		  "name": "603098.XSHG",
+		  "code": "603098",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603108": {
+		  "name": "603108.XSHG",
+		  "code": "603108",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603112": {
+		  "name": "603112.XSHG",
+		  "code": "603112",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603113": {
+		  "name": "603113.XSHG",
+		  "code": "603113",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603131": {
+		  "name": "603131.XSHG",
+		  "code": "603131",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603136": {
+		  "name": "603136.XSHG",
+		  "code": "603136",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603165": {
+		  "name": "603165.XSHG",
+		  "code": "603165",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603176": {
+		  "name": "603176.XSHG",
+		  "code": "603176",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603179": {
+		  "name": "603179.XSHG",
+		  "code": "603179",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603180": {
+		  "name": "603180.XSHG",
+		  "code": "603180",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603185": {
+		  "name": "603185.XSHG",
+		  "code": "603185",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603186": {
+		  "name": "603186.XSHG",
+		  "code": "603186",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603187": {
+		  "name": "603187.XSHG",
+		  "code": "603187",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603208": {
+		  "name": "603208.XSHG",
+		  "code": "603208",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603212": {
+		  "name": "603212.XSHG",
+		  "code": "603212",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603218": {
+		  "name": "603218.XSHG",
+		  "code": "603218",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603225": {
+		  "name": "603225.XSHG",
+		  "code": "603225",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603228": {
+		  "name": "603228.XSHG",
+		  "code": "603228",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603233": {
+		  "name": "603233.XSHG",
+		  "code": "603233",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603278": {
+		  "name": "603278.XSHG",
+		  "code": "603278",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603298": {
+		  "name": "603298.XSHG",
+		  "code": "603298",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603301": {
+		  "name": "603301.XSHG",
+		  "code": "603301",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603305": {
+		  "name": "603305.XSHG",
+		  "code": "603305",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603313": {
+		  "name": "603313.XSHG",
+		  "code": "603313",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603320": {
+		  "name": "603320.XSHG",
+		  "code": "603320",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603323": {
+		  "name": "603323.XSHG",
+		  "code": "603323",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603331": {
+		  "name": "603331.XSHG",
+		  "code": "603331",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603336": {
+		  "name": "603336.XSHG",
+		  "code": "603336",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603345": {
+		  "name": "603345.XSHG",
+		  "code": "603345",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603348": {
+		  "name": "603348.XSHG",
+		  "code": "603348",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603355": {
+		  "name": "603355.XSHG",
+		  "code": "603355",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603363": {
+		  "name": "603363.XSHG",
+		  "code": "603363",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603368": {
+		  "name": "603368.XSHG",
+		  "code": "603368",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603377": {
+		  "name": "603377.XSHG",
+		  "code": "603377",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603421": {
+		  "name": "603421.XSHG",
+		  "code": "603421",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603466": {
+		  "name": "603466.XSHG",
+		  "code": "603466",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603477": {
+		  "name": "603477.XSHG",
+		  "code": "603477",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603486": {
+		  "name": "603486.XSHG",
+		  "code": "603486",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603499": {
+		  "name": "603499.XSHG",
+		  "code": "603499",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603501": {
+		  "name": "603501.XSHG",
+		  "code": "603501",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603516": {
+		  "name": "603516.XSHG",
+		  "code": "603516",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603517": {
+		  "name": "603517.XSHG",
+		  "code": "603517",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603518": {
+		  "name": "603518.XSHG",
+		  "code": "603518",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603528": {
+		  "name": "603528.XSHG",
+		  "code": "603528",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603529": {
+		  "name": "603529.XSHG",
+		  "code": "603529",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603535": {
+		  "name": "603535.XSHG",
+		  "code": "603535",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603538": {
+		  "name": "603538.XSHG",
+		  "code": "603538",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603557": {
+		  "name": "603557.XSHG",
+		  "code": "603557",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603568": {
+		  "name": "603568.XSHG",
+		  "code": "603568",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603569": {
+		  "name": "603569.XSHG",
+		  "code": "603569",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603578": {
+		  "name": "603578.XSHG",
+		  "code": "603578",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603579": {
+		  "name": "603579.XSHG",
+		  "code": "603579",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603585": {
+		  "name": "603585.XSHG",
+		  "code": "603585",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603588": {
+		  "name": "603588.XSHG",
+		  "code": "603588",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603596": {
+		  "name": "603596.XSHG",
+		  "code": "603596",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603601": {
+		  "name": "603601.XSHG",
+		  "code": "603601",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603602": {
+		  "name": "603602.XSHG",
+		  "code": "603602",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603605": {
+		  "name": "603605.XSHG",
+		  "code": "603605",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603606": {
+		  "name": "603606.XSHG",
+		  "code": "603606",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603608": {
+		  "name": "603608.XSHG",
+		  "code": "603608",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603609": {
+		  "name": "603609.XSHG",
+		  "code": "603609",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603612": {
+		  "name": "603612.XSHG",
+		  "code": "603612",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603617": {
+		  "name": "603617.XSHG",
+		  "code": "603617",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603618": {
+		  "name": "603618.XSHG",
+		  "code": "603618",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603626": {
+		  "name": "603626.XSHG",
+		  "code": "603626",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603636": {
+		  "name": "603636.XSHG",
+		  "code": "603636",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603638": {
+		  "name": "603638.XSHG",
+		  "code": "603638",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603650": {
+		  "name": "603650.XSHG",
+		  "code": "603650",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603658": {
+		  "name": "603658.XSHG",
+		  "code": "603658",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603659": {
+		  "name": "603659.XSHG",
+		  "code": "603659",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603660": {
+		  "name": "603660.XSHG",
+		  "code": "603660",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603663": {
+		  "name": "603663.XSHG",
+		  "code": "603663",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603665": {
+		  "name": "603665.XSHG",
+		  "code": "603665",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603667": {
+		  "name": "603667.XSHG",
+		  "code": "603667",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603668": {
+		  "name": "603668.XSHG",
+		  "code": "603668",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603669": {
+		  "name": "603669.XSHG",
+		  "code": "603669",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603677": {
+		  "name": "603677.XSHG",
+		  "code": "603677",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603678": {
+		  "name": "603678.XSHG",
+		  "code": "603678",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603679": {
+		  "name": "603679.XSHG",
+		  "code": "603679",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603681": {
+		  "name": "603681.XSHG",
+		  "code": "603681",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603685": {
+		  "name": "603685.XSHG",
+		  "code": "603685",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603687": {
+		  "name": "603687.XSHG",
+		  "code": "603687",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603688": {
+		  "name": "603688.XSHG",
+		  "code": "603688",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603689": {
+		  "name": "603689.XSHG",
+		  "code": "603689",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603690": {
+		  "name": "603690.XSHG",
+		  "code": "603690",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603707": {
+		  "name": "603707.XSHG",
+		  "code": "603707",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603708": {
+		  "name": "603708.XSHG",
+		  "code": "603708",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603713": {
+		  "name": "603713.XSHG",
+		  "code": "603713",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603716": {
+		  "name": "603716.XSHG",
+		  "code": "603716",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603733": {
+		  "name": "603733.XSHG",
+		  "code": "603733",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603738": {
+		  "name": "603738.XSHG",
+		  "code": "603738",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603757": {
+		  "name": "603757.XSHG",
+		  "code": "603757",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603776": {
+		  "name": "603776.XSHG",
+		  "code": "603776",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603797": {
+		  "name": "603797.XSHG",
+		  "code": "603797",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603799": {
+		  "name": "603799.XSHG",
+		  "code": "603799",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603806": {
+		  "name": "603806.XSHG",
+		  "code": "603806",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603809": {
+		  "name": "603809.XSHG",
+		  "code": "603809",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603810": {
+		  "name": "603810.XSHG",
+		  "code": "603810",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603816": {
+		  "name": "603816.XSHG",
+		  "code": "603816",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603817": {
+		  "name": "603817.XSHG",
+		  "code": "603817",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603822": {
+		  "name": "603822.XSHG",
+		  "code": "603822",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603833": {
+		  "name": "603833.XSHG",
+		  "code": "603833",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603861": {
+		  "name": "603861.XSHG",
+		  "code": "603861",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603866": {
+		  "name": "603866.XSHG",
+		  "code": "603866",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603867": {
+		  "name": "603867.XSHG",
+		  "code": "603867",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603871": {
+		  "name": "603871.XSHG",
+		  "code": "603871",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603876": {
+		  "name": "603876.XSHG",
+		  "code": "603876",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603877": {
+		  "name": "603877.XSHG",
+		  "code": "603877",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603883": {
+		  "name": "603883.XSHG",
+		  "code": "603883",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603887": {
+		  "name": "603887.XSHG",
+		  "code": "603887",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603890": {
+		  "name": "603890.XSHG",
+		  "code": "603890",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603896": {
+		  "name": "603896.XSHG",
+		  "code": "603896",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603897": {
+		  "name": "603897.XSHG",
+		  "code": "603897",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603898": {
+		  "name": "603898.XSHG",
+		  "code": "603898",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603901": {
+		  "name": "603901.XSHG",
+		  "code": "603901",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603906": {
+		  "name": "603906.XSHG",
+		  "code": "603906",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603912": {
+		  "name": "603912.XSHG",
+		  "code": "603912",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603916": {
+		  "name": "603916.XSHG",
+		  "code": "603916",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603920": {
+		  "name": "603920.XSHG",
+		  "code": "603920",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603939": {
+		  "name": "603939.XSHG",
+		  "code": "603939",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603956": {
+		  "name": "603956.XSHG",
+		  "code": "603956",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603960": {
+		  "name": "603960.XSHG",
+		  "code": "603960",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603966": {
+		  "name": "603966.XSHG",
+		  "code": "603966",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603976": {
+		  "name": "603976.XSHG",
+		  "code": "603976",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603978": {
+		  "name": "603978.XSHG",
+		  "code": "603978",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603979": {
+		  "name": "603979.XSHG",
+		  "code": "603979",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603982": {
+		  "name": "603982.XSHG",
+		  "code": "603982",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603989": {
+		  "name": "603989.XSHG",
+		  "code": "603989",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603992": {
+		  "name": "603992.XSHG",
+		  "code": "603992",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603993": {
+		  "name": "603993.XSHG",
+		  "code": "603993",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603995": {
+		  "name": "603995.XSHG",
+		  "code": "603995",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605006": {
+		  "name": "605006.XSHG",
+		  "code": "605006",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605007": {
+		  "name": "605007.XSHG",
+		  "code": "605007",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605020": {
+		  "name": "605020.XSHG",
+		  "code": "605020",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605068": {
+		  "name": "605068.XSHG",
+		  "code": "605068",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605088": {
+		  "name": "605088.XSHG",
+		  "code": "605088",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605128": {
+		  "name": "605128.XSHG",
+		  "code": "605128",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605133": {
+		  "name": "605133.XSHG",
+		  "code": "605133",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605138": {
+		  "name": "605138.XSHG",
+		  "code": "605138",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605162": {
+		  "name": "605162.XSHG",
+		  "code": "605162",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605166": {
+		  "name": "605166.XSHG",
+		  "code": "605166",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605189": {
+		  "name": "605189.XSHG",
+		  "code": "605189",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605222": {
+		  "name": "605222.XSHG",
+		  "code": "605222",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605358": {
+		  "name": "605358.XSHG",
+		  "code": "605358",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605488": {
+		  "name": "605488.XSHG",
+		  "code": "605488",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688001": {
+		  "name": "688001.XSHG",
+		  "code": "688001",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688002": {
+		  "name": "688002.XSHG",
+		  "code": "688002",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688026": {
+		  "name": "688026.XSHG",
+		  "code": "688026",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688030": {
+		  "name": "688030.XSHG",
+		  "code": "688030",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688059": {
+		  "name": "688059.XSHG",
+		  "code": "688059",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688066": {
+		  "name": "688066.XSHG",
+		  "code": "688066",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688096": {
+		  "name": "688096.XSHG",
+		  "code": "688096",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688116": {
+		  "name": "688116.XSHG",
+		  "code": "688116",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688148": {
+		  "name": "688148.XSHG",
+		  "code": "688148",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688166": {
+		  "name": "688166.XSHG",
+		  "code": "688166",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688179": {
+		  "name": "688179.XSHG",
+		  "code": "688179",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688186": {
+		  "name": "688186.XSHG",
+		  "code": "688186",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688208": {
+		  "name": "688208.XSHG",
+		  "code": "688208",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688219": {
+		  "name": "688219.XSHG",
+		  "code": "688219",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688223": {
+		  "name": "688223.XSHG",
+		  "code": "688223",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688268": {
+		  "name": "688268.XSHG",
+		  "code": "688268",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688301": {
+		  "name": "688301.XSHG",
+		  "code": "688301",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688321": {
+		  "name": "688321.XSHG",
+		  "code": "688321",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688323": {
+		  "name": "688323.XSHG",
+		  "code": "688323",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688328": {
+		  "name": "688328.XSHG",
+		  "code": "688328",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688350": {
+		  "name": "688350.XSHG",
+		  "code": "688350",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688357": {
+		  "name": "688357.XSHG",
+		  "code": "688357",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688388": {
+		  "name": "688388.XSHG",
+		  "code": "688388",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688499": {
+		  "name": "688499.XSHG",
+		  "code": "688499",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688556": {
+		  "name": "688556.XSHG",
+		  "code": "688556",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688590": {
+		  "name": "688590.XSHG",
+		  "code": "688590",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688595": {
+		  "name": "688595.XSHG",
+		  "code": "688595",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688598": {
+		  "name": "688598.XSHG",
+		  "code": "688598",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688599": {
+		  "name": "688599.XSHG",
+		  "code": "688599",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688676": {
+		  "name": "688676.XSHG",
+		  "code": "688676",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688680": {
+		  "name": "688680.XSHG",
+		  "code": "688680",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688689": {
+		  "name": "688689.XSHG",
+		  "code": "688689",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688772": {
+		  "name": "688772.XSHG",
+		  "code": "688772",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688779": {
+		  "name": "688779.XSHG",
+		  "code": "688779",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 }
+	}
+}

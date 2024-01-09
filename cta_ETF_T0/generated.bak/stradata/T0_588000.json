@@ -1,0 +1,51 @@
+{
+    "positions": [
+        {
+            "code": "SSE.ETF.588000",
+            "volume": 100.0,
+            "closeprofit": 380.00000000000156,
+            "dynprofit": 40.000000000000039,
+            "lastentertime": 202308171045,
+            "lastexittime": 202308171045,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": [
+                {
+                    "long": true,
+                    "price": 0.949,
+                    "maxprice": 0.954,
+                    "minprice": 0.947,
+                    "volume": 100.0,
+                    "opentime": 202308171045,
+                    "opentdate": 20230817,
+                    "profit": 40.000000000000039,
+                    "maxprofit": 50.00000000000004,
+                    "maxloss": -20.000000000000019,
+                    "opentag": "",
+                    "openbarno": 1312
+                }
+            ]
+        }
+    ],
+    "fund": {
+        "total_profit": 380.00000000000156,
+        "total_dynprofit": 40.000000000000039,
+        "total_fees": 0.0,
+        "tdate": 20230817
+    },
+    "signals": {
+        "SSE.ETF.588000": {
+            "usertag": "",
+            "volume": 100.0,
+            "sigprice": 0.953,
+            "gentime": 20230817105859946
+        }
+    },
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 1326
+    }
+}

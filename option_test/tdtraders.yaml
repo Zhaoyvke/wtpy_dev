@@ -1,0 +1,22 @@
+traders:
+-   active: false
+    id: wz50_nhqh
+    module: TraderCTPOpt
+    savedata: true
+    riskmon:
+        active: true
+        policy:
+            default:
+                cancel_stat_timespan: 10
+                cancel_times_boundary: 20
+                cancel_total_limits: 470
+                order_stat_timespan: 10
+                order_times_boundary: 20
+
+    front: tcp://101.230.216.141:42305
+    broker: '8050'
+    appid: wz_wt_v100
+    authcode: 'NMB7183FO5X064VQ'
+    user: "610213997"
+    pass: "Wz1234567"
+    quick: true

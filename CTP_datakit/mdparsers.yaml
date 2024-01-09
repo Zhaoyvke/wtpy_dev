@@ -1,0 +1,13 @@
+parsers:
+-   active: true
+    id: parserOPENCTP
+    module: ParserCTP
+    #host: '112.4.154.165'  # 
+    port: '8262'
+    user: '7866'
+    pass: '123456'
+    front_backup: '121.37.90.193:20002'
+    service_num: 5
+    cert: './cert'
+    flowdir: ''
+    ctpmodule: tts_thostmduserapi_se

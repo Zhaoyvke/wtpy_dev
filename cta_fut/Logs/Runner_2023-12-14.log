@@ -1,0 +1,1193 @@
+[2023.12.14 09:51:43 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 09:51:43 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 09:51:43 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 09:51:43 - info ] Trading sessions loaded
+[2023.12.14 09:51:43 - warning] No session configured for CFFEX.TL
+[2023.12.14 09:51:43 - warning] No session configured for CZCE.PX
+[2023.12.14 09:51:43 - warning] No session configured for CZCE.SH
+[2023.12.14 09:51:43 - warning] No session configured for GFEX.lc
+[2023.12.14 09:51:43 - warning] No session configured for GFEX.si
+[2023.12.14 09:51:43 - warning] No session configured for INE.ec
+[2023.12.14 09:51:43 - warning] No session configured for SHFE.ao
+[2023.12.14 09:51:43 - warning] No session configured for SHFE.br
+[2023.12.14 09:51:43 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 09:51:43 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.14 09:51:43 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.14 09:51:43 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.14 09:51:43 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.14 09:51:43 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.14 09:51:43 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.14 09:51:43 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.14 09:51:43 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.14 09:51:43 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.14 09:51:43 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.14 09:51:43 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.14 09:51:43 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.14 09:51:43 - info ] Holidays loaded
+[2023.12.14 09:51:43 - info ] Hot rules loaded
+[2023.12.14 09:51:43 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 09:51:43 - info ] Running mode: Production
+[2023.12.14 09:51:43 - info ] 0 fee templates loaded
+[2023.12.14 09:51:43 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 09:51:43 - info ] Engine task poolsize is 0
+[2023.12.14 09:51:43 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 09:51:43 - info ] Force to cache bars: yes
+[2023.12.14 09:51:43 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 09:51:43 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 09:51:43 - info ] Data manager initialized
+[2023.12.14 09:51:43 - info ] Action policies initialized
+[2023.12.14 09:51:43 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 09:51:43 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 09:51:43 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 09:51:43 - info ] 1 parsers loaded
+[2023.12.14 09:51:43 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 09:51:43 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 09:51:43 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 09:51:43 - info ] 1 traders loaded
+[2023.12.14 09:51:43 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 09:51:43 - info ] Reading executer config from executers.yaml...
+[2023.12.14 09:51:43 - info ] Executer factory WtExeFact loaded
+[2023.12.14 09:51:43 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 09:51:43 - info ] 1 executers loaded
+[2023.12.14 09:51:43 - info ] 1 parsers started
+[2023.12.14 09:51:43 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.12.14 09:51:43 - info ] 1 trading channels started
+[2023.12.14 09:51:43 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 09:51:43 - info ] Trading date confirmed: 20231214
+[2023.12.14 09:51:43 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 09:51:43 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 09:51:43 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 09:51:43 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 09:51:43 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 09:51:43 - info ] DualThrust inited
+[2023.12.14 09:51:43 - info ] Trading day 20231214 begun
+[2023.12.14 09:51:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 09:51:43 - error] [TraderCTP][9999-211877] Login failed: CTP:不合法的登录
+[2023.12.14 09:51:43 - error] [simnow] Trader login failed: CTP:不合法的登录
+[2023.12.14 09:51:48 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 09:54:09 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 09:54:09 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 09:54:09 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 09:54:09 - info ] Trading sessions loaded
+[2023.12.14 09:54:09 - warning] No session configured for CFFEX.TL
+[2023.12.14 09:54:09 - warning] No session configured for CZCE.PX
+[2023.12.14 09:54:09 - warning] No session configured for CZCE.SH
+[2023.12.14 09:54:09 - warning] No session configured for GFEX.lc
+[2023.12.14 09:54:09 - warning] No session configured for GFEX.si
+[2023.12.14 09:54:09 - warning] No session configured for INE.ec
+[2023.12.14 09:54:09 - warning] No session configured for SHFE.ao
+[2023.12.14 09:54:09 - warning] No session configured for SHFE.br
+[2023.12.14 09:54:09 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 09:54:09 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.14 09:54:09 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.14 09:54:09 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.14 09:54:09 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.14 09:54:09 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.14 09:54:09 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.14 09:54:09 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.14 09:54:09 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.14 09:54:09 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.14 09:54:09 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.14 09:54:09 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.14 09:54:09 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.14 09:54:09 - info ] Holidays loaded
+[2023.12.14 09:54:09 - info ] Hot rules loaded
+[2023.12.14 09:54:09 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 09:54:09 - info ] Running mode: Production
+[2023.12.14 09:54:09 - info ] 0 fee templates loaded
+[2023.12.14 09:54:09 - debug] 0 position info of portfolio loaded
+[2023.12.14 09:54:09 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 09:54:09 - info ] Engine task poolsize is 0
+[2023.12.14 09:54:09 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 09:54:09 - info ] Force to cache bars: yes
+[2023.12.14 09:54:09 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 09:54:09 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 09:54:09 - info ] Data manager initialized
+[2023.12.14 09:54:09 - info ] Action policies initialized
+[2023.12.14 09:54:09 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 09:54:09 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 09:54:09 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 09:54:09 - info ] 1 parsers loaded
+[2023.12.14 09:54:09 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 09:54:09 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 09:54:09 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 09:54:09 - info ] 1 traders loaded
+[2023.12.14 09:54:09 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 09:54:09 - info ] Reading executer config from executers.yaml...
+[2023.12.14 09:54:09 - info ] Executer factory WtExeFact loaded
+[2023.12.14 09:54:09 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 09:54:09 - info ] 1 executers loaded
+[2023.12.14 09:54:09 - info ] 1 parsers started
+[2023.12.14 09:54:09 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 09:54:09 - info ] 1 trading channels started
+[2023.12.14 09:54:09 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 09:54:09 - info ] Trading date confirmed: 20231214
+[2023.12.14 09:54:09 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 09:54:09 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 09:54:09 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 09:54:09 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 09:54:09 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 09:54:09 - info ] DualThrust inited
+[2023.12.14 09:54:09 - info ] Trading day 20231214 begun
+[2023.12.14 09:54:09 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 09:54:09 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 09:54:14 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 09:55:33 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 09:55:33 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 09:55:33 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 09:55:33 - info ] Trading sessions loaded
+[2023.12.14 09:55:33 - warning] No session configured for CFFEX.TL
+[2023.12.14 09:55:33 - warning] No session configured for CZCE.PX
+[2023.12.14 09:55:33 - warning] No session configured for CZCE.SH
+[2023.12.14 09:55:33 - warning] No session configured for GFEX.lc
+[2023.12.14 09:55:33 - warning] No session configured for GFEX.si
+[2023.12.14 09:55:33 - warning] No session configured for INE.ec
+[2023.12.14 09:55:33 - warning] No session configured for SHFE.ao
+[2023.12.14 09:55:33 - warning] No session configured for SHFE.br
+[2023.12.14 09:55:33 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 09:55:33 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.14 09:55:33 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.14 09:55:33 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.14 09:55:33 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.14 09:55:33 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.14 09:55:33 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.14 09:55:33 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.14 09:55:33 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.14 09:55:33 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.14 09:55:33 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.14 09:55:33 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.14 09:55:33 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.14 09:55:33 - info ] Holidays loaded
+[2023.12.14 09:55:33 - info ] Hot rules loaded
+[2023.12.14 09:55:33 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 09:55:33 - info ] Running mode: Production
+[2023.12.14 09:55:33 - info ] 0 fee templates loaded
+[2023.12.14 09:55:33 - debug] 0 position info of portfolio loaded
+[2023.12.14 09:55:33 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 09:55:33 - info ] Engine task poolsize is 0
+[2023.12.14 09:55:33 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 09:55:33 - info ] Force to cache bars: yes
+[2023.12.14 09:55:33 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 09:55:33 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 09:55:33 - info ] Data manager initialized
+[2023.12.14 09:55:33 - info ] Action policies initialized
+[2023.12.14 09:55:33 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 09:55:33 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 09:55:33 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 09:55:33 - info ] 1 parsers loaded
+[2023.12.14 09:55:33 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 09:55:33 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 09:55:33 - info ][2023.12.14 10:33:57 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:33:57 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:33:57 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:33:57 - info ] Trading sessions loaded
+[2023.12.14 10:33:57 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:33:57 - warning] No session configured for CZCE.PX
+[2023.12.14 10:33:57 - warning] No session configured for CZCE.SH
+[2023.12.14 10:33:57 - warning] No session configured for GFEX.lc
+[2023.12.14 10:33:57 - warning] No session configured for GFEX.si
+[2023.12.14 10:33:57 - warning] No session configured for INE.ec
+[2023.12.14 10:33:57 - warning] No session configured for SHFE.ao
+[2023.12.14 10:33:57 - warning] No session configured for SHFE.br
+[2023.12.14 10:33:57 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:33:57 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.14 10:33:57 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.14 10:33:57 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.14 10:33:57 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.14 10:33:57 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.14 10:33:57 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.14 10:33:57 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.14 10:33:57 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.14 10:33:57 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.14 10:33:57 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.14 10:33:57 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.14 10:33:57 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.14 10:33:57 - info ] Holidays loaded
+[2023.12.14 10:33:57 - info ] Hot rules loaded
+[2023.12.14 10:33:57 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:33:57 - info ] Running mode: Production
+[2023.12.14 10:33:57 - info ] 0 fee templates loaded
+[2023.12.14 10:33:57 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:33:57 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:33:57 - info ] Engine task poolsize is 0
+[2023.12.14 10:33:57 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:33:57 - info ] Force to cache bars: yes
+[2023.12.14 10:33:57 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:33:57 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:33:57 - info ] Data manager initialized
+[2023.12.14 10:33:57 - info ] Action policies initialized
+[2023.12.14 10:33:57 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:33:57 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:33:57 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:33:57 - info ] 1 parsers loaded
+[2023.12.14 10:33:57 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:33:57 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.14 10:33:57 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:33:57 - info ] 1 traders loaded
+[2023.12.14 10:33:57 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:33:57 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:33:57 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:33:57 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:33:57 - info ] 1 executers loaded
+[2023.12.14 10:33:57 - info ] 1 parsers started
+[2023.12.14 10:33:57 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 10:33:57 - info ] 1 trading channels started
+[2023.12.14 10:33:57 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:33:57 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:33:57 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 10:33:57 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 10:33:57 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 10:33:57 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 10:33:57 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 10:33:57 - info ] DualThrust inited
+[2023.12.14 10:33:57 - info ] Trading day 20231214 begun
+[2023.12.14 10:33:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:33:57 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 10:34:28 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:34:28 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:34:28 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:34:28 - info ] Trading sessions loaded
+[2023.12.14 10:34:28 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:34:28 - warning] No session configured for CZCE.PX
+[2023.12.14 10:34:28 - warning] No session configured for CZCE.SH
+[2023.12.14 10:34:28 - warning] No session configured for GFEX.lc
+[2023.12.14 10:34:28 - warning] No session configured for GFEX.si
+[2023.12.14 10:34:28 - warning] No session configured for INE.ec
+[2023.12.14 10:34:28 - warning] No session configured for SHFE.ao
+[2023.12.14 10:34:28 - warning] No session configured for SHFE.br
+[2023.12.14 10:34:28 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:34:28 - warning] Commodity CFFEX.TL not found, contract TL2312 skipped
+[2023.12.14 10:34:28 - warning] Commodity CFFEX.TL not found, contract TL2403 skipped
+[2023.12.14 10:34:28 - warning] Commodity CFFEX.TL not found, contract TL2406 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX405 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX406 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX407 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX408 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX409 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX410 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.PX not found, contract PX411 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH405 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH406 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH407 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH408 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH409 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH410 skipped
+[2023.12.14 10:34:28 - warning] Commodity CZCE.SH not found, contract SH411 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2401 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2402 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2403 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2404 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2405 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2406 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2407 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2408 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2409 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2410 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.lc not found, contract lc2411 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2312 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2401 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2402 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2403 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2404 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2405 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2406 skipped
+[2023.12.14 10:34:28 - warning] Commodity GFEX.si not found, contract si2407 skipped
+[2023.12.14 10:34:28 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.12.14 10:34:28 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.12.14 10:34:28 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.12.14 10:34:28 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.12.14 10:34:28 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2409 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2410 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.ao not found, contract ao2411 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2401 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2402 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2403 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2404 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2405 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2406 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2407 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2408 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2409 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2410 skipped
+[2023.12.14 10:34:28 - warning] Commodity SHFE.br not found, contract br2411 skipped
+[2023.12.14 10:34:28 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.12.14 10:34:28 - info ] Holidays loaded
+[2023.12.14 10:34:28 - info ] Hot rules loaded
+[2023.12.14 10:34:28 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:34:28 - info ] Running mode: Production
+[2023.12.14 10:34:28 - info ] 0 fee templates loaded
+[2023.12.14 10:34:28 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:34:28 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:34:28 - info ] Engine task poolsize is 0
+[2023.12.14 10:34:28 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:34:28 - info ] Force to cache bars: yes
+[2023.12.14 10:34:28 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:34:28 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:34:28 - info ] Data manager initialized
+[2023.12.14 10:34:28 - info ] Action policies initialized
+[2023.12.14 10:34:28 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:34:28 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:34:28 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:34:28 - info ] 1 parsers loaded
+[2023.12.14 10:34:28 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:34:28 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:34:28 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:34:28 - info ] 1 traders loaded
+[2023.12.14 10:34:28 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:34:28 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:34:28 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:34:28 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:34:28 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.12.14 10:34:28 - info ] 1 executers loaded
+[2023.12.14 10:34:28 - info ] 1 parsers started
+[2023.12.14 10:34:28 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 10:34:28 - info ] 1 trading channels started
+[2023.12.14 10:34:28 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:34:28 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:34:28 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 10:34:28 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 10:34:28 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 10:34:28 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 10:34:28 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 10:34:28 - info ] DualThrust inited
+[2023.12.14 10:34:28 - info ] Trading day 20231214 begun
+[2023.12.14 10:34:28 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:34:28 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 10:34:33 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:34:38 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:34:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:34:48 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:34:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:38:13 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:38:13 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:38:13 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:38:13 - info ] Trading sessions loaded
+[2023.12.14 10:38:13 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:38:13 - warning] No session configured for CZCE.PX
+[2023.12.14 10:38:13 - warning] No session configured for CZCE.SH
+[2023.12.14 10:38:13 - warning] No session configured for GFEX.lc
+[2023.12.14 10:38:13 - warning] No session configured for GFEX.si
+[2023.12.14 10:38:13 - warning] No session configured for INE.ec
+[2023.12.14 10:38:13 - warning] No session configured for SHFE.ao
+[2023.12.14 10:38:13 - warning] No session configured for SHFE.br
+[2023.12.14 10:38:13 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:38:13 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:38:13 - info ] Holidays loaded
+[2023.12.14 10:38:13 - info ] Hot rules loaded
+[2023.12.14 10:38:13 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:38:13 - info ] Running mode: Production
+[2023.12.14 10:38:13 - info ] 0 fee templates loaded
+[2023.12.14 10:38:13 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:38:13 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:38:13 - info ] Engine task poolsize is 0
+[2023.12.14 10:38:13 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:38:13 - info ] Force to cache bars: yes
+[2023.12.14 10:38:13 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:38:13 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:38:13 - info ] Data manager initialized
+[2023.12.14 10:38:13 - info ] Action policies initialized
+[2023.12.14 10:38:13 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:38:13 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:38:13 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:38:13 - info ] 1 parsers loaded
+[2023.12.14 10:38:13 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:38:13 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:38:13 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:38:13 - info ] 1 traders loaded
+[2023.12.14 10:38:13 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:38:13 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:38:13 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:38:13 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:38:13 - info ] 1 executers loaded
+[2023.12.14 10:38:13 - info ] 1 parsers started
+[2023.12.14 10:38:13 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 10:38:13 - info ] 1 trading channels started
+[2023.12.14 10:38:13 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:38:13 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:38:13 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 10:38:13 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 10:38:13 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 10:38:13 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 10:38:13 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 10:38:13 - info ] DualThrust inited
+[2023.12.14 10:38:13 - info ] Trading day 20231214 begun
+[2023.12.14 10:38:13 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:38:13 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 10:38:57 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:38:57 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:38:57 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:38:57 - info ] Trading sessions loaded
+[2023.12.14 10:38:57 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:38:57 - warning] No session configured for CZCE.PX
+[2023.12.14 10:38:57 - warning] No session configured for CZCE.SH
+[2023.12.14 10:38:57 - warning] No session configured for GFEX.lc
+[2023.12.14 10:38:57 - warning] No session configured for GFEX.si
+[2023.12.14 10:38:57 - warning] No session configured for INE.ec
+[2023.12.14 10:38:57 - warning] No session configured for SHFE.ao
+[2023.12.14 10:38:57 - warning] No session configured for SHFE.br
+[2023.12.14 10:38:57 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:38:57 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:38:57 - info ] Holidays loaded
+[2023.12.14 10:38:57 - info ] Hot rules loaded
+[2023.12.14 10:38:57 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:38:57 - info ] Running mode: Production
+[2023.12.14 10:38:57 - info ] 0 fee templates loaded
+[2023.12.14 10:38:57 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:38:57 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:38:57 - info ] Engine task poolsize is 0
+[2023.12.14 10:38:57 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:38:57 - info ] Force to cache bars: yes
+[2023.12.14 10:38:57 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:38:57 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:38:57 - info ] Data manager initialized
+[2023.12.14 10:38:57 - info ] Action policies initialized
+[2023.12.14 10:38:57 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:38:57 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:38:57 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:38:57 - info ] 1 parsers loaded
+[2023.12.14 10:38:57 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:38:57 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:38:57 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:38:57 - info ] 1 traders loaded
+[2023.12.14 10:38:57 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:38:57 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:38:57 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:38:57 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:38:57 - info ] 1 executers loaded
+[2023.12.14 10:38:57 - info ] 1 parsers started
+[2023.12.14 10:38:57 - info ] registerFront: tcp://121.13.217.132:44213
+[2023.12.14 10:38:57 - info ] 1 trading channels started
+[2023.12.14 10:38:57 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:38:57 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:38:57 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 10:38:57 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 10:38:57 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 10:38:57 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 10:38:57 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 10:38:57 - info ] DualThrust inited
+[2023.12.14 10:38:57 - info ] Trading day 20231214 begun
+[2023.12.14 10:38:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:38:57 - error] 0 rsp error: 77 : CTP:无此功能
+[2023.12.14 10:39:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:39:47 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:39:47 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:39:47 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:39:47 - info ] Trading sessions loaded
+[2023.12.14 10:39:47 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:39:47 - warning] No session configured for CZCE.PX
+[2023.12.14 10:39:47 - warning] No session configured for CZCE.SH
+[2023.12.14 10:39:47 - warning] No session configured for GFEX.lc
+[2023.12.14 10:39:47 - warning] No session configured for GFEX.si
+[2023.12.14 10:39:47 - warning] No session configured for INE.ec
+[2023.12.14 10:39:47 - warning] No session configured for SHFE.ao
+[2023.12.14 10:39:47 - warning] No session configured for SHFE.br
+[2023.12.14 10:39:47 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:39:47 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:39:47 - info ] Holidays loaded
+[2023.12.14 10:39:47 - info ] Hot rules loaded
+[2023.12.14 10:39:47 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:39:47 - info ] Running mode: Production
+[2023.12.14 10:39:47 - info ] 0 fee templates loaded
+[2023.12.14 10:39:47 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:39:47 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:39:47 - info ] Engine task poolsize is 0
+[2023.12.14 10:39:47 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:39:47 - info ] Force to cache bars: yes
+[2023.12.14 10:39:47 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:39:47 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:39:47 - info ] Data manager initialized
+[2023.12.14 10:39:47 - info ] Action policies initialized
+[2023.12.14 10:39:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:39:47 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:39:47 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:39:47 - info ] 1 parsers loaded
+[2023.12.14 10:39:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:39:47 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:39:47 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:39:47 - info ] 1 traders loaded
+[2023.12.14 10:39:47 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:39:47 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:39:47 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:39:47 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:39:47 - info ] 1 executers loaded
+[2023.12.14 10:39:47 - info ] 1 parsers started
+[2023.12.14 10:39:47 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:39:47 - info ] 1 trading channels started
+[2023.12.14 10:39:47 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:39:47 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:39:47 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 10:39:47 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 10:39:47 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 10:39:47 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 10:39:47 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 10:39:47 - info ] DualThrust inited
+[2023.12.14 10:39:47 - info ] Trading day 20231214 begun
+[2023.12.14 10:39:47 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:39:48 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1791886629, login time: 10:39:25...
+[2023.12.14 10:39:48 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:39:48 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:39:48 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:39:48 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:39:49 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:39:52 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:39:52 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:39:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:40:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:42:39 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:42:39 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:42:39 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:42:39 - info ] Trading sessions loaded
+[2023.12.14 10:42:39 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:42:39 - warning] No session configured for CZCE.PX
+[2023.12.14 10:42:39 - warning] No session configured for CZCE.SH
+[2023.12.14 10:42:39 - warning] No session configured for GFEX.lc
+[2023.12.14 10:42:39 - warning] No session configured for GFEX.si
+[2023.12.14 10:42:39 - warning] No session configured for INE.ec
+[2023.12.14 10:42:39 - warning] No session configured for SHFE.ao
+[2023.12.14 10:42:39 - warning] No session configured for SHFE.br
+[2023.12.14 10:42:39 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:42:39 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:42:39 - info ] Holidays loaded
+[2023.12.14 10:42:39 - info ] Hot rules loaded
+[2023.12.14 10:42:39 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:42:39 - info ] Running mode: Production
+[2023.12.14 10:42:39 - info ] 0 fee templates loaded
+[2023.12.14 10:42:39 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:42:39 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:42:39 - info ] Engine task poolsize is 0
+[2023.12.14 10:42:39 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:42:39 - info ] Force to cache bars: yes
+[2023.12.14 10:42:39 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:42:39 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:42:39 - info ] Data manager initialized
+[2023.12.14 10:42:39 - info ] Action policies initialized
+[2023.12.14 10:42:39 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:42:39 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:42:39 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:42:39 - info ] 1 parsers loaded
+[2023.12.14 10:42:39 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:42:39 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:42:39 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:42:39 - info ] 1 traders loaded
+[2023.12.14 10:42:39 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:42:39 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:42:39 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:42:39 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:42:39 - info ] 1 executers loaded
+[2023.12.14 10:42:39 - info ] 1 parsers started
+[2023.12.14 10:42:39 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:42:39 - info ] 1 trading channels started
+[2023.12.14 10:42:39 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:42:39 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:42:39 - debug] Main KBars confirmed: CFFEX.IF.HOT#m5
+[2023.12.14 10:42:39 - info ] Reading final bars of CFFEX.IF.HOT via extended loader...
+[2023.12.14 10:42:39 - info ] 0 items of back min5 data of CFFEX.IF.HOT cached
+[2023.12.14 10:42:39 - info ] HOT contract on 20231214 confirmed: CFFEX.IF.HOT -> IF2304
+[2023.12.14 10:42:39 - debug] His min5 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.12.14 10:42:39 - info ] DualThrust inited
+[2023.12.14 10:42:39 - info ] Trading day 20231214 begun
+[2023.12.14 10:42:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:42:40 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1803683135, login time: 10:42:17...
+[2023.12.14 10:42:40 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:42:40 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:42:40 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:42:40 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:42:41 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:42:44 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:42:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:42:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:42:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:42:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:43:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:43:45 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:43:45 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:43:45 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:43:45 - info ] Trading sessions loaded
+[2023.12.14 10:43:45 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:43:45 - warning] No session configured for CZCE.PX
+[2023.12.14 10:43:45 - warning] No session configured for CZCE.SH
+[2023.12.14 10:43:45 - warning] No session configured for GFEX.lc
+[2023.12.14 10:43:45 - warning] No session configured for GFEX.si
+[2023.12.14 10:43:45 - warning] No session configured for INE.ec
+[2023.12.14 10:43:45 - warning] No session configured for SHFE.ao
+[2023.12.14 10:43:45 - warning] No session configured for SHFE.br
+[2023.12.14 10:43:45 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:43:45 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:43:45 - info ] Holidays loaded
+[2023.12.14 10:43:45 - info ] Hot rules loaded
+[2023.12.14 10:43:45 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:43:45 - info ] Running mode: Production
+[2023.12.14 10:43:45 - info ] 0 fee templates loaded
+[2023.12.14 10:43:45 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:43:45 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:43:45 - info ] Engine task poolsize is 0
+[2023.12.14 10:43:45 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:43:45 - info ] Force to cache bars: yes
+[2023.12.14 10:43:45 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:43:45 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:43:45 - info ] Data manager initialized
+[2023.12.14 10:43:45 - info ] Action policies initialized
+[2023.12.14 10:43:45 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:43:45 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:43:45 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:43:45 - info ] 1 parsers loaded
+[2023.12.14 10:43:45 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:43:45 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:43:45 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:43:45 - info ] 1 traders loaded
+[2023.12.14 10:43:45 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:43:45 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:43:45 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:43:45 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:43:45 - info ] 1 executers loaded
+[2023.12.14 10:43:45 - info ] 1 parsers started
+[2023.12.14 10:43:45 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:43:45 - info ] 1 trading channels started
+[2023.12.14 10:43:45 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:43:45 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:43:45 - debug] Main KBars confirmed: DCE.Y.2403#m1
+[2023.12.14 10:43:45 - info ] DualThrust inited
+[2023.12.14 10:43:45 - info ] Trading day 20231214 begun
+[2023.12.14 10:43:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:43:45 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1807615305, login time: 10:43:23...
+[2023.12.14 10:43:45 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:43:45 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:43:46 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:43:46 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:43:46 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:43:50 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:43:50 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:43:55 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:00 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:31 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:44:31 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:44:31 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:44:31 - info ] Trading sessions loaded
+[2023.12.14 10:44:31 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:44:31 - warning] No session configured for CZCE.PX
+[2023.12.14 10:44:31 - warning] No session configured for CZCE.SH
+[2023.12.14 10:44:31 - warning] No session configured for GFEX.lc
+[2023.12.14 10:44:31 - warning] No session configured for GFEX.si
+[2023.12.14 10:44:31 - warning] No session configured for INE.ec
+[2023.12.14 10:44:31 - warning] No session configured for SHFE.ao
+[2023.12.14 10:44:31 - warning] No session configured for SHFE.br
+[2023.12.14 10:44:31 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:44:31 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:44:31 - info ] Holidays loaded
+[2023.12.14 10:44:31 - info ] Hot rules loaded
+[2023.12.14 10:44:31 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:44:31 - info ] Running mode: Production
+[2023.12.14 10:44:31 - info ] 0 fee templates loaded
+[2023.12.14 10:44:31 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:44:31 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:44:31 - info ] Engine task poolsize is 0
+[2023.12.14 10:44:31 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:44:31 - info ] Force to cache bars: yes
+[2023.12.14 10:44:31 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:44:31 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:44:31 - info ] Data manager initialized
+[2023.12.14 10:44:31 - info ] Action policies initialized
+[2023.12.14 10:44:31 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:44:31 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:44:31 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:44:31 - info ] 1 parsers loaded
+[2023.12.14 10:44:31 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:44:31 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:44:31 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:44:31 - info ] 1 traders loaded
+[2023.12.14 10:44:31 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:44:31 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:44:31 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:44:31 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:44:31 - info ] 1 executers loaded
+[2023.12.14 10:44:31 - info ] 1 parsers started
+[2023.12.14 10:44:31 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:44:31 - info ] 1 trading channels started
+[2023.12.14 10:44:31 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:44:31 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:44:31 - debug] Main KBars confirmed: DCE.Y.2403#m1
+[2023.12.14 10:44:31 - info ] DualThrust inited
+[2023.12.14 10:44:31 - info ] Trading day 20231214 begun
+[2023.12.14 10:44:31 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:32 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1811023184, login time: 10:44:09...
+[2023.12.14 10:44:32 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:44:32 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:44:32 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:44:32 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:44:33 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:44:36 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:44:36 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:41 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:46 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:52 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:44:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:45:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:45:07 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:45:41 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:45:41 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:45:41 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:45:41 - info ] Trading sessions loaded
+[2023.12.14 10:45:41 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:45:41 - warning] No session configured for CZCE.PX
+[2023.12.14 10:45:41 - warning] No session configured for CZCE.SH
+[2023.12.14 10:45:41 - warning] No session configured for GFEX.lc
+[2023.12.14 10:45:41 - warning] No session configured for GFEX.si
+[2023.12.14 10:45:41 - warning] No session configured for INE.ec
+[2023.12.14 10:45:41 - warning] No session configured for SHFE.ao
+[2023.12.14 10:45:41 - warning] No session configured for SHFE.br
+[2023.12.14 10:45:41 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:45:41 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:45:41 - info ] Holidays loaded
+[2023.12.14 10:45:41 - info ] Hot rules loaded
+[2023.12.14 10:45:41 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:45:41 - info ] Running mode: Production
+[2023.12.14 10:45:41 - info ] 0 fee templates loaded
+[2023.12.14 10:45:41 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:45:41 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:45:41 - info ] Engine task poolsize is 0
+[2023.12.14 10:45:41 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:45:41 - info ] Force to cache bars: yes
+[2023.12.14 10:45:41 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:45:41 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:45:41 - info ] Data manager initialized
+[2023.12.14 10:45:41 - info ] Action policies initialized
+[2023.12.14 10:45:41 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:45:41 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:45:41 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:45:41 - info ] 1 parsers loaded
+[2023.12.14 10:45:41 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:45:41 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:45:41 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:45:41 - info ] 1 traders loaded
+[2023.12.14 10:45:41 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:45:41 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:45:41 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:45:41 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:45:41 - info ] 1 executers loaded
+[2023.12.14 10:45:41 - info ] 1 parsers started
+[2023.12.14 10:45:41 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:45:41 - info ] 1 trading channels started
+[2023.12.14 10:45:41 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:45:41 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:45:41 - debug] Main KBars confirmed: DCE.Y.2403#m1
+[2023.12.14 10:45:41 - info ] DualThrust inited
+[2023.12.14 10:45:41 - info ] Trading day 20231214 begun
+[2023.12.14 10:45:41 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:45:42 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1815479644, login time: 10:45:19...
+[2023.12.14 10:45:42 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:45:42 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:45:42 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:45:42 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:45:43 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:45:46 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:45:46 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:45:51 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:55:31 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:55:31 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:55:31 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:55:31 - info ] Trading sessions loaded
+[2023.12.14 10:55:31 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:55:31 - warning] No session configured for CZCE.PX
+[2023.12.14 10:55:31 - warning] No session configured for CZCE.SH
+[2023.12.14 10:55:31 - warning] No session configured for GFEX.lc
+[2023.12.14 10:55:31 - warning] No session configured for GFEX.si
+[2023.12.14 10:55:31 - warning] No session configured for INE.ec
+[2023.12.14 10:55:31 - warning] No session configured for SHFE.ao
+[2023.12.14 10:55:31 - warning] No session configured for SHFE.br
+[2023.12.14 10:55:31 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:55:31 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:55:31 - info ] Holidays loaded
+[2023.12.14 10:55:31 - info ] Hot rules loaded
+[2023.12.14 10:55:31 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:55:31 - info ] Running mode: Production
+[2023.12.14 10:55:31 - info ] 0 fee templates loaded
+[2023.12.14 10:55:31 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:55:31 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:55:31 - info ] Engine task poolsize is 0
+[2023.12.14 10:55:31 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:55:31 - info ] Force to cache bars: yes
+[2023.12.14 10:55:31 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:55:31 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:55:31 - info ] Data manager initialized
+[2023.12.14 10:55:31 - info ] Action policies initialized
+[2023.12.14 10:55:31 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:55:31 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:55:31 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:55:31 - info ] 1 parsers loaded
+[2023.12.14 10:55:31 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:55:31 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:55:31 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:55:31 - info ] 1 traders loaded
+[2023.12.14 10:55:31 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:55:31 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:55:31 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:55:31 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:55:31 - info ] 1 executers loaded
+[2023.12.14 10:55:31 - info ] 1 parsers started
+[2023.12.14 10:55:31 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:55:31 - info ] 1 trading channels started
+[2023.12.14 10:55:31 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:55:31 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:55:31 - debug] Main KBars confirmed: DCE.Y.2403#m1
+[2023.12.14 10:55:31 - info ] DualThrust inited
+[2023.12.14 10:55:31 - info ] Trading day 20231214 begun
+[2023.12.14 10:55:31 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:55:32 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1854408114, login time: 10:55:09...
+[2023.12.14 10:55:32 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:55:32 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:55:32 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:55:32 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:55:33 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:55:36 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:55:36 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:55:41 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:56:20 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:56:20 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:56:20 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:56:20 - info ] Trading sessions loaded
+[2023.12.14 10:56:20 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:56:20 - warning] No session configured for CZCE.PX
+[2023.12.14 10:56:20 - warning] No session configured for CZCE.SH
+[2023.12.14 10:56:20 - warning] No session configured for GFEX.lc
+[2023.12.14 10:56:20 - warning] No session configured for GFEX.si
+[2023.12.14 10:56:20 - warning] No session configured for INE.ec
+[2023.12.14 10:56:20 - warning] No session configured for SHFE.ao
+[2023.12.14 10:56:20 - warning] No session configured for SHFE.br
+[2023.12.14 10:56:20 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:56:20 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:56:20 - info ] Holidays loaded
+[2023.12.14 10:56:20 - info ] Hot rules loaded
+[2023.12.14 10:56:20 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:56:20 - info ] Running mode: Production
+[2023.12.14 10:56:20 - info ] 0 fee templates loaded
+[2023.12.14 10:56:20 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:56:20 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:56:20 - info ] Engine task poolsize is 0
+[2023.12.14 10:56:20 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:56:20 - info ] Force to cache bars: yes
+[2023.12.14 10:56:20 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:56:20 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:56:20 - info ] Data manager initialized
+[2023.12.14 10:56:20 - info ] Action policies initialized
+[2023.12.14 10:56:20 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:56:20 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:56:20 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:56:20 - info ] 1 parsers loaded
+[2023.12.14 10:56:20 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:56:20 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:56:20 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:56:20 - info ] 1 traders loaded
+[2023.12.14 10:56:20 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:56:20 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:56:20 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:56:20 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:56:20 - info ] 1 executers loaded
+[2023.12.14 10:56:20 - info ] 1 parsers started
+[2023.12.14 10:56:20 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:56:20 - info ] 1 trading channels started
+[2023.12.14 10:56:20 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:56:20 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:56:20 - debug] Main KBars confirmed: DCE.y.2403#m1
+[2023.12.14 10:56:20 - info ] Reading final bars of DCE.y.2403 via extended loader...
+[2023.12.14 10:56:20 - info ] 37 items of back min1 data of DCE.y.2403 cached
+[2023.12.14 10:56:20 - debug] RT min1 block of DCE.y2403 loaded
+[2023.12.14 10:56:20 - debug] His min1 bars of DCE.y.2403 loaded, 37 from history, 2 from realtime
+[2023.12.14 10:56:20 - info ] DualThrust inited
+[2023.12.14 10:56:20 - info ] Trading day 20231214 begun
+[2023.12.14 10:56:20 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:56:20 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1857422777, login time: 10:55:57...
+[2023.12.14 10:56:20 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:56:20 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:56:20 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:56:20 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:56:21 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:56:24 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:56:25 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:56:30 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:56:35 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:56:40 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:56:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:57:29 - info ] Callbacks of Extented Parser registration done
+[2023.12.14 10:57:29 - info ] Callbacks of Extented Executer registration done
+[2023.12.14 10:57:29 - info ] WonderTrader CTA production framework initialzied, version: X64 v0.9.9 Build@Nov 29 2023 15:47:44
+[2023.12.14 10:57:29 - info ] Trading sessions loaded
+[2023.12.14 10:57:29 - warning] No session configured for CFFEX.TL
+[2023.12.14 10:57:29 - warning] No session configured for CZCE.PX
+[2023.12.14 10:57:29 - warning] No session configured for CZCE.SH
+[2023.12.14 10:57:29 - warning] No session configured for GFEX.lc
+[2023.12.14 10:57:29 - warning] No session configured for GFEX.si
+[2023.12.14 10:57:29 - warning] No session configured for INE.ec
+[2023.12.14 10:57:29 - warning] No session configured for SHFE.ao
+[2023.12.14 10:57:29 - warning] No session configured for SHFE.br
+[2023.12.14 10:57:29 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.14 10:57:29 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.14 10:57:29 - info ] Holidays loaded
+[2023.12.14 10:57:29 - info ] Hot rules loaded
+[2023.12.14 10:57:29 - info ] Trading environment initialized, engine name: CTA
+[2023.12.14 10:57:29 - info ] Running mode: Production
+[2023.12.14 10:57:29 - info ] 0 fee templates loaded
+[2023.12.14 10:57:29 - debug] 0 position info of portfolio loaded
+[2023.12.14 10:57:29 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.12.14 10:57:29 - info ] Engine task poolsize is 0
+[2023.12.14 10:57:29 - info ] Resampled bars will be aligned by section:  no
+[2023.12.14 10:57:29 - info ] Force to cache bars: yes
+[2023.12.14 10:57:29 - info ] WtDataReader initialized, rt dir is ../FUT_Data/rt/, hist dir is ../FUT_Data/his/, adjust_flag is 0
+[2023.12.14 10:57:29 - info ] No adjusting factor file configured, loading skipped
+[2023.12.14 10:57:29 - info ] Data manager initialized
+[2023.12.14 10:57:29 - info ] Action policies initialized
+[2023.12.14 10:57:29 - info ] Reading parser config from tdparsers.yaml...
+[2023.12.14 10:57:29 - info ] [parser1] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.12.14 10:57:29 - info ] [parser1] Parser initialzied, check_time: false
+[2023.12.14 10:57:29 - info ] 1 parsers loaded
+[2023.12.14 10:57:29 - info ] Reading trader config from tdtraders.yaml...
+[2023.12.14 10:57:29 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.14 10:57:29 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.14 10:57:29 - info ] 1 traders loaded
+[2023.12.14 10:57:29 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_fut.ipc
+[2023.12.14 10:57:29 - info ] Reading executer config from executers.yaml...
+[2023.12.14 10:57:29 - info ] Executer factory WtExeFact loaded
+[2023.12.14 10:57:29 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.12.14 10:57:29 - info ] 1 executers loaded
+[2023.12.14 10:57:29 - info ] 1 parsers started
+[2023.12.14 10:57:29 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.14 10:57:29 - info ] 1 trading channels started
+[2023.12.14 10:57:29 - info ] CtaTicker will drive engine with session TRADING
+[2023.12.14 10:57:29 - info ] Trading date confirmed: 20231214
+[2023.12.14 10:57:29 - debug] Main KBars confirmed: DCE.y.2403#m1
+[2023.12.14 10:57:29 - info ] Reading final bars of DCE.y.2403 via extended loader...
+[2023.12.14 10:57:29 - info ] 37 items of back min1 data of DCE.y.2403 cached
+[2023.12.14 10:57:29 - debug] RT min1 block of DCE.y2403 loaded
+[2023.12.14 10:57:29 - debug] His min1 bars of DCE.y.2403 loaded, 37 from history, 2 from realtime
+[2023.12.14 10:57:29 - info ] DualThrust inited
+[2023.12.14 10:57:29 - info ] Trading day 20231214 begun
+[2023.12.14 10:57:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.12.14 10:57:30 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 1862272453, login time: 10:57:07...
+[2023.12.14 10:57:30 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231214...
+[2023.12.14 10:57:30 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.14 10:57:30 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.14 10:57:30 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231214
+[2023.12.14 10:57:31 - info ] [zhongxinFUT] Position data updated
+[2023.12.14 10:57:34 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.14 10:57:34 - info ] [RiskControl] Current Balance Ratio: 100.00%

@@ -1,0 +1,51 @@
+{
+    "positions": [
+        {
+            "code": "SSE.ETF.510050",
+            "volume": 10000.0,
+            "closeprofit": -479.9999999999872,
+            "dynprofit": 40.000000000000039,
+            "lastentertime": 202309050951,
+            "lastexittime": 202309050952,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": [
+                {
+                    "long": true,
+                    "price": 2.638,
+                    "maxprice": 2.647,
+                    "minprice": 2.637,
+                    "volume": 10000.0,
+                    "opentime": 202309050951,
+                    "opentdate": 20230905,
+                    "profit": 40.000000000000039,
+                    "maxprofit": 140.00000000000234,
+                    "maxloss": -9.9999999999989,
+                    "opentag": "",
+                    "openbarno": 495
+                }
+            ]
+        }
+    ],
+    "fund": {
+        "total_profit": -479.9999999999872,
+        "total_dynprofit": 40.000000000000039,
+        "total_fees": 401.7400000000004,
+        "tdate": 20230905
+    },
+    "signals": {
+        "SSE.ETF.510050": {
+            "usertag": "",
+            "volume": 10000.0,
+            "sigprice": 2.642,
+            "gentime": 20230905113000116
+        }
+    },
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 529
+    }
+}

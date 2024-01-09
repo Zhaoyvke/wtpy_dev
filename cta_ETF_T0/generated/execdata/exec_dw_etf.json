@@ -1,0 +1,14 @@
+{
+    "targets": [
+        {
+            "code": "SZSE.ETF.159901",
+            "target": 0.0
+        }
+    ],
+    "diffs": [
+        {
+            "code": "SZSE.ETF.159901",
+            "diff": 0.0
+        }
+    ]
+}

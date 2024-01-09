@@ -1,0 +1,9072 @@
+{
+    "SSE": {		
+		 "110031": {
+		  "name": "航信转债",
+		  "code": "110031",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110033": {
+		  "name": "国贸转债",
+		  "code": "110033",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110034": {
+		  "name": "九州转债",
+		  "code": "110034",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110038": {
+		  "name": "济川转债",
+		  "code": "110038",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110041": {
+		  "name": "蒙电转债",
+		  "code": "110041",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110042": {
+		  "name": "航电转债",
+		  "code": "110042",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110043": {
+		  "name": "无锡转债",
+		  "code": "110043",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110044": {
+		  "name": "广电转债",
+		  "code": "110044",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110045": {
+		  "name": "海澜转债",
+		  "code": "110045",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110046": {
+		  "name": "圆通转债",
+		  "code": "110046",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110047": {
+		  "name": "山鹰转债",
+		  "code": "110047",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110048": {
+		  "name": "福能转债",
+		  "code": "110048",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110050": {
+		  "name": "佳都转债",
+		  "code": "110050",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110051": {
+		  "name": "中天转债",
+		  "code": "110051",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110052": {
+		  "name": "贵广转债",
+		  "code": "110052",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110053": {
+		  "name": "苏银转债",
+		  "code": "110053",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110054": {
+		  "name": "通威转债",
+		  "code": "110054",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110055": {
+		  "name": "伊力转债",
+		  "code": "110055",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110056": {
+		  "name": "亨通转债",
+		  "code": "110056",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110057": {
+		  "name": "现代转债",
+		  "code": "110057",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110058": {
+		  "name": "永鼎转债",
+		  "code": "110058",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110059": {
+		  "name": "浦发转债",
+		  "code": "110059",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110060": {
+		  "name": "天路转债",
+		  "code": "110060",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110061": {
+		  "name": "川投转债",
+		  "code": "110061",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110062": {
+		  "name": "烽火转债",
+		  "code": "110062",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110063": {
+		  "name": "鹰19转债",
+		  "code": "110063",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110064": {
+		  "name": "建工转债",
+		  "code": "110064",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110065": {
+		  "name": "淮矿转债",
+		  "code": "110065",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110066": {
+		  "name": "盛屯转债",
+		  "code": "110066",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110067": {
+		  "name": "华安转债",
+		  "code": "110067",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110068": {
+		  "name": "龙净转债",
+		  "code": "110068",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110069": {
+		  "name": "瀚蓝转债",
+		  "code": "110069",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110070": {
+		  "name": "凌钢转债",
+		  "code": "110070",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110071": {
+		  "name": "湖盐转债",
+		  "code": "110071",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110072": {
+		  "name": "广汇转债",
+		  "code": "110072",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110073": {
+		  "name": "国投转债",
+		  "code": "110073",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110074": {
+		  "name": "精达转债",
+		  "code": "110074",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110075": {
+		  "name": "南航转债",
+		  "code": "110075",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110076": {
+		  "name": "华海转债",
+		  "code": "110076",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110077": {
+		  "name": "洪城转债",
+		  "code": "110077",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110079": {
+		  "name": "杭银转债",
+		  "code": "110079",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110080": {
+		  "name": "东湖转债",
+		  "code": "110080",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110081": {
+		  "name": "闻泰转债",
+		  "code": "110081",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110082": {
+		  "name": "宏发转债",
+		  "code": "110082",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110083": {
+		  "name": "苏租转债",
+		  "code": "110083",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110084": {
+		  "name": "贵燃转债",
+		  "code": "110084",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110085": {
+		  "name": "通22转债",
+		  "code": "110085",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110086": {
+		  "name": "精工转债",
+		  "code": "110086",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110087": {
+		  "name": "天业转债",
+		  "code": "110087",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110088": {
+		  "name": "淮22转债",
+		  "code": "110088",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110089": {
+		  "name": "兴发转债",
+		  "code": "110089",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110090": {
+		  "name": "爱迪转债",
+		  "code": "110090",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110091": {
+		  "name": "合力转债",
+		  "code": "110091",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110092": {
+		  "name": "三房转债",
+		  "code": "110092",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "110093": {
+		  "name": "神马转债",
+		  "code": "110093",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111000": {
+		  "name": "起帆转债",
+		  "code": "111000",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111001": {
+		  "name": "山玻转债",
+		  "code": "111001",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111002": {
+		  "name": "特纸转债",
+		  "code": "111002",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111003": {
+		  "name": "聚合转债",
+		  "code": "111003",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111004": {
+		  "name": "明新转债",
+		  "code": "111004",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111005": {
+		  "name": "富春转债",
+		  "code": "111005",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111006": {
+		  "name": "嵘泰转债",
+		  "code": "111006",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111007": {
+		  "name": "永和转债",
+		  "code": "111007",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111008": {
+		  "name": "沿浦转债",
+		  "code": "111008",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111009": {
+		  "name": "盛泰转债",
+		  "code": "111009",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111010": {
+		  "name": "立昂转债",
+		  "code": "111010",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111011": {
+		  "name": "冠盛转债",
+		  "code": "111011",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111012": {
+		  "name": "福新转债",
+		  "code": "111012",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "111013": {
+		  "name": "新港转债",
+		  "code": "111013",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113008": {
+		  "name": "电气转债",
+		  "code": "113008",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113009": {
+		  "name": "广汽转债",
+		  "code": "113009",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113011": {
+		  "name": "光大转债",
+		  "code": "113011",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113012": {
+		  "name": "骆驼转债",
+		  "code": "113012",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113013": {
+		  "name": "国君转债",
+		  "code": "113013",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113014": {
+		  "name": "林洋转债",
+		  "code": "113014",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113016": {
+		  "name": "小康转债",
+		  "code": "113016",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113017": {
+		  "name": "吉视转债",
+		  "code": "113017",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113019": {
+		  "name": "玲珑转债",
+		  "code": "113019",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113020": {
+		  "name": "桐昆转债",
+		  "code": "113020",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113021": {
+		  "name": "中信转债",
+		  "code": "113021",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113022": {
+		  "name": "浙商转债",
+		  "code": "113022",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113024": {
+		  "name": "核建转债",
+		  "code": "113024",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113025": {
+		  "name": "明泰转债",
+		  "code": "113025",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113026": {
+		  "name": "核能转债",
+		  "code": "113026",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113027": {
+		  "name": "华钰转债",
+		  "code": "113027",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113028": {
+		  "name": "环境转债",
+		  "code": "113028",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113029": {
+		  "name": "明阳转债",
+		  "code": "113029",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113030": {
+		  "name": "东风转债",
+		  "code": "113030",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113031": {
+		  "name": "博威转债",
+		  "code": "113031",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113032": {
+		  "name": "桐20转债",
+		  "code": "113032",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113033": {
+		  "name": "利群转债",
+		  "code": "113033",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113034": {
+		  "name": "滨化转债",
+		  "code": "113034",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113035": {
+		  "name": "福莱转债",
+		  "code": "113035",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113036": {
+		  "name": "宁建转债",
+		  "code": "113036",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113037": {
+		  "name": "紫银转债",
+		  "code": "113037",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113038": {
+		  "name": "隆20转债",
+		  "code": "113038",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113039": {
+		  "name": "嘉泽转债",
+		  "code": "113039",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113040": {
+		  "name": "星宇转债",
+		  "code": "113040",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113041": {
+		  "name": "紫金转债",
+		  "code": "113041",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113042": {
+		  "name": "上银转债",
+		  "code": "113042",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113043": {
+		  "name": "财通转债",
+		  "code": "113043",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113044": {
+		  "name": "大秦转债",
+		  "code": "113044",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113045": {
+		  "name": "环旭转债",
+		  "code": "113045",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113046": {
+		  "name": "金田转债",
+		  "code": "113046",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113047": {
+		  "name": "旗滨转债",
+		  "code": "113047",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113048": {
+		  "name": "晶科转债",
+		  "code": "113048",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113049": {
+		  "name": "长汽转债",
+		  "code": "113049",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113050": {
+		  "name": "南银转债",
+		  "code": "113050",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113051": {
+		  "name": "节能转债",
+		  "code": "113051",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113052": {
+		  "name": "兴业转债",
+		  "code": "113052",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113053": {
+		  "name": "隆22转债",
+		  "code": "113053",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113054": {
+		  "name": "绿动转债",
+		  "code": "113054",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113055": {
+		  "name": "成银转债",
+		  "code": "113055",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113056": {
+		  "name": "重银转债",
+		  "code": "113056",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113057": {
+		  "name": "中银转债",
+		  "code": "113057",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113058": {
+		  "name": "友发转债",
+		  "code": "113058",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113059": {
+		  "name": "福莱转债",
+		  "code": "113059",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113060": {
+		  "name": "浙22转债",
+		  "code": "113060",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113061": {
+		  "name": "拓普转债",
+		  "code": "113061",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113062": {
+		  "name": "常银转债",
+		  "code": "113062",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113063": {
+		  "name": "赛轮转债",
+		  "code": "113063",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113064": {
+		  "name": "东材转债",
+		  "code": "113064",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113065": {
+		  "name": "齐鲁转债",
+		  "code": "113065",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113066": {
+		  "name": "平煤转债",
+		  "code": "113066",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113502": {
+		  "name": "嘉澳转债",
+		  "code": "113502",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113503": {
+		  "name": "泰晶转债",
+		  "code": "113503",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113504": {
+		  "name": "艾华转债",
+		  "code": "113504",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113505": {
+		  "name": "杭电转债",
+		  "code": "113505",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113508": {
+		  "name": "新凤转债",
+		  "code": "113508",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113509": {
+		  "name": "新泉转债",
+		  "code": "113509",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113510": {
+		  "name": "再升转债",
+		  "code": "113510",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113511": {
+		  "name": "千禾转债",
+		  "code": "113511",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113514": {
+		  "name": "威帝转债",
+		  "code": "113514",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113515": {
+		  "name": "高能转债",
+		  "code": "113515",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113516": {
+		  "name": "苏农转债",
+		  "code": "113516",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113517": {
+		  "name": "曙光转债",
+		  "code": "113517",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113518": {
+		  "name": "顾家转债",
+		  "code": "113518",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113519": {
+		  "name": "长久转债",
+		  "code": "113519",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113520": {
+		  "name": "百合转债",
+		  "code": "113520",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113521": {
+		  "name": "科森转债",
+		  "code": "113521",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113522": {
+		  "name": "旭升转债",
+		  "code": "113522",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113523": {
+		  "name": "伟明转债",
+		  "code": "113523",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113524": {
+		  "name": "奇精转债",
+		  "code": "113524",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113525": {
+		  "name": "台华转债",
+		  "code": "113525",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113526": {
+		  "name": "联泰转债",
+		  "code": "113526",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113527": {
+		  "name": "维格转债",
+		  "code": "113527",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113528": {
+		  "name": "长城转债",
+		  "code": "113528",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113530": {
+		  "name": "大丰转债",
+		  "code": "113530",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113531": {
+		  "name": "百姓转债",
+		  "code": "113531",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113532": {
+		  "name": "海环转债",
+		  "code": "113532",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113533": {
+		  "name": "参林转债",
+		  "code": "113533",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113534": {
+		  "name": "鼎胜转债",
+		  "code": "113534",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113535": {
+		  "name": "大业转债",
+		  "code": "113535",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113536": {
+		  "name": "三星转债",
+		  "code": "113536",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113537": {
+		  "name": "文灿转债",
+		  "code": "113537",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113538": {
+		  "name": "安图转债",
+		  "code": "113538",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113539": {
+		  "name": "圣达转债",
+		  "code": "113539",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113540": {
+		  "name": "南威转债",
+		  "code": "113540",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113541": {
+		  "name": "荣晟转债",
+		  "code": "113541",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113542": {
+		  "name": "好客转债",
+		  "code": "113542",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113543": {
+		  "name": "欧派转债",
+		  "code": "113543",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113544": {
+		  "name": "桃李转债",
+		  "code": "113544",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113545": {
+		  "name": "金能转债",
+		  "code": "113545",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113546": {
+		  "name": "迪贝转债",
+		  "code": "113546",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113547": {
+		  "name": "索发转债",
+		  "code": "113547",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113548": {
+		  "name": "石英转债",
+		  "code": "113548",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113549": {
+		  "name": "白电转债",
+		  "code": "113549",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113550": {
+		  "name": "常汽转债",
+		  "code": "113550",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113551": {
+		  "name": "福特转债",
+		  "code": "113551",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113552": {
+		  "name": "克来转债",
+		  "code": "113552",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113553": {
+		  "name": "金牌转债",
+		  "code": "113553",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113554": {
+		  "name": "仙鹤转债",
+		  "code": "113554",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113555": {
+		  "name": "振德转债",
+		  "code": "113555",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113556": {
+		  "name": "至纯转债",
+		  "code": "113556",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113557": {
+		  "name": "森特转债",
+		  "code": "113557",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113558": {
+		  "name": "日月转债",
+		  "code": "113558",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113559": {
+		  "name": "永创转债",
+		  "code": "113559",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113561": {
+		  "name": "正裕转债",
+		  "code": "113561",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113562": {
+		  "name": "璞泰转债",
+		  "code": "113562",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113563": {
+		  "name": "柳药转债",
+		  "code": "113563",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113564": {
+		  "name": "天目转债",
+		  "code": "113564",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113565": {
+		  "name": "宏辉转债",
+		  "code": "113565",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113566": {
+		  "name": "翔港转债",
+		  "code": "113566",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113567": {
+		  "name": "君禾转债",
+		  "code": "113567",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113568": {
+		  "name": "新春转债",
+		  "code": "113568",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113569": {
+		  "name": "科达转债",
+		  "code": "113569",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113570": {
+		  "name": "百达转债",
+		  "code": "113570",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113571": {
+		  "name": "博特转债",
+		  "code": "113571",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113572": {
+		  "name": "三祥转债",
+		  "code": "113572",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113573": {
+		  "name": "纵横转债",
+		  "code": "113573",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113574": {
+		  "name": "华体转债",
+		  "code": "113574",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113575": {
+		  "name": "东时转债",
+		  "code": "113575",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113576": {
+		  "name": "起步转债",
+		  "code": "113576",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113577": {
+		  "name": "春秋转债",
+		  "code": "113577",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113578": {
+		  "name": "全筑转债",
+		  "code": "113578",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113579": {
+		  "name": "健友转债",
+		  "code": "113579",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113580": {
+		  "name": "康隆转债",
+		  "code": "113580",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113581": {
+		  "name": "龙蟠转债",
+		  "code": "113581",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113582": {
+		  "name": "火炬转债",
+		  "code": "113582",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113583": {
+		  "name": "益丰转债",
+		  "code": "113583",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113584": {
+		  "name": "家悦转债",
+		  "code": "113584",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113585": {
+		  "name": "寿仙转债",
+		  "code": "113585",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113586": {
+		  "name": "上机转债",
+		  "code": "113586",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113587": {
+		  "name": "泛微转债",
+		  "code": "113587",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113588": {
+		  "name": "润达转债",
+		  "code": "113588",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113589": {
+		  "name": "天创转债",
+		  "code": "113589",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113590": {
+		  "name": "海容转债",
+		  "code": "113590",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113591": {
+		  "name": "胜达转债",
+		  "code": "113591",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113592": {
+		  "name": "安20转债",
+		  "code": "113592",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113593": {
+		  "name": "沪工转债",
+		  "code": "113593",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113594": {
+		  "name": "淳中转债",
+		  "code": "113594",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113595": {
+		  "name": "花王转债",
+		  "code": "113595",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113596": {
+		  "name": "城地转债",
+		  "code": "113596",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113597": {
+		  "name": "佳力转债",
+		  "code": "113597",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113598": {
+		  "name": "法兰转债",
+		  "code": "113598",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113599": {
+		  "name": "嘉友转债",
+		  "code": "113599",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113600": {
+		  "name": "新星转债",
+		  "code": "113600",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113601": {
+		  "name": "塞力转债",
+		  "code": "113601",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113602": {
+		  "name": "景20转债",
+		  "code": "113602",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113603": {
+		  "name": "东缆转债",
+		  "code": "113603",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113604": {
+		  "name": "多伦转债",
+		  "code": "113604",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113605": {
+		  "name": "大参转债",
+		  "code": "113605",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113606": {
+		  "name": "荣泰转债",
+		  "code": "113606",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113607": {
+		  "name": "伟20转债",
+		  "code": "113607",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113608": {
+		  "name": "威派转债",
+		  "code": "113608",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113609": {
+		  "name": "永安转债",
+		  "code": "113609",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113610": {
+		  "name": "灵康转债",
+		  "code": "113610",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113611": {
+		  "name": "福20转债",
+		  "code": "113611",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113612": {
+		  "name": "永冠转债",
+		  "code": "113612",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113614": {
+		  "name": "健20转债",
+		  "code": "113614",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113615": {
+		  "name": "金诚转债",
+		  "code": "113615",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113616": {
+		  "name": "韦尔转债",
+		  "code": "113616",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113618": {
+		  "name": "美诺转债",
+		  "code": "113618",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113619": {
+		  "name": "世运转债",
+		  "code": "113619",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113620": {
+		  "name": "傲农转债",
+		  "code": "113620",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113621": {
+		  "name": "彤程转债",
+		  "code": "113621",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113622": {
+		  "name": "杭叉转债",
+		  "code": "113622",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113623": {
+		  "name": "凤21转债",
+		  "code": "113623",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113624": {
+		  "name": "正川转债",
+		  "code": "113624",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113625": {
+		  "name": "江山转债",
+		  "code": "113625",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113626": {
+		  "name": "伯特转债",
+		  "code": "113626",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113627": {
+		  "name": "太平转债",
+		  "code": "113627",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113628": {
+		  "name": "晨丰转债",
+		  "code": "113628",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113629": {
+		  "name": "泉峰转债",
+		  "code": "113629",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113630": {
+		  "name": "赛伍转债",
+		  "code": "113630",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113631": {
+		  "name": "皖天转债",
+		  "code": "113631",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113632": {
+		  "name": "鹤21转债",
+		  "code": "113632",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113633": {
+		  "name": "科沃转债",
+		  "code": "113633",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113634": {
+		  "name": "珀莱转债",
+		  "code": "113634",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113635": {
+		  "name": "升21转债",
+		  "code": "113635",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113636": {
+		  "name": "甬金转债",
+		  "code": "113636",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113637": {
+		  "name": "华翔转债",
+		  "code": "113637",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113638": {
+		  "name": "台21转债",
+		  "code": "113638",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113639": {
+		  "name": "华正转债",
+		  "code": "113639",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113640": {
+		  "name": "苏利转债",
+		  "code": "113640",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113641": {
+		  "name": "华友转债",
+		  "code": "113641",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113642": {
+		  "name": "上22转债",
+		  "code": "113642",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113643": {
+		  "name": "风语转债",
+		  "code": "113643",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113644": {
+		  "name": "艾迪转债",
+		  "code": "113644",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113646": {
+		  "name": "永吉转债",
+		  "code": "113646",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113647": {
+		  "name": "禾丰转债",
+		  "code": "113647",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113648": {
+		  "name": "巨星转债",
+		  "code": "113648",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113649": {
+		  "name": "丰山转债",
+		  "code": "113649",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113650": {
+		  "name": "博22转债",
+		  "code": "113650",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113651": {
+		  "name": "松霖转债",
+		  "code": "113651",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113652": {
+		  "name": "伟22转债",
+		  "code": "113652",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113653": {
+		  "name": "永22转债",
+		  "code": "113653",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113654": {
+		  "name": "永02转债",
+		  "code": "113654",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113655": {
+		  "name": "欧22转债",
+		  "code": "113655",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113656": {
+		  "name": "嘉诚转债",
+		  "code": "113656",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113657": {
+		  "name": "再22转债",
+		  "code": "113657",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113658": {
+		  "name": "密卫转债",
+		  "code": "113658",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113659": {
+		  "name": "莱克转债",
+		  "code": "113659",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113660": {
+		  "name": "寿22转债",
+		  "code": "113660",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113661": {
+		  "name": "福22转债",
+		  "code": "113661",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113662": {
+		  "name": "豪能转债",
+		  "code": "113662",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113663": {
+		  "name": "新化转债",
+		  "code": "113663",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113664": {
+		  "name": "大元转债",
+		  "code": "113664",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113665": {
+		  "name": "汇通转债",
+		  "code": "113665",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113666": {
+		  "name": "爱玛转债",
+		  "code": "113666",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113667": {
+		  "name": "春23转债",
+		  "code": "113667",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113668": {
+		  "name": "鹿山转债",
+		  "code": "113668",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113669": {
+		  "name": "景23转债",
+		  "code": "113669",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "113670": {
+		  "name": "金23转债",
+		  "code": "113670",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118000": {
+		  "name": "嘉元转债",
+		  "code": "118000",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118001": {
+		  "name": "金博转债",
+		  "code": "118001",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118002": {
+		  "name": "天合转债",
+		  "code": "118002",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118003": {
+		  "name": "华兴转债",
+		  "code": "118003",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118004": {
+		  "name": "博瑞转债",
+		  "code": "118004",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118005": {
+		  "name": "天奈转债",
+		  "code": "118005",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118006": {
+		  "name": "阿拉转债",
+		  "code": "118006",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118007": {
+		  "name": "山石转债",
+		  "code": "118007",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118008": {
+		  "name": "海优转债",
+		  "code": "118008",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118009": {
+		  "name": "华锐转债",
+		  "code": "118009",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118010": {
+		  "name": "洁特转债",
+		  "code": "118010",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118011": {
+		  "name": "银微转债",
+		  "code": "118011",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118012": {
+		  "name": "微芯转债",
+		  "code": "118012",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118013": {
+		  "name": "道通转债",
+		  "code": "118013",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118014": {
+		  "name": "高测转债",
+		  "code": "118014",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118015": {
+		  "name": "芯海转债",
+		  "code": "118015",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118016": {
+		  "name": "京源转债",
+		  "code": "118016",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118017": {
+		  "name": "深科转债",
+		  "code": "118017",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118018": {
+		  "name": "瑞科转债",
+		  "code": "118018",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118019": {
+		  "name": "金盘转债",
+		  "code": "118019",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118020": {
+		  "name": "芳源转债",
+		  "code": "118020",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118021": {
+		  "name": "新致转债",
+		  "code": "118021",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118022": {
+		  "name": "锂科转债",
+		  "code": "118022",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118023": {
+		  "name": "广大转债",
+		  "code": "118023",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118024": {
+		  "name": "冠宇转债",
+		  "code": "118024",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118025": {
+		  "name": "奕瑞转债",
+		  "code": "118025",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118026": {
+		  "name": "利元转债",
+		  "code": "118026",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118027": {
+		  "name": "宏图转债",
+		  "code": "118027",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118028": {
+		  "name": "会通转债",
+		  "code": "118028",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118029": {
+		  "name": "富淼转债",
+		  "code": "118029",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118030": {
+		  "name": "睿创转债",
+		  "code": "118030",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118031": {
+		  "name": "天23转债",
+		  "code": "118031",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118032": {
+		  "name": "建龙转债",
+		  "code": "118032",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118033": {
+		  "name": "华特转债",
+		  "code": "118033",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "118034": {
+		  "name": "晶能转债",
+		  "code": "118034",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		  "132004": {
+		  "name": "15国盛EB",
+		  "code": "132004",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132005": {
+		  "name": "15国资EB",
+		  "code": "132005",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132006": {
+		  "name": "16皖新EB",
+		  "code": "132006",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132007": {
+		  "name": "16凤凰EB",
+		  "code": "132007",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132008": {
+		  "name": "17山高EB",
+		  "code": "132008",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132009": {
+		  "name": "17中油EB",
+		  "code": "132009",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132011": {
+		  "name": "17浙报EB",
+		  "code": "132011",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132012": {
+		  "name": "17巨化EB",
+		  "code": "132012",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132013": {
+		  "name": "17宝武EB",
+		  "code": "132013",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132014": {
+		  "name": "18中化EB",
+		  "code": "132014",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132015": {
+		  "name": "18中油EB",
+		  "code": "132015",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132016": {
+		  "name": "19东创EB",
+		  "code": "132016",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132017": {
+		  "name": "19新钢EB",
+		  "code": "132017",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132018": {
+		  "name": "G三峡EB1",
+		  "code": "132018",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132020": {
+		  "name": "19蓝星EB",
+		  "code": "132020",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132021": {
+		  "name": "19中电EB",
+		  "code": "132021",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132022": {
+		  "name": "20广版EB",
+		  "code": "132022",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "132026": {
+		  "name": "G三峡EB2",
+		  "code": "132026",
+		  "exchg": "SSE",
+		  "product": "BOND"
+		 },
+		 "600000": {
+		  "name": "600000.XSHG",
+		  "code": "600000",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600004": {
+		  "name": "600004.XSHG",
+		  "code": "600004",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600005": {
+		  "name": "600005.XSHG",
+		  "code": "600005",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600016": {
+		  "name": "600016.XSHG",
+		  "code": "600016",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600017": {
+		  "name": "600017.XSHG",
+		  "code": "600017",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600018": {
+		  "name": "600018.XSHG",
+		  "code": "600018",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600019": {
+		  "name": "600019.XSHG",
+		  "code": "600019",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600023": {
+		  "name": "600023.XSHG",
+		  "code": "600023",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600026": {
+		  "name": "600026.XSHG",
+		  "code": "600026",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600028": {
+		  "name": "600028.XSHG",
+		  "code": "600028",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600029": {
+		  "name": "600029.XSHG",
+		  "code": "600029",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600031": {
+		  "name": "600031.XSHG",
+		  "code": "600031",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600037": {
+		  "name": "600037.XSHG",
+		  "code": "600037",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600061": {
+		  "name": "600061.XSHG",
+		  "code": "600061",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600067": {
+		  "name": "600067.XSHG",
+		  "code": "600067",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600068": {
+		  "name": "600068.XSHG",
+		  "code": "600068",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600075": {
+		  "name": "600075.XSHG",
+		  "code": "600075",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600078": {
+		  "name": "600078.XSHG",
+		  "code": "600078",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600085": {
+		  "name": "600085.XSHG",
+		  "code": "600085",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600096": {
+		  "name": "600096.XSHG",
+		  "code": "600096",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600104": {
+		  "name": "600104.XSHG",
+		  "code": "600104",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600105": {
+		  "name": "600105.XSHG",
+		  "code": "600105",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600109": {
+		  "name": "600109.XSHG",
+		  "code": "600109",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600133": {
+		  "name": "600133.XSHG",
+		  "code": "600133",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600141": {
+		  "name": "600141.XSHG",
+		  "code": "600141",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600160": {
+		  "name": "600160.XSHG",
+		  "code": "600160",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600170": {
+		  "name": "600170.XSHG",
+		  "code": "600170",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600183": {
+		  "name": "600183.XSHG",
+		  "code": "600183",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600185": {
+		  "name": "600185.XSHG",
+		  "code": "600185",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600197": {
+		  "name": "600197.XSHG",
+		  "code": "600197",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600219": {
+		  "name": "600219.XSHG",
+		  "code": "600219",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600231": {
+		  "name": "600231.XSHG",
+		  "code": "600231",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600233": {
+		  "name": "600233.XSHG",
+		  "code": "600233",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600269": {
+		  "name": "600269.XSHG",
+		  "code": "600269",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600271": {
+		  "name": "600271.XSHG",
+		  "code": "600271",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600297": {
+		  "name": "600297.XSHG",
+		  "code": "600297",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600299": {
+		  "name": "600299.XSHG",
+		  "code": "600299",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600323": {
+		  "name": "600323.XSHG",
+		  "code": "600323",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600326": {
+		  "name": "600326.XSHG",
+		  "code": "600326",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600350": {
+		  "name": "600350.XSHG",
+		  "code": "600350",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600356": {
+		  "name": "600356.XSHG",
+		  "code": "600356",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600362": {
+		  "name": "600362.XSHG",
+		  "code": "600362",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600370": {
+		  "name": "600370.XSHG",
+		  "code": "600370",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600372": {
+		  "name": "600372.XSHG",
+		  "code": "600372",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600388": {
+		  "name": "600388.XSHG",
+		  "code": "600388",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600398": {
+		  "name": "600398.XSHG",
+		  "code": "600398",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600420": {
+		  "name": "600420.XSHG",
+		  "code": "600420",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600428": {
+		  "name": "600428.XSHG",
+		  "code": "600428",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600438": {
+		  "name": "600438.XSHG",
+		  "code": "600438",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600461": {
+		  "name": "600461.XSHG",
+		  "code": "600461",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600481": {
+		  "name": "600481.XSHG",
+		  "code": "600481",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600483": {
+		  "name": "600483.XSHG",
+		  "code": "600483",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600487": {
+		  "name": "600487.XSHG",
+		  "code": "600487",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600496": {
+		  "name": "600496.XSHG",
+		  "code": "600496",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600498": {
+		  "name": "600498.XSHG",
+		  "code": "600498",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600500": {
+		  "name": "600500.XSHG",
+		  "code": "600500",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600518": {
+		  "name": "600518.XSHG",
+		  "code": "600518",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600521": {
+		  "name": "600521.XSHG",
+		  "code": "600521",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600522": {
+		  "name": "600522.XSHG",
+		  "code": "600522",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600535": {
+		  "name": "600535.XSHG",
+		  "code": "600535",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600536": {
+		  "name": "600536.XSHG",
+		  "code": "600536",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600548": {
+		  "name": "600548.XSHG",
+		  "code": "600548",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600566": {
+		  "name": "600566.XSHG",
+		  "code": "600566",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600567": {
+		  "name": "600567.XSHG",
+		  "code": "600567",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600577": {
+		  "name": "600577.XSHG",
+		  "code": "600577",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600600": {
+		  "name": "600600.XSHG",
+		  "code": "600600",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600633": {
+		  "name": "600633.XSHG",
+		  "code": "600633",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600674": {
+		  "name": "600674.XSHG",
+		  "code": "600674",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600690": {
+		  "name": "600690.XSHG",
+		  "code": "600690",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600711": {
+		  "name": "600711.XSHG",
+		  "code": "600711",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600728": {
+		  "name": "600728.XSHG",
+		  "code": "600728",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600745": {
+		  "name": "600745.XSHG",
+		  "code": "600745",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600755": {
+		  "name": "600755.XSHG",
+		  "code": "600755",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600761": {
+		  "name": "600761.XSHG",
+		  "code": "600761",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600782": {
+		  "name": "600782.XSHG",
+		  "code": "600782",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600795": {
+		  "name": "600795.XSHG",
+		  "code": "600795",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600798": {
+		  "name": "600798.XSHG",
+		  "code": "600798",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600808": {
+		  "name": "600808.XSHG",
+		  "code": "600808",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600810": {
+		  "name": "600810.XSHG",
+		  "code": "600810",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600820": {
+		  "name": "600820.XSHG",
+		  "code": "600820",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600831": {
+		  "name": "600831.XSHG",
+		  "code": "600831",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600839": {
+		  "name": "600839.XSHG",
+		  "code": "600839",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600845": {
+		  "name": "600845.XSHG",
+		  "code": "600845",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600859": {
+		  "name": "600859.XSHG",
+		  "code": "600859",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600863": {
+		  "name": "600863.XSHG",
+		  "code": "600863",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600875": {
+		  "name": "600875.XSHG",
+		  "code": "600875",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600885": {
+		  "name": "600885.XSHG",
+		  "code": "600885",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600886": {
+		  "name": "600886.XSHG",
+		  "code": "600886",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600900": {
+		  "name": "600900.XSHG",
+		  "code": "600900",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600901": {
+		  "name": "600901.XSHG",
+		  "code": "600901",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600903": {
+		  "name": "600903.XSHG",
+		  "code": "600903",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600908": {
+		  "name": "600908.XSHG",
+		  "code": "600908",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600909": {
+		  "name": "600909.XSHG",
+		  "code": "600909",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600919": {
+		  "name": "600919.XSHG",
+		  "code": "600919",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600926": {
+		  "name": "600926.XSHG",
+		  "code": "600926",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600929": {
+		  "name": "600929.XSHG",
+		  "code": "600929",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600933": {
+		  "name": "600933.XSHG",
+		  "code": "600933",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600939": {
+		  "name": "600939.XSHG",
+		  "code": "600939",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600966": {
+		  "name": "600966.XSHG",
+		  "code": "600966",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600985": {
+		  "name": "600985.XSHG",
+		  "code": "600985",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600996": {
+		  "name": "600996.XSHG",
+		  "code": "600996",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "600998": {
+		  "name": "600998.XSHG",
+		  "code": "600998",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601006": {
+		  "name": "601006.XSHG",
+		  "code": "601006",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601009": {
+		  "name": "601009.XSHG",
+		  "code": "601009",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601012": {
+		  "name": "601012.XSHG",
+		  "code": "601012",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601016": {
+		  "name": "601016.XSHG",
+		  "code": "601016",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601020": {
+		  "name": "601020.XSHG",
+		  "code": "601020",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601058": {
+		  "name": "601058.XSHG",
+		  "code": "601058",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601108": {
+		  "name": "601108.XSHG",
+		  "code": "601108",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601117": {
+		  "name": "601117.XSHG",
+		  "code": "601117",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601127": {
+		  "name": "601127.XSHG",
+		  "code": "601127",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601128": {
+		  "name": "601128.XSHG",
+		  "code": "601128",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601137": {
+		  "name": "601137.XSHG",
+		  "code": "601137",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601139": {
+		  "name": "601139.XSHG",
+		  "code": "601139",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601166": {
+		  "name": "601166.XSHG",
+		  "code": "601166",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601199": {
+		  "name": "601199.XSHG",
+		  "code": "601199",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601200": {
+		  "name": "601200.XSHG",
+		  "code": "601200",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601208": {
+		  "name": "601208.XSHG",
+		  "code": "601208",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601211": {
+		  "name": "601211.XSHG",
+		  "code": "601211",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601222": {
+		  "name": "601222.XSHG",
+		  "code": "601222",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601229": {
+		  "name": "601229.XSHG",
+		  "code": "601229",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601231": {
+		  "name": "601231.XSHG",
+		  "code": "601231",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601233": {
+		  "name": "601233.XSHG",
+		  "code": "601233",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601238": {
+		  "name": "601238.XSHG",
+		  "code": "601238",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601311": {
+		  "name": "601311.XSHG",
+		  "code": "601311",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601318": {
+		  "name": "601318.XSHG",
+		  "code": "601318",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601330": {
+		  "name": "601330.XSHG",
+		  "code": "601330",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601336": {
+		  "name": "601336.XSHG",
+		  "code": "601336",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601366": {
+		  "name": "601366.XSHG",
+		  "code": "601366",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601398": {
+		  "name": "601398.XSHG",
+		  "code": "601398",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601515": {
+		  "name": "601515.XSHG",
+		  "code": "601515",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601601": {
+		  "name": "601601.XSHG",
+		  "code": "601601",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601609": {
+		  "name": "601609.XSHG",
+		  "code": "601609",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601611": {
+		  "name": "601611.XSHG",
+		  "code": "601611",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601615": {
+		  "name": "601615.XSHG",
+		  "code": "601615",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601619": {
+		  "name": "601619.XSHG",
+		  "code": "601619",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601633": {
+		  "name": "601633.XSHG",
+		  "code": "601633",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601636": {
+		  "name": "601636.XSHG",
+		  "code": "601636",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601665": {
+		  "name": "601665.XSHG",
+		  "code": "601665",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601666": {
+		  "name": "601666.XSHG",
+		  "code": "601666",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601677": {
+		  "name": "601677.XSHG",
+		  "code": "601677",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601678": {
+		  "name": "601678.XSHG",
+		  "code": "601678",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601686": {
+		  "name": "601686.XSHG",
+		  "code": "601686",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601689": {
+		  "name": "601689.XSHG",
+		  "code": "601689",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601727": {
+		  "name": "601727.XSHG",
+		  "code": "601727",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601778": {
+		  "name": "601778.XSHG",
+		  "code": "601778",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601789": {
+		  "name": "601789.XSHG",
+		  "code": "601789",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601799": {
+		  "name": "601799.XSHG",
+		  "code": "601799",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601801": {
+		  "name": "601801.XSHG",
+		  "code": "601801",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601818": {
+		  "name": "601818.XSHG",
+		  "code": "601818",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601838": {
+		  "name": "601838.XSHG",
+		  "code": "601838",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601857": {
+		  "name": "601857.XSHG",
+		  "code": "601857",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601860": {
+		  "name": "601860.XSHG",
+		  "code": "601860",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601865": {
+		  "name": "601865.XSHG",
+		  "code": "601865",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601878": {
+		  "name": "601878.XSHG",
+		  "code": "601878",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601881": {
+		  "name": "601881.XSHG",
+		  "code": "601881",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601899": {
+		  "name": "601899.XSHG",
+		  "code": "601899",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601900": {
+		  "name": "601900.XSHG",
+		  "code": "601900",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601928": {
+		  "name": "601928.XSHG",
+		  "code": "601928",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601929": {
+		  "name": "601929.XSHG",
+		  "code": "601929",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601963": {
+		  "name": "601963.XSHG",
+		  "code": "601963",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601966": {
+		  "name": "601966.XSHG",
+		  "code": "601966",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601985": {
+		  "name": "601985.XSHG",
+		  "code": "601985",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601988": {
+		  "name": "601988.XSHG",
+		  "code": "601988",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601989": {
+		  "name": "601989.XSHG",
+		  "code": "601989",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "601998": {
+		  "name": "601998.XSHG",
+		  "code": "601998",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603007": {
+		  "name": "603007.XSHG",
+		  "code": "603007",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603019": {
+		  "name": "603019.XSHG",
+		  "code": "603019",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603023": {
+		  "name": "603023.XSHG",
+		  "code": "603023",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603027": {
+		  "name": "603027.XSHG",
+		  "code": "603027",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603030": {
+		  "name": "603030.XSHG",
+		  "code": "603030",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603035": {
+		  "name": "603035.XSHG",
+		  "code": "603035",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603039": {
+		  "name": "603039.XSHG",
+		  "code": "603039",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603051": {
+		  "name": "603051.XSHG",
+		  "code": "603051",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603055": {
+		  "name": "603055.XSHG",
+		  "code": "603055",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603058": {
+		  "name": "603058.XSHG",
+		  "code": "603058",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603079": {
+		  "name": "603079.XSHG",
+		  "code": "603079",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603081": {
+		  "name": "603081.XSHG",
+		  "code": "603081",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603089": {
+		  "name": "603089.XSHG",
+		  "code": "603089",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603098": {
+		  "name": "603098.XSHG",
+		  "code": "603098",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603108": {
+		  "name": "603108.XSHG",
+		  "code": "603108",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603112": {
+		  "name": "603112.XSHG",
+		  "code": "603112",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603113": {
+		  "name": "603113.XSHG",
+		  "code": "603113",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603131": {
+		  "name": "603131.XSHG",
+		  "code": "603131",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603136": {
+		  "name": "603136.XSHG",
+		  "code": "603136",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603165": {
+		  "name": "603165.XSHG",
+		  "code": "603165",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603176": {
+		  "name": "603176.XSHG",
+		  "code": "603176",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603179": {
+		  "name": "603179.XSHG",
+		  "code": "603179",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603180": {
+		  "name": "603180.XSHG",
+		  "code": "603180",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603185": {
+		  "name": "603185.XSHG",
+		  "code": "603185",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603186": {
+		  "name": "603186.XSHG",
+		  "code": "603186",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603187": {
+		  "name": "603187.XSHG",
+		  "code": "603187",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603208": {
+		  "name": "603208.XSHG",
+		  "code": "603208",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603212": {
+		  "name": "603212.XSHG",
+		  "code": "603212",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603218": {
+		  "name": "603218.XSHG",
+		  "code": "603218",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603225": {
+		  "name": "603225.XSHG",
+		  "code": "603225",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603228": {
+		  "name": "603228.XSHG",
+		  "code": "603228",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603233": {
+		  "name": "603233.XSHG",
+		  "code": "603233",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603278": {
+		  "name": "603278.XSHG",
+		  "code": "603278",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603298": {
+		  "name": "603298.XSHG",
+		  "code": "603298",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603301": {
+		  "name": "603301.XSHG",
+		  "code": "603301",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603305": {
+		  "name": "603305.XSHG",
+		  "code": "603305",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603313": {
+		  "name": "603313.XSHG",
+		  "code": "603313",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603320": {
+		  "name": "603320.XSHG",
+		  "code": "603320",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603323": {
+		  "name": "603323.XSHG",
+		  "code": "603323",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603331": {
+		  "name": "603331.XSHG",
+		  "code": "603331",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603336": {
+		  "name": "603336.XSHG",
+		  "code": "603336",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603345": {
+		  "name": "603345.XSHG",
+		  "code": "603345",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603348": {
+		  "name": "603348.XSHG",
+		  "code": "603348",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603355": {
+		  "name": "603355.XSHG",
+		  "code": "603355",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603363": {
+		  "name": "603363.XSHG",
+		  "code": "603363",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603368": {
+		  "name": "603368.XSHG",
+		  "code": "603368",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603377": {
+		  "name": "603377.XSHG",
+		  "code": "603377",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603421": {
+		  "name": "603421.XSHG",
+		  "code": "603421",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603466": {
+		  "name": "603466.XSHG",
+		  "code": "603466",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603477": {
+		  "name": "603477.XSHG",
+		  "code": "603477",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603486": {
+		  "name": "603486.XSHG",
+		  "code": "603486",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603499": {
+		  "name": "603499.XSHG",
+		  "code": "603499",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603501": {
+		  "name": "603501.XSHG",
+		  "code": "603501",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603516": {
+		  "name": "603516.XSHG",
+		  "code": "603516",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603517": {
+		  "name": "603517.XSHG",
+		  "code": "603517",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603518": {
+		  "name": "603518.XSHG",
+		  "code": "603518",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603528": {
+		  "name": "603528.XSHG",
+		  "code": "603528",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603529": {
+		  "name": "603529.XSHG",
+		  "code": "603529",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603535": {
+		  "name": "603535.XSHG",
+		  "code": "603535",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603538": {
+		  "name": "603538.XSHG",
+		  "code": "603538",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603557": {
+		  "name": "603557.XSHG",
+		  "code": "603557",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603568": {
+		  "name": "603568.XSHG",
+		  "code": "603568",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603569": {
+		  "name": "603569.XSHG",
+		  "code": "603569",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603578": {
+		  "name": "603578.XSHG",
+		  "code": "603578",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603579": {
+		  "name": "603579.XSHG",
+		  "code": "603579",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603585": {
+		  "name": "603585.XSHG",
+		  "code": "603585",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603588": {
+		  "name": "603588.XSHG",
+		  "code": "603588",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603596": {
+		  "name": "603596.XSHG",
+		  "code": "603596",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603601": {
+		  "name": "603601.XSHG",
+		  "code": "603601",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603602": {
+		  "name": "603602.XSHG",
+		  "code": "603602",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603605": {
+		  "name": "603605.XSHG",
+		  "code": "603605",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603606": {
+		  "name": "603606.XSHG",
+		  "code": "603606",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603608": {
+		  "name": "603608.XSHG",
+		  "code": "603608",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603609": {
+		  "name": "603609.XSHG",
+		  "code": "603609",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603612": {
+		  "name": "603612.XSHG",
+		  "code": "603612",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603617": {
+		  "name": "603617.XSHG",
+		  "code": "603617",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603618": {
+		  "name": "603618.XSHG",
+		  "code": "603618",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603626": {
+		  "name": "603626.XSHG",
+		  "code": "603626",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603636": {
+		  "name": "603636.XSHG",
+		  "code": "603636",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603638": {
+		  "name": "603638.XSHG",
+		  "code": "603638",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603650": {
+		  "name": "603650.XSHG",
+		  "code": "603650",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603658": {
+		  "name": "603658.XSHG",
+		  "code": "603658",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603659": {
+		  "name": "603659.XSHG",
+		  "code": "603659",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603660": {
+		  "name": "603660.XSHG",
+		  "code": "603660",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603663": {
+		  "name": "603663.XSHG",
+		  "code": "603663",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603665": {
+		  "name": "603665.XSHG",
+		  "code": "603665",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603667": {
+		  "name": "603667.XSHG",
+		  "code": "603667",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603668": {
+		  "name": "603668.XSHG",
+		  "code": "603668",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603669": {
+		  "name": "603669.XSHG",
+		  "code": "603669",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603677": {
+		  "name": "603677.XSHG",
+		  "code": "603677",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603678": {
+		  "name": "603678.XSHG",
+		  "code": "603678",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603679": {
+		  "name": "603679.XSHG",
+		  "code": "603679",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603681": {
+		  "name": "603681.XSHG",
+		  "code": "603681",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603685": {
+		  "name": "603685.XSHG",
+		  "code": "603685",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603687": {
+		  "name": "603687.XSHG",
+		  "code": "603687",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603688": {
+		  "name": "603688.XSHG",
+		  "code": "603688",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603689": {
+		  "name": "603689.XSHG",
+		  "code": "603689",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603690": {
+		  "name": "603690.XSHG",
+		  "code": "603690",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603707": {
+		  "name": "603707.XSHG",
+		  "code": "603707",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603708": {
+		  "name": "603708.XSHG",
+		  "code": "603708",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603713": {
+		  "name": "603713.XSHG",
+		  "code": "603713",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603716": {
+		  "name": "603716.XSHG",
+		  "code": "603716",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603733": {
+		  "name": "603733.XSHG",
+		  "code": "603733",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603738": {
+		  "name": "603738.XSHG",
+		  "code": "603738",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603757": {
+		  "name": "603757.XSHG",
+		  "code": "603757",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603776": {
+		  "name": "603776.XSHG",
+		  "code": "603776",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603797": {
+		  "name": "603797.XSHG",
+		  "code": "603797",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603799": {
+		  "name": "603799.XSHG",
+		  "code": "603799",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603806": {
+		  "name": "603806.XSHG",
+		  "code": "603806",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603809": {
+		  "name": "603809.XSHG",
+		  "code": "603809",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603810": {
+		  "name": "603810.XSHG",
+		  "code": "603810",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603816": {
+		  "name": "603816.XSHG",
+		  "code": "603816",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603817": {
+		  "name": "603817.XSHG",
+		  "code": "603817",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603822": {
+		  "name": "603822.XSHG",
+		  "code": "603822",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603833": {
+		  "name": "603833.XSHG",
+		  "code": "603833",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603861": {
+		  "name": "603861.XSHG",
+		  "code": "603861",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603866": {
+		  "name": "603866.XSHG",
+		  "code": "603866",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603867": {
+		  "name": "603867.XSHG",
+		  "code": "603867",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603871": {
+		  "name": "603871.XSHG",
+		  "code": "603871",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603876": {
+		  "name": "603876.XSHG",
+		  "code": "603876",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603877": {
+		  "name": "603877.XSHG",
+		  "code": "603877",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603883": {
+		  "name": "603883.XSHG",
+		  "code": "603883",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603887": {
+		  "name": "603887.XSHG",
+		  "code": "603887",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603890": {
+		  "name": "603890.XSHG",
+		  "code": "603890",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603896": {
+		  "name": "603896.XSHG",
+		  "code": "603896",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603897": {
+		  "name": "603897.XSHG",
+		  "code": "603897",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603898": {
+		  "name": "603898.XSHG",
+		  "code": "603898",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603901": {
+		  "name": "603901.XSHG",
+		  "code": "603901",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603906": {
+		  "name": "603906.XSHG",
+		  "code": "603906",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603912": {
+		  "name": "603912.XSHG",
+		  "code": "603912",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603916": {
+		  "name": "603916.XSHG",
+		  "code": "603916",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603920": {
+		  "name": "603920.XSHG",
+		  "code": "603920",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603939": {
+		  "name": "603939.XSHG",
+		  "code": "603939",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603956": {
+		  "name": "603956.XSHG",
+		  "code": "603956",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603960": {
+		  "name": "603960.XSHG",
+		  "code": "603960",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603966": {
+		  "name": "603966.XSHG",
+		  "code": "603966",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603976": {
+		  "name": "603976.XSHG",
+		  "code": "603976",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603978": {
+		  "name": "603978.XSHG",
+		  "code": "603978",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603979": {
+		  "name": "603979.XSHG",
+		  "code": "603979",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603982": {
+		  "name": "603982.XSHG",
+		  "code": "603982",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603989": {
+		  "name": "603989.XSHG",
+		  "code": "603989",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603992": {
+		  "name": "603992.XSHG",
+		  "code": "603992",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603993": {
+		  "name": "603993.XSHG",
+		  "code": "603993",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "603995": {
+		  "name": "603995.XSHG",
+		  "code": "603995",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605006": {
+		  "name": "605006.XSHG",
+		  "code": "605006",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605007": {
+		  "name": "605007.XSHG",
+		  "code": "605007",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605020": {
+		  "name": "605020.XSHG",
+		  "code": "605020",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605068": {
+		  "name": "605068.XSHG",
+		  "code": "605068",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605088": {
+		  "name": "605088.XSHG",
+		  "code": "605088",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605128": {
+		  "name": "605128.XSHG",
+		  "code": "605128",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605133": {
+		  "name": "605133.XSHG",
+		  "code": "605133",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605138": {
+		  "name": "605138.XSHG",
+		  "code": "605138",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605162": {
+		  "name": "605162.XSHG",
+		  "code": "605162",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605166": {
+		  "name": "605166.XSHG",
+		  "code": "605166",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605189": {
+		  "name": "605189.XSHG",
+		  "code": "605189",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605222": {
+		  "name": "605222.XSHG",
+		  "code": "605222",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605358": {
+		  "name": "605358.XSHG",
+		  "code": "605358",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "605488": {
+		  "name": "605488.XSHG",
+		  "code": "605488",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688001": {
+		  "name": "688001.XSHG",
+		  "code": "688001",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688002": {
+		  "name": "688002.XSHG",
+		  "code": "688002",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688026": {
+		  "name": "688026.XSHG",
+		  "code": "688026",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688030": {
+		  "name": "688030.XSHG",
+		  "code": "688030",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688059": {
+		  "name": "688059.XSHG",
+		  "code": "688059",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688066": {
+		  "name": "688066.XSHG",
+		  "code": "688066",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688096": {
+		  "name": "688096.XSHG",
+		  "code": "688096",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688116": {
+		  "name": "688116.XSHG",
+		  "code": "688116",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688148": {
+		  "name": "688148.XSHG",
+		  "code": "688148",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688166": {
+		  "name": "688166.XSHG",
+		  "code": "688166",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688179": {
+		  "name": "688179.XSHG",
+		  "code": "688179",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688186": {
+		  "name": "688186.XSHG",
+		  "code": "688186",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688208": {
+		  "name": "688208.XSHG",
+		  "code": "688208",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688219": {
+		  "name": "688219.XSHG",
+		  "code": "688219",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688223": {
+		  "name": "688223.XSHG",
+		  "code": "688223",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688268": {
+		  "name": "688268.XSHG",
+		  "code": "688268",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688301": {
+		  "name": "688301.XSHG",
+		  "code": "688301",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688321": {
+		  "name": "688321.XSHG",
+		  "code": "688321",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688323": {
+		  "name": "688323.XSHG",
+		  "code": "688323",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688328": {
+		  "name": "688328.XSHG",
+		  "code": "688328",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688350": {
+		  "name": "688350.XSHG",
+		  "code": "688350",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688357": {
+		  "name": "688357.XSHG",
+		  "code": "688357",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688388": {
+		  "name": "688388.XSHG",
+		  "code": "688388",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688499": {
+		  "name": "688499.XSHG",
+		  "code": "688499",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688556": {
+		  "name": "688556.XSHG",
+		  "code": "688556",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688590": {
+		  "name": "688590.XSHG",
+		  "code": "688590",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688595": {
+		  "name": "688595.XSHG",
+		  "code": "688595",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688598": {
+		  "name": "688598.XSHG",
+		  "code": "688598",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688599": {
+		  "name": "688599.XSHG",
+		  "code": "688599",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688676": {
+		  "name": "688676.XSHG",
+		  "code": "688676",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688680": {
+		  "name": "688680.XSHG",
+		  "code": "688680",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688689": {
+		  "name": "688689.XSHG",
+		  "code": "688689",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688772": {
+		  "name": "688772.XSHG",
+		  "code": "688772",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 },
+		 "688779": {
+		  "name": "688779.XSHG",
+		  "code": "688779",
+		  "exchg": "SSE",
+		  "product": "STK"
+		 }
+	},
+	"SZSE": {	 
+		 "120002": {
+		  "name": "18中原EB",
+		  "code": "120002",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "120003": {
+		  "name": "19华菱EB",
+		  "code": "120003",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "120004": {
+		  "name": "20华菱EB",
+		  "code": "120004",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123002": {
+		  "name": "国祯转债",
+		  "code": "123002",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123003": {
+		  "name": "蓝思转债",
+		  "code": "123003",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123004": {
+		  "name": "铁汉转债",
+		  "code": "123004",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123007": {
+		  "name": "道氏转债",
+		  "code": "123007",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123009": {
+		  "name": "星源转债",
+		  "code": "123009",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123010": {
+		  "name": "博世转债",
+		  "code": "123010",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123011": {
+		  "name": "德尔转债",
+		  "code": "123011",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123012": {
+		  "name": "万顺转债",
+		  "code": "123012",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123013": {
+		  "name": "横河转债",
+		  "code": "123013",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123014": {
+		  "name": "凯发转债",
+		  "code": "123014",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123015": {
+		  "name": "蓝盾转债",
+		  "code": "123015",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123016": {
+		  "name": "洲明转债",
+		  "code": "123016",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123017": {
+		  "name": "寒锐转债",
+		  "code": "123017",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123018": {
+		  "name": "溢利转债",
+		  "code": "123018",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123019": {
+		  "name": "中来转债",
+		  "code": "123019",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123020": {
+		  "name": "富祥转债",
+		  "code": "123020",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123021": {
+		  "name": "万信转2",
+		  "code": "123021",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123022": {
+		  "name": "长信转债",
+		  "code": "123022",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123023": {
+		  "name": "迪森转债",
+		  "code": "123023",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123024": {
+		  "name": "岱勒转债",
+		  "code": "123024",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123025": {
+		  "name": "精测转债",
+		  "code": "123025",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123026": {
+		  "name": "中环转债",
+		  "code": "123026",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123027": {
+		  "name": "蓝晓转债",
+		  "code": "123027",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123028": {
+		  "name": "清水转债",
+		  "code": "123028",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123029": {
+		  "name": "英科转债",
+		  "code": "123029",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123030": {
+		  "name": "九洲转债",
+		  "code": "123030",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123031": {
+		  "name": "晶瑞转债",
+		  "code": "123031",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123032": {
+		  "name": "万里转债",
+		  "code": "123032",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123033": {
+		  "name": "金力转债",
+		  "code": "123033",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123034": {
+		  "name": "通光转债",
+		  "code": "123034",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123035": {
+		  "name": "利德转债",
+		  "code": "123035",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123036": {
+		  "name": "先导转债",
+		  "code": "123036",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123037": {
+		  "name": "新莱转债",
+		  "code": "123037",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123038": {
+		  "name": "联得转债",
+		  "code": "123038",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123039": {
+		  "name": "开润转债",
+		  "code": "123039",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123040": {
+		  "name": "乐普转债",
+		  "code": "123040",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123041": {
+		  "name": "东财转2",
+		  "code": "123041",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123042": {
+		  "name": "银河转债",
+		  "code": "123042",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123043": {
+		  "name": "正元转债",
+		  "code": "123043",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123044": {
+		  "name": "红相转债",
+		  "code": "123044",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123045": {
+		  "name": "雷迪转债",
+		  "code": "123045",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123046": {
+		  "name": "天铁转债",
+		  "code": "123046",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123047": {
+		  "name": "久吾转债",
+		  "code": "123047",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123048": {
+		  "name": "应急转债",
+		  "code": "123048",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123049": {
+		  "name": "维尔转债",
+		  "code": "123049",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123050": {
+		  "name": "聚飞转债",
+		  "code": "123050",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123051": {
+		  "name": "今天转债",
+		  "code": "123051",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123052": {
+		  "name": "飞鹿转债",
+		  "code": "123052",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123053": {
+		  "name": "宝通转债",
+		  "code": "123053",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123054": {
+		  "name": "思特转债",
+		  "code": "123054",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123055": {
+		  "name": "晨光转债",
+		  "code": "123055",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123056": {
+		  "name": "雪榕转债",
+		  "code": "123056",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123057": {
+		  "name": "美联转债",
+		  "code": "123057",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123058": {
+		  "name": "欣旺转债",
+		  "code": "123058",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123059": {
+		  "name": "银信转债",
+		  "code": "123059",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123060": {
+		  "name": "苏试转债",
+		  "code": "123060",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123061": {
+		  "name": "航新转债",
+		  "code": "123061",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123062": {
+		  "name": "三超转债",
+		  "code": "123062",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123063": {
+		  "name": "大禹转债",
+		  "code": "123063",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123064": {
+		  "name": "万孚转债",
+		  "code": "123064",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123065": {
+		  "name": "宝莱转债",
+		  "code": "123065",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123066": {
+		  "name": "赛意转债",
+		  "code": "123066",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123067": {
+		  "name": "斯莱转债",
+		  "code": "123067",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123068": {
+		  "name": "弘信转债",
+		  "code": "123068",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123069": {
+		  "name": "金诺转债",
+		  "code": "123069",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123070": {
+		  "name": "鹏辉转债",
+		  "code": "123070",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123071": {
+		  "name": "天能转债",
+		  "code": "123071",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123072": {
+		  "name": "乐歌转债",
+		  "code": "123072",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123073": {
+		  "name": "同和转债",
+		  "code": "123073",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123074": {
+		  "name": "隆利转债",
+		  "code": "123074",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123075": {
+		  "name": "贝斯转债",
+		  "code": "123075",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123076": {
+		  "name": "强力转债",
+		  "code": "123076",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123077": {
+		  "name": "汉得转债",
+		  "code": "123077",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123078": {
+		  "name": "飞凯转债",
+		  "code": "123078",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123079": {
+		  "name": "运达转债",
+		  "code": "123079",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123080": {
+		  "name": "海波转债",
+		  "code": "123080",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123081": {
+		  "name": "精研转债",
+		  "code": "123081",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123082": {
+		  "name": "北陆转债",
+		  "code": "123082",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123083": {
+		  "name": "朗新转债",
+		  "code": "123083",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123084": {
+		  "name": "高澜转债",
+		  "code": "123084",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123085": {
+		  "name": "万顺转2",
+		  "code": "123085",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123086": {
+		  "name": "海兰转债",
+		  "code": "123086",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123087": {
+		  "name": "明电转债",
+		  "code": "123087",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123088": {
+		  "name": "威唐转债",
+		  "code": "123088",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123089": {
+		  "name": "九洲转2",
+		  "code": "123089",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123090": {
+		  "name": "三诺转债",
+		  "code": "123090",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123091": {
+		  "name": "长海转债",
+		  "code": "123091",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123092": {
+		  "name": "天壕转债",
+		  "code": "123092",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123093": {
+		  "name": "金陵转债",
+		  "code": "123093",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123094": {
+		  "name": "星源转2",
+		  "code": "123094",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123096": {
+		  "name": "思创转债",
+		  "code": "123096",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123097": {
+		  "name": "美力转债",
+		  "code": "123097",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123098": {
+		  "name": "一品转债",
+		  "code": "123098",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123099": {
+		  "name": "普利转债",
+		  "code": "123099",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123100": {
+		  "name": "朗科转债",
+		  "code": "123100",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123101": {
+		  "name": "拓斯转债",
+		  "code": "123101",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123102": {
+		  "name": "华自转债",
+		  "code": "123102",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123103": {
+		  "name": "震安转债",
+		  "code": "123103",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123104": {
+		  "name": "卫宁转债",
+		  "code": "123104",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123105": {
+		  "name": "拓尔转债",
+		  "code": "123105",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123106": {
+		  "name": "正丹转债",
+		  "code": "123106",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123107": {
+		  "name": "温氏转债",
+		  "code": "123107",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123108": {
+		  "name": "乐普转2",
+		  "code": "123108",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123109": {
+		  "name": "昌红转债",
+		  "code": "123109",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123110": {
+		  "name": "九典转债",
+		  "code": "123110",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123111": {
+		  "name": "东财转3",
+		  "code": "123111",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123112": {
+		  "name": "万讯转债",
+		  "code": "123112",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123113": {
+		  "name": "仙乐转债",
+		  "code": "123113",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123114": {
+		  "name": "三角转债",
+		  "code": "123114",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123115": {
+		  "name": "捷捷转债",
+		  "code": "123115",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123116": {
+		  "name": "万兴转债",
+		  "code": "123116",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123117": {
+		  "name": "健帆转债",
+		  "code": "123117",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123118": {
+		  "name": "惠城转债",
+		  "code": "123118",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123119": {
+		  "name": "康泰转2",
+		  "code": "123119",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123120": {
+		  "name": "隆华转债",
+		  "code": "123120",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123121": {
+		  "name": "帝尔转债",
+		  "code": "123121",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123122": {
+		  "name": "富瀚转债",
+		  "code": "123122",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123123": {
+		  "name": "江丰转债",
+		  "code": "123123",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123124": {
+		  "name": "晶瑞转2",
+		  "code": "123124",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123125": {
+		  "name": "元力转债",
+		  "code": "123125",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123126": {
+		  "name": "瑞丰转债",
+		  "code": "123126",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123127": {
+		  "name": "耐普转债",
+		  "code": "123127",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123128": {
+		  "name": "首华转债",
+		  "code": "123128",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123129": {
+		  "name": "锦鸡转债",
+		  "code": "123129",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123130": {
+		  "name": "设研转债",
+		  "code": "123130",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123131": {
+		  "name": "奥飞转债",
+		  "code": "123131",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123132": {
+		  "name": "回盛转债",
+		  "code": "123132",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123133": {
+		  "name": "佩蒂转债",
+		  "code": "123133",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123134": {
+		  "name": "卡倍转债",
+		  "code": "123134",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123135": {
+		  "name": "泰林转债",
+		  "code": "123135",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123136": {
+		  "name": "城市转债",
+		  "code": "123136",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123137": {
+		  "name": "锦浪转债",
+		  "code": "123137",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123138": {
+		  "name": "丝路转债",
+		  "code": "123138",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123139": {
+		  "name": "铂科转债",
+		  "code": "123139",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123140": {
+		  "name": "天地转债",
+		  "code": "123140",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123141": {
+		  "name": "宏丰转债",
+		  "code": "123141",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123142": {
+		  "name": "申昊转债",
+		  "code": "123142",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123143": {
+		  "name": "胜蓝转债",
+		  "code": "123143",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123144": {
+		  "name": "裕兴转债",
+		  "code": "123144",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123145": {
+		  "name": "药石转债",
+		  "code": "123145",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123146": {
+		  "name": "中环转2",
+		  "code": "123146",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123147": {
+		  "name": "中辰转债",
+		  "code": "123147",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123148": {
+		  "name": "上能转债",
+		  "code": "123148",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123149": {
+		  "name": "通裕转债",
+		  "code": "123149",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123150": {
+		  "name": "九强转债",
+		  "code": "123150",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123151": {
+		  "name": "康医转债",
+		  "code": "123151",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123152": {
+		  "name": "润禾转债",
+		  "code": "123152",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123153": {
+		  "name": "英力转债",
+		  "code": "123153",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123154": {
+		  "name": "火星转债",
+		  "code": "123154",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123155": {
+		  "name": "中陆转债",
+		  "code": "123155",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123156": {
+		  "name": "博汇转债",
+		  "code": "123156",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123157": {
+		  "name": "科蓝转债",
+		  "code": "123157",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123158": {
+		  "name": "宙邦转债",
+		  "code": "123158",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123159": {
+		  "name": "崧盛转债",
+		  "code": "123159",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123160": {
+		  "name": "泰福转债",
+		  "code": "123160",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123161": {
+		  "name": "强联转债",
+		  "code": "123161",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123162": {
+		  "name": "东杰转债",
+		  "code": "123162",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123163": {
+		  "name": "金沃转债",
+		  "code": "123163",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123164": {
+		  "name": "法本转债",
+		  "code": "123164",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123165": {
+		  "name": "回天转债",
+		  "code": "123165",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123166": {
+		  "name": "蒙泰转债",
+		  "code": "123166",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123167": {
+		  "name": "商络转债",
+		  "code": "123167",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123168": {
+		  "name": "惠云转债",
+		  "code": "123168",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123169": {
+		  "name": "正海转债",
+		  "code": "123169",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123170": {
+		  "name": "南电转债",
+		  "code": "123170",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123171": {
+		  "name": "共同转债",
+		  "code": "123171",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123172": {
+		  "name": "漱玉转债",
+		  "code": "123172",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123173": {
+		  "name": "恒锋转债",
+		  "code": "123173",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123174": {
+		  "name": "精锻转债",
+		  "code": "123174",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123175": {
+		  "name": "百畅转债",
+		  "code": "123175",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123176": {
+		  "name": "精测转2",
+		  "code": "123176",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123177": {
+		  "name": "测绘转债",
+		  "code": "123177",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123178": {
+		  "name": "花园转债",
+		  "code": "123178",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123179": {
+		  "name": "立高转债",
+		  "code": "123179",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123180": {
+		  "name": "浙矿转债",
+		  "code": "123180",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123181": {
+		  "name": "亚康转债",
+		  "code": "123181",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123182": {
+		  "name": "广联转债",
+		  "code": "123182",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123183": {
+		  "name": "海顺转债",
+		  "code": "123183",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123184": {
+		  "name": "天阳转债",
+		  "code": "123184",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123185": {
+		  "name": "能辉转债",
+		  "code": "123185",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123186": {
+		  "name": "志特转债",
+		  "code": "123186",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123187": {
+		  "name": "超达转债",
+		  "code": "123187",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123188": {
+		  "name": "水羊转债",
+		  "code": "123188",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123189": {
+		  "name": "晓鸣转债",
+		  "code": "123189",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123190": {
+		  "name": "道氏转02",
+		  "code": "123190",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123191": {
+		  "name": "智尚转债",
+		  "code": "123191",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123192": {
+		  "name": "科思转债",
+		  "code": "123192",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123193": {
+		  "name": "海能转债",
+		  "code": "123193",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123194": {
+		  "name": "百洋转债",
+		  "code": "123194",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123195": {
+		  "name": "蓝晓转02",
+		  "code": "123195",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123196": {
+		  "name": "正元转02",
+		  "code": "123196",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "123197": {
+		  "name": "光力转债",
+		  "code": "123197",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127003": {
+		  "name": "海印转债",
+		  "code": "127003",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127004": {
+		  "name": "模塑转债",
+		  "code": "127004",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127005": {
+		  "name": "长证转债",
+		  "code": "127005",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127006": {
+		  "name": "敖东转债",
+		  "code": "127006",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127007": {
+		  "name": "湖广转债",
+		  "code": "127007",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127008": {
+		  "name": "特发转债",
+		  "code": "127008",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127011": {
+		  "name": "中鼎转2",
+		  "code": "127011",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127012": {
+		  "name": "招路转债",
+		  "code": "127012",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127013": {
+		  "name": "创维转债",
+		  "code": "127013",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127014": {
+		  "name": "北方转债",
+		  "code": "127014",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127015": {
+		  "name": "希望转债",
+		  "code": "127015",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127016": {
+		  "name": "鲁泰转债",
+		  "code": "127016",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127017": {
+		  "name": "万青转债",
+		  "code": "127017",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127018": {
+		  "name": "本钢转债",
+		  "code": "127018",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127019": {
+		  "name": "国城转债",
+		  "code": "127019",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127020": {
+		  "name": "中金转债",
+		  "code": "127020",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127021": {
+		  "name": "特发转2",
+		  "code": "127021",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127022": {
+		  "name": "恒逸转债",
+		  "code": "127022",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127023": {
+		  "name": "华菱转2",
+		  "code": "127023",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127024": {
+		  "name": "盈峰转债",
+		  "code": "127024",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127025": {
+		  "name": "冀东转债",
+		  "code": "127025",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127026": {
+		  "name": "超声转债",
+		  "code": "127026",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127027": {
+		  "name": "能化转债",
+		  "code": "127027",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127028": {
+		  "name": "英特转债",
+		  "code": "127028",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127029": {
+		  "name": "中钢转债",
+		  "code": "127029",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127030": {
+		  "name": "盛虹转债",
+		  "code": "127030",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127031": {
+		  "name": "洋丰转债",
+		  "code": "127031",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127032": {
+		  "name": "苏行转债",
+		  "code": "127032",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127033": {
+		  "name": "中装转2",
+		  "code": "127033",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127034": {
+		  "name": "绿茵转债",
+		  "code": "127034",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127035": {
+		  "name": "濮耐转债",
+		  "code": "127035",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127036": {
+		  "name": "三花转债",
+		  "code": "127036",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127037": {
+		  "name": "银轮转债",
+		  "code": "127037",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127038": {
+		  "name": "国微转债",
+		  "code": "127038",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127039": {
+		  "name": "北港转债",
+		  "code": "127039",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127040": {
+		  "name": "国泰转债",
+		  "code": "127040",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127041": {
+		  "name": "弘亚转债",
+		  "code": "127041",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127042": {
+		  "name": "嘉美转债",
+		  "code": "127042",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127043": {
+		  "name": "川恒转债",
+		  "code": "127043",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127044": {
+		  "name": "蒙娜转债",
+		  "code": "127044",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127045": {
+		  "name": "牧原转债",
+		  "code": "127045",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127046": {
+		  "name": "百润转债",
+		  "code": "127046",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127047": {
+		  "name": "帝欧转债",
+		  "code": "127047",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127048": {
+		  "name": "中大转债",
+		  "code": "127048",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127049": {
+		  "name": "希望转2",
+		  "code": "127049",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127050": {
+		  "name": "麒麟转债",
+		  "code": "127050",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127051": {
+		  "name": "博杰转债",
+		  "code": "127051",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127052": {
+		  "name": "西子转债",
+		  "code": "127052",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127053": {
+		  "name": "豪美转债",
+		  "code": "127053",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127054": {
+		  "name": "双箭转债",
+		  "code": "127054",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127055": {
+		  "name": "精装转债",
+		  "code": "127055",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127056": {
+		  "name": "中特转债",
+		  "code": "127056",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127057": {
+		  "name": "盘龙转债",
+		  "code": "127057",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127058": {
+		  "name": "科伦转债",
+		  "code": "127058",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127059": {
+		  "name": "永东转2",
+		  "code": "127059",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127060": {
+		  "name": "湘佳转债",
+		  "code": "127060",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127061": {
+		  "name": "美锦转债",
+		  "code": "127061",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127062": {
+		  "name": "垒知转债",
+		  "code": "127062",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127063": {
+		  "name": "贵轮转债",
+		  "code": "127063",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127064": {
+		  "name": "杭氧转债",
+		  "code": "127064",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127065": {
+		  "name": "瑞鹄转债",
+		  "code": "127065",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127066": {
+		  "name": "科利转债",
+		  "code": "127066",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127067": {
+		  "name": "恒逸转2",
+		  "code": "127067",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127068": {
+		  "name": "顺博转债",
+		  "code": "127068",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127069": {
+		  "name": "小熊转债",
+		  "code": "127069",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127070": {
+		  "name": "大中转债",
+		  "code": "127070",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127071": {
+		  "name": "天箭转债",
+		  "code": "127071",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127072": {
+		  "name": "博实转债",
+		  "code": "127072",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127073": {
+		  "name": "天赐转债",
+		  "code": "127073",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127074": {
+		  "name": "麦米转2",
+		  "code": "127074",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127075": {
+		  "name": "百川转2",
+		  "code": "127075",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127076": {
+		  "name": "中宠转2",
+		  "code": "127076",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127077": {
+		  "name": "华宏转债",
+		  "code": "127077",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127078": {
+		  "name": "优彩转债",
+		  "code": "127078",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127079": {
+		  "name": "华亚转债",
+		  "code": "127079",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127080": {
+		  "name": "声迅转债",
+		  "code": "127080",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127081": {
+		  "name": "中旗转债",
+		  "code": "127081",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127082": {
+		  "name": "亚科转债",
+		  "code": "127082",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127083": {
+		  "name": "山路转债",
+		  "code": "127083",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127084": {
+		  "name": "柳工转2",
+		  "code": "127084",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "127085": {
+		  "name": "韵达转债",
+		  "code": "127085",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128010": {
+		  "name": "蔚蓝转债",
+		  "code": "128010",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128012": {
+		  "name": "辉丰转债",
+		  "code": "128012",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128013": {
+		  "name": "洪涛转债",
+		  "code": "128013",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128014": {
+		  "name": "永东转债",
+		  "code": "128014",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128015": {
+		  "name": "久其转债",
+		  "code": "128015",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128016": {
+		  "name": "雨虹转债",
+		  "code": "128016",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128017": {
+		  "name": "金禾转债",
+		  "code": "128017",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128018": {
+		  "name": "时达转债",
+		  "code": "128018",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128019": {
+		  "name": "久立转2",
+		  "code": "128019",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128020": {
+		  "name": "水晶转债",
+		  "code": "128020",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128021": {
+		  "name": "兄弟转债",
+		  "code": "128021",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128022": {
+		  "name": "众信转债",
+		  "code": "128022",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128023": {
+		  "name": "亚太转债",
+		  "code": "128023",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128025": {
+		  "name": "特一转债",
+		  "code": "128025",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128026": {
+		  "name": "众兴转债",
+		  "code": "128026",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128028": {
+		  "name": "赣锋转债",
+		  "code": "128028",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128029": {
+		  "name": "太阳转债",
+		  "code": "128029",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128030": {
+		  "name": "天康转债",
+		  "code": "128030",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128032": {
+		  "name": "双环转债",
+		  "code": "128032",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128033": {
+		  "name": "迪龙转债",
+		  "code": "128033",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128034": {
+		  "name": "江银转债",
+		  "code": "128034",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128035": {
+		  "name": "大族转债",
+		  "code": "128035",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128036": {
+		  "name": "金农转债",
+		  "code": "128036",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128037": {
+		  "name": "岩土转债",
+		  "code": "128037",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128038": {
+		  "name": "利欧转债",
+		  "code": "128038",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128039": {
+		  "name": "三力转债",
+		  "code": "128039",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128040": {
+		  "name": "华通转债",
+		  "code": "128040",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128041": {
+		  "name": "盛路转债",
+		  "code": "128041",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128042": {
+		  "name": "凯中转债",
+		  "code": "128042",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128043": {
+		  "name": "东音转债",
+		  "code": "128043",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128044": {
+		  "name": "岭南转债",
+		  "code": "128044",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128045": {
+		  "name": "机电转债",
+		  "code": "128045",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128046": {
+		  "name": "利尔转债",
+		  "code": "128046",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128048": {
+		  "name": "张行转债",
+		  "code": "128048",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128049": {
+		  "name": "华源转债",
+		  "code": "128049",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128050": {
+		  "name": "钧达转债",
+		  "code": "128050",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128051": {
+		  "name": "光华转债",
+		  "code": "128051",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128052": {
+		  "name": "凯龙转债",
+		  "code": "128052",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128053": {
+		  "name": "尚荣转债",
+		  "code": "128053",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128054": {
+		  "name": "中宠转债",
+		  "code": "128054",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128055": {
+		  "name": "长青转2",
+		  "code": "128055",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128056": {
+		  "name": "今飞转债",
+		  "code": "128056",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128057": {
+		  "name": "博彦转债",
+		  "code": "128057",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128058": {
+		  "name": "拓邦转债",
+		  "code": "128058",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128059": {
+		  "name": "视源转债",
+		  "code": "128059",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128060": {
+		  "name": "中装转债",
+		  "code": "128060",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128061": {
+		  "name": "启明转债",
+		  "code": "128061",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128062": {
+		  "name": "亚药转债",
+		  "code": "128062",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128063": {
+		  "name": "未来转债",
+		  "code": "128063",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128064": {
+		  "name": "司尔转债",
+		  "code": "128064",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128065": {
+		  "name": "雅化转债",
+		  "code": "128065",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128066": {
+		  "name": "亚泰转债",
+		  "code": "128066",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128067": {
+		  "name": "一心转债",
+		  "code": "128067",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128068": {
+		  "name": "和而转债",
+		  "code": "128068",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128069": {
+		  "name": "华森转债",
+		  "code": "128069",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128070": {
+		  "name": "智能转债",
+		  "code": "128070",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128071": {
+		  "name": "合兴转债",
+		  "code": "128071",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128072": {
+		  "name": "翔鹭转债",
+		  "code": "128072",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128073": {
+		  "name": "哈尔转债",
+		  "code": "128073",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128074": {
+		  "name": "游族转债",
+		  "code": "128074",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128075": {
+		  "name": "远东转债",
+		  "code": "128075",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128076": {
+		  "name": "金轮转债",
+		  "code": "128076",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128077": {
+		  "name": "华夏转债",
+		  "code": "128077",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128078": {
+		  "name": "太极转债",
+		  "code": "128078",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128079": {
+		  "name": "英联转债",
+		  "code": "128079",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128080": {
+		  "name": "顺丰转债",
+		  "code": "128080",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128081": {
+		  "name": "海亮转债",
+		  "code": "128081",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128082": {
+		  "name": "华锋转债",
+		  "code": "128082",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128083": {
+		  "name": "新北转债",
+		  "code": "128083",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128084": {
+		  "name": "木森转债",
+		  "code": "128084",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128085": {
+		  "name": "鸿达转债",
+		  "code": "128085",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128086": {
+		  "name": "国轩转债",
+		  "code": "128086",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128087": {
+		  "name": "孚日转债",
+		  "code": "128087",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128088": {
+		  "name": "深南转债",
+		  "code": "128088",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128089": {
+		  "name": "麦米转债",
+		  "code": "128089",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128090": {
+		  "name": "汽模转2",
+		  "code": "128090",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128091": {
+		  "name": "新天转债",
+		  "code": "128091",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128092": {
+		  "name": "唐人转债",
+		  "code": "128092",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128093": {
+		  "name": "百川转债",
+		  "code": "128093",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128094": {
+		  "name": "星帅转债",
+		  "code": "128094",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128095": {
+		  "name": "恩捷转债",
+		  "code": "128095",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128096": {
+		  "name": "奥瑞转债",
+		  "code": "128096",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128097": {
+		  "name": "奥佳转债",
+		  "code": "128097",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128098": {
+		  "name": "康弘转债",
+		  "code": "128098",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128099": {
+		  "name": "永高转债",
+		  "code": "128099",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128100": {
+		  "name": "搜特转债",
+		  "code": "128100",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128101": {
+		  "name": "联创转债",
+		  "code": "128101",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128102": {
+		  "name": "海大转债",
+		  "code": "128102",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128103": {
+		  "name": "同德转债",
+		  "code": "128103",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128104": {
+		  "name": "裕同转债",
+		  "code": "128104",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128105": {
+		  "name": "长集转债",
+		  "code": "128105",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128106": {
+		  "name": "华统转债",
+		  "code": "128106",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128107": {
+		  "name": "交科转债",
+		  "code": "128107",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128108": {
+		  "name": "蓝帆转债",
+		  "code": "128108",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128109": {
+		  "name": "楚江转债",
+		  "code": "128109",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128110": {
+		  "name": "永兴转债",
+		  "code": "128110",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128111": {
+		  "name": "中矿转债",
+		  "code": "128111",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128112": {
+		  "name": "歌尔转2",
+		  "code": "128112",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128113": {
+		  "name": "比音转债",
+		  "code": "128113",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128114": {
+		  "name": "正邦转债",
+		  "code": "128114",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128115": {
+		  "name": "巨星转债",
+		  "code": "128115",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128116": {
+		  "name": "瑞达转债",
+		  "code": "128116",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128117": {
+		  "name": "道恩转债",
+		  "code": "128117",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128118": {
+		  "name": "瀛通转债",
+		  "code": "128118",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128119": {
+		  "name": "龙大转债",
+		  "code": "128119",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128120": {
+		  "name": "联诚转债",
+		  "code": "128120",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128121": {
+		  "name": "宏川转债",
+		  "code": "128121",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128122": {
+		  "name": "兴森转债",
+		  "code": "128122",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128123": {
+		  "name": "国光转债",
+		  "code": "128123",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128124": {
+		  "name": "科华转债",
+		  "code": "128124",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128125": {
+		  "name": "华阳转债",
+		  "code": "128125",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128126": {
+		  "name": "赣锋转2",
+		  "code": "128126",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128127": {
+		  "name": "文科转债",
+		  "code": "128127",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128128": {
+		  "name": "齐翔转2",
+		  "code": "128128",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128129": {
+		  "name": "青农转债",
+		  "code": "128129",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128130": {
+		  "name": "景兴转债",
+		  "code": "128130",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128131": {
+		  "name": "崇达转2",
+		  "code": "128131",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128132": {
+		  "name": "交建转债",
+		  "code": "128132",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128133": {
+		  "name": "奇正转债",
+		  "code": "128133",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128134": {
+		  "name": "鸿路转债",
+		  "code": "128134",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128135": {
+		  "name": "洽洽转债",
+		  "code": "128135",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128136": {
+		  "name": "立讯转债",
+		  "code": "128136",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128137": {
+		  "name": "洁美转债",
+		  "code": "128137",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128138": {
+		  "name": "侨银转债",
+		  "code": "128138",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128139": {
+		  "name": "祥鑫转债",
+		  "code": "128139",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128140": {
+		  "name": "润建转债",
+		  "code": "128140",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128141": {
+		  "name": "旺能转债",
+		  "code": "128141",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128142": {
+		  "name": "新乳转债",
+		  "code": "128142",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128143": {
+		  "name": "锋龙转债",
+		  "code": "128143",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128144": {
+		  "name": "利民转债",
+		  "code": "128144",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "128145": {
+		  "name": "日丰转债",
+		  "code": "128145",
+		  "exchg": "SZSE",
+		  "product": "BOND"
+		 },
+		 "000001": {
+		  "name": "000001.XSHE",
+		  "code": "000001",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000060": {
+		  "name": "000060.XSHE",
+		  "code": "000060",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000063": {
+		  "name": "000063.XSHE",
+		  "code": "000063",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000065": {
+		  "name": "000065.XSHE",
+		  "code": "000065",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000070": {
+		  "name": "000070.XSHE",
+		  "code": "000070",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000089": {
+		  "name": "000089.XSHE",
+		  "code": "000089",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000099": {
+		  "name": "000099.XSHE",
+		  "code": "000099",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000301": {
+		  "name": "000301.XSHE",
+		  "code": "000301",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000401": {
+		  "name": "000401.XSHE",
+		  "code": "000401",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000411": {
+		  "name": "000411.XSHE",
+		  "code": "000411",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000425": {
+		  "name": "000425.XSHE",
+		  "code": "000425",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000498": {
+		  "name": "000498.XSHE",
+		  "code": "000498",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000528": {
+		  "name": "000528.XSHE",
+		  "code": "000528",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000552": {
+		  "name": "000552.XSHE",
+		  "code": "000552",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000582": {
+		  "name": "000582.XSHE",
+		  "code": "000582",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000589": {
+		  "name": "000589.XSHE",
+		  "code": "000589",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000623": {
+		  "name": "000623.XSHE",
+		  "code": "000623",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000629": {
+		  "name": "000629.XSHE",
+		  "code": "000629",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000630": {
+		  "name": "000630.XSHE",
+		  "code": "000630",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000665": {
+		  "name": "000665.XSHE",
+		  "code": "000665",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000688": {
+		  "name": "000688.XSHE",
+		  "code": "000688",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000700": {
+		  "name": "000700.XSHE",
+		  "code": "000700",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000703": {
+		  "name": "000703.XSHE",
+		  "code": "000703",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000708": {
+		  "name": "000708.XSHE",
+		  "code": "000708",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000709": {
+		  "name": "000709.XSHE",
+		  "code": "000709",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000719": {
+		  "name": "000719.XSHE",
+		  "code": "000719",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000723": {
+		  "name": "000723.XSHE",
+		  "code": "000723",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000726": {
+		  "name": "000726.XSHE",
+		  "code": "000726",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000729": {
+		  "name": "000729.XSHE",
+		  "code": "000729",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000731": {
+		  "name": "000731.XSHE",
+		  "code": "000731",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000761": {
+		  "name": "000761.XSHE",
+		  "code": "000761",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000783": {
+		  "name": "000783.XSHE",
+		  "code": "000783",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000789": {
+		  "name": "000789.XSHE",
+		  "code": "000789",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000810": {
+		  "name": "000810.XSHE",
+		  "code": "000810",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000811": {
+		  "name": "000811.XSHE",
+		  "code": "000811",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000823": {
+		  "name": "000823.XSHE",
+		  "code": "000823",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000839": {
+		  "name": "000839.XSHE",
+		  "code": "000839",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000861": {
+		  "name": "000861.XSHE",
+		  "code": "000861",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000876": {
+		  "name": "000876.XSHE",
+		  "code": "000876",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000887": {
+		  "name": "000887.XSHE",
+		  "code": "000887",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000902": {
+		  "name": "000902.XSHE",
+		  "code": "000902",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000928": {
+		  "name": "000928.XSHE",
+		  "code": "000928",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000932": {
+		  "name": "000932.XSHE",
+		  "code": "000932",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000960": {
+		  "name": "000960.XSHE",
+		  "code": "000960",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "000967": {
+		  "name": "000967.XSHE",
+		  "code": "000967",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "001203": {
+		  "name": "001203.XSHE",
+		  "code": "001203",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "001212": {
+		  "name": "001212.XSHE",
+		  "code": "001212",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "001965": {
+		  "name": "001965.XSHE",
+		  "code": "001965",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002002": {
+		  "name": "002002.XSHE",
+		  "code": "002002",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002008": {
+		  "name": "002008.XSHE",
+		  "code": "002008",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002013": {
+		  "name": "002013.XSHE",
+		  "code": "002013",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002022": {
+		  "name": "002022.XSHE",
+		  "code": "002022",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002031": {
+		  "name": "002031.XSHE",
+		  "code": "002031",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002034": {
+		  "name": "002034.XSHE",
+		  "code": "002034",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002036": {
+		  "name": "002036.XSHE",
+		  "code": "002036",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002049": {
+		  "name": "002049.XSHE",
+		  "code": "002049",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002050": {
+		  "name": "002050.XSHE",
+		  "code": "002050",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002061": {
+		  "name": "002061.XSHE",
+		  "code": "002061",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002065": {
+		  "name": "002065.XSHE",
+		  "code": "002065",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002067": {
+		  "name": "002067.XSHE",
+		  "code": "002067",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002074": {
+		  "name": "002074.XSHE",
+		  "code": "002074",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002078": {
+		  "name": "002078.XSHE",
+		  "code": "002078",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002083": {
+		  "name": "002083.XSHE",
+		  "code": "002083",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002091": {
+		  "name": "002091.XSHE",
+		  "code": "002091",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002100": {
+		  "name": "002100.XSHE",
+		  "code": "002100",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002120": {
+		  "name": "002120.XSHE",
+		  "code": "002120",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002126": {
+		  "name": "002126.XSHE",
+		  "code": "002126",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002131": {
+		  "name": "002131.XSHE",
+		  "code": "002131",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002139": {
+		  "name": "002139.XSHE",
+		  "code": "002139",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002142": {
+		  "name": "002142.XSHE",
+		  "code": "002142",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002157": {
+		  "name": "002157.XSHE",
+		  "code": "002157",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002171": {
+		  "name": "002171.XSHE",
+		  "code": "002171",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002174": {
+		  "name": "002174.XSHE",
+		  "code": "002174",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002179": {
+		  "name": "002179.XSHE",
+		  "code": "002179",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002185": {
+		  "name": "002185.XSHE",
+		  "code": "002185",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002203": {
+		  "name": "002203.XSHE",
+		  "code": "002203",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002224": {
+		  "name": "002224.XSHE",
+		  "code": "002224",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002225": {
+		  "name": "002225.XSHE",
+		  "code": "002225",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002228": {
+		  "name": "002228.XSHE",
+		  "code": "002228",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002233": {
+		  "name": "002233.XSHE",
+		  "code": "002233",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002241": {
+		  "name": "002241.XSHE",
+		  "code": "002241",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002245": {
+		  "name": "002245.XSHE",
+		  "code": "002245",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002258": {
+		  "name": "002258.XSHE",
+		  "code": "002258",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002271": {
+		  "name": "002271.XSHE",
+		  "code": "002271",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002273": {
+		  "name": "002273.XSHE",
+		  "code": "002273",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002279": {
+		  "name": "002279.XSHE",
+		  "code": "002279",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002284": {
+		  "name": "002284.XSHE",
+		  "code": "002284",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002287": {
+		  "name": "002287.XSHE",
+		  "code": "002287",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002311": {
+		  "name": "002311.XSHE",
+		  "code": "002311",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002318": {
+		  "name": "002318.XSHE",
+		  "code": "002318",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002325": {
+		  "name": "002325.XSHE",
+		  "code": "002325",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002347": {
+		  "name": "002347.XSHE",
+		  "code": "002347",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002352": {
+		  "name": "002352.XSHE",
+		  "code": "002352",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002360": {
+		  "name": "002360.XSHE",
+		  "code": "002360",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002368": {
+		  "name": "002368.XSHE",
+		  "code": "002368",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002370": {
+		  "name": "002370.XSHE",
+		  "code": "002370",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002376": {
+		  "name": "002376.XSHE",
+		  "code": "002376",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002381": {
+		  "name": "002381.XSHE",
+		  "code": "002381",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002382": {
+		  "name": "002382.XSHE",
+		  "code": "002382",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002391": {
+		  "name": "002391.XSHE",
+		  "code": "002391",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002398": {
+		  "name": "002398.XSHE",
+		  "code": "002398",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002402": {
+		  "name": "002402.XSHE",
+		  "code": "002402",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002406": {
+		  "name": "002406.XSHE",
+		  "code": "002406",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002408": {
+		  "name": "002408.XSHE",
+		  "code": "002408",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002422": {
+		  "name": "002422.XSHE",
+		  "code": "002422",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002430": {
+		  "name": "002430.XSHE",
+		  "code": "002430",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002436": {
+		  "name": "002436.XSHE",
+		  "code": "002436",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002439": {
+		  "name": "002439.XSHE",
+		  "code": "002439",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002444": {
+		  "name": "002444.XSHE",
+		  "code": "002444",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002446": {
+		  "name": "002446.XSHE",
+		  "code": "002446",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002455": {
+		  "name": "002455.XSHE",
+		  "code": "002455",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002460": {
+		  "name": "002460.XSHE",
+		  "code": "002460",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002472": {
+		  "name": "002472.XSHE",
+		  "code": "002472",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002475": {
+		  "name": "002475.XSHE",
+		  "code": "002475",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002491": {
+		  "name": "002491.XSHE",
+		  "code": "002491",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002496": {
+		  "name": "002496.XSHE",
+		  "code": "002496",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002497": {
+		  "name": "002497.XSHE",
+		  "code": "002497",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002503": {
+		  "name": "002503.XSHE",
+		  "code": "002503",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002510": {
+		  "name": "002510.XSHE",
+		  "code": "002510",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002521": {
+		  "name": "002521.XSHE",
+		  "code": "002521",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002527": {
+		  "name": "002527.XSHE",
+		  "code": "002527",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002534": {
+		  "name": "002534.XSHE",
+		  "code": "002534",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002538": {
+		  "name": "002538.XSHE",
+		  "code": "002538",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002540": {
+		  "name": "002540.XSHE",
+		  "code": "002540",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002541": {
+		  "name": "002541.XSHE",
+		  "code": "002541",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002542": {
+		  "name": "002542.XSHE",
+		  "code": "002542",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002548": {
+		  "name": "002548.XSHE",
+		  "code": "002548",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002551": {
+		  "name": "002551.XSHE",
+		  "code": "002551",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002557": {
+		  "name": "002557.XSHE",
+		  "code": "002557",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002562": {
+		  "name": "002562.XSHE",
+		  "code": "002562",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002567": {
+		  "name": "002567.XSHE",
+		  "code": "002567",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002568": {
+		  "name": "002568.XSHE",
+		  "code": "002568",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002597": {
+		  "name": "002597.XSHE",
+		  "code": "002597",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002603": {
+		  "name": "002603.XSHE",
+		  "code": "002603",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002614": {
+		  "name": "002614.XSHE",
+		  "code": "002614",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002615": {
+		  "name": "002615.XSHE",
+		  "code": "002615",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002616": {
+		  "name": "002616.XSHE",
+		  "code": "002616",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002631": {
+		  "name": "002631.XSHE",
+		  "code": "002631",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002641": {
+		  "name": "002641.XSHE",
+		  "code": "002641",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002645": {
+		  "name": "002645.XSHE",
+		  "code": "002645",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002649": {
+		  "name": "002649.XSHE",
+		  "code": "002649",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002658": {
+		  "name": "002658.XSHE",
+		  "code": "002658",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002698": {
+		  "name": "002698.XSHE",
+		  "code": "002698",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002701": {
+		  "name": "002701.XSHE",
+		  "code": "002701",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002707": {
+		  "name": "002707.XSHE",
+		  "code": "002707",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002709": {
+		  "name": "002709.XSHE",
+		  "code": "002709",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002714": {
+		  "name": "002714.XSHE",
+		  "code": "002714",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002717": {
+		  "name": "002717.XSHE",
+		  "code": "002717",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002722": {
+		  "name": "002722.XSHE",
+		  "code": "002722",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002726": {
+		  "name": "002726.XSHE",
+		  "code": "002726",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002727": {
+		  "name": "002727.XSHE",
+		  "code": "002727",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002728": {
+		  "name": "002728.XSHE",
+		  "code": "002728",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002734": {
+		  "name": "002734.XSHE",
+		  "code": "002734",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002738": {
+		  "name": "002738.XSHE",
+		  "code": "002738",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002741": {
+		  "name": "002741.XSHE",
+		  "code": "002741",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002745": {
+		  "name": "002745.XSHE",
+		  "code": "002745",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002749": {
+		  "name": "002749.XSHE",
+		  "code": "002749",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002753": {
+		  "name": "002753.XSHE",
+		  "code": "002753",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002756": {
+		  "name": "002756.XSHE",
+		  "code": "002756",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002758": {
+		  "name": "002758.XSHE",
+		  "code": "002758",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002772": {
+		  "name": "002772.XSHE",
+		  "code": "002772",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002773": {
+		  "name": "002773.XSHE",
+		  "code": "002773",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002775": {
+		  "name": "002775.XSHE",
+		  "code": "002775",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002783": {
+		  "name": "002783.XSHE",
+		  "code": "002783",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002787": {
+		  "name": "002787.XSHE",
+		  "code": "002787",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002793": {
+		  "name": "002793.XSHE",
+		  "code": "002793",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002798": {
+		  "name": "002798.XSHE",
+		  "code": "002798",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002806": {
+		  "name": "002806.XSHE",
+		  "code": "002806",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002807": {
+		  "name": "002807.XSHE",
+		  "code": "002807",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002811": {
+		  "name": "002811.XSHE",
+		  "code": "002811",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002812": {
+		  "name": "002812.XSHE",
+		  "code": "002812",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002815": {
+		  "name": "002815.XSHE",
+		  "code": "002815",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002822": {
+		  "name": "002822.XSHE",
+		  "code": "002822",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002823": {
+		  "name": "002823.XSHE",
+		  "code": "002823",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002831": {
+		  "name": "002831.XSHE",
+		  "code": "002831",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002832": {
+		  "name": "002832.XSHE",
+		  "code": "002832",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002833": {
+		  "name": "002833.XSHE",
+		  "code": "002833",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002838": {
+		  "name": "002838.XSHE",
+		  "code": "002838",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002839": {
+		  "name": "002839.XSHE",
+		  "code": "002839",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002840": {
+		  "name": "002840.XSHE",
+		  "code": "002840",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002841": {
+		  "name": "002841.XSHE",
+		  "code": "002841",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002842": {
+		  "name": "002842.XSHE",
+		  "code": "002842",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002846": {
+		  "name": "002846.XSHE",
+		  "code": "002846",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002850": {
+		  "name": "002850.XSHE",
+		  "code": "002850",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002851": {
+		  "name": "002851.XSHE",
+		  "code": "002851",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002859": {
+		  "name": "002859.XSHE",
+		  "code": "002859",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002860": {
+		  "name": "002860.XSHE",
+		  "code": "002860",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002861": {
+		  "name": "002861.XSHE",
+		  "code": "002861",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002863": {
+		  "name": "002863.XSHE",
+		  "code": "002863",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002864": {
+		  "name": "002864.XSHE",
+		  "code": "002864",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002865": {
+		  "name": "002865.XSHE",
+		  "code": "002865",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002873": {
+		  "name": "002873.XSHE",
+		  "code": "002873",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002877": {
+		  "name": "002877.XSHE",
+		  "code": "002877",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002887": {
+		  "name": "002887.XSHE",
+		  "code": "002887",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002891": {
+		  "name": "002891.XSHE",
+		  "code": "002891",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002895": {
+		  "name": "002895.XSHE",
+		  "code": "002895",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002896": {
+		  "name": "002896.XSHE",
+		  "code": "002896",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002907": {
+		  "name": "002907.XSHE",
+		  "code": "002907",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002916": {
+		  "name": "002916.XSHE",
+		  "code": "002916",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002918": {
+		  "name": "002918.XSHE",
+		  "code": "002918",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002921": {
+		  "name": "002921.XSHE",
+		  "code": "002921",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002928": {
+		  "name": "002928.XSHE",
+		  "code": "002928",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002929": {
+		  "name": "002929.XSHE",
+		  "code": "002929",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002930": {
+		  "name": "002930.XSHE",
+		  "code": "002930",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002931": {
+		  "name": "002931.XSHE",
+		  "code": "002931",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002941": {
+		  "name": "002941.XSHE",
+		  "code": "002941",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002946": {
+		  "name": "002946.XSHE",
+		  "code": "002946",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002949": {
+		  "name": "002949.XSHE",
+		  "code": "002949",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002953": {
+		  "name": "002953.XSHE",
+		  "code": "002953",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002958": {
+		  "name": "002958.XSHE",
+		  "code": "002958",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002959": {
+		  "name": "002959.XSHE",
+		  "code": "002959",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002961": {
+		  "name": "002961.XSHE",
+		  "code": "002961",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002965": {
+		  "name": "002965.XSHE",
+		  "code": "002965",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002966": {
+		  "name": "002966.XSHE",
+		  "code": "002966",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002969": {
+		  "name": "002969.XSHE",
+		  "code": "002969",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002973": {
+		  "name": "002973.XSHE",
+		  "code": "002973",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002975": {
+		  "name": "002975.XSHE",
+		  "code": "002975",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002982": {
+		  "name": "002982.XSHE",
+		  "code": "002982",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002984": {
+		  "name": "002984.XSHE",
+		  "code": "002984",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002988": {
+		  "name": "002988.XSHE",
+		  "code": "002988",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002989": {
+		  "name": "002989.XSHE",
+		  "code": "002989",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002996": {
+		  "name": "002996.XSHE",
+		  "code": "002996",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002997": {
+		  "name": "002997.XSHE",
+		  "code": "002997",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "002998": {
+		  "name": "002998.XSHE",
+		  "code": "002998",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "003004": {
+		  "name": "003004.XSHE",
+		  "code": "003004",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "003009": {
+		  "name": "003009.XSHE",
+		  "code": "003009",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "003043": {
+		  "name": "003043.XSHE",
+		  "code": "003043",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300003": {
+		  "name": "300003.XSHE",
+		  "code": "300003",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300016": {
+		  "name": "300016.XSHE",
+		  "code": "300016",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300021": {
+		  "name": "300021.XSHE",
+		  "code": "300021",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300031": {
+		  "name": "300031.XSHE",
+		  "code": "300031",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300037": {
+		  "name": "300037.XSHE",
+		  "code": "300037",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300040": {
+		  "name": "300040.XSHE",
+		  "code": "300040",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300041": {
+		  "name": "300041.XSHE",
+		  "code": "300041",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300057": {
+		  "name": "300057.XSHE",
+		  "code": "300057",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300058": {
+		  "name": "300058.XSHE",
+		  "code": "300058",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300059": {
+		  "name": "300059.XSHE",
+		  "code": "300059",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300065": {
+		  "name": "300065.XSHE",
+		  "code": "300065",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300078": {
+		  "name": "300078.XSHE",
+		  "code": "300078",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300088": {
+		  "name": "300088.XSHE",
+		  "code": "300088",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300112": {
+		  "name": "300112.XSHE",
+		  "code": "300112",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300138": {
+		  "name": "300138.XSHE",
+		  "code": "300138",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300151": {
+		  "name": "300151.XSHE",
+		  "code": "300151",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300168": {
+		  "name": "300168.XSHE",
+		  "code": "300168",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300170": {
+		  "name": "300170.XSHE",
+		  "code": "300170",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300174": {
+		  "name": "300174.XSHE",
+		  "code": "300174",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300185": {
+		  "name": "300185.XSHE",
+		  "code": "300185",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300190": {
+		  "name": "300190.XSHE",
+		  "code": "300190",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300196": {
+		  "name": "300196.XSHE",
+		  "code": "300196",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300197": {
+		  "name": "300197.XSHE",
+		  "code": "300197",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300207": {
+		  "name": "300207.XSHE",
+		  "code": "300207",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300224": {
+		  "name": "300224.XSHE",
+		  "code": "300224",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300229": {
+		  "name": "300229.XSHE",
+		  "code": "300229",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300231": {
+		  "name": "300231.XSHE",
+		  "code": "300231",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300232": {
+		  "name": "300232.XSHE",
+		  "code": "300232",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300243": {
+		  "name": "300243.XSHE",
+		  "code": "300243",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300246": {
+		  "name": "300246.XSHE",
+		  "code": "300246",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300253": {
+		  "name": "300253.XSHE",
+		  "code": "300253",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300258": {
+		  "name": "300258.XSHE",
+		  "code": "300258",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300260": {
+		  "name": "300260.XSHE",
+		  "code": "300260",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300263": {
+		  "name": "300263.XSHE",
+		  "code": "300263",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300265": {
+		  "name": "300265.XSHE",
+		  "code": "300265",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300283": {
+		  "name": "300283.XSHE",
+		  "code": "300283",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300296": {
+		  "name": "300296.XSHE",
+		  "code": "300296",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300297": {
+		  "name": "300297.XSHE",
+		  "code": "300297",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300298": {
+		  "name": "300298.XSHE",
+		  "code": "300298",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300303": {
+		  "name": "300303.XSHE",
+		  "code": "300303",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300305": {
+		  "name": "300305.XSHE",
+		  "code": "300305",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300332": {
+		  "name": "300332.XSHE",
+		  "code": "300332",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300335": {
+		  "name": "300335.XSHE",
+		  "code": "300335",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300346": {
+		  "name": "300346.XSHE",
+		  "code": "300346",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300381": {
+		  "name": "300381.XSHE",
+		  "code": "300381",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300382": {
+		  "name": "300382.XSHE",
+		  "code": "300382",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300388": {
+		  "name": "300388.XSHE",
+		  "code": "300388",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300393": {
+		  "name": "300393.XSHE",
+		  "code": "300393",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300398": {
+		  "name": "300398.XSHE",
+		  "code": "300398",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300401": {
+		  "name": "300401.XSHE",
+		  "code": "300401",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300406": {
+		  "name": "300406.XSHE",
+		  "code": "300406",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300407": {
+		  "name": "300407.XSHE",
+		  "code": "300407",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300409": {
+		  "name": "300409.XSHE",
+		  "code": "300409",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300416": {
+		  "name": "300416.XSHE",
+		  "code": "300416",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300422": {
+		  "name": "300422.XSHE",
+		  "code": "300422",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300424": {
+		  "name": "300424.XSHE",
+		  "code": "300424",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300427": {
+		  "name": "300427.XSHE",
+		  "code": "300427",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300429": {
+		  "name": "300429.XSHE",
+		  "code": "300429",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300433": {
+		  "name": "300433.XSHE",
+		  "code": "300433",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300437": {
+		  "name": "300437.XSHE",
+		  "code": "300437",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300438": {
+		  "name": "300438.XSHE",
+		  "code": "300438",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300450": {
+		  "name": "300450.XSHE",
+		  "code": "300450",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300473": {
+		  "name": "300473.XSHE",
+		  "code": "300473",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300480": {
+		  "name": "300480.XSHE",
+		  "code": "300480",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300482": {
+		  "name": "300482.XSHE",
+		  "code": "300482",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300483": {
+		  "name": "300483.XSHE",
+		  "code": "300483",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300486": {
+		  "name": "300486.XSHE",
+		  "code": "300486",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300487": {
+		  "name": "300487.XSHE",
+		  "code": "300487",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300490": {
+		  "name": "300490.XSHE",
+		  "code": "300490",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300497": {
+		  "name": "300497.XSHE",
+		  "code": "300497",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300498": {
+		  "name": "300498.XSHE",
+		  "code": "300498",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300499": {
+		  "name": "300499.XSHE",
+		  "code": "300499",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300501": {
+		  "name": "300501.XSHE",
+		  "code": "300501",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300505": {
+		  "name": "300505.XSHE",
+		  "code": "300505",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300511": {
+		  "name": "300511.XSHE",
+		  "code": "300511",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300517": {
+		  "name": "300517.XSHE",
+		  "code": "300517",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300527": {
+		  "name": "300527.XSHE",
+		  "code": "300527",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300529": {
+		  "name": "300529.XSHE",
+		  "code": "300529",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300532": {
+		  "name": "300532.XSHE",
+		  "code": "300532",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300539": {
+		  "name": "300539.XSHE",
+		  "code": "300539",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300543": {
+		  "name": "300543.XSHE",
+		  "code": "300543",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300545": {
+		  "name": "300545.XSHE",
+		  "code": "300545",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300554": {
+		  "name": "300554.XSHE",
+		  "code": "300554",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300556": {
+		  "name": "300556.XSHE",
+		  "code": "300556",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300567": {
+		  "name": "300567.XSHE",
+		  "code": "300567",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300568": {
+		  "name": "300568.XSHE",
+		  "code": "300568",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300569": {
+		  "name": "300569.XSHE",
+		  "code": "300569",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300577": {
+		  "name": "300577.XSHE",
+		  "code": "300577",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300580": {
+		  "name": "300580.XSHE",
+		  "code": "300580",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300586": {
+		  "name": "300586.XSHE",
+		  "code": "300586",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300587": {
+		  "name": "300587.XSHE",
+		  "code": "300587",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300591": {
+		  "name": "300591.XSHE",
+		  "code": "300591",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300601": {
+		  "name": "300601.XSHE",
+		  "code": "300601",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300605": {
+		  "name": "300605.XSHE",
+		  "code": "300605",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300607": {
+		  "name": "300607.XSHE",
+		  "code": "300607",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300608": {
+		  "name": "300608.XSHE",
+		  "code": "300608",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300611": {
+		  "name": "300611.XSHE",
+		  "code": "300611",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300613": {
+		  "name": "300613.XSHE",
+		  "code": "300613",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300614": {
+		  "name": "300614.XSHE",
+		  "code": "300614",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300618": {
+		  "name": "300618.XSHE",
+		  "code": "300618",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300619": {
+		  "name": "300619.XSHE",
+		  "code": "300619",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300623": {
+		  "name": "300623.XSHE",
+		  "code": "300623",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300624": {
+		  "name": "300624.XSHE",
+		  "code": "300624",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300630": {
+		  "name": "300630.XSHE",
+		  "code": "300630",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300631": {
+		  "name": "300631.XSHE",
+		  "code": "300631",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300636": {
+		  "name": "300636.XSHE",
+		  "code": "300636",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300641": {
+		  "name": "300641.XSHE",
+		  "code": "300641",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300645": {
+		  "name": "300645.XSHE",
+		  "code": "300645",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300651": {
+		  "name": "300651.XSHE",
+		  "code": "300651",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300652": {
+		  "name": "300652.XSHE",
+		  "code": "300652",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300655": {
+		  "name": "300655.XSHE",
+		  "code": "300655",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300657": {
+		  "name": "300657.XSHE",
+		  "code": "300657",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300663": {
+		  "name": "300663.XSHE",
+		  "code": "300663",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300665": {
+		  "name": "300665.XSHE",
+		  "code": "300665",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300666": {
+		  "name": "300666.XSHE",
+		  "code": "300666",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300673": {
+		  "name": "300673.XSHE",
+		  "code": "300673",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300677": {
+		  "name": "300677.XSHE",
+		  "code": "300677",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300682": {
+		  "name": "300682.XSHE",
+		  "code": "300682",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300687": {
+		  "name": "300687.XSHE",
+		  "code": "300687",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300692": {
+		  "name": "300692.XSHE",
+		  "code": "300692",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300700": {
+		  "name": "300700.XSHE",
+		  "code": "300700",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300705": {
+		  "name": "300705.XSHE",
+		  "code": "300705",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300707": {
+		  "name": "300707.XSHE",
+		  "code": "300707",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300709": {
+		  "name": "300709.XSHE",
+		  "code": "300709",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300723": {
+		  "name": "300723.XSHE",
+		  "code": "300723",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300725": {
+		  "name": "300725.XSHE",
+		  "code": "300725",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300727": {
+		  "name": "300727.XSHE",
+		  "code": "300727",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300729": {
+		  "name": "300729.XSHE",
+		  "code": "300729",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300732": {
+		  "name": "300732.XSHE",
+		  "code": "300732",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300738": {
+		  "name": "300738.XSHE",
+		  "code": "300738",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300739": {
+		  "name": "300739.XSHE",
+		  "code": "300739",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300740": {
+		  "name": "300740.XSHE",
+		  "code": "300740",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300743": {
+		  "name": "300743.XSHE",
+		  "code": "300743",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300748": {
+		  "name": "300748.XSHE",
+		  "code": "300748",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300752": {
+		  "name": "300752.XSHE",
+		  "code": "300752",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300763": {
+		  "name": "300763.XSHE",
+		  "code": "300763",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300767": {
+		  "name": "300767.XSHE",
+		  "code": "300767",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300772": {
+		  "name": "300772.XSHE",
+		  "code": "300772",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300775": {
+		  "name": "300775.XSHE",
+		  "code": "300775",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300776": {
+		  "name": "300776.XSHE",
+		  "code": "300776",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300778": {
+		  "name": "300778.XSHE",
+		  "code": "300778",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300779": {
+		  "name": "300779.XSHE",
+		  "code": "300779",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300787": {
+		  "name": "300787.XSHE",
+		  "code": "300787",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300791": {
+		  "name": "300791.XSHE",
+		  "code": "300791",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300798": {
+		  "name": "300798.XSHE",
+		  "code": "300798",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300811": {
+		  "name": "300811.XSHE",
+		  "code": "300811",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300813": {
+		  "name": "300813.XSHE",
+		  "code": "300813",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300818": {
+		  "name": "300818.XSHE",
+		  "code": "300818",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300826": {
+		  "name": "300826.XSHE",
+		  "code": "300826",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300827": {
+		  "name": "300827.XSHE",
+		  "code": "300827",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300837": {
+		  "name": "300837.XSHE",
+		  "code": "300837",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300839": {
+		  "name": "300839.XSHE",
+		  "code": "300839",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300843": {
+		  "name": "300843.XSHE",
+		  "code": "300843",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300850": {
+		  "name": "300850.XSHE",
+		  "code": "300850",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300853": {
+		  "name": "300853.XSHE",
+		  "code": "300853",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300856": {
+		  "name": "300856.XSHE",
+		  "code": "300856",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300863": {
+		  "name": "300863.XSHE",
+		  "code": "300863",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300869": {
+		  "name": "300869.XSHE",
+		  "code": "300869",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300871": {
+		  "name": "300871.XSHE",
+		  "code": "300871",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300872": {
+		  "name": "300872.XSHE",
+		  "code": "300872",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300876": {
+		  "name": "300876.XSHE",
+		  "code": "300876",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300891": {
+		  "name": "300891.XSHE",
+		  "code": "300891",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300894": {
+		  "name": "300894.XSHE",
+		  "code": "300894",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300900": {
+		  "name": "300900.XSHE",
+		  "code": "300900",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300918": {
+		  "name": "300918.XSHE",
+		  "code": "300918",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300925": {
+		  "name": "300925.XSHE",
+		  "code": "300925",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300933": {
+		  "name": "300933.XSHE",
+		  "code": "300933",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300956": {
+		  "name": "300956.XSHE",
+		  "code": "300956",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300966": {
+		  "name": "300966.XSHE",
+		  "code": "300966",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300967": {
+		  "name": "300967.XSHE",
+		  "code": "300967",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300973": {
+		  "name": "300973.XSHE",
+		  "code": "300973",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300975": {
+		  "name": "300975.XSHE",
+		  "code": "300975",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300984": {
+		  "name": "300984.XSHE",
+		  "code": "300984",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300986": {
+		  "name": "300986.XSHE",
+		  "code": "300986",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "300992": {
+		  "name": "300992.XSHE",
+		  "code": "300992",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301002": {
+		  "name": "301002.XSHE",
+		  "code": "301002",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301015": {
+		  "name": "301015.XSHE",
+		  "code": "301015",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301017": {
+		  "name": "301017.XSHE",
+		  "code": "301017",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301040": {
+		  "name": "301040.XSHE",
+		  "code": "301040",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301046": {
+		  "name": "301046.XSHE",
+		  "code": "301046",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301085": {
+		  "name": "301085.XSHE",
+		  "code": "301085",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 },
+		 "301186": {
+		  "name": "301186.XSHE",
+		  "code": "301186",
+		  "exchg": "SZSE",
+		  "product": "STK"
+		 }
+	}
+}

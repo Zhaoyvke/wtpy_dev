@@ -1,0 +1,1087 @@
+[2023.07.21 13:40:24 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 13:40:24 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 13:40:24 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 13:40:24 - info ] Trading sessions loaded
+[2023.07.21 13:40:24 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 13:40:24 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 13:40:24 - info ] Holidays loaded
+[2023.07.21 13:40:24 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 13:40:24 - info ] Running mode: Production
+[2023.07.21 13:40:24 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 13:40:24 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 13:40:24 - info ] 2 fee templates loaded
+[2023.07.21 13:40:24 - debug] 0 position info of portfolio loaded
+[2023.07.21 13:40:24 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 13:40:24 - info ] WtDataReader initialized, rt dir is ./STK_Data/rt/, hist dir is ./STK_Data/his/, adjust_flag is 0
+[2023.07.21 13:40:24 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 13:40:24 - info ] Data manager initialized
+[2023.07.21 13:40:24 - info ] Action policies initialized
+[2023.07.21 13:40:24 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 13:40:25 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 13:40:25 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 13:40:25 - info ] 1 parsers loaded
+[2023.07.21 13:40:25 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 13:40:25 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 13:40:25 - info ] 1 traders loaded
+[2023.07.21 13:40:25 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 13:40:25 - info ] Reading executer config from executers.yaml...
+[2023.07.21 13:40:25 - info ] Executer factory WtExeFact loaded
+[2023.07.21 13:40:25 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 13:40:25 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 13:40:25 - info ] 1 executers loaded
+[2023.07.21 13:40:25 - info ] 1 parsers started
+[2023.07.21 13:40:25 - info ] 0 trading channels started
+[2023.07.21 13:40:25 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 13:40:25 - info ] Trading date confirmed: 20230721
+[2023.07.21 13:40:25 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 13:40:25 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 13:40:25 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 13:40:25 - info ] Trading day 20230721 begun
+[2023.07.21 13:40:25 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:40:28 - debug] [ParserUDP] 1000 ticks received in total
+[2023.07.21 13:40:30 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:40:31 - debug] [ParserUDP] 2000 ticks received in total
+[2023.07.21 13:40:35 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:40:35 - debug] [ParserUDP] 3000 ticks received in total
+[2023.07.21 13:40:38 - debug] [ParserUDP] 4000 ticks received in total
+[2023.07.21 13:40:40 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:40:42 - debug] [ParserUDP] 5000 ticks received in total
+[2023.07.21 13:40:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:40:45 - debug] [ParserUDP] 6000 ticks received in total
+[2023.07.21 13:40:49 - debug] [ParserUDP] 7000 ticks received in total
+[2023.07.21 13:40:50 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:32 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 13:41:32 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 13:41:32 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 13:41:32 - info ] Trading sessions loaded
+[2023.07.21 13:41:32 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 13:41:32 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 13:41:32 - info ] Holidays loaded
+[2023.07.21 13:41:32 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 13:41:32 - info ] Running mode: Production
+[2023.07.21 13:41:32 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 13:41:32 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 13:41:32 - info ] 2 fee templates loaded
+[2023.07.21 13:41:32 - debug] 0 position info of portfolio loaded
+[2023.07.21 13:41:32 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 13:41:32 - info ] WtDataReader initialized, rt dir is ./STK_Data/rt/, hist dir is ./STK_Data/his/, adjust_flag is 0
+[2023.07.21 13:41:32 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 13:41:32 - info ] Data manager initialized
+[2023.07.21 13:41:32 - info ] Action policies initialized
+[2023.07.21 13:41:32 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 13:41:32 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 13:41:32 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 13:41:32 - info ] 1 parsers loaded
+[2023.07.21 13:41:32 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 13:41:32 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 13:41:32 - info ] 1 traders loaded
+[2023.07.21 13:41:32 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 13:41:32 - info ] Reading executer config from executers.yaml...
+[2023.07.21 13:41:32 - info ] Executer factory WtExeFact loaded
+[2023.07.21 13:41:32 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 13:41:32 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 13:41:32 - info ] 1 executers loaded
+[2023.07.21 13:41:32 - info ] 1 parsers started
+[2023.07.21 13:41:32 - info ] 0 trading channels started
+[2023.07.21 13:41:32 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 13:41:32 - info ] Trading date confirmed: 20230721
+[2023.07.21 13:41:32 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 13:41:32 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 13:41:32 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 13:41:32 - info ] Trading day 20230721 begun
+[2023.07.21 13:41:32 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:35 - debug] [ParserUDP] 1000 ticks received in total
+[2023.07.21 13:41:37 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:39 - debug] [ParserUDP] 2000 ticks received in total
+[2023.07.21 13:41:42 - debug] [ParserUDP] 3000 ticks received in total
+[2023.07.21 13:41:42 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:45 - debug] [ParserUDP] 4000 ticks received in total
+[2023.07.21 13:41:47 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:49 - debug] [ParserUDP] 5000 ticks received in total
+[2023.07.21 13:41:52 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:53 - debug] [ParserUDP] 6000 ticks received in total
+[2023.07.21 13:41:56 - debug] [ParserUDP] 7000 ticks received in total
+[2023.07.21 13:41:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:41:58 - info ] Minute Bar 20230721.1342 Closed by data
+[2023.07.21 13:41:59 - debug] [ParserUDP] 8000 ticks received in total
+[2023.07.21 13:42:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:03 - debug] [ParserUDP] 9000 ticks received in total
+[2023.07.21 13:42:06 - debug] [ParserUDP] 10000 ticks received in total
+[2023.07.21 13:42:07 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:09 - debug] [ParserUDP] 11000 ticks received in total
+[2023.07.21 13:42:12 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:12 - debug] [ParserUDP] 12000 ticks received in total
+[2023.07.21 13:42:16 - debug] [ParserUDP] 13000 ticks received in total
+[2023.07.21 13:42:17 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:19 - debug] [ParserUDP] 14000 ticks received in total
+[2023.07.21 13:42:22 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:23 - debug] [ParserUDP] 15000 ticks received in total
+[2023.07.21 13:42:26 - debug] [ParserUDP] 16000 ticks received in total
+[2023.07.21 13:42:27 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:30 - debug] [ParserUDP] 17000 ticks received in total
+[2023.07.21 13:42:32 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:33 - debug] [ParserUDP] 18000 ticks received in total
+[2023.07.21 13:42:36 - debug] [ParserUDP] 19000 ticks received in total
+[2023.07.21 13:42:37 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:39 - debug] [ParserUDP] 20000 ticks received in total
+[2023.07.21 13:42:42 - debug] [ParserUDP] 21000 ticks received in total
+[2023.07.21 13:42:42 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:46 - debug] [ParserUDP] 22000 ticks received in total
+[2023.07.21 13:42:47 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:49 - debug] [ParserUDP] 23000 ticks received in total
+[2023.07.21 13:42:52 - debug] [ParserUDP] 24000 ticks received in total
+[2023.07.21 13:42:52 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:55 - debug] [ParserUDP] 25000 ticks received in total
+[2023.07.21 13:42:57 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:42:58 - info ] Minute Bar 20230721.1343 Closed by data
+[2023.07.21 13:42:59 - debug] [ParserUDP] 26000 ticks received in total
+[2023.07.21 13:43:02 - debug] [ParserUDP] 27000 ticks received in total
+[2023.07.21 13:43:02 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:43:05 - debug] [ParserUDP] 28000 ticks received in total
+[2023.07.21 13:43:07 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 13:43:09 - debug] [ParserUDP] 29000 ticks received in total
+[2023.07.21 13:43:12 - debug] [ParserUDP] 30000 ticks received in total
+[2023.07.21 13:43:12 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 14:28:37 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 14:28:37 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 14:28:37 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 14:28:37 - info ] Trading sessions loaded
+[2023.07.21 14:28:37 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 14:28:37 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 14:28:37 - info ] Holidays loaded
+[2023.07.21 14:28:37 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 14:28:37 - info ] Running mode: Production
+[2023.07.21 14:28:37 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 14:28:37 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 14:28:37 - info ] 2 fee templates loaded
+[2023.07.21 14:28:37 - debug] 0 position info of portfolio loaded
+[2023.07.21 14:28:37 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 14:28:37 - info ] WtDataReader initialized, rt dir is ./STK_Data/rt/, hist dir is ./STK_Data/his/, adjust_flag is 0
+[2023.07.21 14:28:37 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 14:28:37 - info ] Data manager initialized
+[2023.07.21 14:28:37 - info ] Action policies initialized
+[2023.07.21 14:28:37 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 14:28:37 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 14:28:37 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 14:28:37 - info ] 1 parsers loaded
+[2023.07.21 14:28:37 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 14:28:37 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 14:28:37 - info ] 1 traders loaded
+[2023.07.21 14:28:37 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 14:28:37 - info ] Reading executer config from executers.yaml...
+[2023.07.21 14:28:37 - info ] Executer factory WtExeFact loaded
+[2023.07.21 14:28:37 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 14:28:37 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 14:28:37 - info ] 1 executers loaded
+[2023.07.21 14:28:37 - info ] 1 parsers started
+[2023.07.21 14:28:37 - info ] 0 trading channels started
+[2023.07.21 14:28:37 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 14:28:37 - info ] Trading date confirmed: 20230721
+[2023.07.21 14:28:37 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 14:28:37 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 14:28:37 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 14:28:37 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 14:28:37 - info ] Trading day 20230721 begun
+[2023.07.21 14:28:37 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 14:28:42 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.21 15:11:09 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:11:09 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:11:09 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:11:09 - info ] Trading sessions loaded
+[2023.07.21 15:11:09 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:11:09 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:11:09 - info ] Holidays loaded
+[2023.07.21 15:11:09 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:11:09 - info ] Running mode: Production
+[2023.07.21 15:11:09 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:11:09 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:11:09 - info ] 2 fee templates loaded
+[2023.07.21 15:11:09 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:11:09 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:11:09 - info ] WtDataReader initialized, rt dir is ./STK_Data/rt/, hist dir is ./STK_Data/his/, adjust_flag is 0
+[2023.07.21 15:11:09 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 15:11:09 - info ] Data manager initialized
+[2023.07.21 15:11:09 - info ] Action policies initialized
+[2023.07.21 15:11:09 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:11:09 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:11:09 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:11:09 - info ] 1 parsers loaded
+[2023.07.21 15:11:09 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:11:09 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:11:09 - info ] 1 traders loaded
+[2023.07.21 15:11:09 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:11:09 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:11:09 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:11:09 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:11:09 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:11:09 - info ] 1 executers loaded
+[2023.07.21 15:11:09 - info ] 1 parsers started
+[2023.07.21 15:11:09 - info ] 0 trading channels started
+[2023.07.21 15:11:09 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:11:09 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:11:09 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:11:09 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:11:09 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 15:11:09 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 15:11:09 - info ] Trading day 20230721 begun
+[2023.07.21 15:12:56 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:12:56 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:12:56 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:12:56 - info ] Trading sessions loaded
+[2023.07.21 15:12:56 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:12:56 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:12:56 - info ] Holidays loaded
+[2023.07.21 15:12:56 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:12:56 - info ] Running mode: Production
+[2023.07.21 15:12:56 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:12:56 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.07.21 15:12:56 - info ] 0 parsers started
+[2023.07.21 15:12:56 - info ] 0 trading channels started
+[2023.07.21 15:12:56 - critical] Session TRADING is invalid, CtaTicker cannot run correctly
+[2023.07.21 15:13:36 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:13:36 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:13:36 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:13:36 - info ] Trading sessions loaded
+[2023.07.21 15:13:36 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:13:36 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:13:36 - info ] Holidays loaded
+[2023.07.21 15:13:36 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:13:36 - info ] Running mode: Production
+[2023.07.21 15:13:36 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:13:36 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:13:36 - info ] 2 fee templates loaded
+[2023.07.21 15:13:36 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:13:36 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:13:36 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 15:13:36 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 15:13:36 - info ] Data manager initialized
+[2023.07.21 15:13:36 - info ] Action policies initialized
+[2023.07.21 15:13:36 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:13:36 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:13:36 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:13:36 - info ] 1 parsers loaded
+[2023.07.21 15:13:36 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:13:36 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:13:36 - info ] 1 traders loaded
+[2023.07.21 15:13:36 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:13:36 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:13:36 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:13:36 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:13:36 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:13:36 - info ] 1 executers loaded
+[2023.07.21 15:13:36 - info ] 1 parsers started
+[2023.07.21 15:13:36 - info ] 0 trading channels started
+[2023.07.21 15:13:36 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:13:36 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:13:36 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:13:36 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:13:36 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 15:13:36 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 15:13:36 - info ] Trading day 20230721 begun
+[2023.07.21 15:15:29 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:15:29 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:15:29 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:15:29 - info ] Trading sessions loaded
+[2023.07.21 15:15:29 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:15:29 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:15:29 - info ] Holidays loaded
+[2023.07.21 15:15:29 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:15:29 - info ] Running mode: Production
+[2023.07.21 15:15:29 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:15:29 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:15:29 - info ] 2 fee templates loaded
+[2023.07.21 15:15:29 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:15:29 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:15:29 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 15:15:29 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 15:15:29 - info ] Data manager initialized
+[2023.07.21 15:15:29 - info ] Action policies initialized
+[2023.07.21 15:15:29 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:15:29 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:15:29 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:15:29 - info ] 1 parsers loaded
+[2023.07.21 15:15:29 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:15:29 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:15:29 - info ] 1 traders loaded
+[2023.07.21 15:15:29 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:15:29 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:15:29 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:15:29 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:15:29 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:15:29 - info ] 1 executers loaded
+[2023.07.21 15:15:29 - info ] 1 parsers started
+[2023.07.21 15:15:29 - info ] 0 trading channels started
+[2023.07.21 15:15:29 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:15:29 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:15:29 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:15:29 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:15:29 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 15:15:29 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 15:15:29 - info ] Trading day 20230721 begun
+[2023.07.21 15:18:47 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:18:47 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:18:47 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:18:47 - info ] Trading sessions loaded
+[2023.07.21 15:18:47 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:18:47 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:18:47 - info ] Holidays loaded
+[2023.07.21 15:18:47 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:18:47 - info ] Running mode: Production
+[2023.07.21 15:18:47 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:18:47 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:18:47 - info ] 2 fee templates loaded
+[2023.07.21 15:18:47 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:18:47 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:18:47 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:18:47 - info ] Data manager initialized
+[2023.07.21 15:18:47 - info ] Action policies initialized
+[2023.07.21 15:18:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:18:47 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:18:47 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:18:47 - info ] 1 parsers loaded
+[2023.07.21 15:18:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:18:47 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:18:47 - info ] 1 traders loaded
+[2023.07.21 15:18:47 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:18:47 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:18:47 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:18:47 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:18:47 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:18:47 - info ] 1 executers loaded
+[2023.07.21 15:18:47 - info ] 1 parsers started
+[2023.07.21 15:18:47 - info ] 0 trading channels started
+[2023.07.21 15:18:47 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:18:47 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:18:47 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:18:47 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:18:47 - info ] DualThrust inited
+[2023.07.21 15:18:47 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:18:47 - info ] Trading day 20230721 begun
+[2023.07.21 15:19:22 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:19:22 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:19:22 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:19:22 - info ] Trading sessions loaded
+[2023.07.21 15:19:22 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:19:22 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:19:22 - info ] Holidays loaded
+[2023.07.21 15:19:22 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:19:22 - info ] Running mode: Production
+[2023.07.21 15:19:22 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:19:22 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:19:22 - info ] 2 fee templates loaded
+[2023.07.21 15:19:22 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:19:22 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:19:22 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:19:22 - info ] Data manager initialized
+[2023.07.21 15:19:22 - info ] Action policies initialized
+[2023.07.21 15:19:22 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:19:22 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:19:22 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:19:22 - info ] 1 parsers loaded
+[2023.07.21 15:19:22 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:19:22 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:19:22 - info ] 1 traders loaded
+[2023.07.21 15:19:22 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:19:22 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:19:22 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:19:22 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:19:22 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:19:22 - info ] 1 executers loaded
+[2023.07.21 15:19:22 - info ] 1 parsers started
+[2023.07.21 15:19:22 - info ] 0 trading channels started
+[2023.07.21 15:19:22 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:19:22 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:19:22 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:19:22 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:19:22 - info ] DualThrust inited
+[2023.07.21 15:19:22 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:19:22 - info ] Trading day 20230721 begun
+[2023.07.21 15:19:47 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:19:47 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:19:47 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:19:47 - info ] Trading sessions loaded
+[2023.07.21 15:19:47 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:19:47 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:19:47 - info ] Holidays loaded
+[2023.07.21 15:19:47 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:19:47 - info ] Running mode: Production
+[2023.07.21 15:19:47 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:19:47 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:19:47 - info ] 2 fee templates loaded
+[2023.07.21 15:19:47 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:19:47 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:19:47 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:19:47 - info ] Data manager initialized
+[2023.07.21 15:19:47 - info ] Action policies initialized
+[2023.07.21 15:19:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:19:47 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:19:47 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:19:47 - info ] 1 parsers loaded
+[2023.07.21 15:19:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:19:47 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:19:47 - info ] 1 traders loaded
+[2023.07.21 15:19:47 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:19:47 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:19:47 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:19:47 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:19:47 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:19:47 - info ] 1 executers loaded
+[2023.07.21 15:19:47 - info ] 1 parsers started
+[2023.07.21 15:19:47 - info ] 0 trading channels started
+[2023.07.21 15:19:47 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:19:47 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:19:47 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:19:47 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:19:47 - info ] DualThrust inited
+[2023.07.21 15:19:47 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:19:47 - info ] Trading day 20230721 begun
+[2023.07.21 15:20:41 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:20:41 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:20:41 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:20:41 - info ] Trading sessions loaded
+[2023.07.21 15:20:41 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:20:42 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:20:42 - info ] Holidays loaded
+[2023.07.21 15:20:42 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:20:42 - info ] Running mode: Production
+[2023.07.21 15:20:42 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:20:42 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:20:42 - info ] 2 fee templates loaded
+[2023.07.21 15:20:42 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:20:42 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:20:42 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:20:42 - info ] Data manager initialized
+[2023.07.21 15:20:42 - info ] Action policies initialized
+[2023.07.21 15:20:42 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:20:42 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:20:42 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:20:42 - info ] 1 parsers loaded
+[2023.07.21 15:20:42 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:20:42 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:20:42 - info ] 1 traders loaded
+[2023.07.21 15:20:42 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:20:42 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:20:42 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:20:42 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:20:42 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:20:42 - info ] 1 executers loaded
+[2023.07.21 15:20:42 - info ] 1 parsers started
+[2023.07.21 15:20:42 - info ] 0 trading channels started
+[2023.07.21 15:20:42 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:20:42 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:20:42 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:20:42 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:20:42 - info ] DualThrust inited
+[2023.07.21 15:20:42 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:20:42 - info ] Trading day 20230721 begun
+[2023.07.21 15:26:03 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:26:03 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:26:03 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:26:03 - info ] Trading sessions loaded
+[2023.07.21 15:26:03 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:26:03 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:26:03 - info ] Holidays loaded
+[2023.07.21 15:26:03 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:26:03 - info ] Running mode: Production
+[2023.07.21 15:26:03 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:26:03 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:26:03 - info ] 2 fee templates loaded
+[2023.07.21 15:26:03 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:26:03 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:26:03 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:26:03 - info ] Data manager initialized
+[2023.07.21 15:26:03 - info ] Action policies initialized
+[2023.07.21 15:26:03 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:26:03 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:26:03 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:26:03 - info ] 1 parsers loaded
+[2023.07.21 15:26:03 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:26:03 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:26:03 - info ] 1 traders loaded
+[2023.07.21 15:26:03 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:26:03 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:26:03 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:26:03 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:26:03 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:26:03 - info ] 1 executers loaded
+[2023.07.21 15:26:03 - info ] 1 parsers started
+[2023.07.21 15:26:03 - info ] 0 trading channels started
+[2023.07.21 15:26:03 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:26:03 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:26:03 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:26:03 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:26:03 - info ] DualThrust inited
+[2023.07.21 15:26:03 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:26:03 - info ] Trading day 20230721 begun
+[2023.07.21 15:28:00 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:28:00 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:28:00 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:28:00 - info ] Trading sessions loaded
+[2023.07.21 15:28:00 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:28:00 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:28:00 - info ] Holidays loaded
+[2023.07.21 15:28:00 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:28:00 - info ] Running mode: Production
+[2023.07.21 15:28:00 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:28:00 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:28:00 - info ] 2 fee templates loaded
+[2023.07.21 15:28:00 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:28:00 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:28:00 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:28:00 - info ] Data manager initialized
+[2023.07.21 15:28:00 - info ] Action policies initialized
+[2023.07.21 15:28:00 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:28:00 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:28:00 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:28:00 - info ] 1 parsers loaded
+[2023.07.21 15:28:00 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:28:00 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:28:00 - info ] 1 traders loaded
+[2023.07.21 15:28:00 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:28:00 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:28:00 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:28:00 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:28:00 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:28:00 - info ] 1 executers loaded
+[2023.07.21 15:28:00 - info ] 1 parsers started
+[2023.07.21 15:28:00 - info ] 0 trading channels started
+[2023.07.21 15:28:00 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:28:00 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:28:00 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:28:00 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:28:00 - info ] DualThrust inited
+[2023.07.21 15:28:00 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:28:00 - info ] Trading day 20230721 begun
+[2023.07.21 15:30:09 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:30:09 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:30:09 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:30:09 - info ] Trading sessions loaded
+[2023.07.21 15:30:09 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:30:09 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:30:09 - info ] Holidays loaded
+[2023.07.21 15:30:09 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:30:09 - info ] Running mode: Production
+[2023.07.21 15:30:09 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:30:09 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:30:09 - info ] 2 fee templates loaded
+[2023.07.21 15:30:09 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:30:09 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:30:09 - error] Loading data reader module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/WtDtStorage.dll failed
+[2023.07.21 15:30:09 - info ] Data manager initialized
+[2023.07.21 15:30:09 - info ] Action policies initialized
+[2023.07.21 15:30:09 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:30:09 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:30:09 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:30:09 - info ] 1 parsers loaded
+[2023.07.21 15:30:09 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:30:09 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:30:09 - info ] 1 traders loaded
+[2023.07.21 15:30:09 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:30:09 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:30:09 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:30:09 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:30:09 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:30:09 - info ] 1 executers loaded
+[2023.07.21 15:30:09 - info ] 1 parsers started
+[2023.07.21 15:30:09 - info ] 0 trading channels started
+[2023.07.21 15:30:09 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:30:09 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:30:09 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:30:09 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:30:09 - info ] DualThrust inited
+[2023.07.21 15:30:09 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 15:30:09 - info ] Trading day 20230721 begun
+[2023.07.21 15:30:44 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:30:44 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:30:44 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:30:44 - info ] Trading sessions loaded
+[2023.07.21 15:30:44 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:30:44 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:30:44 - info ] Holidays loaded
+[2023.07.21 15:30:44 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:30:44 - info ] Running mode: Production
+[2023.07.21 15:30:44 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:30:44 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:30:44 - info ] 2 fee templates loaded
+[2023.07.21 15:30:44 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:30:44 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:30:44 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 15:30:44 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 15:30:44 - info ] Data manager initialized
+[2023.07.21 15:30:44 - info ] Action policies initialized
+[2023.07.21 15:30:44 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:30:44 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:30:44 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:30:44 - info ] 1 parsers loaded
+[2023.07.21 15:30:44 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:30:44 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:30:44 - info ] 1 traders loaded
+[2023.07.21 15:30:44 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:30:44 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:30:44 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:30:44 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:30:44 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:30:44 - info ] 1 executers loaded
+[2023.07.21 15:30:44 - info ] 1 parsers started
+[2023.07.21 15:30:44 - info ] 0 trading channels started
+[2023.07.21 15:30:44 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:30:44 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:30:44 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:30:44 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:30:44 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 15:30:44 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 15:30:44 - info ] Trading day 20230721 begun
+[2023.07.21 15:32:51 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:32:51 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:32:51 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:32:51 - info ] Trading sessions loaded
+[2023.07.21 15:32:51 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:32:51 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:32:51 - info ] Holidays loaded
+[2023.07.21 15:32:51 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:32:51 - info ] Running mode: Production
+[2023.07.21 15:32:51 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:32:51 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:32:51 - info ] 2 fee templates loaded
+[2023.07.21 15:32:51 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:32:51 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:32:51 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 15:32:51 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 15:32:51 - info ] Data manager initialized
+[2023.07.21 15:32:51 - info ] Action policies initialized
+[2023.07.21 15:32:51 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:32:51 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:32:51 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:32:51 - info ] 1 parsers loaded
+[2023.07.21 15:32:51 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:32:51 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:32:51 - info ] 1 traders loaded
+[2023.07.21 15:32:51 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:32:51 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:32:51 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:32:51 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:32:51 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:32:51 - info ] 1 executers loaded
+[2023.07.21 15:32:51 - info ] 1 parsers started
+[2023.07.21 15:32:51 - info ] 0 trading channels started
+[2023.07.21 15:32:51 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:32:51 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:32:51 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:32:51 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:32:51 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 15:32:51 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 15:32:51 - info ] Trading day 20230721 begun
+[2023.07.21 15:59:30 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 15:59:30 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 15:59:30 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 15:59:30 - info ] Trading sessions loaded
+[2023.07.21 15:59:30 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 15:59:30 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 15:59:30 - info ] Holidays loaded
+[2023.07.21 15:59:30 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 15:59:30 - info ] Running mode: Production
+[2023.07.21 15:59:30 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 15:59:30 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 15:59:30 - info ] 2 fee templates loaded
+[2023.07.21 15:59:30 - debug] 0 position info of portfolio loaded
+[2023.07.21 15:59:30 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 15:59:30 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 15:59:30 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 15:59:30 - info ] Data manager initialized
+[2023.07.21 15:59:30 - info ] Action policies initialized
+[2023.07.21 15:59:30 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 15:59:30 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 15:59:30 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 15:59:30 - info ] 1 parsers loaded
+[2023.07.21 15:59:30 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 15:59:30 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 15:59:30 - info ] 1 traders loaded
+[2023.07.21 15:59:30 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 15:59:30 - info ] Reading executer config from executers.yaml...
+[2023.07.21 15:59:30 - info ] Executer factory WtExeFact loaded
+[2023.07.21 15:59:30 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 15:59:30 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 15:59:30 - info ] 1 executers loaded
+[2023.07.21 15:59:30 - info ] 1 parsers started
+[2023.07.21 15:59:30 - info ] 0 trading channels started
+[2023.07.21 15:59:30 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 15:59:30 - info ] Trading date confirmed: 20230721
+[2023.07.21 15:59:30 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 15:59:30 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 15:59:30 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 15:59:30 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 15:59:30 - info ] Trading day 20230721 begun
+[2023.07.21 16:26:38 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:26:38 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:26:38 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:26:38 - info ] Trading sessions loaded
+[2023.07.21 16:26:38 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:26:38 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:26:38 - info ] Holidays loaded
+[2023.07.21 16:26:38 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:26:38 - info ] Running mode: Production
+[2023.07.21 16:26:38 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:26:38 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:26:38 - info ] 2 fee templates loaded
+[2023.07.21 16:26:38 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:26:38 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:26:38 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:26:38 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:26:38 - info ] Data manager initialized
+[2023.07.21 16:26:38 - info ] Action policies initialized
+[2023.07.21 16:26:38 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:26:38 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:26:38 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:26:38 - info ] 1 parsers loaded
+[2023.07.21 16:26:38 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:26:38 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:26:38 - info ] 1 traders loaded
+[2023.07.21 16:26:38 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:26:38 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:26:38 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:26:38 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:26:38 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:26:38 - info ] 1 executers loaded
+[2023.07.21 16:26:38 - info ] 1 parsers started
+[2023.07.21 16:26:38 - info ] 0 trading channels started
+[2023.07.21 16:26:38 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:26:38 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:26:38 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:26:38 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 16:26:38 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:26:38 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 16:26:38 - info ] Trading day 20230721 begun
+[2023.07.21 16:27:21 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:27:21 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:27:21 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:27:21 - info ] Trading sessions loaded
+[2023.07.21 16:27:21 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:27:21 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:27:21 - info ] Holidays loaded
+[2023.07.21 16:27:21 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:27:21 - info ] Running mode: Production
+[2023.07.21 16:27:21 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:27:21 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:27:21 - info ] 2 fee templates loaded
+[2023.07.21 16:27:21 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:27:21 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:27:21 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:27:21 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:27:21 - info ] Data manager initialized
+[2023.07.21 16:27:21 - info ] Action policies initialized
+[2023.07.21 16:27:21 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:27:21 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:27:21 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:27:21 - info ] 1 parsers loaded
+[2023.07.21 16:27:21 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:27:21 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:27:21 - info ] 1 traders loaded
+[2023.07.21 16:27:21 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:27:21 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:27:21 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:27:21 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:27:21 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:27:21 - info ] 1 executers loaded
+[2023.07.21 16:27:21 - info ] 1 parsers started
+[2023.07.21 16:27:21 - info ] 0 trading channels started
+[2023.07.21 16:27:21 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:27:21 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:27:21 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:27:21 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 16:27:21 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:27:21 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 16:27:21 - info ] Trading day 20230721 begun
+[2023.07.21 16:29:02 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:29:02 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:29:02 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:29:02 - info ] Trading sessions loaded
+[2023.07.21 16:29:02 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:29:02 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:29:02 - info ] Holidays loaded
+[2023.07.21 16:29:02 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:29:02 - info ] Running mode: Production
+[2023.07.21 16:29:02 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:29:02 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:29:02 - info ] 2 fee templates loaded
+[2023.07.21 16:29:02 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:29:02 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:29:02 - info ] WtDataReader initialized, rt dir is ./STK_Data/rt/, hist dir is ./STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:29:02 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:29:02 - info ] Data manager initialized
+[2023.07.21 16:29:02 - info ] Action policies initialized
+[2023.07.21 16:29:02 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:29:02 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:29:02 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:29:02 - info ] 1 parsers loaded
+[2023.07.21 16:29:02 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:29:02 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:29:02 - info ] 1 traders loaded
+[2023.07.21 16:29:02 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:29:02 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:29:02 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:29:02 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:29:02 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:29:02 - info ] 1 executers loaded
+[2023.07.21 16:29:02 - info ] 1 parsers started
+[2023.07.21 16:29:02 - info ] 0 trading channels started
+[2023.07.21 16:29:02 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:29:02 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:29:02 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:29:02 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 16:29:02 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:29:02 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 16:29:02 - info ] Trading day 20230721 begun
+[2023.07.21 16:33:18 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:33:18 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:33:18 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:33:18 - info ] Trading sessions loaded
+[2023.07.21 16:33:18 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:33:18 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:33:18 - info ] Holidays loaded
+[2023.07.21 16:33:18 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:33:18 - info ] Running mode: Production
+[2023.07.21 16:33:18 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:33:18 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:33:18 - info ] 2 fee templates loaded
+[2023.07.21 16:33:18 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:33:18 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:33:18 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:33:18 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:33:18 - info ] Data manager initialized
+[2023.07.21 16:33:18 - info ] Action policies initialized
+[2023.07.21 16:33:18 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:33:18 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:33:18 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:33:18 - info ] 1 parsers loaded
+[2023.07.21 16:33:18 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:33:18 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:33:18 - info ] 1 traders loaded
+[2023.07.21 16:33:18 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:33:18 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:33:18 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:33:18 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:33:18 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:33:18 - info ] 1 executers loaded
+[2023.07.21 16:33:18 - info ] 1 parsers started
+[2023.07.21 16:33:18 - info ] 0 trading channels started
+[2023.07.21 16:33:18 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:33:18 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:33:18 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:33:18 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.21 16:33:18 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:33:18 - debug] RT min1 block of SSE.600000 loaded
+[2023.07.21 16:33:18 - debug] His min1 bars of SSE.STK.600000 loaded, 0 from history, 1 from realtime
+[2023.07.21 16:33:18 - info ] DualThrust inited
+[2023.07.21 16:33:18 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 16:33:18 - info ] Trading day 20230721 begun
+[2023.07.21 16:35:29 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:35:29 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:35:29 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:35:29 - info ] Trading sessions loaded
+[2023.07.21 16:35:29 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:35:29 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:35:29 - info ] Holidays loaded
+[2023.07.21 16:35:29 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:35:29 - info ] Running mode: Production
+[2023.07.21 16:35:29 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:35:29 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:35:29 - info ] 2 fee templates loaded
+[2023.07.21 16:35:29 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:35:29 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:35:29 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:35:29 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:35:29 - info ] Data manager initialized
+[2023.07.21 16:35:29 - info ] Action policies initialized
+[2023.07.21 16:35:29 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:35:29 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:35:29 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:35:29 - info ] 1 parsers loaded
+[2023.07.21 16:35:29 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:35:29 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:35:29 - info ] 1 traders loaded
+[2023.07.21 16:35:29 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:35:29 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:35:29 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:35:29 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:35:29 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:35:29 - info ] 1 executers loaded
+[2023.07.21 16:35:29 - info ] 1 parsers started
+[2023.07.21 16:35:29 - info ] 0 trading channels started
+[2023.07.21 16:35:29 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:35:29 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:35:29 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:35:29 - debug] Main KBars confirmed: SSE.STK.600000#d1
+[2023.07.21 16:35:29 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:35:29 - debug] His day bars of SSE.STK.600000 loaded, 0 from history, 0 from realtime
+[2023.07.21 16:35:29 - info ] Trading day 20230721 begun
+[2023.07.21 16:36:47 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:36:47 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:36:47 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:36:47 - info ] Trading sessions loaded
+[2023.07.21 16:36:47 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:36:47 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:36:47 - info ] Holidays loaded
+[2023.07.21 16:36:47 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:36:47 - info ] Running mode: Production
+[2023.07.21 16:36:47 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:36:47 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:36:47 - info ] 2 fee templates loaded
+[2023.07.21 16:36:47 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:36:47 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:36:47 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:36:47 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:36:47 - info ] Data manager initialized
+[2023.07.21 16:36:47 - info ] Action policies initialized
+[2023.07.21 16:36:47 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:36:47 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:36:47 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:36:47 - info ] 1 parsers loaded
+[2023.07.21 16:36:47 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:36:47 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:36:47 - info ] 1 traders loaded
+[2023.07.21 16:36:47 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:36:47 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:36:47 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:36:47 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:36:47 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:36:47 - info ] 1 executers loaded
+[2023.07.21 16:36:47 - info ] 1 parsers started
+[2023.07.21 16:36:47 - info ] 0 trading channels started
+[2023.07.21 16:36:47 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:36:47 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:36:47 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:36:47 - debug] Main KBars confirmed: SSE.STK.600000#m5
+[2023.07.21 16:36:47 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:36:47 - debug] RT min5 block of SSE.600000 loaded
+[2023.07.21 16:36:47 - debug] His min5 bars of SSE.STK.600000 loaded, 0 from history, 1 from realtime
+[2023.07.21 16:36:47 - info ] DualThrust inited
+[2023.07.21 16:36:47 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 16:36:47 - info ] Trading day 20230721 begun
+[2023.07.21 16:36:55 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:36:55 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:36:55 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:36:55 - info ] Trading sessions loaded
+[2023.07.21 16:36:55 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:36:55 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:36:55 - info ] Holidays loaded
+[2023.07.21 16:36:55 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:36:55 - info ] Running mode: Production
+[2023.07.21 16:36:55 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:36:55 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:36:55 - info ] 2 fee templates loaded
+[2023.07.21 16:36:55 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:36:55 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:36:55 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:36:55 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:36:55 - info ] Data manager initialized
+[2023.07.21 16:36:55 - info ] Action policies initialized
+[2023.07.21 16:36:55 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:36:55 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:36:55 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:36:55 - info ] 1 parsers loaded
+[2023.07.21 16:36:55 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:36:55 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:36:55 - info ] 1 traders loaded
+[2023.07.21 16:36:55 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:36:55 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:36:55 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:36:55 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:36:55 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:36:55 - info ] 1 executers loaded
+[2023.07.21 16:36:55 - info ] 1 parsers started
+[2023.07.21 16:36:55 - info ] 0 trading channels started
+[2023.07.21 16:36:55 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:36:55 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:36:55 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:36:55 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.21 16:36:55 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:36:55 - debug] RT min1 block of SSE.600000 loaded
+[2023.07.21 16:36:55 - debug] His min1 bars of SSE.STK.600000 loaded, 0 from history, 1 from realtime
+[2023.07.21 16:36:55 - info ] DualThrust inited
+[2023.07.21 16:36:55 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 16:36:55 - info ] Trading day 20230721 begun
+[2023.07.21 16:37:01 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 16:37:01 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 16:37:01 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 16:37:01 - info ] Trading sessions loaded
+[2023.07.21 16:37:01 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 16:37:01 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 16:37:01 - info ] Holidays loaded
+[2023.07.21 16:37:01 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 16:37:01 - info ] Running mode: Production
+[2023.07.21 16:37:01 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 16:37:01 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 16:37:01 - info ] 2 fee templates loaded
+[2023.07.21 16:37:01 - debug] 0 position info of portfolio loaded
+[2023.07.21 16:37:01 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 16:37:01 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 16:37:01 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 16:37:01 - info ] Data manager initialized
+[2023.07.21 16:37:01 - info ] Action policies initialized
+[2023.07.21 16:37:01 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 16:37:01 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 16:37:01 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 16:37:01 - info ] 1 parsers loaded
+[2023.07.21 16:37:01 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 16:37:01 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 16:37:01 - info ] 1 traders loaded
+[2023.07.21 16:37:01 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 16:37:01 - info ] Reading executer config from executers.yaml...
+[2023.07.21 16:37:01 - info ] Executer factory WtExeFact loaded
+[2023.07.21 16:37:01 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 16:37:01 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 16:37:01 - info ] 1 executers loaded
+[2023.07.21 16:37:01 - info ] 1 parsers started
+[2023.07.21 16:37:01 - info ] 0 trading channels started
+[2023.07.21 16:37:01 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 16:37:01 - info ] Trading date confirmed: 20230721
+[2023.07.21 16:37:01 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 16:37:01 - debug] Main KBars confirmed: SSE.STK.600000#m3
+[2023.07.21 16:37:01 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 16:37:01 - debug] RT min1 block of SSE.600000 loaded
+[2023.07.21 16:37:01 - debug] His min1 bars of SSE.STK.600000 loaded, 0 from history, 1 from realtime
+[2023.07.21 16:37:01 - debug] min1 bars of SSE.STK.600000 resampled every 3 bars: 153 -> 1
+[2023.07.21 16:37:01 - info ] Trading day 20230721 begun
+[2023.07.21 17:00:46 - info ] Callbacks of Extented Parser registration done
+[2023.07.21 17:00:46 - info ] Callbacks of Extented Executer registration done
+[2023.07.21 17:00:46 - info ] WonderTrader CTA production framework initialzied£¬version: X64 v0.9.7 Build@Apr  4 2023 10:13:38
+[2023.07.21 17:00:46 - info ] Trading sessions loaded
+[2023.07.21 17:00:46 - info ] Commodities configuration file ../common/stk_comms.json loaded
+[2023.07.21 17:00:46 - info ] Contracts configuration file ../common/stocks.json loaded, 2 exchanges
+[2023.07.21 17:00:46 - info ] Holidays loaded
+[2023.07.21 17:00:46 - info ] Trading environment initialized, engine name: CTA
+[2023.07.21 17:00:46 - info ] Running mode: Production
+[2023.07.21 17:00:46 - info ] Strategy filter Q3LS00_if loaded
+[2023.07.21 17:00:46 - info ] Code filter CFFEX.IF loaded
+[2023.07.21 17:00:46 - info ] 2 fee templates loaded
+[2023.07.21 17:00:46 - debug] 0 position info of portfolio loaded
+[2023.07.21 17:00:46 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.21 17:00:46 - info ] WtDataReader initialized, rt dir is ../STK_Data/rt/, hist dir is ../STK_Data/his/, adjust_flag is 0
+[2023.07.21 17:00:46 - info ] No adjusting factor file configured, loading skipped
+[2023.07.21 17:00:46 - info ] Data manager initialized
+[2023.07.21 17:00:46 - info ] Action policies initialized
+[2023.07.21 17:00:46 - info ] Reading parser config from tdparsers.yaml...
+[2023.07.21 17:00:46 - info ] [parser1] Parser module D:/Miniconda/envs/python_3.10/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.21 17:00:46 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.21 17:00:46 - info ] 1 parsers loaded
+[2023.07.21 17:00:46 - info ] Reading trader config from tdtraders.yaml...
+[2023.07.21 17:00:46 - warning] [] No risk control rule setup of trading channel
+[2023.07.21 17:00:46 - info ] 1 traders loaded
+[2023.07.21 17:00:46 - info ] EventNotifier initialized with channel ipc:///wtpy/wt_cat_stk.ipc
+[2023.07.21 17:00:46 - info ] Reading executer config from executers.yaml...
+[2023.07.21 17:00:46 - info ] Executer factory WtExeFact loaded
+[2023.07.21 17:00:47 - info ] Local executer inited, scale: 1, auto_clear: false, strict_sync: false, thread poolsize: 0, code_groups: 0
+[2023.07.21 17:00:47 - error] Trader simnow not exists, cannot configured for executer %s
+[2023.07.21 17:00:47 - info ] 1 executers loaded
+[2023.07.21 17:00:47 - info ] 1 parsers started
+[2023.07.21 17:00:47 - info ] 0 trading channels started
+[2023.07.21 17:00:47 - info ] CtaTicker will drive engine with session SD0930
+[2023.07.21 17:00:47 - info ] Trading date confirmed: 20230721
+[2023.07.21 17:00:47 - info ] 0 conditions recovered, setup time: 0
+[2023.07.21 17:00:47 - debug] Main KBars confirmed: SSE.STK.600000#m1
+[2023.07.21 17:00:47 - info ] Reading final bars of SSE.STK.600000 via extended loader...
+[2023.07.21 17:00:47 - debug] RT min1 block of SSE.600000 loaded
+[2023.07.21 17:00:47 - debug] His min1 bars of SSE.STK.600000 loaded, 0 from history, 1 from realtime
+[2023.07.21 17:00:47 - info ] DualThrust inited
+[2023.07.21 17:00:47 - info ] Market data subscribed: SSE.STK.600000
+[2023.07.21 17:00:47 - info ] Trading day 20230721 begun

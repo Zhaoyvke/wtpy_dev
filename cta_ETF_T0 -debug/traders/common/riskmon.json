@@ -1,0 +1,22 @@
+
+
+"riskmon":
+{
+    "active": true,
+    "policy": 
+        {
+            "default":  // 默认流量风控策略，可针对不同品种分别设置指标
+                {
+                    "order_times_boundary": 20,  // 委托次数边界
+                    "order_stat_timespan": 1,   // 委托次数统计时间范围，单位s
+                    
+                    "cancel_times_boundary": 20,  // 撤单次数边界
+                    "cancel_start_timespan": 1,   // 撤单次数统计时间范围，单位s
+                    
+                    "cancel_total_limits": 47
+					0,   // 总撤单笔数限制
+                    
+                    "insert_total_limits": 3000  // 总下单次数限制
+                }
+        }
+}

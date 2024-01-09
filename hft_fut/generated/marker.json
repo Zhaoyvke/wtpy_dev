@@ -1,0 +1,9 @@
+{
+    "marks": [
+        "pyhft_y"
+    ],
+    "channels": [
+        "zhongxinFUT"
+    ],
+    "engine": "HFT"
+}

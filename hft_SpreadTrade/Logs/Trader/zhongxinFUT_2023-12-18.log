@@ -1,0 +1,199 @@
+[2023.12.18 10:49:07 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.18 10:49:07 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.18 10:49:07 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.18 10:49:07 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 3002729792, login time: 10:48:44...
+[2023.12.18 10:49:07 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231218...
+[2023.12.18 10:49:07 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.18 10:49:08 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.18 10:49:08 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231218
+[2023.12.18 10:49:08 - info ] [zhongxinFUT] DCE.y.2403 position updated, long:0[0]|0[0], short:1[1]|0[0]
+[2023.12.18 10:49:08 - info ] [zhongxinFUT] DCE.p.2408 position updated, long:0[0]|0[0], short:0[0]|1[1]
+[2023.12.18 10:49:08 - info ] [zhongxinFUT] Position data updated
+[2023.12.18 10:49:10 - info ] [zhongxinFUT] DCE.p.2408 action stats updated, long opened: 0, long closed: 0, new long closed: 0, short opened: 1, short closed: 0, new short closed: 0
+[2023.12.18 10:49:11 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.18 10:56:40 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 10:56:40 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 10:56:40 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 10:56:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290000, state: Smtting
+[2023.12.18 10:56:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290000, state: UnTrd
+[2023.12.18 10:59:39 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290000, state: UnTrd
+[2023.12.18 10:59:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290000, state: Cncld
+[2023.12.18 10:59:40 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 10:59:40 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290000 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 10:59:40 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 10:59:40 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 10:59:40 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 10:59:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290001, state: Smtting
+[2023.12.18 10:59:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290001, state: UnTrd
+[2023.12.18 11:10:34 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290001, state: UnTrd
+[2023.12.18 11:10:34 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290001, state: Cncld
+[2023.12.18 11:10:34 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 11:10:34 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290001 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 11:10:35 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 11:10:35 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 11:10:35 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 11:10:35 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290002, state: Smtting
+[2023.12.18 11:10:35 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290002, state: UnTrd
+[2023.12.18 11:18:23 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290002, state: UnTrd
+[2023.12.18 11:18:23 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290002, state: Cncld
+[2023.12.18 11:18:23 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 11:18:23 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290002 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 11:18:23 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 11:18:23 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 11:18:23 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 11:18:23 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290003, state: Smtting
+[2023.12.18 11:18:24 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290003, state: UnTrd
+[2023.12.18 11:30:08 - error] CTP:该交易所不支持套利/做市商类型报单(61)
+[2023.12.18 11:30:08 - error] [zhongxinFUT] Order placing failed: CTP:该交易所不支持套利/做市商类型报单(61), instrument: lh2403, action: open long, qty: 1
+[2023.12.18 11:30:17 - error] CTP:该交易所不支持套利/做市商类型报单(61)
+[2023.12.18 11:30:17 - error] [zhongxinFUT] Order placing failed: CTP:该交易所不支持套利/做市商类型报单(61), instrument: lh2403, action: open long, qty: 1
+[2023.12.18 11:30:25 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2403, usertag: 000002#3148220031#000011, state: Smtting
+[2023.12.18 11:30:25 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2403, usertag: 000002#3148220031#000011, state: UnTrd
+[2023.12.18 11:30:25 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2403, usertag: 000002#3148220031#000011, state: AllTrd
+[2023.12.18 11:30:25 - info ] [zhongxinFUT] Trade notified, instrument: DCE.lh.2403, usertag: , trdqty: 1, trdprice: 14120
+[2023.12.18 11:30:25 - info ] [zhongxinFUT] DCE.lh.2403 position updated, long:0[0]|1[1], short:0[0]|0[0]
+[2023.12.18 11:31:54 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000012, state: Smtting
+[2023.12.18 11:31:54 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000012, state: Cncld
+[2023.12.18 11:34:36 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000013, state: Smtting
+[2023.12.18 11:34:36 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000013, state: Cncld
+[2023.12.18 11:34:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000014, state: Smtting
+[2023.12.18 11:34:40 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000014, state: Cncld
+[2023.12.18 11:34:47 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000015, state: Smtting
+[2023.12.18 11:34:48 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000015, state: Cncld
+[2023.12.18 11:35:02 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000016, state: Smtting
+[2023.12.18 11:35:02 - debug] [zhongxinFUT] Order notified, instrument: DCE.lh.2401, usertag: 000002#3148220031#000016, state: Cncld
+[2023.12.18 13:04:47 - error] [zhongxinFUT] Trading channel disconnected: 8193
+[2023.12.18 13:04:49 - info ] [TraderCTP][7050-58110678] Login succeed, AppID: wz_wt_v100, Sessionid: 3537504715, login time: 13:04:26...
+[2023.12.18 13:04:49 - info ] [TraderCTP][7050-58110678] Login succeed, trading date: 20231218...
+[2023.12.18 13:04:49 - info ] [TraderCTP][7050-58110678] Querying confirming state of settlement data...
+[2023.12.18 13:04:49 - info ] [TraderCTP][7050-58110678] Trading channel initialized...
+[2023.12.18 13:04:49 - info ] [zhongxinFUT] Trader login succeed, trading date: 20231218
+[2023.12.18 13:04:50 - info ] [zhongxinFUT] DCE.y.2403 position updated, long:0[0]|0[0], short:1[1]|0[0]
+[2023.12.18 13:04:50 - info ] [zhongxinFUT] DCE.p.2408 position updated, long:0[0]|0[0], short:0[0]|1[1]
+[2023.12.18 13:04:50 - info ] [zhongxinFUT] DCE.i.2405 position updated, long:0[0]|0[0], short:0[-1]|0[0]
+[2023.12.18 13:04:50 - info ] [zhongxinFUT] DCE.lh.2403 position updated, long:0[0]|1[1], short:0[0]|0[0]
+[2023.12.18 13:04:50 - info ] [zhongxinFUT] DCE.lh.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.12.18 13:04:50 - info ] [zhongxinFUT] Position data updated
+[2023.12.18 13:04:51 - info ] [zhongxinFUT]DCE.i.2405 undone quantity -1
+[2023.12.18 13:04:52 - info ] [zhongxinFUT] DCE.p.2408 action stats updated, long opened: 0, long closed: 0, new long closed: 0, short opened: 2, short closed: 0, new short closed: 0
+[2023.12.18 13:04:52 - info ] [zhongxinFUT] DCE.i.2405 action stats updated, long opened: 0, long closed: 0, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.12.18 13:04:52 - info ] [zhongxinFUT] DCE.lh.2403 action stats updated, long opened: 2, long closed: 0, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.12.18 13:04:52 - info ] [zhongxinFUT] DCE.lh.2401 action stats updated, long opened: 0, long closed: 0, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.12.18 13:04:53 - info ] [zhongxinFUT] Trading channel ready
+[2023.12.18 13:32:22 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290003, state: UnTrd
+[2023.12.18 13:32:23 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290003, state: Cncld
+[2023.12.18 13:32:23 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 13:32:23 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290003 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 13:32:23 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 13:32:23 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 13:32:23 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 13:32:23 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290004, state: Smtting
+[2023.12.18 13:32:23 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290004, state: UnTrd
+[2023.12.18 13:39:29 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290004, state: UnTrd
+[2023.12.18 13:39:29 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290004, state: Cncld
+[2023.12.18 13:39:29 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 13:39:29 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290004 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 13:39:29 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 13:39:29 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 13:39:29 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 13:39:29 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290005, state: Smtting
+[2023.12.18 13:39:29 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290005, state: UnTrd
+[2023.12.18 13:43:29 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290005, state: UnTrd
+[2023.12.18 13:43:29 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290005, state: Cncld
+[2023.12.18 13:43:29 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 13:43:29 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290005 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 13:43:30 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 13:43:30 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 13:43:30 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 13:43:30 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290006, state: Smtting
+[2023.12.18 13:43:30 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290006, state: UnTrd
+[2023.12.18 13:45:28 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290006, state: UnTrd
+[2023.12.18 13:45:28 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290006, state: Cncld
+[2023.12.18 13:45:28 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 13:45:28 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290006 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 13:45:28 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 13:45:28 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 13:45:28 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 13:45:28 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290007, state: Smtting
+[2023.12.18 13:45:28 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290007, state: UnTrd
+[2023.12.18 14:02:34 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290007, state: UnTrd
+[2023.12.18 14:02:34 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290007, state: Cncld
+[2023.12.18 14:02:34 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:02:34 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290007 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:02:35 - info ] [zhongxinFUT] Buying DCE.i.2405 of quantity 1
+[2023.12.18 14:02:35 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> 1
+[2023.12.18 14:02:35 - info ] [zhongxinFUT] Signal of buying DCE.i.2405 of quantity 1 triggered: Opening long of quantity 1
+[2023.12.18 14:02:35 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290008, state: Smtting
+[2023.12.18 14:02:35 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290008, state: UnTrd
+[2023.12.18 14:04:52 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290008, state: UnTrd
+[2023.12.18 14:04:52 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290008, state: Cncld
+[2023.12.18 14:04:52 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 1 -> 0
+[2023.12.18 14:04:52 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290008 of DCE.i.2405 canceled:已撤单, action: OL, leftqty: 1
+[2023.12.18 14:04:52 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:04:52 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:04:52 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:04:52 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290009, state: Smtting
+[2023.12.18 14:04:52 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290009, state: UnTrd
+[2023.12.18 14:06:03 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290009, state: UnTrd
+[2023.12.18 14:06:03 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290009, state: Cncld
+[2023.12.18 14:06:03 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:06:03 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290009 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:06:03 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:06:03 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:06:03 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:06:03 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290010, state: Smtting
+[2023.12.18 14:06:03 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290010, state: UnTrd
+[2023.12.18 14:10:45 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290010, state: UnTrd
+[2023.12.18 14:10:45 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290010, state: Cncld
+[2023.12.18 14:10:45 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:10:45 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290010 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:10:45 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:10:45 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:10:45 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:10:45 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290011, state: Smtting
+[2023.12.18 14:10:46 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290011, state: UnTrd
+[2023.12.18 14:11:26 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290011, state: UnTrd
+[2023.12.18 14:11:26 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290011, state: Cncld
+[2023.12.18 14:11:26 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:11:26 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290011 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:11:26 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:11:26 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:11:26 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:11:26 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290012, state: Smtting
+[2023.12.18 14:11:27 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290012, state: UnTrd
+[2023.12.18 14:12:16 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290012, state: UnTrd
+[2023.12.18 14:12:16 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290012, state: Cncld
+[2023.12.18 14:12:16 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:12:16 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290012 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:18:20 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:18:20 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:18:20 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:18:20 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290013, state: Smtting
+[2023.12.18 14:18:20 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290013, state: UnTrd
+[2023.12.18 14:32:47 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290013, state: UnTrd
+[2023.12.18 14:32:47 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290013, state: Cncld
+[2023.12.18 14:32:47 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:32:47 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290013 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:32:57 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:32:57 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:32:57 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:32:57 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290014, state: Smtting
+[2023.12.18 14:32:57 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290014, state: UnTrd
+[2023.12.18 14:52:04 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290014, state: UnTrd
+[2023.12.18 14:52:04 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290014, state: Cncld
+[2023.12.18 14:52:04 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, -1 -> 0
+[2023.12.18 14:52:04 - info ] [zhongxinFUT] Order otp.zhongxinFUT.1518290014 of DCE.i.2405 canceled:已撤单, action: OS, leftqty: 1
+[2023.12.18 14:52:04 - info ] [zhongxinFUT] Selling DCE.i.2405 of quantity 1
+[2023.12.18 14:52:04 - info ] [zhongxinFUT] DCE.i.2405 qty of undone order updated, 0 -> -1
+[2023.12.18 14:52:04 - info ] [zhongxinFUT] Signal of selling DCE.i.2405 of quantity 1 triggered: Opening short of quantity 1
+[2023.12.18 14:52:04 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290015, state: Smtting
+[2023.12.18 14:52:04 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290015, state: UnTrd
+[2023.12.18 15:00:30 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290015, state: UnTrd
+[2023.12.18 15:02:38 - debug] [zhongxinFUT] Order notified, instrument: DCE.i.2405, usertag: otp.zhongxinFUT.1518290015, state: UnTrd
+[2023.12.18 16:27:18 - error] [zhongxinFUT] Trading channel disconnected: 4097
+[2023.12.18 16:37:51 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.18 16:37:51 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.18 16:37:51 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.18 16:58:50 - info ] [zhongxinFUT] Risk control rule default of trading channel loaded
+[2023.12.18 16:58:50 - info ] [zhongxinFUT] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.18 16:58:50 - info ] registerFront: tcp://121.13.217.132:44205

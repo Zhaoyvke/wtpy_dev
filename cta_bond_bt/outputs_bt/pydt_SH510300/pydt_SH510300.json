@@ -1,0 +1,31 @@
+{
+    "positions": [
+        {
+            "code": "SSE.ETF.510300",
+            "volume": 0.0,
+            "closeprofit": 314.19999999999939,
+            "dynprofit": 0.0,
+            "lastentertime": 201910311450,
+            "lastexittime": 201910311500,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": 314.19999999999939,
+        "total_dynprofit": 0.0,
+        "total_fees": 0.0,
+        "tdate": 20191031
+    },
+    "signals": {
+        "SSE.ETF.510300": {
+            "usertag": "enterlong",
+            "volume": 1.0,
+            "sigprice": 3879.0,
+            "gentime": 20191031150000000
+        }
+    },
+    "conditions": {
+        "settime": 201910311500,
+        "items": {}
+    }
+}

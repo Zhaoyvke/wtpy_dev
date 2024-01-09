@@ -1,0 +1,45 @@
+basefiles:
+    commodity: 
+    -   F:/wt_opt_sim/common/sopt_comms.json
+    -   F:/wt_opt_sim/common/etf_comms.json    
+    -   F:/wt_opt_sim/common/commodities.json
+    -   F:/wt_opt_sim/common/fopt_comms.json
+    contract: 
+    -   F:/wt_opt_sim/common/stk_options.json
+    -   F:/wt_opt_sim/common/etfs.json
+    -   F:/wt_opt_sim/common/contracts.json
+    -   F:/wt_opt_sim/common/fut_options.json
+    holiday: F:/wt_opt_sim/common/holidays.json
+    session: F:/wt_opt_sim/common/sessions.json
+data:
+    store:
+        module: WtDataStorage
+        path: F:/wt_opt_sim/Data_SOPT/
+env:
+    fees: fees.yaml
+    filters: filters.yaml
+    mode: product
+    name: cta
+    product:
+        session: SD0930
+    riskmon:
+        active: false
+        base_amount: 5000000
+        basic_ratio: 101
+        calc_span: 5
+        inner_day_active: true
+        inner_day_fd: 20.0
+        module: WtRiskMonFact
+        multi_day_active: false
+        multi_day_fd: 60.0
+        name: SimpleRiskMon
+        risk_scale: 0.3
+        risk_span: 30
+executers: executers.yaml
+parsers: tdparsers.yaml
+traders: tdtraders.yaml
+bspolicy: actpolicy.yaml
+notifier:
+    active: false
+    url: ipc:///wtpy/wt_opt_sim2.ipc
+

@@ -1,0 +1,26 @@
+default:
+    order:
+    -   action: close
+        limit: 0
+    -   action: open
+        limit: 0
+lowinnerdayfee:
+    filters:
+    order:
+    -   action: closetoday
+        limit: 0
+    -   action: closeyestoday
+        limit: 0
+    -   action: open
+        limit: 0
+stockindex:
+    filters:
+    order:
+    -   action: closeyestoday
+        limit: 0
+        pure: true
+    -   action: open
+        limit: 500
+    -   action: closetoday
+        limit: 0
+        pure: true

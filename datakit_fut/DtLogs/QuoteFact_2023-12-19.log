@@ -1,0 +1,782 @@
+[2023.12.19 13:23:44 - info ] Trading sessions loaded
+[2023.12.19 13:23:44 - warning] No session configured for CFFEX.TL
+[2023.12.19 13:23:44 - warning] No session configured for CZCE.PX
+[2023.12.19 13:23:44 - warning] No session configured for CZCE.SH
+[2023.12.19 13:23:44 - warning] No session configured for GFEX.lc
+[2023.12.19 13:23:44 - warning] No session configured for GFEX.si
+[2023.12.19 13:23:44 - warning] No session configured for INE.ec
+[2023.12.19 13:23:44 - warning] No session configured for SHFE.ao
+[2023.12.19 13:23:44 - warning] No session configured for SHFE.br
+[2023.12.19 13:23:44 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.12.19 13:23:44 - info ] Contracts configuration file ../common/contracts_SP.json loaded, 1 exchanges
+[2023.12.19 13:23:44 - info ] Holidays loaded
+[2023.12.19 13:23:44 - info ] Data storage module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.12.19 13:23:44 - info ] WtDataWriter initialized, root dir: ../FUT_Data/, save_csv_tick: false, async_mode: false, log_group_size: 20, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.12.19 13:23:44 - info ] Reading parser config from mdparsers.yaml...
+[2023.12.19 13:23:44 - info ] [parserCTP] Parser module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/parsers/parserCTP.dll loaded
+[2023.12.19 13:23:45 - info ] 1 market data parsers loaded in total
+[2023.12.19 13:23:45 - info ] Callbacks of Extented Parser registration done
+[2023.12.19 13:23:45 - info ] WonderTrader datakit initialzied，version: X64 v0.9.9 Build@Nov 27 2023 13:47:50
+[2023.12.19 13:23:45 - info ] 1 parsers started
+[2023.12.19 13:23:45 - info ] Trading session 期货白盘0900[FD0900] paused receiving data
+[2023.12.19 13:23:45 - info ] Trading session 期货白盘0915[FD0915] started receiving data
+[2023.12.19 13:23:45 - info ] Trading session 期货夜盘0100[FN0100] paused receiving data
+[2023.12.19 13:23:45 - info ] Trading session 期货夜盘0230[FN0230] paused receiving data
+[2023.12.19 13:23:45 - info ] Trading session 期货夜盘2300[FN2300] paused receiving data
+[2023.12.19 13:23:45 - info ] No corresponding instrument of trading session 期货夜盘2330[FN2330], changed into holiday state
+[2023.12.19 13:23:45 - info ] All instruments of trading session 期货夜盘2330[FN2330] are in holiday, changed into holiday state
+[2023.12.19 13:23:45 - info ] Trading session 股票白盘0930[SD0930] started receiving data
+[2023.12.19 13:23:45 - info ] [ParserCTP] Market data server connected
+[2023.12.19 13:23:45 - info ] [ParserCTP] Market data server logined, 20231219
+[2023.12.19 13:23:45 - info ] [ParserCTP] Market data of 58 contracts subscribed totally
+[2023.12.19 13:29:00 - info ] Trading session 期货白盘0900[FD0900] continued to receive data
+[2023.12.19 13:29:00 - info ] Trading session 期货夜盘0100[FN0100] continued to receive data
+[2023.12.19 13:29:00 - info ] Trading session 期货夜盘0230[FN0230] continued to receive data
+[2023.12.19 13:29:00 - info ] Trading session 期货夜盘2300[FN2300] continued to receive data
+[2023.12.19 13:30:31 - info ] First tick of new tradingday 20231219,DCE.j2405,2880.5,14,3693400,93,0
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2405.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/min1/DCE/j2405.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/min5/DCE/j2405.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] First tick of new tradingday 20231219,DCE.lh2401,14570,39,9136640,548,-23
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/ticks/DCE/lh2401.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/min1/DCE/lh2401.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/min5/DCE/lh2401.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] First tick of new tradingday 20231219,DCE.m2411,3390,10,341450,42,-7
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2411.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/min1/DCE/m2411.dmb not exists, initializing...
+[2023.12.19 13:30:31 - info ] Data file ../FUT_Data/rt/min5/DCE/m2411.dmb not exists, initializing...
+[2023.12.19 13:30:39 - info ] First tick of new tradingday 20231219,DCE.m2401,3700,2603,99775250,62164,-312
+[2023.12.19 13:30:39 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2401.dmb not exists, initializing...
+[2023.12.19 13:30:39 - info ] Data file ../FUT_Data/rt/min1/DCE/m2401.dmb not exists, initializing...
+[2023.12.19 13:30:39 - info ] Data file ../FUT_Data/rt/min5/DCE/m2401.dmb not exists, initializing...
+[2023.12.19 13:31:48 - info ] First tick of new tradingday 20231219,DCE.m2405,3393,52,1770040,1965,-14
+[2023.12.19 13:31:48 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2405.dmb not exists, initializing...
+[2023.12.19 13:31:48 - info ] Data file ../FUT_Data/rt/min1/DCE/m2405.dmb not exists, initializing...
+[2023.12.19 13:31:48 - info ] Data file ../FUT_Data/rt/min5/DCE/m2405.dmb not exists, initializing...
+[2023.12.19 13:32:00 - info ] First tick of new tradingday 20231219,DCE.y2405,7604,230,17419280,774,84
+[2023.12.19 13:32:00 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2405.dmb not exists, initializing...
+[2023.12.19 13:32:00 - info ] Data file ../FUT_Data/rt/min1/DCE/y2405.dmb not exists, initializing...
+[2023.12.19 13:32:00 - info ] Data file ../FUT_Data/rt/min5/DCE/y2405.dmb not exists, initializing...
+[2023.12.19 13:36:03 - info ] First tick of new tradingday 20231219,DCE.y2403,8000,12,959060,292,2
+[2023.12.19 13:36:03 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2403.dmb not exists, initializing...
+[2023.12.19 13:36:03 - info ] Data file ../FUT_Data/rt/min1/DCE/y2403.dmb not exists, initializing...
+[2023.12.19 13:36:03 - info ] Data file ../FUT_Data/rt/min5/DCE/y2403.dmb not exists, initializing...
+[2023.12.19 13:38:27 - info ] 20 ticks received from exchange DCE
+[2023.12.19 13:38:33 - info ] First tick of new tradingday 20231219,DCE.m2407,3378,5,168900,301,-3
+[2023.12.19 13:38:33 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2407.dmb not exists, initializing...
+[2023.12.19 13:38:33 - info ] Data file ../FUT_Data/rt/min1/DCE/m2407.dmb not exists, initializing...
+[2023.12.19 13:38:33 - info ] Data file ../FUT_Data/rt/min5/DCE/m2407.dmb not exists, initializing...
+[2023.12.19 13:40:25 - info ] First tick of new tradingday 20231219,DCE.lh2403,15120,46,10646080,616,2
+[2023.12.19 13:40:25 - info ] Data file ../FUT_Data/rt/ticks/DCE/lh2403.dmb not exists, initializing...
+[2023.12.19 13:40:25 - info ] Data file ../FUT_Data/rt/min1/DCE/lh2403.dmb not exists, initializing...
+[2023.12.19 13:40:25 - info ] Data file ../FUT_Data/rt/min5/DCE/lh2403.dmb not exists, initializing...
+[2023.12.19 13:40:35 - info ] tick cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] tick cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] tick cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] min1 cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] min1 cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] min1 cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] min5 cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] min5 cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 13:40:35 - info ] min5 cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 13:41:29 - info ] First tick of new tradingday 20231219,DCE.i2401,990,849,83289200,15017,-485
+[2023.12.19 13:41:29 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2401.dmb not exists, initializing...
+[2023.12.19 13:41:29 - info ] Data file ../FUT_Data/rt/min1/DCE/i2401.dmb not exists, initializing...
+[2023.12.19 13:41:29 - info ] Data file ../FUT_Data/rt/min5/DCE/i2401.dmb not exists, initializing...
+[2023.12.19 13:43:15 - info ] First tick of new tradingday 20231219,DCE.p2408,7032,11,773520,344,-1
+[2023.12.19 13:43:15 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2408.dmb not exists, initializing...
+[2023.12.19 13:43:15 - info ] Data file ../FUT_Data/rt/min1/DCE/p2408.dmb not exists, initializing...
+[2023.12.19 13:43:15 - info ] Data file ../FUT_Data/rt/min5/DCE/p2408.dmb not exists, initializing...
+[2023.12.19 13:44:24 - info ] 40 ticks received from exchange DCE
+[2023.12.19 13:44:51 - info ] First tick of new tradingday 20231219,DCE.p2405,7162,6,429120,750,0
+[2023.12.19 13:44:51 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2405.dmb not exists, initializing...
+[2023.12.19 13:44:51 - info ] Data file ../FUT_Data/rt/min1/DCE/p2405.dmb not exists, initializing...
+[2023.12.19 13:44:51 - info ] Data file ../FUT_Data/rt/min5/DCE/p2405.dmb not exists, initializing...
+[2023.12.19 13:45:02 - info ] First tick of new tradingday 20231219,DCE.i2405,925,1077,109097850,3426,1031
+[2023.12.19 13:45:02 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2405.dmb not exists, initializing...
+[2023.12.19 13:45:02 - info ] Data file ../FUT_Data/rt/min1/DCE/i2405.dmb not exists, initializing...
+[2023.12.19 13:45:02 - info ] Data file ../FUT_Data/rt/min5/DCE/i2405.dmb not exists, initializing...
+[2023.12.19 13:45:22 - info ] 60 ticks received from exchange DCE
+[2023.12.19 13:45:32 - info ] 80 ticks received from exchange DCE
+[2023.12.19 13:45:42 - info ] 100 ticks received from exchange DCE
+[2023.12.19 13:45:52 - info ] 120 ticks received from exchange DCE
+[2023.12.19 13:46:02 - info ] 140 ticks received from exchange DCE
+[2023.12.19 13:46:12 - info ] 160 ticks received from exchange DCE
+[2023.12.19 13:46:22 - info ] 180 ticks received from exchange DCE
+[2023.12.19 13:46:32 - info ] 200 ticks received from exchange DCE
+[2023.12.19 13:46:42 - info ] 220 ticks received from exchange DCE
+[2023.12.19 13:46:46 - info ] tick cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 13:46:46 - info ] min1 cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 13:46:46 - info ] min5 cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 13:46:52 - info ] 240 ticks received from exchange DCE
+[2023.12.19 13:46:56 - info ] tick cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 13:46:56 - info ] min1 cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 13:46:56 - info ] min5 cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 13:47:02 - info ] 260 ticks received from exchange DCE
+[2023.12.19 13:47:12 - info ] 280 ticks received from exchange DCE
+[2023.12.19 13:47:22 - info ] 300 ticks received from exchange DCE
+[2023.12.19 13:47:32 - info ] 320 ticks received from exchange DCE
+[2023.12.19 13:47:36 - info ] First tick of new tradingday 20231219,DCE.lh2405,15205,19,4539120,477,-13
+[2023.12.19 13:47:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/lh2405.dmb not exists, initializing...
+[2023.12.19 13:47:37 - info ] Data file ../FUT_Data/rt/min1/DCE/lh2405.dmb not exists, initializing...
+[2023.12.19 13:47:37 - info ] Data file ../FUT_Data/rt/min5/DCE/lh2405.dmb not exists, initializing...
+[2023.12.19 13:47:42 - info ] 340 ticks received from exchange DCE
+[2023.12.19 13:47:52 - info ] 360 ticks received from exchange DCE
+[2023.12.19 13:48:02 - info ] 380 ticks received from exchange DCE
+[2023.12.19 13:48:36 - info ] tick cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 13:48:36 - info ] min1 cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 13:48:36 - info ] min5 cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 13:48:46 - info ] tick cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 13:48:46 - info ] min1 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 13:48:46 - info ] min5 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 13:48:54 - info ] 400 ticks received from exchange DCE
+[2023.12.19 13:49:04 - info ] 420 ticks received from exchange DCE
+[2023.12.19 13:49:13 - info ] 440 ticks received from exchange DCE
+[2023.12.19 13:49:23 - info ] 460 ticks received from exchange DCE
+[2023.12.19 13:49:32 - info ] 480 ticks received from exchange DCE
+[2023.12.19 13:49:42 - info ] 500 ticks received from exchange DCE
+[2023.12.19 13:49:51 - info ] 520 ticks received from exchange DCE
+[2023.12.19 13:50:02 - info ] 540 ticks received from exchange DCE
+[2023.12.19 13:50:12 - info ] 560 ticks received from exchange DCE
+[2023.12.19 13:50:26 - info ] tick cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 13:50:26 - info ] min1 cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 13:50:26 - info ] min5 cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 13:51:36 - info ] tick cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 13:51:36 - info ] min1 cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 13:51:36 - info ] min5 cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 13:52:55 - info ] First tick of new tradingday 20231219,DCE.i2407,978,8,732900,1439,-1
+[2023.12.19 13:52:55 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2407.dmb not exists, initializing...
+[2023.12.19 13:52:55 - info ] Data file ../FUT_Data/rt/min1/DCE/i2407.dmb not exists, initializing...
+[2023.12.19 13:52:55 - info ] Data file ../FUT_Data/rt/min5/DCE/i2407.dmb not exists, initializing...
+[2023.12.19 13:54:26 - info ] tick cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 13:54:26 - info ] min1 cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 13:54:26 - info ] min5 cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 13:54:54 - info ] First tick of new tradingday 20231219,DCE.p2403,7108,4,284320,1143,-2
+[2023.12.19 13:54:54 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2403.dmb not exists, initializing...
+[2023.12.19 13:54:54 - info ] Data file ../FUT_Data/rt/min1/DCE/p2403.dmb not exists, initializing...
+[2023.12.19 13:54:54 - info ] Data file ../FUT_Data/rt/min5/DCE/p2403.dmb not exists, initializing...
+[2023.12.19 13:55:52 - info ] First tick of new tradingday 20231219,DCE.p2409,7000,3,209800,84,-2
+[2023.12.19 13:55:52 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2409.dmb not exists, initializing...
+[2023.12.19 13:55:52 - info ] Data file ../FUT_Data/rt/min1/DCE/p2409.dmb not exists, initializing...
+[2023.12.19 13:55:52 - info ] Data file ../FUT_Data/rt/min5/DCE/p2409.dmb not exists, initializing...
+[2023.12.19 13:56:21 - info ] First tick of new tradingday 20231219,DCE.p2401,7084,443,29353720,6667,-442
+[2023.12.19 13:56:21 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2401.dmb not exists, initializing...
+[2023.12.19 13:56:21 - info ] Data file ../FUT_Data/rt/min1/DCE/p2401.dmb not exists, initializing...
+[2023.12.19 13:56:21 - info ] Data file ../FUT_Data/rt/min5/DCE/p2401.dmb not exists, initializing...
+[2023.12.19 13:56:21 - info ] 580 ticks received from exchange DCE
+[2023.12.19 13:56:56 - info ] tick cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 13:56:56 - info ] min1 cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 13:56:56 - info ] min5 cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 13:59:27 - info ] First tick of new tradingday 20231219,DCE.j2407,2094,5,1152400,53,-4
+[2023.12.19 13:59:27 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2407.dmb not exists, initializing...
+[2023.12.19 13:59:27 - info ] Data file ../FUT_Data/rt/min1/DCE/j2407.dmb not exists, initializing...
+[2023.12.19 13:59:27 - info ] Data file ../FUT_Data/rt/min5/DCE/j2407.dmb not exists, initializing...
+[2023.12.19 14:00:16 - info ] tick cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:00:16 - info ] min1 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:00:16 - info ] min5 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:00:18 - info ] First tick of new tradingday 20231219,DCE.m2409,3494,19208,691484140,1597,3
+[2023.12.19 14:00:18 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2409.dmb not exists, initializing...
+[2023.12.19 14:00:18 - info ] Data file ../FUT_Data/rt/min1/DCE/m2409.dmb not exists, initializing...
+[2023.12.19 14:00:18 - info ] Data file ../FUT_Data/rt/min5/DCE/m2409.dmb not exists, initializing...
+[2023.12.19 14:01:06 - info ] tick cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 14:01:06 - info ] min1 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 14:01:06 - info ] min5 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 14:01:29 - info ] First tick of new tradingday 20231219,DCE.y2407,7474,10,747400,257,-6
+[2023.12.19 14:01:29 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2407.dmb not exists, initializing...
+[2023.12.19 14:01:29 - info ] Data file ../FUT_Data/rt/min1/DCE/y2407.dmb not exists, initializing...
+[2023.12.19 14:01:29 - info ] Data file ../FUT_Data/rt/min5/DCE/y2407.dmb not exists, initializing...
+[2023.12.19 14:02:26 - info ] tick cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:02:26 - info ] min1 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:02:26 - info ] min5 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:02:40 - info ] 600 ticks received from exchange DCE
+[2023.12.19 14:02:56 - info ] tick cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 14:02:56 - info ] min1 cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 14:02:56 - info ] min5 cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 14:02:58 - info ] First tick of new tradingday 20231219,DCE.y2401,8596,222,17694860,3676,-210
+[2023.12.19 14:02:58 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2401.dmb not exists, initializing...
+[2023.12.19 14:02:58 - info ] Data file ../FUT_Data/rt/min1/DCE/y2401.dmb not exists, initializing...
+[2023.12.19 14:02:58 - info ] Data file ../FUT_Data/rt/min5/DCE/y2401.dmb not exists, initializing...
+[2023.12.19 14:04:43 - info ] First tick of new tradingday 20231219,DCE.i2403,1056,29,2676000,3103,-20
+[2023.12.19 14:04:43 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2403.dmb not exists, initializing...
+[2023.12.19 14:04:43 - info ] Data file ../FUT_Data/rt/min1/DCE/i2403.dmb not exists, initializing...
+[2023.12.19 14:04:43 - info ] Data file ../FUT_Data/rt/min5/DCE/i2403.dmb not exists, initializing...
+[2023.12.19 14:04:56 - info ] tick cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 14:04:56 - info ] min1 cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 14:04:56 - info ] min5 cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 14:05:57 - info ] tick cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 14:05:57 - info ] min1 cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 14:05:57 - info ] min5 cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 14:06:23 - info ] First tick of new tradingday 20231219,DCE.lh2409,16295,1,260720,141,-1
+[2023.12.19 14:06:23 - info ] Data file ../FUT_Data/rt/ticks/DCE/lh2409.dmb not exists, initializing...
+[2023.12.19 14:06:23 - info ] Data file ../FUT_Data/rt/min1/DCE/lh2409.dmb not exists, initializing...
+[2023.12.19 14:06:23 - info ] Data file ../FUT_Data/rt/min5/DCE/lh2409.dmb not exists, initializing...
+[2023.12.19 14:06:57 - info ] tick cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 14:06:57 - info ] min1 cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 14:06:57 - info ] min5 cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 14:07:27 - info ] tick cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 14:07:27 - info ] min1 cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 14:07:27 - info ] min5 cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 14:09:37 - info ] tick cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 14:09:37 - info ] min1 cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 14:09:37 - info ] min5 cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 14:10:06 - info ] 620 ticks received from exchange DCE
+[2023.12.19 14:10:16 - info ] 640 ticks received from exchange DCE
+[2023.12.19 14:10:24 - info ] 660 ticks received from exchange DCE
+[2023.12.19 14:10:30 - info ] 680 ticks received from exchange DCE
+[2023.12.19 14:10:35 - info ] 700 ticks received from exchange DCE
+[2023.12.19 14:10:37 - info ] tick cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:10:37 - info ] min1 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:10:37 - info ] min5 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:10:43 - info ] 720 ticks received from exchange DCE
+[2023.12.19 14:11:08 - info ] 740 ticks received from exchange DCE
+[2023.12.19 14:11:29 - info ] 760 ticks received from exchange DCE
+[2023.12.19 14:11:37 - info ] tick cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 14:11:37 - info ] min1 cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 14:11:37 - info ] min5 cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 14:11:47 - info ] tick cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 14:11:47 - info ] min1 cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 14:11:47 - info ] min5 cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 14:11:54 - info ] 780 ticks received from exchange DCE
+[2023.12.19 14:12:29 - info ] 800 ticks received from exchange DCE
+[2023.12.19 14:12:39 - info ] 820 ticks received from exchange DCE
+[2023.12.19 14:12:49 - info ] 840 ticks received from exchange DCE
+[2023.12.19 14:13:00 - info ] 860 ticks received from exchange DCE
+[2023.12.19 14:13:07 - info ] tick cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:13:07 - info ] tick cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 14:13:07 - info ] min1 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:13:07 - info ] min1 cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 14:13:07 - info ] min5 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:13:07 - info ] min5 cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 14:13:10 - info ] 880 ticks received from exchange DCE
+[2023.12.19 14:13:21 - info ] 900 ticks received from exchange DCE
+[2023.12.19 14:13:31 - info ] 920 ticks received from exchange DCE
+[2023.12.19 14:13:41 - info ] 940 ticks received from exchange DCE
+[2023.12.19 14:13:52 - info ] 960 ticks received from exchange DCE
+[2023.12.19 14:13:52 - info ] First tick of new tradingday 20231219,DCE.lh2407,16095,7,1822160,34,-2
+[2023.12.19 14:13:52 - info ] Data file ../FUT_Data/rt/ticks/DCE/lh2407.dmb not exists, initializing...
+[2023.12.19 14:13:52 - info ] Data file ../FUT_Data/rt/min1/DCE/lh2407.dmb not exists, initializing...
+[2023.12.19 14:13:52 - info ] Data file ../FUT_Data/rt/min5/DCE/lh2407.dmb not exists, initializing...
+[2023.12.19 14:14:01 - info ] 980 ticks received from exchange DCE
+[2023.12.19 14:14:12 - info ] 1000 ticks received from exchange DCE
+[2023.12.19 14:14:27 - info ] 1020 ticks received from exchange DCE
+[2023.12.19 14:14:40 - info ] 1040 ticks received from exchange DCE
+[2023.12.19 14:14:40 - info ] First tick of new tradingday 20231219,DCE.lh2411,17400,6,1670400,12,-5
+[2023.12.19 14:14:40 - info ] Data file ../FUT_Data/rt/ticks/DCE/lh2411.dmb not exists, initializing...
+[2023.12.19 14:14:40 - info ] Data file ../FUT_Data/rt/min1/DCE/lh2411.dmb not exists, initializing...
+[2023.12.19 14:14:40 - info ] Data file ../FUT_Data/rt/min5/DCE/lh2411.dmb not exists, initializing...
+[2023.12.19 14:14:47 - info ] tick cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 14:14:47 - info ] min1 cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 14:14:47 - info ] min5 cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 14:14:49 - info ] 1060 ticks received from exchange DCE
+[2023.12.19 14:16:19 - info ] First tick of new tradingday 20231219,DCE.i2409,942,26,2294700,1658,0
+[2023.12.19 14:16:19 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2409.dmb not exists, initializing...
+[2023.12.19 14:16:19 - info ] Data file ../FUT_Data/rt/min1/DCE/i2409.dmb not exists, initializing...
+[2023.12.19 14:16:19 - info ] Data file ../FUT_Data/rt/min5/DCE/i2409.dmb not exists, initializing...
+[2023.12.19 14:16:57 - info ] tick cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 14:16:57 - info ] min1 cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 14:16:57 - info ] min5 cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 14:23:37 - info ] tick cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:23:37 - info ] min1 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:23:37 - info ] min5 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:23:48 - info ] First tick of new tradingday 20231219,DCE.m2403,4084,12109,470359480,5241,3891
+[2023.12.19 14:23:48 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2403.dmb not exists, initializing...
+[2023.12.19 14:23:48 - info ] Data file ../FUT_Data/rt/min1/DCE/m2403.dmb not exists, initializing...
+[2023.12.19 14:23:48 - info ] Data file ../FUT_Data/rt/min5/DCE/m2403.dmb not exists, initializing...
+[2023.12.19 14:24:38 - info ] tick cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 14:24:38 - info ] min1 cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 14:24:38 - info ] min5 cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 14:24:48 - info ] tick cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 14:24:48 - info ] min1 cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 14:24:48 - info ] min5 cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 14:25:18 - info ] tick cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:25:18 - info ] min1 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:25:18 - info ] min5 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:25:45 - info ] 1080 ticks received from exchange DCE
+[2023.12.19 14:26:28 - info ] tick cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 14:26:28 - info ] min1 cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 14:26:28 - info ] min5 cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 14:29:48 - info ] tick cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 14:29:48 - info ] min1 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 14:29:48 - info ] min5 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 14:30:08 - info ] tick cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 14:30:08 - info ] min1 cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 14:30:08 - info ] min5 cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 14:32:28 - info ] tick cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 14:32:28 - info ] min1 cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 14:32:28 - info ] min5 cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 14:32:47 - info ] 1100 ticks received from exchange DCE
+[2023.12.19 14:33:28 - info ] tick cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:33:28 - info ] min1 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:33:28 - info ] min5 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 14:35:48 - info ] tick cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 14:35:48 - info ] min1 cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 14:35:48 - info ] min5 cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 14:37:17 - info ] 1120 ticks received from exchange DCE
+[2023.12.19 14:38:48 - info ] tick cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 14:38:48 - info ] min1 cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 14:38:48 - info ] min5 cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 14:40:18 - info ] tick cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 14:40:18 - info ] min1 cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 14:40:18 - info ] min5 cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 14:41:08 - info ] tick cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 14:41:08 - info ] min1 cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 14:41:08 - info ] min5 cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 14:42:18 - info ] tick cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 14:42:18 - info ] min1 cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 14:42:18 - info ] min5 cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 14:42:33 - info ] 1140 ticks received from exchange DCE
+[2023.12.19 14:45:48 - info ] First tick of new tradingday 20231219,DCE.i2402,1076,14,1370800,3922,-7
+[2023.12.19 14:45:48 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2402.dmb not exists, initializing...
+[2023.12.19 14:45:48 - info ] Data file ../FUT_Data/rt/min1/DCE/i2402.dmb not exists, initializing...
+[2023.12.19 14:45:48 - info ] Data file ../FUT_Data/rt/min5/DCE/i2402.dmb not exists, initializing...
+[2023.12.19 14:46:02 - info ] 1160 ticks received from exchange DCE
+[2023.12.19 14:46:12 - info ] 1180 ticks received from exchange DCE
+[2023.12.19 14:49:39 - info ] tick cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:49:39 - info ] min1 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:49:39 - info ] min5 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 14:50:49 - info ] tick cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:50:49 - info ] min1 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:50:49 - info ] min5 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 14:51:19 - info ] tick cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 14:51:19 - info ] min1 cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 14:51:19 - info ] min5 cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 14:53:15 - info ] 1200 ticks received from exchange DCE
+[2023.12.19 14:53:41 - info ] First tick of new tradingday 20231219,DCE.i2411,758,19,1600200,267,-9
+[2023.12.19 14:53:41 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2411.dmb not exists, initializing...
+[2023.12.19 14:53:41 - info ] Data file ../FUT_Data/rt/min1/DCE/i2411.dmb not exists, initializing...
+[2023.12.19 14:53:41 - info ] Data file ../FUT_Data/rt/min5/DCE/i2411.dmb not exists, initializing...
+[2023.12.19 14:53:41 - info ] 1220 ticks received from exchange DCE
+[2023.12.19 14:54:49 - info ] tick cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 14:54:49 - info ] min1 cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 14:54:49 - info ] min5 cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 14:55:59 - info ] tick cache of DCE.i2402 mapping expired, automatically closed
+[2023.12.19 14:55:59 - info ] min1 cache of DCE.i2402 mapping expired, automatically closed
+[2023.12.19 14:55:59 - info ] min5 cache of DCE.i2402 mapping expired, automatically closed
+[2023.12.19 14:56:49 - info ] tick cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 14:56:49 - info ] min1 cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 14:56:49 - info ] min5 cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.y2408,7476,10,747600,43,-10
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2408.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/y2408.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/y2408.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] 1240 ticks received from exchange DCE
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.y2409,7514,3,225420,45,-3
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2409.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/y2409.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/y2409.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.p2410,6926,2,138520,39,-2
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2410.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/p2410.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/p2410.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.p2411,6916,3,207480,127,-3
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2411.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/p2411.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/p2411.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.j2410,2328.5,5,1164250,127,-5
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2410.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/j2410.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/j2410.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.j2411,2302.5,2,460500,23,-2
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2411.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/j2411.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/j2411.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.p2407,7062,3,211860,1096,-3
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2407.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/p2407.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/p2407.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.j2404,2575.5,5,1287750,32,-5
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2404.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/j2404.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/j2404.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] First tick of new tradingday 20231219,DCE.j2409,2482,4,992800,119,-4
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2409.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min1/DCE/j2409.dmb not exists, initializing...
+[2023.12.19 15:00:35 - info ] Data file ../FUT_Data/rt/min5/DCE/j2409.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] First tick of new tradingday 20231219,DCE.p2404,7096,4,283840,98,-4
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2404.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min1/DCE/p2404.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min5/DCE/p2404.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] 1260 ticks received from exchange DCE
+[2023.12.19 15:00:36 - info ] First tick of new tradingday 20231219,DCE.j2403,2576,3,772800,568,-3
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2403.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min1/DCE/j2403.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min5/DCE/j2403.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] First tick of new tradingday 20231219,DCE.p2406,7100,6,426000,45,-6
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2406.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min1/DCE/p2406.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min5/DCE/p2406.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] First tick of new tradingday 20231219,DCE.j2401,2585,8,2068000,508,-8
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2401.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min1/DCE/j2401.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min5/DCE/j2401.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] First tick of new tradingday 20231219,DCE.j2406,2387,7,1670900,58,-7
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2406.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min1/DCE/j2406.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min5/DCE/j2406.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] First tick of new tradingday 20231219,DCE.i2408,966,9,768600,538,-1
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2408.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min1/DCE/i2408.dmb not exists, initializing...
+[2023.12.19 15:00:36 - info ] Data file ../FUT_Data/rt/min5/DCE/i2408.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] First tick of new tradingday 20231219,DCE.i2404,1036,6,568200,2281,-3
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2404.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min1/DCE/i2404.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min5/DCE/i2404.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] First tick of new tradingday 20231219,DCE.j2402,2590,1,259000,68,-1
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2402.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min1/DCE/j2402.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min5/DCE/j2402.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] First tick of new tradingday 20231219,DCE.j2408,2381,3,714300,36,-3
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/ticks/DCE/j2408.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min1/DCE/j2408.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min5/DCE/j2408.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] First tick of new tradingday 20231219,DCE.i2406,992,29,2555700,1767,-14
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2406.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min1/DCE/i2406.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min5/DCE/i2406.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] First tick of new tradingday 20231219,DCE.i2410,928,12,953600,1160,-12
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/ticks/DCE/i2410.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min1/DCE/i2410.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min5/DCE/i2410.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] First tick of new tradingday 20231219,DCE.y2411,7432,5,371600,128,-5
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/ticks/DCE/y2411.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min1/DCE/y2411.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] Data file ../FUT_Data/rt/min5/DCE/y2411.dmb not exists, initializing...
+[2023.12.19 15:00:37 - info ] 1280 ticks received from exchange DCE
+[2023.12.19 15:00:38 - info ] First tick of new tradingday 20231219,DCE.m2408,3449,24,828120,944,24
+[2023.12.19 15:00:38 - info ] Data file ../FUT_Data/rt/ticks/DCE/m2408.dmb not exists, initializing...
+[2023.12.19 15:00:38 - info ] Data file ../FUT_Data/rt/min1/DCE/m2408.dmb not exists, initializing...
+[2023.12.19 15:00:38 - info ] Data file ../FUT_Data/rt/min5/DCE/m2408.dmb not exists, initializing...
+[2023.12.19 15:00:38 - info ] First tick of new tradingday 20231219,DCE.p2402,7064,5,353200,220,-5
+[2023.12.19 15:00:38 - info ] Data file ../FUT_Data/rt/ticks/DCE/p2402.dmb not exists, initializing...
+[2023.12.19 15:00:38 - info ] Data file ../FUT_Data/rt/min1/DCE/p2402.dmb not exists, initializing...
+[2023.12.19 15:00:38 - info ] Data file ../FUT_Data/rt/min5/DCE/p2402.dmb not exists, initializing...
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.j2402] 20231219.150214413 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.lh2409] 20231219.150214415 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.p2410] 20231219.150214446 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.j2411] 20231219.150214452 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.j2403] 20231219.150214500 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.j2408] 20231219.150214497 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.p2407] 20231219.150214482 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.p2409] 20231219.150214479 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - info ] 1300 ticks received from exchange DCE
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.p2411] 20231219.150214477 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.y2409] 20231219.150214484 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.p2404] 20231219.150214548 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.j2409] 20231219.150214556 is invalid timestamp, skip this tick
+[2023.12.19 15:02:45 - warning] [pipeToKlines] [DCE.p2403] 20231219.150214550 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2407] 20231219.150214575 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.p2402] 20231219.150214589 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.y2411] 20231219.150214592 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.j2407] 20231219.150214601 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.j2404] 20231219.150214605 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.j2410] 20231219.150214603 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2404] 20231219.150214633 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.p2406] 20231219.150214631 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.j2406] 20231219.150214678 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2407] 20231219.150214704 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2408] 20231219.150214718 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.j2401] 20231219.150214706 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.lh2411] 20231219.150214708 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.p2405] 20231219.150214715 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.lh2407] 20231219.150214726 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - info ] 1320 ticks received from exchange DCE
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2411] 20231219.150214729 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.y2407] 20231219.150214735 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2410] 20231219.150214753 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.y2408] 20231219.150214737 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2402] 20231219.150214765 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2411] 20231219.150214771 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.j2405] 20231219.150214762 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.lh2405] 20231219.150214773 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.p2408] 20231219.150214759 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2408] 20231219.150214781 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.y2403] 20231219.150214778 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2403] 20231219.150214797 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2406] 20231219.150214794 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2409] 20231219.150214784 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.lh2401] 20231219.150214802 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.lh2403] 20231219.150214805 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2405] 20231219.150214807 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2401] 20231219.150214845 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.i2405] 20231219.150214848 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2401] 20231219.150214858 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - info ] 1340 ticks received from exchange DCE
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.p2401] 20231219.150214843 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.y2401] 20231219.150214820 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.y2405] 20231219.150214828 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2403] 20231219.150214865 is invalid timestamp, skip this tick
+[2023.12.19 15:02:46 - warning] [pipeToKlines] [DCE.m2409] 20231219.150214875 is invalid timestamp, skip this tick
+[2023.12.19 15:06:59 - warning] [pipeToKlines] [DCE.i2402] 20231219.150628181 is invalid timestamp, skip this tick
+[2023.12.19 15:06:59 - warning] [pipeToKlines] [DCE.i2404] 20231219.150628188 is invalid timestamp, skip this tick
+[2023.12.19 15:06:59 - warning] [pipeToKlines] [DCE.i2405] 20231219.150628191 is invalid timestamp, skip this tick
+[2023.12.19 15:06:59 - warning] [pipeToKlines] [DCE.i2406] 20231219.150628194 is invalid timestamp, skip this tick
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2402 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2410 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2410 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2404 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2404 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2406 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2406 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2404 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2402 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.j2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2406 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.i2410 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.y2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.m2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min1 cache of DCE.p2402 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2402 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2410 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2410 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2407 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2404 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2409 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2404 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2403 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2406 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2401 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2406 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2404 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2402 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.j2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2406 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.i2410 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.y2411 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.m2408 mapping expired, automatically closed
+[2023.12.19 15:10:40 - info ] min5 cache of DCE.p2402 mapping expired, automatically closed
+[2023.12.19 15:10:50 - info ] min1 cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 15:10:50 - info ] min1 cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 15:10:50 - info ] min5 cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 15:10:50 - info ] min5 cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2411 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2408 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2409 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2410 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2411 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2410 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2411 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2407 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2404 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2409 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2404 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2403 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2406 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2401 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2406 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2408 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2402 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.j2408 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.i2410 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.y2411 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.m2408 mapping expired, automatically closed
+[2023.12.19 15:12:50 - info ] tick cache of DCE.p2402 mapping expired, automatically closed
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2401] 20231219.151309985 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2402] 20231219.151309988 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2403] 20231219.151309990 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2404] 20231219.151309993 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2405] 20231219.151309995 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2406] 20231219.151309998 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2407] 20231219.151310001 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2408] 20231219.151310003 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2409] 20231219.151310006 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2410] 20231219.151310008 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.i2411] 20231219.151310010 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - info ] 1360 ticks received from exchange DCE
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2401] 20231219.151310017 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2402] 20231219.151310020 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2403] 20231219.151310022 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2404] 20231219.151310025 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2405] 20231219.151310028 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2406] 20231219.151310031 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2407] 20231219.151310034 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2408] 20231219.151310037 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2409] 20231219.151310040 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2410] 20231219.151310043 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.j2411] 20231219.151310047 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.lh2401] 20231219.151310162 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.lh2403] 20231219.151310164 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.lh2405] 20231219.151310166 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.lh2407] 20231219.151310169 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.lh2409] 20231219.151310171 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.lh2411] 20231219.151310173 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2401] 20231219.151310175 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2403] 20231219.151310177 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2405] 20231219.151310180 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - info ] 1380 ticks received from exchange DCE
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2407] 20231219.151310182 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2408] 20231219.151310184 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2409] 20231219.151310187 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.m2411] 20231219.151310189 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2401] 20231219.151310197 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2402] 20231219.151310199 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2403] 20231219.151310202 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2404] 20231219.151310204 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2405] 20231219.151310206 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2406] 20231219.151310210 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2407] 20231219.151310212 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2408] 20231219.151310214 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2409] 20231219.151310216 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2410] 20231219.151310219 is invalid timestamp, skip this tick
+[2023.12.19 15:13:41 - warning] [pipeToKlines] [DCE.p2411] 20231219.151310222 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2401] 20231219.151310357 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2403] 20231219.151310360 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2405] 20231219.151310362 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2407] 20231219.151310365 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2408] 20231219.151310368 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - info ] 1400 ticks received from exchange DCE
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2409] 20231219.151310370 is invalid timestamp, skip this tick
+[2023.12.19 15:13:42 - warning] [pipeToKlines] [DCE.y2411] 20231219.151310373 is invalid timestamp, skip this tick
+[2023.12.19 15:15:00 - info ] Trading session 期货白盘0900[FD0900] stopped receiving data
+[2023.12.19 15:15:00 - info ] Trading session 期货夜盘0100[FN0100] stopped receiving data
+[2023.12.19 15:15:00 - info ] Trading session 期货夜盘0230[FN0230] stopped receiving data
+[2023.12.19 15:15:00 - info ] Trading session 期货夜盘2300[FN2300] stopped receiving data
+[2023.12.19 15:15:00 - info ] Trading session 股票白盘0930[SD0930] stopped receiving data
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2405 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.lh2401 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2411 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2401 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2405 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2405 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2403 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2407 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.lh2403 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2401 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2408 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2405 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2405 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.lh2405 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2407 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2403 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2409 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2401 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2407 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2409 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2407 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2401 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2403 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.lh2409 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.lh2407 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.lh2411 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2409 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2403 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2402 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2411 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2408 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2409 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2410 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2411 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2410 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2411 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2407 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2404 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2409 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2404 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2403 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2406 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2401 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2406 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2408 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2404 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2402 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.j2408 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2406 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.i2410 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.y2411 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.m2408 mapping expired, automatically closed
+[2023.12.19 15:23:50 - info ] tick cache of DCE.p2402 mapping expired, automatically closed
+[2023.12.19 15:30:00 - info ] Trading session 期货白盘0915[FD0915] stopped receiving data

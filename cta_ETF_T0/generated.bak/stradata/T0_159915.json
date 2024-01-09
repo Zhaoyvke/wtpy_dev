@@ -1,0 +1,51 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.ETF.159915",
+            "volume": 100.0,
+            "closeprofit": 770.000000000013,
+            "dynprofit": 89.99999999999898,
+            "lastentertime": 202308171045,
+            "lastexittime": 202308171045,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": [
+                {
+                    "long": true,
+                    "price": 2.079,
+                    "maxprice": 2.089,
+                    "minprice": 2.075,
+                    "volume": 100.0,
+                    "opentime": 202308171045,
+                    "opentdate": 20230817,
+                    "profit": 89.99999999999898,
+                    "maxprofit": 99.99999999999787,
+                    "maxloss": -40.000000000000039,
+                    "opentag": "",
+                    "openbarno": 1312
+                }
+            ]
+        }
+    ],
+    "fund": {
+        "total_profit": 770.000000000013,
+        "total_dynprofit": 89.99999999999898,
+        "total_fees": 0.0,
+        "tdate": 20230817
+    },
+    "signals": {
+        "SZSE.ETF.159915": {
+            "usertag": "",
+            "volume": 100.0,
+            "sigprice": 2.088,
+            "gentime": 20230817105859946
+        }
+    },
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 1326
+    }
+}

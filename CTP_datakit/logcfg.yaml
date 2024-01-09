@@ -1,0 +1,57 @@
+root:
+    async: false
+    level: debug
+    sinks:
+    -   type: daily_file_sink
+        filename: Logs/Runner.log
+        pattern: '[%Y.%m.%d %H:%M:%S - %-5l] %v'
+        truncate: true
+
+    -   type: console_sink
+        pattern: '[%m.%d %H:%M:%S - %^%-5l%$] %v'
+        
+risk:
+    async: false
+    level: debug
+    sinks:
+    -   filename: Logs/Riskmon/Riskmon.log
+        pattern: '[%Y.%m.%d %H:%M:%S - %-5l] %v'
+        truncate: true
+        type: daily_file_sink
+
+dyn_pattern:
+    executer:
+        async: false
+        level: debug
+        sinks:
+        -   filename: Logs/Executer/%s.log
+            pattern: '[%Y.%m.%d %H:%M:%S - %-5l] %v'
+            truncate: true
+            type: daily_file_sink
+
+    parser:
+        async: false
+        level: debug
+        sinks:
+        -   filename: Logs/Parser/%s.log
+            pattern: '[%Y.%m.%d %H:%M:%S - %-5l] %v'
+            truncate: true
+            type: daily_file_sink
+
+    strategy:
+        async: false
+        level: debug
+        sinks:
+        -   filename: Logs/Strategy/%s.log
+            pattern: '[%Y.%m.%d %H:%M:%S - %-5l] %v'
+            truncate: true
+            type: daily_file_sink
+            
+    trader:
+        async: false
+        level: debug
+        sinks:
+        -   filename: Logs/Trader/%s.log
+            pattern: '[%Y.%m.%d %H:%M:%S - %-5l] %v'
+            truncate: true
+            type: daily_file_sink

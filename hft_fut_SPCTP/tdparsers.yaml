@@ -1,0 +1,15 @@
+parsers:
+-   active: true
+    id: parser1
+    module: ParserUDP
+    bport: 9909
+    sport: 3986    
+    host: 127.0.0.1
+    filter: ''
+-   active: false
+    broker: '9999'
+    front: tcp://180.168.146.187:10211
+    id: parser0
+    module: ParserCTP
+    pass: 你的SIMNOW密码
+    user: 你的SIMNOW账号

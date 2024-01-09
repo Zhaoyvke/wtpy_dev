@@ -1,0 +1,49 @@
+[2023.11.01 14:58:02 - error] Loading config file dtcfg.yaml failed
+[2023.11.01 14:58:02 - info ] Callbacks of Extented Parser registration done
+[2023.11.01 14:58:02 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Jul 25 2023 15:32:14
+[2023.11.01 14:58:02 - info ] 0 parsers started
+[2023.11.01 14:58:25 - error] Trading sessions configuration file F:/wt_opt_sim/common/sessions.json not exists
+[2023.11.01 14:58:25 - info ] Trading sessions loaded
+[2023.11.01 14:58:25 - error] Commodities configuration file F:/wt_opt_sim/common/etf_comms.json not exists
+[2023.11.01 14:58:25 - error] Contracts configuration file F:/wt_opt_sim/common/etfs.json not exists
+[2023.11.01 14:58:25 - error] Holidays configuration file F:/wt_opt_sim/common/holidays.json not exists
+[2023.11.01 14:58:25 - info ] Holidays loaded
+[2023.11.01 14:58:25 - error] Trading session template [SD0930] not exists,state control rule skipped
+[2023.11.01 14:58:25 - info ] Data storage module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.11.01 14:58:25 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.11.01 14:58:25 - info ] Reading parser config from mdparsers.yaml...
+[2023.11.01 14:58:25 - error] [parser] Parser module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/parsers/ParserInsight.dll loading failed
+[2023.11.01 14:58:25 - info ] 1 market data parsers loaded in total
+[2023.11.01 14:58:25 - info ] Callbacks of Extented Parser registration done
+[2023.11.01 14:58:25 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Jul 25 2023 15:32:14
+[2023.11.01 14:58:25 - info ] 1 parsers started
+[2023.11.01 14:59:17 - info ] Trading sessions loaded
+[2023.11.01 14:59:17 - info ] Commodities configuration file ./common/etf_comms.json loaded
+[2023.11.01 14:59:17 - info ] Contracts configuration file ./common/etfs.json loaded, 2 exchanges
+[2023.11.01 14:59:17 - info ] Holidays loaded
+[2023.11.01 14:59:17 - info ] Data storage module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.11.01 14:59:17 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.11.01 14:59:17 - info ] Reading parser config from mdparsers.yaml...
+[2023.11.01 14:59:17 - error] [parser] Parser module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/parsers/ParserInsight.dll loading failed
+[2023.11.01 14:59:17 - info ] 1 market data parsers loaded in total
+[2023.11.01 14:59:17 - info ] Callbacks of Extented Parser registration done
+[2023.11.01 14:59:17 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Jul 25 2023 15:32:14
+[2023.11.01 14:59:17 - info ] 1 parsers started
+[2023.11.01 14:59:17 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data
+[2023.11.01 15:00:01 - info ] Trading sessions loaded
+[2023.11.01 15:00:01 - info ] Commodities configuration file ./common/etf_comms.json loaded
+[2023.11.01 15:00:01 - info ] Contracts configuration file ./common/etfs.json loaded, 2 exchanges
+[2023.11.01 15:00:01 - info ] Holidays loaded
+[2023.11.01 15:00:01 - info ] Data storage module e:/wtpy_master/wtpy-master/demos/insight_datakit_new/wtpy/wrapper/x64/WtDataStorage.dll loaded
+[2023.11.01 15:00:01 - info ] WtDataWriter initialized, root dir: ../STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.11.01 15:00:01 - info ] Reading parser config from mdparsers.yaml...
+[2023.11.01 15:00:01 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.11.01 15:00:02 - error] ¡°subscribe¡±[ParserInsight] Sending md subscribe request failed: ¶©ÔÄÊ§°Ü
+[2023.11.01 15:00:02 - info ] 1 market data parsers loaded in total
+[2023.11.01 15:00:02 - info ] Callbacks of Extented Parser registration done
+[2023.11.01 15:00:02 - info ] WonderTrader datakit initialzied£¬version: X64 v0.9.8 Build@Jul 25 2023 15:32:14
+[2023.11.01 15:00:04 - info ] [ParserInsight] MDIL2SHWUZHI01 login success
+[2023.11.01 15:00:04 - info ] [ParserInsight] Connecting to [112.4.154.165] successed: 0, begin to subscibe data ...
+[2023.11.01 15:00:04 - info ] subscribe[ParserInsight] Market data of  instruments of SSE and  instruments of SZSE subscribed
+[2023.11.01 15:00:04 - info ] 1 parsers started
+[2023.11.01 15:00:04 - info ] Trading session ¹ÉÆ±°×ÅÌ0930[SD0930] started receiving data

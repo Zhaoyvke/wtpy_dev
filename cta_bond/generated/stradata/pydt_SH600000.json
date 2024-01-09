@@ -1,0 +1,17 @@
+{
+    "positions": [],
+    "fund": {
+        "total_profit": 0.0,
+        "total_dynprofit": 0.0,
+        "total_fees": 0.0,
+        "tdate": 20230725
+    },
+    "signals": {},
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 15
+    }
+}

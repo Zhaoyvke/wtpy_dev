@@ -1,0 +1,37 @@
+parsers:
+-   active: true
+    id: parser3
+    module: ParserQTS
+    servers:
+    -   host: '183.36.40.4'
+        port: '8866'
+    -   host: '45.124.127.2'
+        port: '8888'
+    -   host: '183.36.40.5'
+        port: '8866'
+    -   host: '45.124.127.3'
+        port: '8888'
+    
+    user: 'shwzh'
+    pass: 'ppqL7P8Z'
+    net_type: 'NetType=0'
+
+    has_order: false
+    has_trans: false
+    has_orderqueue: false
+    has_snapshot: true
+    has_fp: false
+    has_arbitrage: false
+    
+    has_index: true
+    has_share: true
+    has_etf: true
+    has_bond: true
+    has_future: false
+    has_option: false
+    
+    has_level1: false
+    has_level2: true
+    
+    has_sse: true
+    has_szse: true

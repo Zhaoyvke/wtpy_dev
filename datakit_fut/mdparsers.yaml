@@ -1,0 +1,25 @@
+parsers:
+-   active: true
+    broker: '7050'
+    code: ''
+    front: tcp://121.13.217.132:44213       #仿真
+    #front: tcp://121.37.80.177:20002           #7*24
+    id: parserCTP
+    module: parserCTP
+    pass: qq442037632
+    user: 58110678
+    authcode: LXLIURRWRFPKL7FR
+    appid: wz_wt_v100
+    # 如果要使用openctp，启用该配置项即可
+    #ctpmodule: thostmduserapi_se
+
+    #broker: '7050'
+    #appid: wz_wt_v100
+    #authcode: LXLIURRWRFPKL7FR
+    #front: tcp://121.13.217.131:44213           #仿真
+    #id: parser
+    #module: parserCTP
+    #pass: 123456
+    #user: 50502291
+    # 如果要使用openctp，启用该配置项即可
+    #ctpmodule: tts_thostmduserapi_se

@@ -1,0 +1,177 @@
+
+Begin:
+2023-11-01 15:00:01.267349 pid[8396] DEBUG: conf 1=
+2023-11-01 15:00:01.268345 pid[8396] DEBUG: conf 2=config/htsc-insight-cpp-config.conf
+2023-11-01 15:00:01.268345 pid[8396] DEBUG: conf 3=htsc-insight-cpp-config.conf
+2023-11-01 15:00:01.268345 pid[8396] DEBUG: ========================================================
+2023-11-01 15:00:01.268345 pid[8396] DEBUG: === property[connect_wait_time] = [30]
+2023-11-01 15:00:01.268345 pid[8396] DEBUG: === property[send_wait_timeout] = [30]
+2023-11-01 15:00:01.268345 pid[8396] DEBUG: === property[recv_wait_timeout] = [30]
+2023-11-01 15:00:01.269341 pid[8396] DEBUG: === property[recv_n_timeout] = [3]
+2023-11-01 15:00:01.269341 pid[8396] DEBUG: === property[discovery_server_wait_timeout] = [30]
+2023-11-01 15:00:01.269341 pid[8396] DEBUG: === property[heartbeat_sleep_time] = [3]
+2023-11-01 15:00:01.269341 pid[8396] DEBUG: === property[server_heartbeat_timeout] = [60]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[subscribe_response_message_wait_time] = [30]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[subscribe_try_count] = [10]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[mdquery_response_message_wait_time] = [30]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[playback_response_message_wait_time] = [30]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[thread_pool_init_size] = [5]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[thread_pool_max_size] = [100]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[max_fetch_message_count] = [10]
+2023-11-01 15:00:01.270338 pid[8396] DEBUG: === property[playback_end_status_wait_payload_time] = [3]
+2023-11-01 15:00:01.271335 pid[8396] DEBUG: === property[thread_sleep_time] = [100]
+2023-11-01 15:00:01.271335 pid[8396] DEBUG: === property[traffic_check_gap] = [10000]
+2023-11-01 15:00:01.271335 pid[8396] DEBUG: === property[nodata_check_gap] = [10000]
+2023-11-01 15:00:01.271335 pid[8396] DEBUG: === property[heartbeat_trace] = [1]
+2023-11-01 15:00:01.271335 pid[8396] DEBUG: === property[global_trace] = [1]
+2023-11-01 15:00:01.272332 pid[8396] DEBUG: === property[compress_switch] = [1]
+2023-11-01 15:00:01.272332 pid[8396] DEBUG: === property[response_callback] = [0]
+2023-11-01 15:00:01.272332 pid[8396] DEBUG: === property[login_try_count] = [5]
+2023-11-01 15:00:01.272332 pid[8396] DEBUG: === property[login_discovery_try_count] = [5]
+2023-11-01 15:00:01.272332 pid[8396] DEBUG: === property[forbid_destruct] = [0]
+2023-11-01 15:00:01.272332 pid[8396] DEBUG: === property[etime_reconnect] = [0]
+2023-11-01 15:00:01.273328 pid[8396] DEBUG: === property[node_auto] = [1]
+2023-11-01 15:00:01.273328 pid[8396] DEBUG: ========================================================
+2023-11-01 15:00:02.907219 pid[8396] DEBUG: set certificate[./cert/InsightClientCert.pem] result=0
+2023-11-01 15:00:02.907219 pid[8396] DEBUG: set private_key[./cert/InsightClientKeyPkcs8.pem] result=0
+2023-11-01 15:00:02.907219 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.907219 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.907219 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.908216 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.908216 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[1/10]
+2023-11-01 15:00:02.908216 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.908216 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.908216 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.908216 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.908216 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[2/10]
+2023-11-01 15:00:02.909213 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.909213 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.909213 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.909213 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.909213 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[3/10]
+2023-11-01 15:00:02.909213 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.909213 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.910210 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.910210 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.910210 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[4/10]
+2023-11-01 15:00:02.910210 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.910210 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.910210 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.911206 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.911206 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[5/10]
+2023-11-01 15:00:02.911206 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.911206 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.911206 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.911206 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.912203 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[6/10]
+2023-11-01 15:00:02.912203 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.912203 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.912203 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.912203 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.912203 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[7/10]
+2023-11-01 15:00:02.912203 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.912203 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.913199 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.913199 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.913199 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[8/10]
+2023-11-01 15:00:02.913199 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.913199 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.914197 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.915194 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.916190 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[9/10]
+2023-11-01 15:00:02.916190 pid[8396] WARNING: try to send, but stream is invalid, try to relogin
+2023-11-01 15:00:02.916190 pid[8396] DEBUG: acquire relogin_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.917186 pid[8396] DEBUG: acquire quit_mutex_ success in net relogin!!!
+
+2023-11-01 15:00:02.917186 pid[8396] ERROR: send type subscribe message failed! ret=-1011
+
+2023-11-01 15:00:02.918184 pid[8396] ERROR: SubscribeBySourceType failed! ret[-1011]...[10/10]
+2023-11-01 15:00:02.923166 pid[8396] DEBUG: === decompressor pool starts successfully!
+2023-11-01 15:00:02.924163 pid[8396] DEBUG: === dispatch pool starts successfully!
+2023-11-01 15:00:02.926157 pid[8396] DEBUG: === decompressor pool thread[19000] start....
+
+2023-11-01 15:00:02.926157 pid[8396] DEBUG: === dispatch pool thread[29520] start....
+
+2023-11-01 15:00:02.934129 pid[8396] DEBUG: === threadPool starts successfully! count=5
+2023-11-01 15:00:02.934129 pid[8396] DEBUG: === work pool thread[0, 29564] start....
+
+2023-11-01 15:00:02.934129 pid[8396] DEBUG: ===  try to LoginByServiceDiscovery [1/5] ... ===
+2023-11-01 15:00:02.935126 pid[8396] DEBUG: begin to login discovery service! ip="112.4.154.165" ,port=8262
+2023-11-01 15:00:02.935126 pid[8396] DEBUG: === work pool thread[2, 29456] start....
+
+2023-11-01 15:00:02.935126 pid[8396] DEBUG: === work pool thread[1, 3064] start....
+
+2023-11-01 15:00:02.935126 pid[8396] DEBUG: === work pool thread[3, 28260] start....
+
+2023-11-01 15:00:02.935126 pid[8396] DEBUG: === work pool thread[4, 23684] start....
+
+2023-11-01 15:00:03.054775 pid[8396] DEBUG: create ssl stream  to [112.4.154.165:8262] successfully!!!
+2023-11-01 15:00:03.152193 pid[8396] DEBUG: close ssl stream ...
+2023-11-01 15:00:03.153243 pid[8396] DEBUG: login discovery service successfully!
+2023-11-01 15:00:03.153243 pid[8396] DEBUG: begin to login data server by TOKEN!
+2023-11-01 15:00:04.165228 pid[8396] DEBUG: create stream to [218.94.125.135:8272] successfully!!!
+2023-11-01 15:00:04.222676 pid[8396] DEBUG: MDIL2SHWUZHI01 Expiry Date: 2024-09-30
+2023-11-01 15:00:04.223672 pid[8396] DEBUG: redo subscribe...
+2023-11-01 15:00:04.223672 pid[8396] DEBUG: login data server by TOKEN successfully ...!
+2023-11-01 15:00:04.223672 pid[8396] DEBUG: === heartbeat thread[25140] start....
+
+2023-11-01 15:00:04.224668 pid[8396] DEBUG: === message thread[25068] start....
+
+2023-11-01 15:00:04.225666 pid[8396] DEBUG: send subscribe request message SUCCESS!
+2023-11-01 15:00:04.238023 pid[8396] DEBUG: subscribe response queue put back message
+2023-11-01 15:00:04.238023 pid[8396] DEBUG: get subscribe response message SUCCESS!
+2023-11-01 15:00:04.239017 pid[8396] DEBUG: onsubscribe response result: SUCCESS!
+2023-11-01 15:00:04.239017 pid[8396] DEBUG: subscribe response result: SUCCESS!
+2023-11-01 15:00:04.239017 pid[8396] DEBUG: save subscribe request message!
+2023-11-01 15:00:08.095584 pid[8396] DEBUG: send heartbeat msg success!
+2023-11-01 15:00:12.076842 pid[8396] DEBUG: send heartbeat msg success!
+2023-11-01 15:00:16.068954 pid[8396] DEBUG: send heartbeat msg success!
+2023-11-01 15:00:16.077858 pid[8396] DEBUG: 
+       						=============== traffic log ===============
+       						= data       : 0.000000 (KB/s) 
+       						= tps        : 0.337866 
+       						= size/total : 0/0 (KB) 
+       						= time cost  : 11839 (ms) 
+       						= no/total   : 4/4 
+       						= queue size : 0 
+       						=============== traffic log ===============
+2023-11-01 15:00:20.054499 pid[8396] DEBUG: send heartbeat msg success!
+2023-11-01 15:00:24.027546 pid[8396] DEBUG: send heartbeat msg success!
+2023-11-01 15:00:28.009889 pid[8396] DEBUG: send heartbeat msg success!
+2023-11-01 15:00:28.019176 pid[8396] DEBUG: 
+       						=============== traffic log ===============
+       						= data       : 0.000000 (KB/s) 
+       						= tps        : 0.251214 
+       						= size/total : 0/0 (KB) 
+       						= time cost  : 11942 (ms) 
+       						= no/total   : 3/7 
+       						= queue size : 0 
+       						=============== traffic log ===============

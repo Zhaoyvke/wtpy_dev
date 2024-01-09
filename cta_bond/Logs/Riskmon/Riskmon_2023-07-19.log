@@ -1,0 +1,197 @@
+[2023.07.19 11:32:29 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:34:48 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:36:24 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:36:44 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:50:27 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:56:38 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:56:38 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:56:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:56:48 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:56:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:56:58 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:03 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:08 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:13 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:19 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:24 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:57:59 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:57:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:09 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:14 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:19 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:24 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:53 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 13:58:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:58:58 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 13:59:03 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:14:45 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:14:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:14:50 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:14:55 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:00 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:05 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:10 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:15 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:20 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:25 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:30 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:35 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:40 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:15:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:00 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:23:00 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:05 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:10 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:15 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:20 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:25 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:30 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:35 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:40 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:50 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:23:55 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:24:00 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:24:05 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:24:10 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:25:12 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:25:12 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:25:17 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:25:36 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:25:36 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:25:41 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:27:53 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:27:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:27:58 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:28:03 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:28:08 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:28:38 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:28:38 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:28:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:28:48 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:37:29 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:37:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:37:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:37:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:37:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:37:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:43:10 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:43:10 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:43:15 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:43:45 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:43:45 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:43:50 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:43:55 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:00 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:18 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 14:44:18 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:23 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:28 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:33 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:38 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:48 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:44:58 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:03 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:08 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:13 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:18 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:23 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:28 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:33 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:38 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:48 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:45:58 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:03 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:08 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:13 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:18 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:23 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:28 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:33 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:46:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:09 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:14 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:19 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:24 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:47:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:09 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:14 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:19 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:24 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:48:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:09 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:14 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:19 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:24 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:49:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:09 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:14 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:19 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:24 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:29 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:34 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:39 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:44 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:50:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 14:51:04 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:06:00 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 15:06:00 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:06:05 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:06:10 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:08:53 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 15:08:53 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:08:58 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:03 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:08 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:13 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:18 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:23 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:28 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:33 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:38 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:43 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:49 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:54 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:09:59 - info ] [RiskControl] Current Balance Ratio: 100.00%
+[2023.07.19 15:53:42 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 16:09:29 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 16:26:34 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 16:30:56 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30
+[2023.07.19 16:43:17 - info ] [RiskControl] Params inited, Checking frequency: 5 s, MaxIDD: ON(20.00%), MaxMDD: OFF(60.00%), Capital: 5000000.0, Profit Boudary: 101.00%, Calc Span: 30 mins, Risk Scale: 0.30

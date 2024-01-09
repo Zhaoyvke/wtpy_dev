@@ -1,0 +1,29 @@
+{
+    "positions": [
+        {
+            "code": "SZSE.ETF.159922",
+            "volume": -0.0,
+            "closeprofit": -16000.000000000902,
+            "dynprofit": 0.0,
+            "lastentertime": 202308250937,
+            "lastexittime": 202308250938,
+            "frozen": 0.0,
+            "frozendate": 0,
+            "details": []
+        }
+    ],
+    "fund": {
+        "total_profit": -16000.000000000902,
+        "total_dynprofit": 0.0,
+        "total_fees": 4209.6,
+        "tdate": 20230825
+    },
+    "signals": {},
+    "conditions": {
+        "settime": 0,
+        "items": {}
+    },
+    "utils": {
+        "lastbarno": 454
+    }
+}

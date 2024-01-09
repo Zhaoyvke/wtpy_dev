@@ -1,0 +1,10 @@
+[2023.07.26 09:55:56 - info ] [parser1] Parser module D:/Miniconda/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.26 09:55:56 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.26 09:57:22 - info ] [parser1] Parser module D:/Miniconda/lib/site-packages/wtpy/wrapper/x64/parsers/ParserUDP.dll loaded
+[2023.07.26 09:57:22 - info ] [parser1] Parser initialzied, check_time: false
+[2023.07.26 09:57:24 - debug] [ParserUDP] 1000 ticks received in total
+[2023.07.26 09:57:25 - debug] [ParserUDP] 2000 ticks received in total
+[2023.07.26 09:57:27 - debug] [ParserUDP] 3000 ticks received in total
+[2023.07.26 09:57:28 - debug] [ParserUDP] 4000 ticks received in total
+[2023.07.26 09:57:30 - debug] [ParserUDP] 5000 ticks received in total
+[2023.07.26 09:57:31 - debug] [ParserUDP] 6000 ticks received in total

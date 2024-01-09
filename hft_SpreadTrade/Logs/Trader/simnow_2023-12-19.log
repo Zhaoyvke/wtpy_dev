@@ -1,0 +1,36 @@
+[2023.12.19 15:50:08 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.19 15:50:08 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.19 15:50:08 - info ] registerFront: tcp://121.13.217.132:44205
+[2023.12.19 15:50:08 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:08 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:08 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:50:08 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:08 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:08 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:50:09 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:50:09 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:50:09 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:50:09 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:50:09 - error] [TraderCTP][9999-211887] Authentiation failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trader login failed: CTP:客户端认证失败
+[2023.12.19 15:50:09 - error] [simnow] Trading channel disconnected: 4097
+[2023.12.19 15:51:40 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.19 15:51:40 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.19 15:51:40 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.19 15:58:19 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.19 15:58:19 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.19 15:58:19 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.19 16:00:40 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.19 16:00:40 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.19 16:00:40 - info ] registerFront: tcp://180.168.146.187:10202
+[2023.12.19 16:04:05 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.12.19 16:04:05 - info ] [simnow] Trader module E:/miniconda3/envs/wtpy/lib/site-packages/wtpy/wrapper/x64/traders/TraderCTP.dll loaded
+[2023.12.19 16:04:05 - info ] registerFront: tcp://180.168.146.187:10202
